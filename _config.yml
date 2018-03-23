@@ -14,8 +14,8 @@ cover: assets/images/blog-cover.jpg
 logo: # assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://blog.purwadi.web.id/
-source_url: https://github.com/spurwadi2/v2
+production_url: https://blog.purwadi.web.id/v2/
+source_url: https://github.com/spurwadi2/v2/
 
 # Social info
 navigation: True # show the navbar links
@@ -70,9 +70,9 @@ username: spurwadi2
 repo: v2
 branch: master
 relative_source: ../v2/
-destination: 
+destination: ../v2-pages/
 production_url:  https://blog.purwadi.web.id/v2/
-source_url:  https://github.com/spurwadi2/v2
+source_url:  https://github.com/spurwadi2/v2/
 
 exclude:
   - assets/css
