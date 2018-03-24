@@ -15,8 +15,8 @@ cover: assets/images/blog-cover.jpg
 logo: # assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://blog.purwadi.web.id/v2/
-source_url: https://github.com/spurwadi2/v2/
+# production_url: https://blog.purwadi.web.id/v2/
+# source_url: https://github.com/spurwadi2/v2/
 
 # Social info
 navigation: True # show the navbar links
@@ -34,7 +34,7 @@ disqus_shortname: spurwadi # replace with your disqus username
 google_analytics: UA-61535015-2 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title
+permalink: :title
 # permalink: /author/:author
 # permalink: /tag/:tag
 
