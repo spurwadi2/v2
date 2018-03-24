@@ -296,15 +296,16 @@ into the {body} of the default.hbs template -->
                     <script>
                         var disqus_config = function () {
                             this.page.url = 'https://blog.purwadi.web.id/v2/';
-                            this.page.identifier = 'Sigit Purwadi's Blog';
+                            this.page.identifier = 'document.location.pathname.split("/").join("")';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
-                            s.src = 'https://sigitv2.disqus.com/embed.js';
+                            s.src = 'https://spurwadi.disqus.com/embed.js';
                             s.setAttribute('data-timestamp', +new Date());
                             (d.head || d.body).appendChild(s);
                         })();
                     </script>
+                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                 </section>
             
 
