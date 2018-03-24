@@ -1,13 +1,13 @@
-ghost:
+sigit:
   username: sigit
-  name: Sigit
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
+  name: '&#64;S_Purwadi'
+  url_full: https://sigit.purwadi.web.id
+  url: sigit.purwadi.web.id
+  bio: I'm the admin, dude..
+  picture: assets/images/sigit.jpg
   facebook: sigitofficial
   twitter: s_purwadi
-  cover: False
+  cover: assets/images/sigit-cover.jpg
 hannah:
   username: hannah
   name: Hannah Wolfe

@@ -27,7 +27,7 @@ facebook: sigitofficial # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: spurwadi # replace with your disqus username
+disqus_shortname: sigitv2 # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-61535015-2 # replace with your GA tracking identifier

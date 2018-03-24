@@ -2,9 +2,9 @@
     <div class="site-nav-left">
         {% if page.current != 'home' %}
             {% if site.logo %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
+                <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
             {% else %}
-                <a class="site-nav-logo" href="{{ site.url }}">{{ site.title }}</a>
+                <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
         {% if page.navigation %}
@@ -21,7 +21,7 @@
             {% endif %}
         </div>
         {% if site.subscribers %}
-            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+            <a class="subscribe-button" href="feed.xml">Subscribe</a>
         {% endif %}
     </div>
 </nav>
