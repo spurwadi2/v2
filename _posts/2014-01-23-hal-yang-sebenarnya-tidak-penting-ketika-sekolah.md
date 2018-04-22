@@ -5,9 +5,9 @@ cover:  assets/images/smansa-kebumen.jpg
 navigation: True
 title: Hal-Hal yang (Sebenarnya) Tidak Penting Ketika Sekolah
 date: 2017-07-27 10:00:00
-tags: [Education]
+tags: [education]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post tag-education'
 author: sigit
 ---
 
@@ -24,12 +24,9 @@ Menurut gue, selama kita sekolah kurang lebih 12 tahun, banyak sekali hal-hal ya
 
 Hanya sedikit orang yang bisa mengambil hikmah dari masa sekolah dulu, sisanya? Tau entah ilmunya kabur kemana... Langsung saja kita ke beberapa hal-hal yang sebenarnya tidak penting yang diajarkan ketika sekolah.
  
-### 1. Cabut Rumput ###
+# 1. Cabut Rumput #
 
-<figure>
-	<a href="http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG"><img src="http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG"></a>
-	<figcaption><a href="http://dander4adiwiyata.blogspot.co.id/2015/04/pembiasaan-sayang-lingkungan.html" target="_blank">Sumber</a></figcaption>
-</figure>
+![Cabut rumput](http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG)
 
 Kegiatan kayak gini biasanya sih dilakuin di pagi hari ketika hari Jum'at. ~~Hukuman~~ cabut rumput ini biasa juga berlaku bagi mereka yang suka terlambat. Kita biasanya ~~dipaksa~~ disuruh untuk mencabut rumput-rumput yang sudah tumbuh kayak ~~bulu ketek bulu idung rambut kaki~~ sapu ijuk.
 
@@ -40,10 +37,8 @@ Kalo kita didik selama 12 tahun untuk mencintai lingkungan dan menghargai alam, 
  
 ### 2. Ujian Bahasa Indonesia ###
 
-<figure>
-	<a href="https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg"><img src="https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg"></a>
-	<figcaption><a href="https://musikgelombangotak.wordpress.com/2014/10/20/luar-biasa-terapi-otak-penghilang-ngantuk-saat-belajar/" target="_blank">Sumber</a></figcaption>
-</figure>
+
+![Tidur..](https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg)
 
 Pernah belajar mata pelajaran bahasa Indonesia kan?
 Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tinggal di Indonesia tapi kita sendiri nggak ngerti bahasa Indonesia? Ini kan lucu namanya...
@@ -61,68 +56,40 @@ Buat para guru yang bingung mau nyusun soal, nih gue kasih tips supaya soalnya n
  
 contoh:
  
-1. Ketika Ipang lapar, ia seharusnya.....
-		
-<div class="col-md-4">  
-<p class="lead">
-a. Makan
-	
-d. Update Status
-</p>  
-</div>
+>Ketika Ipang lapar, ia seharusnya...
 
-<div class="col-md-4">  
-<p class="lead">
-b. Update Status
+<table>
+<tbody>
+<tr>
+<td>A. Makan</td>
+<td>B. Update Status</td>
+<td>C. Update Status</td>
+<td>D. Update Status</td>
+<td>E. Update Status</td>
+</tr>
+</tbody>
+</table>
 
-e. Update Status
-</p>  
-</div>  
+>Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?
 
-<div class="col-md-4">  
-<p class="lead">
-c. Update Status
-</p>  
-</div> 
-<br/>
-<br/>
-	
-
-2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
-
-<div class="col-md-4">  
-<p class="lead">
-a. sElAmAT SiANG
-
-d. Selamat Siang
-</p>  
-</div>
-
-<div class="col-md-4">  
-<p class="lead">
-b. s3L4M4T 514176
-
-e. Ceyamat Cyank^^
-</p>  
-</div>
-
-<div class="col-md-4">  
-<p class="lead">
-c. Zelamadh  Ziank
-</p>  
-</div> 
-<br/>
-<br/>
+<table>
+<tbody>
+<tr>
+<td>A. sElAmAT SiANG</td>
+<td>B. s3L4M4T 514176</td>
+<td>C. Zelamadh  Ziank</td>
+<td>D. Selamat Siang</td>
+<td>E. Ceyamat Cyank^^</td>
+</tr>
+</tbody>
+</table>
 
 
 Gue yakin ketika semua guru menggunakan soal-soal seperti ini, akan banyak siswa yang nantinya bakalan hebat berbahasa Indonesia dan jauh dari siksaan api neraka. Amiin...
 
-### 3. Bangun Pagi ###
+## 3. Bangun Pagi ##
 
-<figure>
-	<a href="http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg"><img src="http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg"></a>
-	<figcaption><a href="http://www.youthmanual.com/post/sudut-pandang/ask-the-teamdi-kelas-kamu-duduknya-di-mana-sih" target="_blank">Sumber</a></figcaption>
-</figure>
+![Ngantuk](http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg)
 
 Kegiatan ini yang sebenarnya paling gue benci ketika sekolah. Kita diwajibkan untuk bangun pagi-pagi dan berangkat ke sekolah. Gue nggak ngerti apa sebenarnya maksud dari "mereka", sang pembuat peraturan. 
 
