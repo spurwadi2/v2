@@ -39,12 +39,23 @@ subscribers: True # you need to connect an external service for this to work,
 twitter: s_purwadi # replace by your username
 facebook: sigitofficial # replace by your username
 
+# Social meta tag
+twitter_card_images: twitter-images-280x150.jpg
+og_images:           OG-images-1200x1200.jpg
+facebook_app_id:     106994376015650
+facebook_user_id:    100000333350212
+facebook_page_id:    309668355825706
+
 # Disqus
 disqus: True
 disqus_shortname: spurwadi # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-61535015-2 # replace with your GA tracking identifier
+# Google Verify
+google_verify:     oEfgtpe8RoaSXmpUaa-vPjD2D-l6jv5uFiJB7mFOyFA
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:       732F0388A96A6CD82BBC5006CF4E2A49
 
 # Permalinks
 permalink: :title
