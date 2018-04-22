@@ -1,20 +1,32 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
+artcytech:
+  name: artcytech
+  description: Logic, Ethics, Aesthetics
+  cover: assets/images/artcytech.jpg
+education:
+  name: education
+  description: Live as if you were to die tomorrow. Learn as if you were to live forever.
+  cover: assets/images/sekolah.jpg
 fables:
   name: fables
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
+fiction:
+  name: fiction
+  description: False
+  cover: False
 getting-started:
   name: getting-started
   description: False
   cover: False
-education:
-  name: education
+islam:
+  name: islam
   description: False
-  cover: assets/images/fables.jpg
+  cover: False
+sastra:
+  name: sastra
+  description: False
+  cover: assets/images/menulis.jpg
+speeches:
+  name: speeches
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg
