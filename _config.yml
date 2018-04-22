@@ -1,7 +1,15 @@
 # Jekyll configuration
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 8 # it will paginate after this number
+paginate_path: "page:num"
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
