@@ -171,6 +171,13 @@ into the {body} of the default.hbs template -->
                             
                         
                     
+
+                    
+                    
+                        &nbsp;∙&nbsp;
+                        5 minutes read
+                        
+                    
                 </section>
             </header>
 
@@ -191,6 +198,7 @@ into the {body} of the default.hbs template -->
 
 <p>Kode perintah dalam file .htaccess harus ditempatkan dalam satu baris, jadi apabila kita membuat file .htaccess dengan menggunakan text editor seperti notepad maka kita harus mendisable fungsi word wrap (memotong baris) terlebih dahulu.</p>
 
+<p>File .htaccess dapat digunakan antara lain untuk:</p>
 <ul id="markdown-toc">
   <li><a href="#1-custom-http-error" id="markdown-toc-1-custom-http-error">1. CUSTOM HTTP ERROR</a></li>
   <li><a href="#2-override-ssi-settings" id="markdown-toc-2-override-ssi-settings">2. OVERRIDE SSI SETTINGS</a></li>
@@ -205,7 +213,7 @@ into the {body} of the default.hbs template -->
   <li><a href="#11-cache-control" id="markdown-toc-11-cache-control">11. CACHE CONTROL</a></li>
 </ul>
 
-<h2 id="1-custom-http-error">1. CUSTOM HTTP ERROR</h2>
+<h3 id="1-custom-http-error">1. CUSTOM HTTP ERROR</h3>
 
 <p>Pesan error pada sebuah website sangat penting karena bisa membantu para pengunjung dalam mengetahui apa yang sedang terjadi. Dengan htaccess kita dapat mengubah halaman error pada server, dengan mendefinisikan sesuai dengan keinginan kita sendiri. Contohnya yaitu pengalihan pesan sesuai fungsinya seperti berikut :</p>
 
@@ -215,7 +223,7 @@ ErrorDocument 403 /errors/403.html
 ErrorDocument 404 /errors/404.html
 ErrorDocument 500 /errors/500.html</code></pre></figure>
 
-<h2 id="2-override-ssi-settings">2. OVERRIDE SSI SETTINGS</h2>
+<h3 id="2-override-ssi-settings">2. OVERRIDE SSI SETTINGS</h3>
 
 <p>Secara default, hanya halaman web yang mempunyai extensi .shtml yang bisa menjalankan server-side termasuk SSI di server. Dengan menggunakan .htaccess kita dapat mengubah setting default tersebut agar SSI bisa bekerja dengan format HTML.</p>
 
@@ -229,7 +237,7 @@ AddHandler server-parsed .html</code></pre></figure>
 <figure class="highlight"><pre><code class="language-html" data-lang="html">AddType text/html .html
 AddHandler server-parsed .html AddHandler server-parsed .htm</code></pre></figure>
 
-<h2 id="3-change-default-home-page">3. CHANGE DEFAULT HOME PAGE</h2>
+<h3 id="3-change-default-home-page">3. CHANGE DEFAULT HOME PAGE</h3>
 
 <p>artinya bahwa file .htaccess dapat digunakan untuk mengubah nama default halaman depan web. Agar user bisa mengakses website kita hanya dengan nama domain saja (http://www.nama_web.com) tanpa harus menulis nama file secara jelas (http:www.nama_web.com/file.html), kita harus mempunyai file index di root direktori. Nama file yang bisa diterima antara lain index.html, index.htm, index.cgi, index.php dll. Pastikan bahwa file tsb bernama index.*</p>
 
@@ -245,13 +253,13 @@ AddHandler server-parsed .html AddHandler server-parsed .htm</code></pre></figur
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">DirectoryIndex mainpage.html index.cgi index.php index.html</code></pre></figure>
 
-<h2 id="4-enable-directory-browsing">4. ENABLE DIRECTORY BROWSING</h2>
+<h3 id="4-enable-directory-browsing">4. ENABLE DIRECTORY BROWSING</h3>
 
 <p>Untuk alasan keamanan, server Apache biasanya telah menghilangkan default setting yang memungkinkan directory indexing. Opsi inilah yang memungkinkan isi dari direktori untuk ditampilkan di browser jika direktori tersebut tidak mempunyai halaman index.</p>
 
 <p>Contohnya, jika kita memasukkan sebuah URL yang tidak mempunyai halaman index seperti misalnya http://domainanda.com/images/, maka browser akan menampilkan daftar images di dalam direktori tersebut</p>
 
-<h2 id="5-block-users-from-accessing-your-web-site">5. BLOCK USERS FROM ACCESSING YOUR WEB SITE</h2>
+<h3 id="5-block-users-from-accessing-your-web-site">5. BLOCK USERS FROM ACCESSING YOUR WEB SITE</h3>
 
 <p>Jika kita menginginkan mem-blok access untuk beberapa user, dimana kita mengetahui IP / domainname yang digunakannya, kita dapat menambahkan kode berikut :</p>
 
@@ -263,7 +271,7 @@ allow from all</code></pre></figure>
 
 <p>Pada contoh di atas, user dg IP 123.456.789.000 akan diblok. Semua user antara 456.78.90.000 sampai 456.78.90.999 akan diblok. Dan semua user yang berasal dari AOL.com akan diblok. Jika mereka mencoba mengakses website kita, maka akan tampil error 403 Forbidden (You do not have permission to access this site)</p>
 
-<h2 id="6-redirect-visitors-to-a-new-page-or-directory">6. REDIRECT VISITORS TO A NEW PAGE OR DIRECTORY</h2>
+<h3 id="6-redirect-visitors-to-a-new-page-or-directory">6. REDIRECT VISITORS TO A NEW PAGE OR DIRECTORY</h3>
 
 <p>Misalkan kita membuat ulang seluruh website kita, me-rename halaman &amp; direktori. Maka pengunjung halaman lama akan mendapat error 404 File Not Found. Masalah tersebut dapat diatasi dengan melakukan redirect dari halaman lama ke halaman yang baru. Contohnya bila halaman lama kita adalah oldpage.html dan halaman baru adalah newpage.html maka perintahnya adalah:</p>
 
@@ -275,7 +283,7 @@ allow from all</code></pre></figure>
 
 <p>Perhatikan bahwa nama direktori yang lama ditulis dengan relative path, sementara yang baru ditulis dengan URLabsolut</p>
 
-<h2 id="7-prevent-hot-linking-and-bandwidth-leeching">7. PREVENT HOT LINKING AND BANDWIDTH LEECHING</h2>
+<h3 id="7-prevent-hot-linking-and-bandwidth-leeching">7. PREVENT HOT LINKING AND BANDWIDTH LEECHING</h3>
 
 <p>Untuk mencegah orang lain me-link secara langsung ke direktori image anda dari website mereka, biasanya ada orang mengambil gambar dari website kita, tapi tetap menggunakan link diserver host kita, ini tentu akan merugikan bagi kita karena dapat mengurangi bandwith di hosting kita, untuk mengatasi hal ini kita dapat menambahkan kode berikut:</p>
 
@@ -291,13 +299,13 @@ RewriteRule .(gif|jpg)$ - [F]</code></pre></figure>
 RewriteCond %{HTTP_REFERER} !^$ RewriteCond %{HTTP_REFERER} !^http://(www.)?mydomain.com/.*$ [NC]
 RewriteRule .(gif|jpg)$ http://www.mydomain.com/dontsteal.gif [R,L]</code></pre></figure>
 
-<h2 id="8-prevent-viewing-of-htaccess-or-other-files">8. PREVENT VIEWING OF .HTACCESS OR OTHER FILES</h2>
+<h3 id="8-prevent-viewing-of-htaccess-or-other-files">8. PREVENT VIEWING OF .HTACCESS OR OTHER FILES</h3>
 
 <p>Untuk mencegah user mengakses file .htaccess, ketikkan perintah:</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">order allow,deny deny from all</code></pre></figure>
 
-<h2 id="9-rewriting-urls">9. REWRITING URLS</h2>
+<h3 id="9-rewriting-urls">9. REWRITING URLS</h3>
 
 <p>Agar kita dapat melakukan pengaturan pada permalink kita agar lebih SEO friendly kita dapat menambahkan kode berikut ini:</p>
 
@@ -305,13 +313,13 @@ RewriteRule .(gif|jpg)$ http://www.mydomain.com/dontsteal.gif [R,L]</code></pre>
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteRule . /index.php [L]</code></pre></figure>
 
-<h2 id="10-mime-types">10. MIME TYPES</h2>
+<h3 id="10-mime-types">10. MIME TYPES</h3>
 
 <p>Memerintahkan server untuk mengenali jenis file-file yang belum didaftarkan dalam sistem server. Contohnya :</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">AddType application/octet-stream .doc .xls .pdf</code></pre></figure>
 
-<h2 id="11-cache-control">11. CACHE CONTROL</h2>
+<h3 id="11-cache-control">11. CACHE CONTROL</h3>
 
 <p>htaccess bisa mengendalikan caching pada web browser sehingga dapat mengurangi penggunaan bandwidth atau aktivitas yang ada didalam server. Contohnya :</p>
 
