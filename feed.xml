@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-22T14:47:27+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Welcome to Ghost</title><link href="https://blog.purwadi.web.id/v2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/welcome</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-22T14:56:59+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Welcome to Ghost</title><link href="https://blog.purwadi.web.id/v2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/welcome</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -25,12 +25,9 @@ Bagaimana kabar tentang para pencinta teman sekelas, tapi sampe sekarang masih t
 
 &lt;p&gt;Hanya sedikit orang yang bisa mengambil hikmah dari masa sekolah dulu, sisanya? Tau entah ilmunya kabur kemana… Langsung saja kita ke beberapa hal-hal yang sebenarnya tidak penting yang diajarkan ketika sekolah.&lt;/p&gt;
 
-&lt;h3 id=&quot;1-cabut-rumput&quot;&gt;1. Cabut Rumput&lt;/h3&gt;
+&lt;h1 id=&quot;1-cabut-rumput&quot;&gt;1. Cabut Rumput&lt;/h1&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG&quot;&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://dander4adiwiyata.blogspot.co.id/2015/04/pembiasaan-sayang-lingkungan.html&quot; target=&quot;_blank&quot;&gt;Sumber&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-qfiVBIbauII/VTJGxBi4-OI/AAAAAAAAAgM/ivy23iBNPbE/s1600/CIMG7075.JPG&quot; alt=&quot;Cabut rumput&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kegiatan kayak gini biasanya sih dilakuin di pagi hari ketika hari Jum’at. &lt;del&gt;Hukuman&lt;/del&gt; cabut rumput ini biasa juga berlaku bagi mereka yang suka terlambat. Kita biasanya &lt;del&gt;dipaksa&lt;/del&gt; disuruh untuk mencabut rumput-rumput yang sudah tumbuh kayak &lt;del&gt;bulu ketek bulu idung rambut kaki&lt;/del&gt; sapu ijuk.&lt;/p&gt;
 
@@ -40,10 +37,7 @@ Bagaimana kabar tentang para pencinta teman sekelas, tapi sampe sekarang masih t
 
 &lt;h3 id=&quot;2-ujian-bahasa-indonesia&quot;&gt;2. Ujian Bahasa Indonesia&lt;/h3&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg&quot;&gt;&lt;img src=&quot;https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;https://musikgelombangotak.wordpress.com/2014/10/20/luar-biasa-terapi-otak-penghilang-ngantuk-saat-belajar/&quot; target=&quot;_blank&quot;&gt;Sumber&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;https://musikgelombangotak.files.wordpress.com/2014/10/terapi-penghilang-ngantuk.jpg&quot; alt=&quot;Tidur..&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Pernah belajar mata pelajaran bahasa Indonesia kan?
 Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tinggal di Indonesia tapi kita sendiri nggak ngerti bahasa Indonesia? Ini kan lucu namanya…&lt;/p&gt;
@@ -63,70 +57,43 @@ Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tin
 
 &lt;p&gt;contoh:&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Ketika Ipang lapar, ia seharusnya…..&lt;/li&gt;
-&lt;/ol&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Ketika Ipang lapar, ia seharusnya…&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-a. Makan
-	
-d. Update Status
-&lt;/p&gt;  
-&lt;/div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A. Makan&lt;/td&gt;
+&lt;td&gt;B. Update Status&lt;/td&gt;
+&lt;td&gt;C. Update Status&lt;/td&gt;
+&lt;td&gt;D. Update Status&lt;/td&gt;
+&lt;td&gt;E. Update Status&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-b. Update Status
+&lt;blockquote&gt;
+  &lt;p&gt;Bagaimanakah cara menulis kalimat “&lt;em&gt;Selamat Siang&lt;/em&gt;” yang baik dan benar?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-e. Update Status
-&lt;/p&gt;  
-&lt;/div&gt;
-
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-c. Update Status
-&lt;/p&gt;  
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Bagaimanakah cara menulis kalimat “&lt;em&gt;Selamat Siang&lt;/em&gt;” yang baik dan benar?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-a. sElAmAT SiANG
-
-d. Selamat Siang
-&lt;/p&gt;  
-&lt;/div&gt;
-
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-b. s3L4M4T 514176
-
-e. Ceyamat Cyank^^
-&lt;/p&gt;  
-&lt;/div&gt;
-
-&lt;div class=&quot;col-md-4&quot;&gt;  
-&lt;p class=&quot;lead&quot;&gt;
-c. Zelamadh  Ziank
-&lt;/p&gt;  
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A. sElAmAT SiANG&lt;/td&gt;
+&lt;td&gt;B. s3L4M4T 514176&lt;/td&gt;
+&lt;td&gt;C. Zelamadh  Ziank&lt;/td&gt;
+&lt;td&gt;D. Selamat Siang&lt;/td&gt;
+&lt;td&gt;E. Ceyamat Cyank^^&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;Gue yakin ketika semua guru menggunakan soal-soal seperti ini, akan banyak siswa yang nantinya bakalan hebat berbahasa Indonesia dan jauh dari siksaan api neraka. Amiin…&lt;/p&gt;
 
-&lt;h3 id=&quot;3-bangun-pagi&quot;&gt;3. Bangun Pagi&lt;/h3&gt;
+&lt;h2 id=&quot;3-bangun-pagi&quot;&gt;3. Bangun Pagi&lt;/h2&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg&quot;&gt;&lt;img src=&quot;http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.youthmanual.com/post/sudut-pandang/ask-the-teamdi-kelas-kamu-duduknya-di-mana-sih&quot; target=&quot;_blank&quot;&gt;Sumber&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.youthmanual.com/assets/file_uploaded/editor/1459849119-2012-03-02.jpg&quot; alt=&quot;Ngantuk&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kegiatan ini yang sebenarnya paling gue benci ketika sekolah. Kita diwajibkan untuk bangun pagi-pagi dan berangkat ke sekolah. Gue nggak ngerti apa sebenarnya maksud dari “mereka”, sang pembuat peraturan.&lt;/p&gt;
 
@@ -136,7 +103,7 @@ c. Zelamadh  Ziank
 
 &lt;p&gt;Ya sudah, segitu dulu kayaknya postingan gue kali ini… Mudah-mudahan 3 dari sekian banyak hal seperti ini dihilangan atau setidaknya sistemnya dirubah. Bosan lama-lama dengan sistem yang nggak bisa menghasilkan manfaat.&lt;/p&gt;
 
-&lt;p&gt;Kalo ada lagi yang ingin ngasih tau hal-hal apa lagi yang ingin dihilangkan ketika sekolah lagi karena nggak penting lagi, silahkan komen di box komentar yang ada dibawah..&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Education" /><summary type="html">Halloo, wahai jiwa-jiwa yang masih diikat oleh bel istirahat…</summary></entry><entry><title type="html">Using the Ghost editor</title><link href="https://blog.purwadi.web.id/v2/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T09:00:00+00:00</published><updated>2017-07-27T09:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/the-editor</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
+&lt;p&gt;Kalo ada lagi yang ingin ngasih tau hal-hal apa lagi yang ingin dihilangkan ketika sekolah lagi karena nggak penting lagi, silahkan komen di box komentar yang ada dibawah..&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="education" /><summary type="html">Halloo, wahai jiwa-jiwa yang masih diikat oleh bel istirahat…</summary></entry><entry><title type="html">Using the Ghost editor</title><link href="https://blog.purwadi.web.id/v2/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T09:00:00+00:00</published><updated>2017-07-27T09:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/the-editor</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
 &lt;p&gt;At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
 &lt;p&gt;For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.&lt;/p&gt;
@@ -275,442 +242,277 @@ c. Zelamadh  Ziank
 &lt;li&gt;and so on&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry><entry><title type="html">The Businessman &amp;amp; The Fisherman</title><link href="https://blog.purwadi.web.id/v2/the-businessman-and-fisherman" rel="alternate" type="text/html" title="The Businessman &amp; The Fisherman" /><published>2014-08-12T10:18:00+00:00</published><updated>2014-08-12T10:18:00+00:00</updated><id>https://blog.purwadi.web.id/v2/the-businessman-and-fisherman</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/the-businessman-and-fisherman">&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
+&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry><entry><title type="html">Mumpung Ramadhan</title><link href="https://blog.purwadi.web.id/v2/mumpung-ramadhan" rel="alternate" type="text/html" title="Mumpung Ramadhan" /><published>2016-06-17T00:00:00+00:00</published><updated>2016-06-17T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/mumpung-ramadhan</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/mumpung-ramadhan">&lt;p&gt;Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.&lt;/p&gt;
 
-&lt;p&gt;“How long did it take you to catch them?” the American asked.&lt;/p&gt;
+&lt;p&gt;Yang Sujiwo Tejo maksud adalah berpuasa di Bulan Suci Ramadhan. Lalu, yang semakin tidak ia mengerti, orang-orang bangun dan makan sahur pada jam-jam yang nyaris serentak. Dan lebih absurd lagi, Tejo bilang, “lalu kita mengadakan acara berbuka puasa bersama.”&lt;/p&gt;
 
-&lt;p&gt;“Only a little while,” the Mexican replied in surprisingly good English.&lt;/p&gt;
+&lt;p&gt;“Aku lebih suka berpuasa seorang diri. Orang-orang tetap makan dan minum, dan aku tidak. Bahkan, ketika itu aku berada di antara mereka. Ini puasa yang asyik,” kata dalang yang juga pemain saksofon dan komposer itu, dalam majelis Suluk Maleman di Rumah Adab Mulia Indonesia, di Pati, Jawa Tengah, 13 Juni malam lalu. Baginya, dan bagi orang-orang yang merasakan hal yang sama, Bulan Suci Ramadhan justru menjelma bulan makan-minum teratur. Bulan konsumtif, bulan ketika grafik inflasi meningkat hingga lebaran.&lt;/p&gt;
 
-&lt;p&gt;“Why don’t you stay out longer and catch more fish?” the American then asked.&lt;/p&gt;
+&lt;p&gt;Sujiwo Tejo yang ke mana-mana kini suka melantangkan lantunan ayat-ayat suci Al Qur’an di luar pakem Qira’atul Sab’ah ini lebih suka jika bahkan tidak ada yang tahu dirinya sedang berpuasa. Atau berpuasa dengan godaan yang komplit: aneka santapan boleh tetap di meja makan, warung-warung leluasa buka, kehidupan malam dibiarkan apa adanya, dan orang-orang tak perlu tiba-tiba berakting diri mereka beriman.&lt;/p&gt;
 
-&lt;p&gt;“I have enough to support my family and give a few to friends,” the Mexican said as he unloaded them into a basket.&lt;/p&gt;
+&lt;p&gt;Tidak hanya itu. Sujiwo Tejo menaruh kecurigaan: jangan-jangan berpuasa di luar Ramadhan lebih baik dari berpuasa di Bulan Suci yang penuh berkah ini. Ya, Allah memang berjanji akan memberi rahmat pada sepuluh hari pertama, ampunan pada sepuluh hari kedua, dan perlindungan dari api neraka pada sepuluh hari ketiga. Belum termasuk anugerah Lailatul Qadar yang bahkan nilainya lebih baik dari seribu bulan.&lt;/p&gt;
 
-&lt;p&gt;“But… What do you do with the rest of your time?”&lt;/p&gt;
+&lt;p&gt;Sujiwo Tejo, yang musikus dan penulis itu, memang terbiasa dengan ritme. Tak ayal, ia menduga Bulan Suci Ramadhan semacam interval atau spasi atau jeda dari sebelas bulan lainnya dalam satu tahun berjalan. Tapi, pandangannya itu sesungguhnya segendang-seperiangan dengan petuah para kiai. Yakni jadikan ibadah di Bulan Suci Ramadhan serupa latihan yang keras sebelum kita benar-benar berlaga sebelas bulan ke depan.&lt;/p&gt;
 
-&lt;p&gt;The Mexican looked up and smiled. “I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, señor.”&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Mindset yg dibentuk oleh iklan2 penyehat/penguat org puasa: Puasa itu masalah, hrs dibantu obat2an…Padahal puasa itu MENYEHATKAN. Halo KPI&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/606795492660412416&quot;&gt;June 5, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;The American laughed and stood tall. “Sir, I’m a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats.”&lt;/p&gt;
+&lt;p&gt;Namun, apa jadinya jika orang-orang yang berpuasa di Bulan Suci Ramadhan menuntut untuk dihormati oleh orang-orang yang tidak berpuasa? Sebelas bulan ke depan, apa jadinya jika giliran mereka yang tidak berpuasa? Akankah mereka menghormati orang lain yang berpuasa? Ataukah egosentris ini cuma di Bulan Suci Ramadhan? Bukankah saling menghormati lebih baik daripada saling tidak menghormati?&lt;/p&gt;
 
-&lt;p&gt;He continued, “Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution. You would need to leave this small coastal fishing village, of course, and move to Mexico City, then to Los Angeles, and eventually to New York City, where you could run your expanded enterprise with proper management.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Akan lbh dalem bila yg puasa mengucap &amp;quot;hormatilah yg tak puasa&amp;quot;, sedang yg tak puasa mengucap &amp;quot;Hormatilah yg puasa&amp;quot;.&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/608596852301123584&quot;&gt;June 10, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;The Mexican fisherman asked, “But, señor, how long will all this take?”&lt;/p&gt;
+&lt;p&gt;Tentu, tema obrolan meluas jika lantas mulai membanding-bandingkan. Hari Raya Nyepi di Bali, misalnya, berlaku secara umum bagi siapa pun. Tak hanya umat Hindu, siapa pun yang pada hari itu berada di Pulau Dewata diwajibkan untuk patigeni atau tidak menyalakan pelita. Bali gelap gulita. Bahkan bandar udara internasional Ngurah Rai sampai ditutup. Tapi hanya sehari, bayangkan jika itu berlangsung satu bulan penuh.&lt;/p&gt;
 
-&lt;p&gt;To which the American replied, “15-20 years, 25 tops.”&lt;/p&gt;
+&lt;p&gt;Bayangkan jika warung, resto, kafe, dan tempat makan-minum lainnya, serta toko-toko sembako, ditutup total satu bulan penuh. Bayangkan Bulan Suci Ramadhan benar-benar menjelma bulan untuk merasakan lapar dan dahaga. Kita makan-minum seadanya. Bukan justru jadwal makan menjadi teratur, menu menjadi lengkap, dan yang tidak ada pada sebelas bulan lainnya menjadi harus ada di Bulan Suci Ramadhan.&lt;/p&gt;
 
-&lt;p&gt;“But what then, señor?”&lt;/p&gt;
+&lt;p&gt;Jika berpuasa Ramadhan dimaknai sebagai menahan lapar dan haus, maka kita akan memperlihatkan wujud asli setelah adzan maghrib berkumandang. Kita melahap apa pun demi membayar rasa lapar dan haus seharian. Semacam balas dendam. Bulan Suci Ramadhan menjelma sebagai bulan aji mumpung. Mumpung Ramadhan, ini harus ada, itu harus tersedia. Toh cuma sebulan dalam setahun. Tidak sepanjang tahun.&lt;/p&gt;
 
-&lt;p&gt;The American laughed and said, “That’s the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions.”&lt;/p&gt;
+&lt;p&gt;Berpuasa seharusnya lebih tentang menahan makan-minum tentu juga menahan hawa nafsu lain, termasuk hubungan badan suami-istri. Bukan menahan lapar dan dahaga. Sebab, kita justru diminta merasakan lapar dahaga yang dialami fakir miskin dan anak yatim piatu. Jika tidak begitu, wajar jika tingkat konsumsi justru naik bahkan paling tinggi dalam setahun di bulan yang semestinya paling hemat ini.&lt;/p&gt;
 
-&lt;p&gt;“Millions señor? Then what?”&lt;/p&gt;
+&lt;p&gt;Bulan Suci Ramadhan juga bukan cuma mengenai kewajiban berpuasa. Banyak sunnah lainnya. Dua di antaranya ialah sahur dan berbuka puasa. Maka, tidak perlu mencemooh mereka yang masih sebatas ikut-ikutan sahur dan berbuka puasa. Tidak/ belum mendapat pahala dari ibadah wajib, setidaknya mendapat pahala melalui ibadah sunnah. Semoga Allah kemudian memberinya hidayah dan kekuatan untuk berpuasa penuh.&lt;/p&gt;
 
-&lt;p&gt;“Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll in to the village in the evenings where you could sip wine and play your guitar with your amigos.”&lt;/p&gt;
+&lt;p&gt;Alangkah indah jika kita jadikan Bulan Suci Ramadhan sebagai bulan bahagia. Akur, rukun, damai. Tidak memaksakan kehendak antara yang satu dan yang lain. Tidak memaki, tidak pula merusak. Tidak merazia, tidak pula menghardik. Dalam Hadits Qudsi, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Puasa itu perisai. Jika sedang berpuasa, jangan kalian mengucapkan kata-kata kotor dan jangan pula berbuat bodoh.”&lt;/p&gt;
 
-&lt;p&gt;Adapted from the “Anekdote zur Senkung der Arbeitsmoral” by &lt;strong&gt;Heinrich Böll&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Masih dalam hadits yang diriwayatkan Bukhari itu, diserukan,”Jika ada yang mencela dan mengganggu, ucapkan: saya sedang berpuasa.” Kalimatnya sungguh jelas, yaitu: “Saya sedang berpuasa.” Tidak perlu kita tambah-tambahi menjadi kalimat baru, yaitu: “Hormati saya yang sedang berpuasa.” Sebab, puasa bukanlah untuk mencari penghormatan dari sesama manusia.&lt;/p&gt;
 
-&lt;p&gt;An influential German write and Nobel Prize for Literature in 1972.&lt;/p&gt;</content><author><name>Hannah Wolfe</name></author><category term="fables" /><summary type="html">An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.</summary></entry><entry><title type="html">A Full and Comprehensive Style Test</title><link href="https://blog.purwadi.web.id/v2/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" /><published>2012-09-01T10:00:00+00:00</published><updated>2012-09-01T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/a-full-and-comprehensive-style-test</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+&lt;p&gt;Terlebih, dalam Hadits Qudsi lainnya yang juga diriwayatkan oleh Bukhari, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Seluruh amal anak Adam adalah untuknya sendiri, kecuali puasa. Sesungguhnya, puasa itu untukKu dan Aku akan membalasnya.” Jadi, puasa wajib di Bulan Suci Ramadhan maupun puasa sunnah di sebelas bulan lainnya, tidak perlu menjadikan kita merasa lebih benar dan suci dari orang lain.&lt;/p&gt;
 
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;heading1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading6&quot;&gt;Heading 6&lt;/h6&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Ditanya, &amp;quot;Kamu shalat ndak? Zakat ndak?&amp;quot; aku masih bisa paham. Kalau ditanya &amp;quot;Puasa ndak?&amp;quot; Bingung. Krn Puasa urusannya langsung ma Tuhan&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/489156748595322881&quot;&gt;July 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a title=&quot;test link&quot; href=&quot;#&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline.&lt;/span&gt; Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+&lt;p&gt;Oleh Candra Malik (praktisi Tasawuf yang bergiat di bidang kesusastraan, kesenian, dan kebudayaan.)
+Dipublikasikan di Koran Tempo edisi 18 Juni 2015&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Islam" /><summary type="html">Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.</summary></entry><entry><title type="html">Disleksia</title><link href="https://blog.purwadi.web.id/v2/disleksia" rel="alternate" type="text/html" title="Disleksia" /><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/disleksia</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/disleksia">&lt;p&gt;Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;HTML&lt;/abbr&gt; and &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type &lt;code&gt;COPY &lt;var&gt;filename&lt;/var&gt;&lt;/code&gt;. &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; &lt;ins&gt;Let’s make that 7.&lt;/ins&gt; This &lt;span style=&quot;text-decoration:line-through;&quot;&gt;text&lt;/span&gt; has been struck.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot;&gt;&lt;img src=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.&lt;/p&gt;
 
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
+&lt;p&gt;Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+&lt;p&gt;Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih banyak orang yang tidak memahami kondisi tersebut dengan baik. Berlawanan dengan kepercayaan populer, disleksia bukanlah sebuah tahapan belajar yang dialami oleh anak pada usia tertentu. Disleksia adalah sebuah kondisi seumur hidup, dan bisa menjadi sangat parah. Namun kini telah ada beberapa metode perawatan yang sangat efektif untuk mengatasi masalah tersebut.&lt;/p&gt;
 
-&lt;h3 id=&quot;bigimage&quot;&gt;Big Image&lt;/h3&gt;
+&lt;h2 id=&quot;penyebab-umum-disleksia&quot;&gt;Penyebab Umum Disleksia&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg1.jpeg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama. Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut. Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.&lt;/p&gt;
 
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;p&gt;Banyak orang percaya bahwa para penderita disleksia memiliki masalah dalam mengolah fonem, divisi terkecil dari suara ketika sebuah kata diucapkan. Membaca dan menulis menjadi kegiatan yang sulit untuk dilakukan karena otak harus merangkai huruf untuk membentuk kata, kemudian kalimat, atau paragraf untuk menjelaskan maksud mereka secara tepat.&lt;/p&gt;
 
-&lt;h3 id=&quot;smallimage&quot;&gt;Small Image&lt;/h3&gt;
+&lt;h2 id=&quot;gejala-disleksia&quot;&gt;Gejala Disleksia&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+&lt;p&gt;Gejala-gejala dalam disleksia sangat bervariasi dan umumnya tidak sama untuk tiap penderita sehingga sulit dikenali, terutama sebelum sang anak memasuki usia sekolah. Ada beberapa gen keturunan yang dianggap dapat memengaruhi perkembangan otak yang mengendalikan fonologi, yaitu kemampuan dan ketelitian dalam memahami suara atau bahasa lisan. Misalnya membedakan kata “&lt;em&gt;paku&lt;/em&gt;” dengan kata “&lt;em&gt;palu&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg2.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Labore et dolore.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;listtypes&quot;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&quot;definitionlist&quot;&gt;Definition List&lt;/h3&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;Definition List Title&lt;/dt&gt;
-&lt;dd&gt;This is a definition list division.&lt;/dd&gt;
-&lt;dt&gt;Definition&lt;/dt&gt;
-&lt;dd&gt;An exact statement or description of the nature, scope, or meaning of something: &lt;em&gt;our definition of what constitutes poetry.&lt;/em&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h3 id=&quot;orderedlist&quot;&gt;Ordered List&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;List Item 1  &lt;/li&gt;
-&lt;li&gt;List Item 2 &lt;br /&gt;
-&lt;ol&gt;&lt;li&gt;Nested list item A&lt;/li&gt;
-&lt;li&gt;Nested list item B&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;unorderedlist&quot;&gt;Unordered List&lt;/h3&gt;
+&lt;p&gt;Selain masalah pada kepekaan fonologi, gejala disleksia juga bisa berupa hal-hal berikut:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2
-&lt;ul&gt;&lt;li&gt;Nested list item A&lt;/li&gt;
-&lt;li&gt;Nested list item B&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
+  &lt;li&gt;Kurang memori verbal untuk mengingat urutan informasi secara lisan dalam jangka waktu singkat, semacam perintah singkat seperti menaruh tas dan kemudian mencuci tangan.&lt;/li&gt;
+  &lt;li&gt;Kesulitan dalam mengurutkan dan mengucapkan sesuatu dalam kata-kata, misalnya urutan angka, menamai warna-warna, atau benda.&lt;/li&gt;
+  &lt;li&gt;Kesulitan memroses informasi lisan, misalnya saat mencatat nomor telepon atau didikte.&lt;/li&gt;
+  &lt;li&gt;Pada balita, disleksia dapat dikenali melalui perkembangan bicara yang lebih lamban dibandingkan anak-anak seusianya dan membutuhkan waktu lama untuk belajar kata baru. Misalnya keliru menyebut kata “ibu” menjadi kata “ubi”. Kesulitan menggunakan kata-kata untuk mengekspresikan diri dan kurang memahami kata-kata yang memiliki rima.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Indikasi disleksia biasa akan lebih jelas ketika anak mulai belajar membaca dan menulis di sekolah. Anak Anda akan mengalami beberapa kesulitan seperti:&lt;/p&gt;
 
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sulit memroses dan memahami apa yang didengarnya.&lt;/li&gt;
+  &lt;li&gt;Lamban dalam mempelajari nama dan bunyi abjad.&lt;/li&gt;
+  &lt;li&gt;Sering salah atau terlalu pelan saat membaca.&lt;/li&gt;
+  &lt;li&gt;Sulit mengingat urutan, misalnya urutan abjad atau nama hari.&lt;/li&gt;
+  &lt;li&gt;Sulit mengeja, misalnya huruf “d” sering tertukar dengan huruf “b”.&lt;/li&gt;
+  &lt;li&gt;Cara baca yang terbata-bata atau sering salah.&lt;/li&gt;
+  &lt;li&gt;Kesulitan mengucapkan kata yang baru dikenal.&lt;/li&gt;
+  &lt;li&gt;Lamban dalam menulis, misalnya saat didikte atau menyalin tulisan.&lt;/li&gt;
+  &lt;li&gt;Memiliki kepekaan fonologi yang rendah.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;Table Header 1&lt;/th&gt;
-&lt;th&gt;Table Header 2&lt;/th&gt;
-&lt;th&gt;Table Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&quot;even&quot;&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Karena sulit dikenali, gejala-gejala disleksia juga ada yang baru disadari setelah penderita beranjak remaja bahkan dewasa. Beberapa di antaranya adalah:&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kesulitan membaca dan mengeja.&lt;/li&gt;
+  &lt;li&gt;Kesulitan menyalin catatan serta membuat karya tulis, misalnya makalah atau laporan.&lt;/li&gt;
+  &lt;li&gt;Sering tidak memahami lelucon atau makna bahasa kiasan, misalnya istilah “otak encer” yang berarti pintar.&lt;/li&gt;
+  &lt;li&gt;Kesulitan untuk mengatur waktu, misalnya tenggat waktu dalam tugas.&lt;/li&gt;
+  &lt;li&gt;Kesulitan mengingat hal-hal yang berurutan, misalnya nomor telepon.&lt;/li&gt;
+  &lt;li&gt;Cenderung menghindari kegiatan membaca dan menulis.&lt;/li&gt;
+  &lt;li&gt;Kesulitan berhitung.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;preformattedtext&quot;&gt;Preformatted Text&lt;/h2&gt;
+&lt;p&gt;Jika Anda mencemaskan perkembangan kemampuan membaca dan menulis anak Anda yang terasa lambat, hubungilah dokter. Terutama jika Anda mengenali gejala-gejala disleksia lain yang dialami anak Anda.&lt;/p&gt;
 
-&lt;p&gt;Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.&lt;/p&gt;
+&lt;h2 id=&quot;diagnosis-dan-penanganan-anak-disleksia&quot;&gt;Diagnosis dan Penanganan Anak Disleksia&lt;/h2&gt;
 
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot;&gt;&lt;img src=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Code can be presented inline, like &lt;code&gt;&amp;lt;?php bloginfo('stylesheet_url'); ?&amp;gt;&lt;/code&gt;, or within a &lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt; block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.&lt;/p&gt;
+&lt;p&gt;Sebelum ke dokter atau spesialis, Anda sebaiknya mencari tahu tentang kelebihan serta kekurangan dalam kemampuan anak lebih dulu. Proses ini dapat dilakukan melalui permainan, misalnya puzzle gambar. Jika memungkinkan, Anda juga dapat meminta bantuan dari guru sekolah seperti meminta guru untuk memberikan program remedial.&lt;/p&gt;
 
-&lt;p&gt;Code blocks can also be inserted with the highlight tag as below:&lt;/p&gt;
-&lt;pre&gt;
-    
-    {% highlight language-x %}
-    # some code
-    {% endhighlight %}
-    
-&lt;/pre&gt;
+&lt;p&gt;Disleksia cenderung sulit untuk dideteksi karena gejalanya yang beragam. Diagnosis gangguan ini membutuhkan penilaian dari banyak faktor. Di antaranya:&lt;/p&gt;
 
-&lt;p&gt;More information about code highlighting in jekyll can be found  &lt;a href=&quot;https://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;in Jekyll documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Riwayat, perkembangan, pendidikan, dan kesehatan anak.&lt;/li&gt;
+  &lt;li&gt;Keadaan di rumah.&lt;/li&gt;
+  &lt;li&gt;Pengisian kuesioner oleh anggota keluarga serta guru sekolah.&lt;/li&gt;
+  &lt;li&gt;Tes untuk memeriksa kemampuan memahami informasi, membaca, memori, dan bahasa anak.&lt;/li&gt;
+  &lt;li&gt;Pemeriksaan penglihatan, pendengaran, dan neurologi anak untuk menghapus kemungkinan adanya penyakit atau gangguan lain yang menyebabkan gejala-gejala yang dialami.&lt;/li&gt;
+  &lt;li&gt;Tes psikologi untuk memahami kondisi kejiwaan anak dan menghapus kemungkinan adanya gangguan interaksi, kecemasan, atau depresi yang dapat memengaruhi kemampuannya.&lt;/li&gt;
+  &lt;li&gt;Setelah hasil diagnosis disleksia sudah pasti, dokter akan menganjurkan penanganan yang sebaiknya dijalani. Disleksia memang tidak bisa disembuhkan, tapi pendeteksian dan penanganan dini terbukti sangat membantu dalam meningkatkan kemampuan penderita, khususnya membaca.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;These area a couple of examples showing the resulting highlighted code:&lt;/p&gt;
+&lt;p&gt;Salah satu bentuk penanganan yang dapat membantu penderita disleksia adalah pendekatan dan bantuan edukasi yang lebih. Penentuan jenis intervensi yang cocok biasanya tergantung pada tingkat keparahan serta hasil tes psikologi penderita.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;c&quot;&gt;/* css code sample */&lt;/span&gt;
-&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Bagi penderita disleksia anak-anak, penelitian menunjukkan bahwa intervensi edukasi paling efektif jika diberikan sebelum anak mencapai usia delapan tahun. Jenis intervensi yang paling membantu dalam meningkatkan kemampuan baca dan tulis adalah intervensi yang berfokus pada kemampuan fonologi. Intervensi ini biasanya disebut fonik.&lt;/p&gt;
 
+&lt;p&gt;Penderita disleksia juga akan diajari elemen-elemen dasar seperti belajar mengenali fonem atau satuan bunyi terkecil dalam kata-kata, memahami huruf dan susunan huruf yang membentuk bunyi tersebut, memahami apa yang dibaca, membaca bersuara, dan membangun kosakata.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// javascript code sample&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'POST'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'backend.php'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;q=&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;serialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;success&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// on success use return data here&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;xhr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;exception&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// if ajax fails display error alert&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;ajax error response type &quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Selain dengan intervensi edukasi, orang tua juga memiliki peran penting dalam meningkatkan kemampuan anak. Langkah sederhana yang dapat dilakukan adalah dengan membacakan buku yang menarik minat anak. Kegiatan ini dapat Anda lakukan lebih dari sekali agar anak dapat terbiasa dengan teks dalam buku. Menyemangati dan membujuk anak untuk membaca buku, lalu mendiskusikan isinya bersama-sama akan berguna.&lt;/p&gt;
 
-&lt;p&gt;Now you can also use &lt;a href=&quot;https://highlightjs.org/&quot;&gt;highlight.js&lt;/a&gt;.
-For more on how to use it and on the available styles check their
-&lt;a href=&quot;https://highlightjs.org/static/demo/&quot;&gt;demo&lt;/a&gt; and
-&lt;a href=&quot;http://highlightjs.readthedocs.org/en/latest/&quot;&gt;documentation&lt;/a&gt; pages.&lt;/p&gt;
+&lt;p&gt;Orang tua juga dianjurkan untuk tidak mencela saat anak melakukan kesalahan dalam membaca sehingga kepercayaan diri anak juga dapat dibangun.&lt;/p&gt;
 
-&lt;div class=&quot;system&quot;&gt;
-&lt;pre&gt;&lt;code class=&quot;swift&quot;&gt;// Swift code sample
-import Foundation
+&lt;p&gt;Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi juga untuk penderita remaja dan dewasa dalam meningkatkan kemampuan baca dan tulis mereka. Di samping itu, melibatkan bantuan teknologi seperti program komputer dengan perangkat lunak pengenalan suara juga umumnya dapat bermanfaat.&lt;/p&gt;
 
-@objc class Person: Entity {
-  var name: String!
-  var age:  Int!
+&lt;p&gt;Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.&lt;/p&gt;
 
-  init(name: String, age: Int) {
-    /* /* ... */ */
-  }
+&lt;h2 id=&quot;metode-belajar-anak-disleksia&quot;&gt;Metode Belajar Anak Disleksia&lt;/h2&gt;
 
-  // Return a descriptive string for this person
-  func description(offset: Int = 0) -&gt; String {
-    return &quot;\(name) is \(age + offset) years old&quot;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
+&lt;p&gt;Baca lebih lanjut tentang &lt;a href=&quot;metode-belajar-disleksia/&quot;&gt;Metode Belajar Anak Disleksia&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+&lt;p&gt;Referensi&lt;/p&gt;
 
-&lt;p&gt;Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&quot;&gt;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.org/what_causes.shtml&quot;&gt;http://www.dyslexia.org/what_causes.shtml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.com/library/symptoms.htm&quot;&gt;http://www.dyslexia.com/library/symptoms.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. &lt;cite&gt;— &lt;a href=&quot;http://en.wikipedia.org/wiki/HAL_9000&quot;&gt;HAL 9000&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;And here’s a bit of trailing text.&lt;/p&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
 
-&lt;hr /&gt;
+&quot;use strict&quot;;
 
-&lt;h2 id=&quot;textlevelsemantics&quot;&gt;Text-level semantics&lt;/h2&gt;
+$(function(){
 
-&lt;p&gt;The &lt;a href=&quot;#&quot;&gt;a element&lt;/a&gt; example &lt;br /&gt;
-The &lt;abbr&gt;abbr element&lt;/abbr&gt; and &lt;abbr title=&quot;Title text&quot;&gt;abbr element with title&lt;/abbr&gt; examples &lt;br /&gt;
-The &lt;b&gt;b element&lt;/b&gt; example &lt;br /&gt;
-The &lt;cite&gt;cite element&lt;/cite&gt; example &lt;br /&gt;
-The &lt;code&gt;code element&lt;/code&gt; example &lt;br /&gt;
-The &lt;del&gt;del element&lt;/del&gt; example &lt;br /&gt;
-The &lt;dfn&gt;dfn element&lt;/dfn&gt; and &lt;dfn title=&quot;Title text&quot;&gt;dfn element with title&lt;/dfn&gt; examples &lt;br /&gt;
-The &lt;em&gt;em element&lt;/em&gt; example &lt;br /&gt;
-The &lt;i&gt;i element&lt;/i&gt; example &lt;br /&gt;
-The &lt;ins&gt;ins element&lt;/ins&gt; example &lt;br /&gt;
-The &lt;kbd&gt;kbd element&lt;/kbd&gt; example &lt;br /&gt;
-The &lt;mark&gt;mark element&lt;/mark&gt; example &lt;br /&gt;
-The &lt;q&gt;q element &lt;q&gt;inside&lt;/q&gt; a q element&lt;/q&gt; example &lt;br /&gt;
-The &lt;s&gt;s element&lt;/s&gt; example &lt;br /&gt;
-The &lt;samp&gt;samp element&lt;/samp&gt; example &lt;br /&gt;
-The &lt;small&gt;small element&lt;/small&gt; example &lt;br /&gt;
-The &lt;span&gt;span element&lt;/span&gt; example &lt;br /&gt;
-The &lt;strong&gt;strong element&lt;/strong&gt; example &lt;br /&gt;
-The &lt;sub&gt;sub element&lt;/sub&gt; example &lt;br /&gt;
-The &lt;sup&gt;sup element&lt;/sup&gt; example &lt;br /&gt;
-The &lt;var&gt;var element&lt;/var&gt; example &lt;br /&gt;
-The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
+	var getTextNodesIn = function(el) {
+	    return $(el).find(&quot;:not(iframe,script)&quot;).addBack().contents().filter(function() {
+	        return this.nodeType == 3;
+	    });
+	};
 
-&lt;hr /&gt;
+	// var textNodes = getTextNodesIn($(&quot;p, h1, h2, h3&quot;));
+	var textNodes = getTextNodesIn($(&quot;*&quot;));
 
-&lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
 
-&lt;form&gt;
-&lt;fieldset&gt;
-&lt;legend&gt;Inputs as descendents of labels (form legend)&lt;/legend&gt;
-&lt;label&gt;
-&lt;b&gt;Text input&lt;/b&gt;
-&lt;input type=&quot;text&quot; value=&quot;default value&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Email input&lt;/b&gt;
-&lt;input type=&quot;email&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Search input&lt;/b&gt;
-&lt;input type=&quot;search&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Tel input&lt;/b&gt;
-&lt;input type=&quot;tel&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;URL input&lt;/b&gt;
-&lt;input type=&quot;url&quot; placeholder=&quot;http://&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Password input&lt;/b&gt;
-&lt;input type=&quot;password&quot; value=&quot;password&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;File input&lt;/b&gt;
-&lt;input type=&quot;file&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Radio input&lt;/b&gt;
-&lt;input type=&quot;radio&quot; name=&quot;rad&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Checkbox input&lt;/b&gt;
-&lt;input type=&quot;checkbox&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;input type=&quot;radio&quot; name=&quot;rad&quot;&gt; Radio input
-&lt;/label&gt;
-&lt;label&gt;
-&lt;input type=&quot;checkbox&quot;&gt; Checkbox input
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Select field&lt;/b&gt;
-&lt;select&gt;
-&lt;option&gt;Option 01&lt;/option&gt;
-&lt;option&gt;Option 02&lt;/option&gt;
-&lt;/select&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Textarea&lt;/b&gt;
-&lt;textarea cols=&quot;30&quot; rows=&quot;5&quot; &gt;Textarea text&lt;/textarea&gt;
-&lt;/label&gt;
-&lt;/fieldset&gt;
 
-&lt;fieldset&gt;
-&lt;legend&gt;Clickable inputs and buttons&lt;/legend&gt;
-&lt;input type=&quot;image&quot; src=&quot;http://placekitten.com/90/24&quot; alt=&quot;Image (input)&quot;&gt;
-&lt;input type=&quot;reset&quot; value=&quot;Reset (input)&quot;&gt;
-&lt;input type=&quot;button&quot; value=&quot;Button (input)&quot;&gt;
-&lt;input type=&quot;submit&quot; value=&quot;Submit (input)&quot;&gt;
-&lt;button type=&quot;reset&quot;&gt;Reset (button)&lt;/button&gt;
-&lt;button type=&quot;button&quot;&gt;Button (button)&lt;/button&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit (button)&lt;/button&gt;
-&lt;/fieldset&gt;
+	function isLetter(char) {
+		return /^[\d]$/.test(char);
+	}
 
-&lt;fieldset id=&quot;boxsize&quot;&gt;
-&lt;legend&gt;box-sizing tests&lt;/legend&gt;
-&lt;div&gt;&lt;input type=&quot;text&quot; value=&quot;text&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;email&quot; value=&quot;email&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;search&quot; value=&quot;search&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;url&quot; value=&quot;http://example.com&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;password&quot; value=&quot;password&quot;&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;input type=&quot;color&quot; value=&quot;#000000&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;number&quot; value=&quot;5&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;range&quot; value=&quot;10&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;date&quot; value=&quot;1970-01-01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;month&quot; value=&quot;1970-01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;week&quot; value=&quot;1970-W01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;time&quot; value=&quot;18:23&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;datetime&quot; value=&quot;1970-01-01T00:00:00Z&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;datetime-local&quot; value=&quot;1970-01-01T00:00&quot;&gt;&lt;/div&gt;
+	var wordsInTextNodes = [];
+	for (var i = 0; i &lt; textNodes.length; i++) {
+		var node = textNodes[i];
 
-&lt;div&gt;&lt;input type=&quot;radio&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;checkbox&quot;&gt;&lt;/div&gt;
+		var words = []
 
-&lt;div&gt;&lt;select&gt;&lt;option&gt;Option 01&lt;/option&gt;&lt;option&gt;Option 02&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
-&lt;div&gt;&lt;textarea cols=&quot;30&quot; rows=&quot;5&quot; &gt;Textarea text&lt;/textarea&gt;&lt;/div&gt;
+		var re = /\w+/g;
+		var match;
+		while ((match = re.exec(node.nodeValue)) != null) {
 
-&lt;div&gt;&lt;input type=&quot;image&quot; src=&quot;http://placekitten.com/90/24&quot; alt=&quot;Image (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;reset&quot; value=&quot;Reset (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;button&quot; value=&quot;Button (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;submit&quot; value=&quot;Submit (input)&quot;&gt;&lt;/div&gt;
+			var word = match[0];
+			var position = match.index;
 
-&lt;div&gt;&lt;button type=&quot;reset&quot;&gt;Reset (button)&lt;/button&gt;&lt;/div&gt;
-&lt;div&gt;&lt;button type=&quot;button&quot;&gt;Button (button)&lt;/button&gt;&lt;/div&gt;
-&lt;div&gt;&lt;button type=&quot;submit&quot;&gt;Submit (button)&lt;/button&gt;&lt;/div&gt;
-&lt;/fieldset&gt;
-&lt;/form&gt;
+			words.push({
+				length: word.length,
+				position: position
+			});
+		}
 
-&lt;hr /&gt;
+		wordsInTextNodes[i] = words;
+	};
 
-&lt;h2 id=&quot;embeds&quot;&gt;Embeds&lt;/h2&gt;
 
-&lt;p&gt;Sometimes all you want to do is embed a little love from another location and set your post alive.&lt;/p&gt;
+	function messUpWords () {
 
-&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+		for (var i = 0; i &lt; textNodes.length; i++) {
 
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+			var node = textNodes[i];
 
-&lt;iframe src=&quot;//player.vimeo.com/video/103224792?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;600&quot; height=&quot;338&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+			for (var j = 0; j &lt; wordsInTextNodes[i].length; j++) {
 
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+				// Only change a tenth of the words each round.
+				if (Math.random() &gt; 1/10) {
 
-&lt;h3 id=&quot;slides&quot;&gt;Slides&lt;/h3&gt;
+					continue;
+				}
 
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+				var wordMeta = wordsInTextNodes[i][j];
 
-&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;34d2856027ce01316b5d621ab8e7d421&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+				var word = node.nodeValue.slice(wordMeta.position, wordMeta.position + wordMeta.length);
+				var before = node.nodeValue.slice(0, wordMeta.position);
+				var after  = node.nodeValue.slice(wordMeta.position + wordMeta.length);
 
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+				node.nodeValue = before + messUpWord(word) + after;
+			};
+		};
+	}
 
-&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
+	function messUpWord (word) {
 
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+		if (word.length &lt; 3) {
 
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169381837&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+			return word;
+		}
 
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+		return word[0] + messUpMessyPart(word.slice(1, -1)) + word[word.length - 1];
+	}
 
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+	function messUpMessyPart (messyPart) {
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.&lt;/p&gt;
+		if (messyPart.length &lt; 2) {
 
-&lt;p&gt;&lt;div data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;bcqhe&quot; data-default-tab=&quot;js&quot; data-user=&quot;rglazebrook&quot; class='codepen'&gt;&lt;/p&gt;
+			return messyPart;
+		}
 
-&lt;pre&gt;&lt;code&gt;var c = new Sketch.create({autoclear: false}),
-    bigCircle = 50,
-    littleCircle = 5,
-    // The velocity value determines how much to move the spinner head (in radians).
-    velocity = 0.105,
-    hue = 0,
-    // The alpha value below determines the length of the spinner&amp;#39;s tail.
-    bg = &amp;#39;rgba(40,40,40,.075)&amp;#39;;
-    Spinner = function() {};
+		var a, b;
+		while (!(a &lt; b)) {
 
-Spinner.prototype.setup = function() {
-  this.x = c.width / 2;
-  this.y = c.height / 2 - bigCircle;
-  this.rotation = 0;
-}
-Spinner.prototype.update = function() {
-  this.rotation += velocity;
-  this.rotation = this.rotation % TWO_PI;
-  this.x = c.width /2 + cos(this.rotation) * bigCircle;
-  this.y = c.height / 2 + sin(this.rotation) * bigCircle;
-}
-Spinner.prototype.draw = function() {
-  c.fillStyle = &amp;#39;hsl(&amp;#39;+hue+&amp;#39;,50%,50%)&amp;#39;;
-  c.beginPath();
-  c.arc(this.x, this.y, littleCircle, 0, TWO_PI);
-  c.fill();
-  c.closePath();
-}
-c.setup = function() {
-  spinner = new Spinner();
-  spinner.setup();
-}
-c.update = function() {
-  spinner.update();
-  hue = ++hue % 360;
-}
-c.draw = function() {
-  spinner.draw();
-  c.fillStyle = bg;
-  c.fillRect(0,0,c.width,c.height);
-}
-&lt;/code&gt;&lt;/pre&gt;
+			a = getRandomInt(0, messyPart.length - 1);
+			b = getRandomInt(0, messyPart.length - 1);
+		}
 
-&lt;p&gt;See the Pen &lt;a href='http://codepen.io/rglazebrook/pen/bcqhe/'&gt;Simple Rotating Spinner&lt;/a&gt; by Rob Glazebrook (&lt;a href='http://codepen.io/rglazebrook'&gt;@rglazebrook&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+		return messyPart.slice(0, a) + messyPart[b] + messyPart.slice(a+1, b) + messyPart[a] + messyPart.slice(b+1);
+	}
 
-&lt;p&gt;&lt;/div&gt;&lt;script async src=&quot;//codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+	// From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+	function getRandomInt(min, max) {
+		
+		return Math.floor(Math.random() * (max - min + 1) + min);
+	}
 
-&lt;p&gt;Isn't it beautiful?&lt;/p&gt;</content><author><name>John O'Nolan</name></author><summary type="html">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</summary></entry></feed>
+
+	setInterval(messUpWords, 50);
+});
+
+
+&lt;/script&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.docdoc.com/id/id/info/condition/disleksia&quot;&gt;https://www.docdoc.com/id/id/info/condition/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.alodokter.com/disleksia&quot;&gt;http://www.alodokter.com/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://id.wikipedia.org/wiki/Disleksia&quot;&gt;https://id.wikipedia.org/wiki/Disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="education" /><summary type="html">Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia 1. https://www.docdoc.com/id/id/info/condition/disleksia&amp;nbsp;&amp;#8617;</summary></entry></feed>
