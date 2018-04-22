@@ -3,9 +3,8 @@ layout: post
 current: post
 cover:  assets/images/menulis.jpg
 navigation: True
-title: Hello World v2
-date: 2017-07-27 10:00:00
-tags: [artcytech]
+title: Hello World v.2
+tags: [sastra]
 class: post-template
 subclass: 'post tag-artcytech'
 author: sigit
