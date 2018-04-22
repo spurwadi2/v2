@@ -26,6 +26,11 @@ favicon: assets/images/favicon.png
 # production_url: https://blog.purwadi.web.id/v2/
 # source_url: https://github.com/spurwadi2/v2/
 
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime: true
+# Specify the average Words per minute. If not defined, 180 will be used
+wpm: 200
+
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
