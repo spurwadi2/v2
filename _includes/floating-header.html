@@ -11,12 +11,12 @@
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this {% include point.html %}</div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.url }}{{ page.url }}"
-            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+        <a class="floating-header-share-tw" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&amp;via={{ site.twitter }}&amp;related=s_purwadi%3ASigit%20Purwadi,artcytech%3AArt%20Cyber%20Tech"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter" itemprop="Twitter">
             {% include twitter.html %}
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
-            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
             {% include facebook.html %}
         </a>
     </div>
