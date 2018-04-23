@@ -236,11 +236,12 @@ into the {body} of the default.hbs template -->
 
 <p>Pesan error pada sebuah website sangat penting karena bisa membantu para pengunjung dalam mengetahui apa yang sedang terjadi. Dengan htaccess kita dapat mengubah halaman error pada server, dengan mendefinisikan sesuai dengan keinginan kita sendiri. Contohnya yaitu pengalihan pesan sesuai fungsinya seperti berikut :</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html">ErrorDocument 400 /errors/400.html
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ErrorDocument 400 /errors/400.html
 ErrorDocument 401 /errors/401.html
 ErrorDocument 403 /errors/403.html
 ErrorDocument 404 /errors/404.html
-ErrorDocument 500 /errors/500.html</code></pre></figure>
+ErrorDocument 500 /errors/500.html
+</code></pre></div></div>
 
 <h3 id="2-override-ssi-settings">2. OVERRIDE SSI SETTINGS</h3>
 
@@ -342,7 +343,9 @@ RewriteCond %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteR
 
 <p>htaccess bisa mengendalikan caching pada web browser sehingga dapat mengurangi penggunaan bandwidth atau aktivitas yang ada didalam server. Contohnya :</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"># 480 weeks Header set Cache-Control "max-age=290304000, public" # 2 DAYS Header set Cache-Control "max-age=172800, public, must-revalidate" # 2 HOURS Header set Cache-Control "max-age=7200, must-revalidate"</code></pre></figure>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"># 480 weeks Header set Cache-Control "max-age=290304000, public"
+# 2 DAYS Header set Cache-Control "max-age=172800, public, must-revalidate"
+# 2 HOURS Header set Cache-Control "max-age=7200, must-revalidate"</code></pre></figure>
 
 <p>Dari beberapa kegunaan dari file .htaccess diatas, kita dapat kembangkan sesuai dengan kebutuhan kita.</p>
 
@@ -438,6 +441,96 @@ RewriteCond %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteR
                 
                 
                 
+                
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(/v2/assets/images/htaccess.png)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; Sigit Purwadi's Blog &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="/v2/tag/artcytech/">Artcytech</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/v2/hello-world">Hello World v.2</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/v2/sigit-purwadi-on-medium">Sigit Purwadi on Medium</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <footer class="read-next-card-footer">
+                            <a href="/v2/tag/artcytech/">
+                                
+                                    See all 2 posts  →
+                                
+                            </a>
+                        </footer>
+                    </article>
                 
             
 

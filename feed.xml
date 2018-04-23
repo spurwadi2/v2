@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-22T21:00:14+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Welcome to Ghost</title><link href="https://blog.purwadi.web.id/v2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/welcome</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-23T05:11:00+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Hello World v.2</title><link href="https://blog.purwadi.web.id/v2/hello-world" rel="alternate" type="text/html" title="Hello World v.2" /><published>2018-04-01T00:00:00+00:00</published><updated>2018-04-01T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/hello-world</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/hello-world">&lt;p&gt;I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;The beginning is the most important part of the work.&quot;
+~ Plato&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Anyways, the moment I thought about blogging, Wordpress flashed in my mind. Well, I used Wordpress &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the past and it worked well for a while, then I had to face issues like high-traffic and high CPU load and unexpected spikes in my server.&lt;/p&gt;
+
+&lt;p&gt;Those weren’t too much trouble, I would avoid fixing those bugs if I was busy, and sometimes I would leave the system untouched for 2 days straight and let the server admins frown and try to mitigate the outage. &lt;i&gt;I had a pretty straight forward deal with my hosting provider, that no matter what, they can’t shut down my website.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;The PHP runtime errors weren’t a big deal, the hundreds of thousands of SQL database queries weren’t a trouble, sometimes the site would run a tad bit slower than average, but it was OK overall for me. A sample of the emails I would receive from my hosting provider is given below:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hello,&lt;/p&gt;
+
+  &lt;p&gt;I apologize, but I was forced to suspend the script “/home/xxxxx/public_html/xxxxxx/index.php” as it was causing a high load on the server, and due to it affecting all of the other accounts on the system, I was forced to take immediate action for the health of the server.&lt;/p&gt;
+
+  &lt;p&gt;I did notice that this was a Wordpress installation, and would recommend that you enable caching for it.&lt;/p&gt;
+
+  &lt;p&gt;Please note that if you already have caching enabled, you will need to take more action such as looking into any high use modules or plugins, and seeing if there are any updates, or possibly any that you can disable to reduce the load that your site causes.&lt;/p&gt;
+
+  &lt;p&gt;If you reply back to this with your IP address we will be more than happy to go ahead enable HTTP access for you, so that you can safely work on the script without it causing further issues. Please let me know how you would like to proceed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But the game was changed when my site got hacked. Wordpress is notorious in getting hacked. The PHP code libraries are huge, and while Automattic tries to keep it relatively clean and bug free, bugs do persist among the thousands of lines of codes and every once in a while a bug gets discovered by the code breakers. If the bug can be exploited in some way to gain access of the site, the code breakers tend to do some serious damage. While I wasn’t been exclusively targeted by such individuals, I was part of a victimized group who used the same version of Wordpress, and all of our sites got defaced by some mass defacing software. Although it didn’t do serious damage, as I have daily off-site backup, I became dubious about the Wordpress platform.&lt;/p&gt;
+
+&lt;p&gt;So, this time around, while I was still brainstorming for ideas and theme designs and what not, I decided to go back to Jekyll, or you may say, rather old school. Why not use plain static HTML files with some CSS styling and JS animations?&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Proudly present: The new &lt;a href=&quot;https://t.co/MNbxc6b6mF&quot;&gt;https://t.co/MNbxc6b6mF&lt;/a&gt; , a fast and flexible modern static blogsite built with love 💖&lt;/p&gt;&amp;mdash; Sigit Purwadi H. W. (@S_Purwadi) &lt;a href=&quot;https://twitter.com/S_Purwadi/status/677392010395836420&quot;&gt;December 17, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. So I used Jekyll and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided.&lt;/p&gt;
+
+&lt;p&gt;Baca juga: &lt;a href=&quot;/v2//sigit-purwadi-on-medium&quot;&gt;Sigit Purwadi on Medium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator.&lt;/p&gt;
+
+&lt;p&gt;I hope this site will perform as envisioned.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This domain previously hosted a Wordpress blog.&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="artcytech" /><summary type="html">I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.</summary></entry><entry><title type="html">Welcome to Ghost</title><link href="https://blog.purwadi.web.id/v2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/welcome</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -242,277 +288,21 @@ Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tin
 &lt;li&gt;and so on&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry><entry><title type="html">Mumpung Ramadhan</title><link href="https://blog.purwadi.web.id/v2/mumpung-ramadhan" rel="alternate" type="text/html" title="Mumpung Ramadhan" /><published>2016-06-17T00:00:00+00:00</published><updated>2016-06-17T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/mumpung-ramadhan</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/mumpung-ramadhan">&lt;p&gt;Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.&lt;/p&gt;
+&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry><entry><title type="html">Sigit Purwadi on Medium</title><link href="https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium" rel="alternate" type="text/html" title="Sigit Purwadi on Medium" /><published>2017-01-27T00:00:00+00:00</published><updated>2017-01-27T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium">&lt;p&gt;Medium is a relatively new publishing platform, having launched in August 2012. That’s a full 10 years behind WordPress–at least when you consider how long WordPress has been around–but it’s become a staple among the internet’s blogging scene.&lt;/p&gt;
 
-&lt;p&gt;Yang Sujiwo Tejo maksud adalah berpuasa di Bulan Suci Ramadhan. Lalu, yang semakin tidak ia mengerti, orang-orang bangun dan makan sahur pada jam-jam yang nyaris serentak. Dan lebih absurd lagi, Tejo bilang, “lalu kita mengadakan acara berbuka puasa bersama.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.elegantthemes.com/blog/wp-content/uploads/2017/10/004-Medium-vs-WordPress.jpg&quot; alt=&quot;medium blog&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“Aku lebih suka berpuasa seorang diri. Orang-orang tetap makan dan minum, dan aku tidak. Bahkan, ketika itu aku berada di antara mereka. Ini puasa yang asyik,” kata dalang yang juga pemain saksofon dan komposer itu, dalam majelis Suluk Maleman di Rumah Adab Mulia Indonesia, di Pati, Jawa Tengah, 13 Juni malam lalu. Baginya, dan bagi orang-orang yang merasakan hal yang sama, Bulan Suci Ramadhan justru menjelma bulan makan-minum teratur. Bulan konsumtif, bulan ketika grafik inflasi meningkat hingga lebaran.&lt;/p&gt;
+&lt;p&gt;Medium was started by the same fella who helped start Twitter, Evan Williams. His involvement is important because more than anything (well, outside of being a publishing platform), Medium is about social connections and people. The content is important, of course, but the number of ways that writers and their audience is fundamental to the experience.&lt;/p&gt;
 
-&lt;p&gt;Sujiwo Tejo yang ke mana-mana kini suka melantangkan lantunan ayat-ayat suci Al Qur’an di luar pakem Qira’atul Sab’ah ini lebih suka jika bahkan tidak ada yang tahu dirinya sedang berpuasa. Atau berpuasa dengan godaan yang komplit: aneka santapan boleh tetap di meja makan, warung-warung leluasa buka, kehidupan malam dibiarkan apa adanya, dan orang-orang tak perlu tiba-tiba berakting diri mereka beriman.&lt;/p&gt;
+&lt;p&gt;You can clap for articles you like, share with friends and followers, and even highlight portions of text to comment directly onto instead of starting a thread after everything is said and done (though that is possible, too). Then, those comments are linked back to your own profile, where your followers can see them and join in on the conversation.&lt;/p&gt;
 
-&lt;p&gt;Tidak hanya itu. Sujiwo Tejo menaruh kecurigaan: jangan-jangan berpuasa di luar Ramadhan lebih baik dari berpuasa di Bulan Suci yang penuh berkah ini. Ya, Allah memang berjanji akan memberi rahmat pada sepuluh hari pertama, ampunan pada sepuluh hari kedua, dan perlindungan dari api neraka pada sepuluh hari ketiga. Belum termasuk anugerah Lailatul Qadar yang bahkan nilainya lebih baik dari seribu bulan.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;ve started a Medium publication, give me a cheeky follow here &lt;a href=&quot;https://t.co/PXUhVeyet1&quot;&gt;https://t.co/PXUhVeyet1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Edgyning dhiri ana ing lathi (@S_Purwadi) &lt;a href=&quot;https://twitter.com/S_Purwadi/status/826477928737239042?ref_src=twsrc%5Etfw&quot;&gt;31 January 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Sujiwo Tejo, yang musikus dan penulis itu, memang terbiasa dengan ritme. Tak ayal, ia menduga Bulan Suci Ramadhan semacam interval atau spasi atau jeda dari sebelas bulan lainnya dalam satu tahun berjalan. Tapi, pandangannya itu sesungguhnya segendang-seperiangan dengan petuah para kiai. Yakni jadikan ibadah di Bulan Suci Ramadhan serupa latihan yang keras sebelum kita benar-benar berlaga sebelas bulan ke depan.&lt;/p&gt;
+&lt;p&gt;Medium is clean. No, not in terms of content rating, but in terms of design, style, and UX. It just works.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Mindset yg dibentuk oleh iklan2 penyehat/penguat org puasa: Puasa itu masalah, hrs dibantu obat2an…Padahal puasa itu MENYEHATKAN. Halo KPI&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/606795492660412416&quot;&gt;June 5, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Medium is a writer’s platform if there ever was one. Sure, you can embed images and videos. But they are kept to a functional minimum. They aren’t the focus. The words are.&lt;/p&gt;
 
-&lt;p&gt;Namun, apa jadinya jika orang-orang yang berpuasa di Bulan Suci Ramadhan menuntut untuk dihormati oleh orang-orang yang tidak berpuasa? Sebelas bulan ke depan, apa jadinya jika giliran mereka yang tidak berpuasa? Akankah mereka menghormati orang lain yang berpuasa? Ataukah egosentris ini cuma di Bulan Suci Ramadhan? Bukankah saling menghormati lebih baik daripada saling tidak menghormati?&lt;/p&gt;
+&lt;p&gt;A white background with black text in a single column in the center of the screen. That’s all you need to get your point across. Heck, sometimes there isn’t even a menu bar at the top.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Akan lbh dalem bila yg puasa mengucap &amp;quot;hormatilah yg tak puasa&amp;quot;, sedang yg tak puasa mengucap &amp;quot;Hormatilah yg puasa&amp;quot;.&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/608596852301123584&quot;&gt;June 10, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Tentu, tema obrolan meluas jika lantas mulai membanding-bandingkan. Hari Raya Nyepi di Bali, misalnya, berlaku secara umum bagi siapa pun. Tak hanya umat Hindu, siapa pun yang pada hari itu berada di Pulau Dewata diwajibkan untuk patigeni atau tidak menyalakan pelita. Bali gelap gulita. Bahkan bandar udara internasional Ngurah Rai sampai ditutup. Tapi hanya sehari, bayangkan jika itu berlangsung satu bulan penuh.&lt;/p&gt;
-
-&lt;p&gt;Bayangkan jika warung, resto, kafe, dan tempat makan-minum lainnya, serta toko-toko sembako, ditutup total satu bulan penuh. Bayangkan Bulan Suci Ramadhan benar-benar menjelma bulan untuk merasakan lapar dan dahaga. Kita makan-minum seadanya. Bukan justru jadwal makan menjadi teratur, menu menjadi lengkap, dan yang tidak ada pada sebelas bulan lainnya menjadi harus ada di Bulan Suci Ramadhan.&lt;/p&gt;
-
-&lt;p&gt;Jika berpuasa Ramadhan dimaknai sebagai menahan lapar dan haus, maka kita akan memperlihatkan wujud asli setelah adzan maghrib berkumandang. Kita melahap apa pun demi membayar rasa lapar dan haus seharian. Semacam balas dendam. Bulan Suci Ramadhan menjelma sebagai bulan aji mumpung. Mumpung Ramadhan, ini harus ada, itu harus tersedia. Toh cuma sebulan dalam setahun. Tidak sepanjang tahun.&lt;/p&gt;
-
-&lt;p&gt;Berpuasa seharusnya lebih tentang menahan makan-minum tentu juga menahan hawa nafsu lain, termasuk hubungan badan suami-istri. Bukan menahan lapar dan dahaga. Sebab, kita justru diminta merasakan lapar dahaga yang dialami fakir miskin dan anak yatim piatu. Jika tidak begitu, wajar jika tingkat konsumsi justru naik bahkan paling tinggi dalam setahun di bulan yang semestinya paling hemat ini.&lt;/p&gt;
-
-&lt;p&gt;Bulan Suci Ramadhan juga bukan cuma mengenai kewajiban berpuasa. Banyak sunnah lainnya. Dua di antaranya ialah sahur dan berbuka puasa. Maka, tidak perlu mencemooh mereka yang masih sebatas ikut-ikutan sahur dan berbuka puasa. Tidak/ belum mendapat pahala dari ibadah wajib, setidaknya mendapat pahala melalui ibadah sunnah. Semoga Allah kemudian memberinya hidayah dan kekuatan untuk berpuasa penuh.&lt;/p&gt;
-
-&lt;p&gt;Alangkah indah jika kita jadikan Bulan Suci Ramadhan sebagai bulan bahagia. Akur, rukun, damai. Tidak memaksakan kehendak antara yang satu dan yang lain. Tidak memaki, tidak pula merusak. Tidak merazia, tidak pula menghardik. Dalam Hadits Qudsi, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Puasa itu perisai. Jika sedang berpuasa, jangan kalian mengucapkan kata-kata kotor dan jangan pula berbuat bodoh.”&lt;/p&gt;
-
-&lt;p&gt;Masih dalam hadits yang diriwayatkan Bukhari itu, diserukan,”Jika ada yang mencela dan mengganggu, ucapkan: saya sedang berpuasa.” Kalimatnya sungguh jelas, yaitu: “Saya sedang berpuasa.” Tidak perlu kita tambah-tambahi menjadi kalimat baru, yaitu: “Hormati saya yang sedang berpuasa.” Sebab, puasa bukanlah untuk mencari penghormatan dari sesama manusia.&lt;/p&gt;
-
-&lt;p&gt;Terlebih, dalam Hadits Qudsi lainnya yang juga diriwayatkan oleh Bukhari, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Seluruh amal anak Adam adalah untuknya sendiri, kecuali puasa. Sesungguhnya, puasa itu untukKu dan Aku akan membalasnya.” Jadi, puasa wajib di Bulan Suci Ramadhan maupun puasa sunnah di sebelas bulan lainnya, tidak perlu menjadikan kita merasa lebih benar dan suci dari orang lain.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Ditanya, &amp;quot;Kamu shalat ndak? Zakat ndak?&amp;quot; aku masih bisa paham. Kalau ditanya &amp;quot;Puasa ndak?&amp;quot; Bingung. Krn Puasa urusannya langsung ma Tuhan&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/489156748595322881&quot;&gt;July 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Oleh Candra Malik (praktisi Tasawuf yang bergiat di bidang kesusastraan, kesenian, dan kebudayaan.)
-Dipublikasikan di Koran Tempo edisi 18 Juni 2015&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Islam" /><summary type="html">Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.</summary></entry><entry><title type="html">Disleksia</title><link href="https://blog.purwadi.web.id/v2/disleksia" rel="alternate" type="text/html" title="Disleksia" /><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/disleksia</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/disleksia">&lt;p&gt;Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot;&gt;&lt;img src=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.&lt;/p&gt;
-
-&lt;p&gt;Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.&lt;/p&gt;
-
-&lt;p&gt;Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih banyak orang yang tidak memahami kondisi tersebut dengan baik. Berlawanan dengan kepercayaan populer, disleksia bukanlah sebuah tahapan belajar yang dialami oleh anak pada usia tertentu. Disleksia adalah sebuah kondisi seumur hidup, dan bisa menjadi sangat parah. Namun kini telah ada beberapa metode perawatan yang sangat efektif untuk mengatasi masalah tersebut.&lt;/p&gt;
-
-&lt;h2 id=&quot;penyebab-umum-disleksia&quot;&gt;Penyebab Umum Disleksia&lt;/h2&gt;
-
-&lt;p&gt;Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama. Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut. Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.&lt;/p&gt;
-
-&lt;p&gt;Banyak orang percaya bahwa para penderita disleksia memiliki masalah dalam mengolah fonem, divisi terkecil dari suara ketika sebuah kata diucapkan. Membaca dan menulis menjadi kegiatan yang sulit untuk dilakukan karena otak harus merangkai huruf untuk membentuk kata, kemudian kalimat, atau paragraf untuk menjelaskan maksud mereka secara tepat.&lt;/p&gt;
-
-&lt;h2 id=&quot;gejala-disleksia&quot;&gt;Gejala Disleksia&lt;/h2&gt;
-
-&lt;p&gt;Gejala-gejala dalam disleksia sangat bervariasi dan umumnya tidak sama untuk tiap penderita sehingga sulit dikenali, terutama sebelum sang anak memasuki usia sekolah. Ada beberapa gen keturunan yang dianggap dapat memengaruhi perkembangan otak yang mengendalikan fonologi, yaitu kemampuan dan ketelitian dalam memahami suara atau bahasa lisan. Misalnya membedakan kata “&lt;em&gt;paku&lt;/em&gt;” dengan kata “&lt;em&gt;palu&lt;/em&gt;”.&lt;/p&gt;
-
-&lt;p&gt;Selain masalah pada kepekaan fonologi, gejala disleksia juga bisa berupa hal-hal berikut:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Kurang memori verbal untuk mengingat urutan informasi secara lisan dalam jangka waktu singkat, semacam perintah singkat seperti menaruh tas dan kemudian mencuci tangan.&lt;/li&gt;
-  &lt;li&gt;Kesulitan dalam mengurutkan dan mengucapkan sesuatu dalam kata-kata, misalnya urutan angka, menamai warna-warna, atau benda.&lt;/li&gt;
-  &lt;li&gt;Kesulitan memroses informasi lisan, misalnya saat mencatat nomor telepon atau didikte.&lt;/li&gt;
-  &lt;li&gt;Pada balita, disleksia dapat dikenali melalui perkembangan bicara yang lebih lamban dibandingkan anak-anak seusianya dan membutuhkan waktu lama untuk belajar kata baru. Misalnya keliru menyebut kata “ibu” menjadi kata “ubi”. Kesulitan menggunakan kata-kata untuk mengekspresikan diri dan kurang memahami kata-kata yang memiliki rima.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Indikasi disleksia biasa akan lebih jelas ketika anak mulai belajar membaca dan menulis di sekolah. Anak Anda akan mengalami beberapa kesulitan seperti:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sulit memroses dan memahami apa yang didengarnya.&lt;/li&gt;
-  &lt;li&gt;Lamban dalam mempelajari nama dan bunyi abjad.&lt;/li&gt;
-  &lt;li&gt;Sering salah atau terlalu pelan saat membaca.&lt;/li&gt;
-  &lt;li&gt;Sulit mengingat urutan, misalnya urutan abjad atau nama hari.&lt;/li&gt;
-  &lt;li&gt;Sulit mengeja, misalnya huruf “d” sering tertukar dengan huruf “b”.&lt;/li&gt;
-  &lt;li&gt;Cara baca yang terbata-bata atau sering salah.&lt;/li&gt;
-  &lt;li&gt;Kesulitan mengucapkan kata yang baru dikenal.&lt;/li&gt;
-  &lt;li&gt;Lamban dalam menulis, misalnya saat didikte atau menyalin tulisan.&lt;/li&gt;
-  &lt;li&gt;Memiliki kepekaan fonologi yang rendah.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Karena sulit dikenali, gejala-gejala disleksia juga ada yang baru disadari setelah penderita beranjak remaja bahkan dewasa. Beberapa di antaranya adalah:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Kesulitan membaca dan mengeja.&lt;/li&gt;
-  &lt;li&gt;Kesulitan menyalin catatan serta membuat karya tulis, misalnya makalah atau laporan.&lt;/li&gt;
-  &lt;li&gt;Sering tidak memahami lelucon atau makna bahasa kiasan, misalnya istilah “otak encer” yang berarti pintar.&lt;/li&gt;
-  &lt;li&gt;Kesulitan untuk mengatur waktu, misalnya tenggat waktu dalam tugas.&lt;/li&gt;
-  &lt;li&gt;Kesulitan mengingat hal-hal yang berurutan, misalnya nomor telepon.&lt;/li&gt;
-  &lt;li&gt;Cenderung menghindari kegiatan membaca dan menulis.&lt;/li&gt;
-  &lt;li&gt;Kesulitan berhitung.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Jika Anda mencemaskan perkembangan kemampuan membaca dan menulis anak Anda yang terasa lambat, hubungilah dokter. Terutama jika Anda mengenali gejala-gejala disleksia lain yang dialami anak Anda.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnosis-dan-penanganan-anak-disleksia&quot;&gt;Diagnosis dan Penanganan Anak Disleksia&lt;/h2&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot;&gt;&lt;img src=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Sebelum ke dokter atau spesialis, Anda sebaiknya mencari tahu tentang kelebihan serta kekurangan dalam kemampuan anak lebih dulu. Proses ini dapat dilakukan melalui permainan, misalnya puzzle gambar. Jika memungkinkan, Anda juga dapat meminta bantuan dari guru sekolah seperti meminta guru untuk memberikan program remedial.&lt;/p&gt;
-
-&lt;p&gt;Disleksia cenderung sulit untuk dideteksi karena gejalanya yang beragam. Diagnosis gangguan ini membutuhkan penilaian dari banyak faktor. Di antaranya:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Riwayat, perkembangan, pendidikan, dan kesehatan anak.&lt;/li&gt;
-  &lt;li&gt;Keadaan di rumah.&lt;/li&gt;
-  &lt;li&gt;Pengisian kuesioner oleh anggota keluarga serta guru sekolah.&lt;/li&gt;
-  &lt;li&gt;Tes untuk memeriksa kemampuan memahami informasi, membaca, memori, dan bahasa anak.&lt;/li&gt;
-  &lt;li&gt;Pemeriksaan penglihatan, pendengaran, dan neurologi anak untuk menghapus kemungkinan adanya penyakit atau gangguan lain yang menyebabkan gejala-gejala yang dialami.&lt;/li&gt;
-  &lt;li&gt;Tes psikologi untuk memahami kondisi kejiwaan anak dan menghapus kemungkinan adanya gangguan interaksi, kecemasan, atau depresi yang dapat memengaruhi kemampuannya.&lt;/li&gt;
-  &lt;li&gt;Setelah hasil diagnosis disleksia sudah pasti, dokter akan menganjurkan penanganan yang sebaiknya dijalani. Disleksia memang tidak bisa disembuhkan, tapi pendeteksian dan penanganan dini terbukti sangat membantu dalam meningkatkan kemampuan penderita, khususnya membaca.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Salah satu bentuk penanganan yang dapat membantu penderita disleksia adalah pendekatan dan bantuan edukasi yang lebih. Penentuan jenis intervensi yang cocok biasanya tergantung pada tingkat keparahan serta hasil tes psikologi penderita.&lt;/p&gt;
-
-&lt;p&gt;Bagi penderita disleksia anak-anak, penelitian menunjukkan bahwa intervensi edukasi paling efektif jika diberikan sebelum anak mencapai usia delapan tahun. Jenis intervensi yang paling membantu dalam meningkatkan kemampuan baca dan tulis adalah intervensi yang berfokus pada kemampuan fonologi. Intervensi ini biasanya disebut fonik.&lt;/p&gt;
-
-&lt;p&gt;Penderita disleksia juga akan diajari elemen-elemen dasar seperti belajar mengenali fonem atau satuan bunyi terkecil dalam kata-kata, memahami huruf dan susunan huruf yang membentuk bunyi tersebut, memahami apa yang dibaca, membaca bersuara, dan membangun kosakata.&lt;/p&gt;
-
-&lt;p&gt;Selain dengan intervensi edukasi, orang tua juga memiliki peran penting dalam meningkatkan kemampuan anak. Langkah sederhana yang dapat dilakukan adalah dengan membacakan buku yang menarik minat anak. Kegiatan ini dapat Anda lakukan lebih dari sekali agar anak dapat terbiasa dengan teks dalam buku. Menyemangati dan membujuk anak untuk membaca buku, lalu mendiskusikan isinya bersama-sama akan berguna.&lt;/p&gt;
-
-&lt;p&gt;Orang tua juga dianjurkan untuk tidak mencela saat anak melakukan kesalahan dalam membaca sehingga kepercayaan diri anak juga dapat dibangun.&lt;/p&gt;
-
-&lt;p&gt;Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi juga untuk penderita remaja dan dewasa dalam meningkatkan kemampuan baca dan tulis mereka. Di samping itu, melibatkan bantuan teknologi seperti program komputer dengan perangkat lunak pengenalan suara juga umumnya dapat bermanfaat.&lt;/p&gt;
-
-&lt;p&gt;Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.&lt;/p&gt;
-
-&lt;h2 id=&quot;metode-belajar-anak-disleksia&quot;&gt;Metode Belajar Anak Disleksia&lt;/h2&gt;
-
-&lt;p&gt;Baca lebih lanjut tentang &lt;a href=&quot;metode-belajar-disleksia/&quot;&gt;Metode Belajar Anak Disleksia&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Referensi&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&quot;&gt;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.org/what_causes.shtml&quot;&gt;http://www.dyslexia.org/what_causes.shtml&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.com/library/symptoms.htm&quot;&gt;http://www.dyslexia.com/library/symptoms.htm&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-
-&quot;use strict&quot;;
-
-$(function(){
-
-	var getTextNodesIn = function(el) {
-	    return $(el).find(&quot;:not(iframe,script)&quot;).addBack().contents().filter(function() {
-	        return this.nodeType == 3;
-	    });
-	};
-
-	// var textNodes = getTextNodesIn($(&quot;p, h1, h2, h3&quot;));
-	var textNodes = getTextNodesIn($(&quot;*&quot;));
-
-
-
-	function isLetter(char) {
-		return /^[\d]$/.test(char);
-	}
-
-
-	var wordsInTextNodes = [];
-	for (var i = 0; i &lt; textNodes.length; i++) {
-		var node = textNodes[i];
-
-		var words = []
-
-		var re = /\w+/g;
-		var match;
-		while ((match = re.exec(node.nodeValue)) != null) {
-
-			var word = match[0];
-			var position = match.index;
-
-			words.push({
-				length: word.length,
-				position: position
-			});
-		}
-
-		wordsInTextNodes[i] = words;
-	};
-
-
-	function messUpWords () {
-
-		for (var i = 0; i &lt; textNodes.length; i++) {
-
-			var node = textNodes[i];
-
-			for (var j = 0; j &lt; wordsInTextNodes[i].length; j++) {
-
-				// Only change a tenth of the words each round.
-				if (Math.random() &gt; 1/10) {
-
-					continue;
-				}
-
-				var wordMeta = wordsInTextNodes[i][j];
-
-				var word = node.nodeValue.slice(wordMeta.position, wordMeta.position + wordMeta.length);
-				var before = node.nodeValue.slice(0, wordMeta.position);
-				var after  = node.nodeValue.slice(wordMeta.position + wordMeta.length);
-
-				node.nodeValue = before + messUpWord(word) + after;
-			};
-		};
-	}
-
-	function messUpWord (word) {
-
-		if (word.length &lt; 3) {
-
-			return word;
-		}
-
-		return word[0] + messUpMessyPart(word.slice(1, -1)) + word[word.length - 1];
-	}
-
-	function messUpMessyPart (messyPart) {
-
-		if (messyPart.length &lt; 2) {
-
-			return messyPart;
-		}
-
-		var a, b;
-		while (!(a &lt; b)) {
-
-			a = getRandomInt(0, messyPart.length - 1);
-			b = getRandomInt(0, messyPart.length - 1);
-		}
-
-		return messyPart.slice(0, a) + messyPart[b] + messyPart.slice(a+1, b) + messyPart[a] + messyPart.slice(b+1);
-	}
-
-	// From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-	function getRandomInt(min, max) {
-		
-		return Math.floor(Math.random() * (max - min + 1) + min);
-	}
-
-
-	setInterval(messUpWords, 50);
-});
-
-
-&lt;/script&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.docdoc.com/id/id/info/condition/disleksia&quot;&gt;https://www.docdoc.com/id/id/info/condition/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.alodokter.com/disleksia&quot;&gt;http://www.alodokter.com/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://id.wikipedia.org/wiki/Disleksia&quot;&gt;https://id.wikipedia.org/wiki/Disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="education" /><summary type="html">Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia 1. https://www.docdoc.com/id/id/info/condition/disleksia&amp;nbsp;&amp;#8617;</summary></entry></feed>
+&lt;p&gt;When you use Medium for your blog, you’re saying that yes, content is king and words are his bannermen.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="artcytech" /><summary type="html">Medium is a relatively new publishing platform, having launched in August 2012. That’s a full 10 years behind WordPress–at least when you consider how long WordPress has been around–but it’s become a staple among the internet’s blogging scene.</summary></entry></feed>
