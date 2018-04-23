@@ -4,10 +4,10 @@ current: post
 cover:  assets/images/htaccess.png
 navigation: True
 title: Mengenal .htaccess dan Fungsinya
-tags: [artcytech]
+tags: [webmaster]
 class: post-template
-subclass: 'post tag-artcytech'
-author: sigit
+subclass: 'post tag-webmaster'
+author: artcytech
 ---
 
 File .htaccess adalah file konfigurasi yang disediakan oleh web server Apache, yang biasanya digunakan untuk mengubah pengaturan default dari Apache.

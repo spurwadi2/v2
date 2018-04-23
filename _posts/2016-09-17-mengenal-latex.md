@@ -6,7 +6,7 @@ navigation: True
 title: Mengenal LaTeX
 tags: [education]
 class: post-template
-subclass: 'post tag-artcytech'
+subclass: 'post tag-technologeek'
 author: sigit
 mathjax: true
 ---

@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/medium.jpg
 navigation: True
 title: Sigit Purwadi on Medium
-tags: [artcytech]
+tags: [sastra]
 class: post-template
-subclass: 'post tag-artcytech'
+subclass: 'post tag-sastra'
 author: sigit
 ---
 
