@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/dyslexia.jpg
 navigation: True
 title: Disleksia
-tags: [education]
+tags: [edtech]
 class: post-template
-subclass: 'post tag-education'
+subclass: 'post tag-edtech'
 author: sigit
 ---
 

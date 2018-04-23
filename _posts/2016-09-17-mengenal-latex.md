@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/equation.jpg
 navigation: True
 title: Mengenal LaTeX
-tags: [education]
+tags: [edtech]
 class: post-template
 subclass: 'post tag-technologeek'
 author: sigit
