@@ -4,10 +4,10 @@ current: post
 cover:  assets/images/menulis.jpg
 navigation: True
 title: Hello World v.2
-tags: [artcytech]
+tags: [technologeek]
 class: post-template
-subclass: 'post tag-artcytech'
-author: sigit
+subclass: 'post tag-technologeek'
+author: artcytech
 ---
 
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.
