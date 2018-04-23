@@ -23,21 +23,6 @@
     
       
       <item>
-        <title>Welcome to Ghost</title>
-        
-          <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/welcome</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/welcome</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>LDR</title>
         
           <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sdPKH88gqjQ?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -118,89 +103,6 @@
         <link>
         https://blog.purwadi.web.id/the-editor</link>
         <guid isPermaLink="true">https://blog.purwadi.web.id/the-editor</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Organising your content with tags</title>
-        
-          <description>&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
-&lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
-&lt;h2 id=&quot;basictagging&quot;&gt;Basic tagging&lt;/h2&gt;
-&lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;If you tag a post with both &lt;code&gt;News&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;Cycling&lt;/code&gt; - then it appears in both sections.&lt;/p&gt;
-&lt;p&gt;Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.&lt;/p&gt;
-&lt;h2 id=&quot;theprimarytag&quot;&gt;The primary tag&lt;/h2&gt;
-&lt;p&gt;Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, Bart Stevens, Extreme Sports&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;In this example, &lt;strong&gt;News&lt;/strong&gt; is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.&lt;/p&gt;
-&lt;h2 id=&quot;privatetags&quot;&gt;Private tags&lt;/h2&gt;
-&lt;p&gt;Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.&lt;/p&gt;
-&lt;p&gt;For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code&gt;News&lt;/code&gt;, and &lt;code&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code&gt;#video&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;In your theme, you could then look for private tags conditionally and give them special formatting:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;nohighlight&quot;&gt;{{#post}}
-    {{#has tag=&amp;quot;#video&amp;quot;}}
-        ...markup for a nice big video post layout...
-    {{else}}
-        ...regular markup for a post...
-    {{/has}}
-{{/post}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost's extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 08:00:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/using-tags</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/using-tags</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Managing Ghost users</title>
-        
-          <description>&lt;p&gt;Ghost has a number of different user roles for your team&lt;/p&gt;
-&lt;h3 id=&quot;authors&quot;&gt;Authors&lt;/h3&gt;
-&lt;p&gt;The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are &lt;strong&gt;trusted&lt;/strong&gt; users. If you don't trust users to be allowed to publish their own posts, you shouldn't invite them to Ghost admin.&lt;/p&gt;
-&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
-&lt;p&gt;Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site.&lt;/p&gt;
-&lt;h3 id=&quot;administrators&quot;&gt;Administrators&lt;/h3&gt;
-&lt;p&gt;The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site.&lt;/p&gt;
-&lt;h3 id=&quot;theowner&quot;&gt;The Owner&lt;/h3&gt;
-&lt;p&gt;There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 07:00:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/managing-users</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/managing-users</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Making your site private</title>
-        
-          <description>&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
-&lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
-&lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
-&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 06:00:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/private-sites</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/private-sites</guid>
       </item>
       
     
@@ -389,21 +291,6 @@
     
       
       <item>
-        <title>The Businessman &amp; The Fisherman</title>
-        
-          <description>&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 12 Aug 2014 10:18:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/the-businessman-and-fisherman</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/the-businessman-and-fisherman</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>A Full and Comprehensive Style Test</title>
         
           <description>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -444,68 +331,6 @@
         <link>
         https://blog.purwadi.web.id/the-purpose-of-education</link>
         <guid isPermaLink="true">https://blog.purwadi.web.id/the-purpose-of-education</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Out to Sea</title>
-        
-          <description>&lt;p&gt;I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 24 Jul 1912 10:18:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/out-to-sea</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/out-to-sea</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Looking-Glass house</title>
-        
-          <description>&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
-The way Dinah washed her children’s faces was this: first she held the poor thing down by its ear with one paw, and then with the other paw she rubbed its face all over, the wrong way, beginning at the nose: and just now, as I said, she was hard at work on the white kitten, which was lying quite still and trying to purr — no doubt feeling that it was all meant for its good.
-But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 18 Mar 1871 10:18:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/looking-glass-house</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/looking-glass-house</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Down The Rabbit Hole</title>
-        
-          <description>&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 26 Nov 1865 10:18:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/down-the-rabbit-hole</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/down-the-rabbit-hole</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
-        <link>
-        https://blog.purwadi.web.id/gettysburg-address</link>
-        <guid isPermaLink="true">https://blog.purwadi.web.id/gettysburg-address</guid>
       </item>
       
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-23T05:44:14+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Hello World v.2</title><link href="https://blog.purwadi.web.id/v2/hello-world" rel="alternate" type="text/html" title="Hello World v.2" /><published>2018-04-01T00:00:00+00:00</published><updated>2018-04-01T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/hello-world</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/hello-world">&lt;p&gt;I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.purwadi.web.id/v2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.purwadi.web.id/v2/" rel="alternate" type="text/html" /><updated>2018-04-23T06:01:53+00:00</updated><id>https://blog.purwadi.web.id/v2/</id><title type="html">Sigit Purwadi’s Blog</title><subtitle>You're nobody until you're talked about</subtitle><entry><title type="html">Hello World v.2</title><link href="https://blog.purwadi.web.id/v2/hello-world" rel="alternate" type="text/html" title="Hello World v.2" /><published>2018-04-01T00:00:00+00:00</published><updated>2018-04-01T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/hello-world</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/hello-world">&lt;p&gt;I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&quot;The beginning is the most important part of the work.&quot;
@@ -44,22 +44,7 @@
       &lt;p&gt;This domain previously hosted a Wordpress blog.&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="artcytech" /><summary type="html">I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.</summary></entry><entry><title type="html">Welcome to Ghost</title><link href="https://blog.purwadi.web.id/v2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/welcome</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
-
-&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
-
-&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/li&gt;
-  &lt;li&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-  &lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
-
-&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary></entry><entry><title type="html">LDR</title><link href="https://blog.purwadi.web.id/v2/LDR" rel="alternate" type="text/html" title="LDR" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/LDR</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/LDR">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sdPKH88gqjQ?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="artcytech" /><summary type="html">I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.</summary></entry><entry><title type="html">LDR</title><link href="https://blog.purwadi.web.id/v2/LDR" rel="alternate" type="text/html" title="LDR" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/LDR</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/LDR">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sdPKH88gqjQ?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;center&gt;
 &lt;i&gt;
@@ -230,47 +215,7 @@ Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tin
 &lt;h2 id=&quot;dividingthingsup&quot;&gt;Dividing things up&lt;/h2&gt;
 &lt;p&gt;If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code&gt;---&lt;/code&gt; on a new line will create a sleak divider, anywhere you want it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause. At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a ? icon, which contains more advanced shortcuts. For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used. Formatting text The most common shortcuts are of course, bold text, italic text, and hyperlinks. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts. CMD/Ctrl + B for Bold CMD/Ctrl + I for Italic CMD/Ctrl + K for a Link CMD/Ctrl + H for a Heading (Press multiple times for h2/h3/h4/etc) With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story. Inserting images Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this: ![Image description](/path/to/image.jpg) Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown. Important Note: Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files before uploading them to Ghost. Making lists Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use * or - or +. Like this: Crack the eggs over a bowl Whisk them together Make an omellete or Remember to buy milk Feed the cat Come up with idea for next story Adding quotes When you want to pull out a particularly good except in the middle of a piece, you can use &amp;gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients. A well placed quote guides a reader through a story, helping them to understand the most important points being made All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly. Dividing things up If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping --- on a new line will create a sleak divider, anywhere you want it. This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the Advanced Markdown Guide - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of how to use Ghost tags.</summary></entry><entry><title type="html">Organising your content with tags</title><link href="https://blog.purwadi.web.id/v2/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" /><published>2017-07-27T08:00:00+00:00</published><updated>2017-07-27T08:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/using-tags</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
-&lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
-&lt;h2 id=&quot;basictagging&quot;&gt;Basic tagging&lt;/h2&gt;
-&lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;If you tag a post with both &lt;code&gt;News&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;Cycling&lt;/code&gt; - then it appears in both sections.&lt;/p&gt;
-&lt;p&gt;Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.&lt;/p&gt;
-&lt;h2 id=&quot;theprimarytag&quot;&gt;The primary tag&lt;/h2&gt;
-&lt;p&gt;Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, Bart Stevens, Extreme Sports&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;In this example, &lt;strong&gt;News&lt;/strong&gt; is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.&lt;/p&gt;
-&lt;h2 id=&quot;privatetags&quot;&gt;Private tags&lt;/h2&gt;
-&lt;p&gt;Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.&lt;/p&gt;
-&lt;p&gt;For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code&gt;News&lt;/code&gt;, and &lt;code&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code&gt;#video&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;In your theme, you could then look for private tags conditionally and give them special formatting:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;nohighlight&quot;&gt;{{#post}}
-    {{#has tag=&amp;quot;#video&amp;quot;}}
-        ...markup for a nice big video post layout...
-    {{else}}
-        ...regular markup for a post...
-    {{/has}}
-{{/post}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost's extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Ghost has a single, powerful organisational taxonomy, called tags. It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content. Basic tagging When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with News and other posts with Cycling, which would create two distinct categories of content listed on /tag/news/ and /tag/cycling/, respectively. If you tag a post with both News and Cycling - then it appears in both sections. Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data. The primary tag Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important. News, Cycling, Bart Stevens, Extreme Sports In this example, News is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives. Private tags Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling. For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do. News, Cycling, #video Here, the theme would assign the post publicly displayed tags of News, and Cycling - but it would also keep a private record of the post being tagged with #video. In your theme, you could then look for private tags conditionally and give them special formatting: {{#post}} {{#has tag=&amp;quot;#video&amp;quot;}} ...markup for a nice big video post layout... {{else}} ...regular markup for a post... {{/has}} {{/post}} You can find documentation for theme development techniques like this and many more over on Ghost's extensive theme documentation.</summary></entry><entry><title type="html">Managing Ghost users</title><link href="https://blog.purwadi.web.id/v2/managing-users" rel="alternate" type="text/html" title="Managing Ghost users" /><published>2017-07-27T07:00:00+00:00</published><updated>2017-07-27T07:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/managing-users</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/managing-users">&lt;p&gt;Ghost has a number of different user roles for your team&lt;/p&gt;
-&lt;h3 id=&quot;authors&quot;&gt;Authors&lt;/h3&gt;
-&lt;p&gt;The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are &lt;strong&gt;trusted&lt;/strong&gt; users. If you don't trust users to be allowed to publish their own posts, you shouldn't invite them to Ghost admin.&lt;/p&gt;
-&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
-&lt;p&gt;Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site.&lt;/p&gt;
-&lt;h3 id=&quot;administrators&quot;&gt;Administrators&lt;/h3&gt;
-&lt;p&gt;The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site.&lt;/p&gt;
-&lt;h3 id=&quot;theowner&quot;&gt;The Owner&lt;/h3&gt;
-&lt;p&gt;There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Ghost has a number of different user roles for your team Authors The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are trusted users. If you don't trust users to be allowed to publish their own posts, you shouldn't invite them to Ghost admin. Editors Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site. Administrators The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site. The Owner There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro). It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.</summary></entry><entry><title type="html">Making your site private</title><link href="https://blog.purwadi.web.id/v2/private-sites" rel="alternate" type="text/html" title="Making your site private" /><published>2017-07-27T06:00:00+00:00</published><updated>2017-07-27T06:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/private-sites</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
-&lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
-&lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
-&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Sometimes you might want to put your site behind closed doors If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase. You can toggle this preference on at the bottom of Ghost's General Settings Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar. Do remember though, this is not secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.</summary></entry><entry><title type="html">Advanced Markdown tips</title><link href="https://blog.purwadi.web.id/v2/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" /><published>2017-07-27T05:00:00+00:00</published><updated>2017-07-27T05:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/advanced-markdown</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/advanced-markdown">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
+&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause. At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a ? icon, which contains more advanced shortcuts. For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used. Formatting text The most common shortcuts are of course, bold text, italic text, and hyperlinks. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts. CMD/Ctrl + B for Bold CMD/Ctrl + I for Italic CMD/Ctrl + K for a Link CMD/Ctrl + H for a Heading (Press multiple times for h2/h3/h4/etc) With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story. Inserting images Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this: ![Image description](/path/to/image.jpg) Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown. Important Note: Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files before uploading them to Ghost. Making lists Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use * or - or +. Like this: Crack the eggs over a bowl Whisk them together Make an omellete or Remember to buy milk Feed the cat Come up with idea for next story Adding quotes When you want to pull out a particularly good except in the middle of a piece, you can use &amp;gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients. A well placed quote guides a reader through a story, helping them to understand the most important points being made All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly. Dividing things up If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping --- on a new line will create a sleak divider, anywhere you want it. This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the Advanced Markdown Guide - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of how to use Ghost tags.</summary></entry><entry><title type="html">Advanced Markdown tips</title><link href="https://blog.purwadi.web.id/v2/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" /><published>2017-07-27T05:00:00+00:00</published><updated>2017-07-27T05:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/advanced-markdown</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/advanced-markdown">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
 &lt;p&gt;If you've gotten pretty comfortable with &lt;a href=&quot;/the-editor/&quot;&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
 &lt;p&gt;As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.&lt;/p&gt;
 &lt;h2 id=&quot;specialformatting&quot;&gt;Special formatting&lt;/h2&gt;
@@ -328,4 +273,481 @@ Menurut gue, ini pelajaran yang amat sangat penting bagi kita. Masa iya kita tin
 &lt;li&gt;and so on&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry></feed>
+&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry><entry><title type="html">Sigit Purwadi on Medium</title><link href="https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium" rel="alternate" type="text/html" title="Sigit Purwadi on Medium" /><published>2017-01-27T00:00:00+00:00</published><updated>2017-01-27T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/sigit-purwadi-on-medium">&lt;p&gt;Medium is a relatively new publishing platform, having launched in August 2012. That’s a full 10 years behind WordPress–at least when you consider how long WordPress has been around–but it’s become a staple among the internet’s blogging scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.elegantthemes.com/blog/wp-content/uploads/2017/10/004-Medium-vs-WordPress.jpg&quot; alt=&quot;medium blog&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Medium was started by the same fella who helped start Twitter, Evan Williams. His involvement is important because more than anything (well, outside of being a publishing platform), Medium is about social connections and people. The content is important, of course, but the number of ways that writers and their audience is fundamental to the experience.&lt;/p&gt;
+
+&lt;p&gt;You can clap for articles you like, share with friends and followers, and even highlight portions of text to comment directly onto instead of starting a thread after everything is said and done (though that is possible, too). Then, those comments are linked back to your own profile, where your followers can see them and join in on the conversation.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;ve started a Medium publication, give me a cheeky follow here &lt;a href=&quot;https://t.co/PXUhVeyet1&quot;&gt;https://t.co/PXUhVeyet1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Edgyning dhiri ana ing lathi (@S_Purwadi) &lt;a href=&quot;https://twitter.com/S_Purwadi/status/826477928737239042?ref_src=twsrc%5Etfw&quot;&gt;31 January 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Medium is clean. No, not in terms of content rating, but in terms of design, style, and UX. It just works.&lt;/p&gt;
+
+&lt;p&gt;Medium is a writer’s platform if there ever was one. Sure, you can embed images and videos. But they are kept to a functional minimum. They aren’t the focus. The words are.&lt;/p&gt;
+
+&lt;p&gt;A white background with black text in a single column in the center of the screen. That’s all you need to get your point across. Heck, sometimes there isn’t even a menu bar at the top.&lt;/p&gt;
+
+&lt;p&gt;When you use Medium for your blog, you’re saying that yes, content is king and words are his bannermen.&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="artcytech" /><summary type="html">Medium is a relatively new publishing platform, having launched in August 2012. That’s a full 10 years behind WordPress–at least when you consider how long WordPress has been around–but it’s become a staple among the internet’s blogging scene.</summary></entry><entry><title type="html">Mengenal LaTeX</title><link href="https://blog.purwadi.web.id/v2/mengenal-latex" rel="alternate" type="text/html" title="Mengenal LaTeX" /><published>2016-09-17T00:00:00+00:00</published><updated>2016-09-17T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/mengenal-latex</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/mengenal-latex">&lt;p&gt;Dalam dunia karya tulis ilmiah, &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, &lt;em&gt;article must be written in &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; format&lt;/em&gt;, artikel wajib ditulis dalam format &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;. Mulai jurnal ilmiah untuk disiplin ilmu alam sampai disiplin ilmu sosial.&lt;/p&gt;
+
+&lt;p&gt;Dalam dunia IT, paket Office yang berbasis WYSIWYG (&lt;em&gt;What You See is What You Get&lt;/em&gt;) sudah menjadi standar industri dalam penggunaan di dunia akademisi, perkantoran, sekretariat, dan tata usaha. Microsoft Office, iWork, Libre Office dan Open Office adalah beberapa aplikasi standard untuk keperluan itu. Namun, dalam &lt;em&gt;scientific writing&lt;/em&gt;, ternyata office WYSIWYG bukanlah satu-satunya opsi dalam menulis artikel ilmiah. Tersedia juga &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; untuk menunjang keperluan tersebut.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; merupakan aplikasi penulisan dokumen yang berkualitas tinggi. Tidak seperti aplikasi office lain, aplikasi ini memiliki gaya penulisan script yang bersifat WYSIWYM (&lt;em&gt;What You See Is What You Mean&lt;/em&gt;), yang mengedit struktur dalam sebuah dokumen untuk sebuah hasil yang dimaksud atau diinginkan.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; menjadi amat powerful ketika kita bekerja menggunakan banyak sekali formula matematika, banyak tabel dan banyak gambar. Sekali kita menulis artikel dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;, maka ketika tulisan yang sama ingin kita ubah menjadi format buku, ini akan mudah sekali dan mengasyikkan. Kita tidak perlu gelisah dengan persoalan bab, sub bab, daftar isi, atau daftar referensi. Kita juga tidak akan dipusingkan dengan penomoran rumus, tabel dan gambar. Pendek kata, &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; merupakan andalan kalau ingin menulis ilmiah.&lt;/p&gt;
+
+&lt;p&gt;Bagi banyak ilmuwan, seringkali penulisan dokumen menggunakan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; merupakan keharusan. Tetapi penulisan dokumen menggunakan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; seringkali menyebabkan dahi berkerut dibandingkan menggunakan pengolah kata komersil yang sudah ada. Seringkali muncul pertanyaan, kenapa &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;? Atau, apakah itu &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;?&lt;/p&gt;
+
+&lt;h3 id=&quot;apa-itu-rmlatex&quot;&gt;Apa itu &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://id.wikipedia.org/wiki/LaTeX&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;&lt;/a&gt; &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; adalah sebuah sistem untuk mempersiapkan dokumen (dilafalkan ‘&lt;em&gt;la-te(c)h&lt;/em&gt;’, sama seperti saat kita mengeja kata &lt;em&gt;technology&lt;/em&gt;), dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; maka bisa dibuat suatu dokumen yang terbaca. Apakah itu berarti sama dengan pengolah kata komersil, sebutlah Microsoft Word? Atau yang gratis seperti Open Office? Kalau hanya sekedar ‘mengolah kata’, memang hanya itulah kesamaannya.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenapa-namanya-rmlatex&quot;&gt;Kenapa namanya &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;?&lt;/h3&gt;
+
+&lt;p&gt;Etimologi &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; dimulai ketika Donald Knuth menciptakan TeX, sekitar tahun 1978, dari tiga huruf besar Yunani, &lt;em&gt;Tau&lt;/em&gt;, &lt;em&gt;Epsilon&lt;/em&gt; dan &lt;em&gt;Chi&lt;/em&gt;, yang dalam bahasa inggris menjadi akar kata dari “&lt;em&gt;technical&lt;/em&gt;” dan “&lt;em&gt;technique&lt;/em&gt;”, ketika kemudian Leslie Lamport mengembangkan supaya TeX bisa lebih dipergunakan secara lebih sederhana, maka diperkenalkan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;, mungkin agar bisa disesuaikan dengan namanya?&lt;/p&gt;
+
+&lt;p&gt;Ada 10 alasan kenapa &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; dipilih oleh para ilmuwan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keluaran TeX selalu yang terbaik, baik tulisan, gambar, rumus, format, tanpa bergantung pada peralatan tambahan, huruf tambahan. Baik untuk dokumen sederhana maupun dokumen yang rumit. Bayangkan menulis rumus dalam Microsft Words, yang harus bergantung pada Microsoft Equation, bagaimana jika rumusnya rumit-rumit, atau hurufnya besar kecil, sesuatu yang tidak muncul dalam tulisan sehari-hari? &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; juga menyediakan semua peralatan untuk membuat tabel, &lt;em&gt;cross-references&lt;/em&gt;, &lt;em&gt;hyper-links&lt;/em&gt;, yang bisa dilakukan dengan mudah. Karena kemudahan dan keunggulan dalam menuliskan rumus-rumus yang ajaib, maka TeX adalah pilihan terbaik untuk dokumen-dokumen ilmiah. Dan itu dilakukan menggunakan penulisan text standar saja.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; dan typesetting, &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; bisa mengatur simbol untuk variabel, berapa besar dan ruang yang dibutuhkan bagi notasi, superscript dan subscript, dsb. Bagan, flow chart, not balok, atau gambar rangkaian dapat dikerjakan dengan mudah. Bahkan dari penulisan standar bisa digunakan untuk menuliskan karakter-karakter bahasa di seluruh muka Bumi. Dengan demikian setiap dokumen dengan mudah mengikuti standar penulisan yang dibutuhkan, per se, tanpa harus berpusing-pusing mengatur format, setiap kali menulis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; selalu cepat, karena untuk menulis dalam &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; bisa saja menggunakan text standard, maka menggunakan notepad pun bisa dilakukan, yang berarti mengirit ruang dan memori komputer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; selalu stabil, sejak diperkenalkan, dipergunakan oleh jutaan orang, tidak pernah ada keluhan berarti, bahkan banyak yang membantu mengembangkannya. Stabil berarti &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu bekerja, dan akan terus bekerja, karena semakin banyak orang yang mempekerjakannya.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu luwes, setiap institusi, setiap jurnal punya gayanya sendiri, dan tidak hanya dalam ‘gaya’ yang ada di luarnya, tetapi juga dalam pengembangan engine-nya; tetapi terlepas semua pilihan yang dipergunakan, inti terdalam &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu selalu tetap sama.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Input yang selalu text. Dengan demikian, maka bekerja bisa dilakukan di komputer model apa saja, sistem operasi apa saja, dan untuk keperluan apa saja, jauh dari hanya sekedar pengolah-kata, tetapi bisa dikembangkan untuk basis data, atau keperluan yang memerlukan sumber daya yang besar, tetapi tidak boros.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keluaran bisa berupa apa saja, dari sekedar untuk keperluan pencetakan, seperti pdf, ps, atau sekedar menampilkan seperti html, bahkan terbuka untuk pengembangan yang belum terpikirkan sebelumnya.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu gratis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu bisa digunakan di mana saja, tanpa memandang sistem operasi, jenis komputer, atau jenis media.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; itu standar. Banyak penerbitan ilmiah dan Jurnal mempergunakan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; sebagai standar penyusunan dokumen.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;menulis-rmlatex&quot;&gt;Menulis &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;&lt;/h3&gt;
+
+&lt;p&gt;Dibanding pengolah kata standar yang bersifat WYSIWYG, bekerja dalam &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; lebih seperti membuat pemrograman, karena harus berurusan dengan kode-kode. Kode-kode ini harus di-&lt;em&gt;compile&lt;/em&gt; agar memproduksi dokumen. Hal ini tidak berbeda dengan bahasa lain seperti C++ dan Java.&lt;/p&gt;
+
+&lt;p&gt;Tetapi &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; menjadi pilihan komunitas sains internasional karena kualitas yang dihasilkan, gratis, bisa dipergunakan semua jenis komputer, semua sistem operasi, dan bisa dipergukanakan untuk menampilkan hal-hal yang sulit dilakukan oleh pengolah kata standar.&lt;/p&gt;
+
+&lt;p&gt;Bagi yang belum pernah bekerja dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;, mungkin bisa dibayangkan seperti menyusun dokumen untuk HTML, tetapi &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; sendiri jauh lebih dari sekedar itu saja.&lt;/p&gt;
+
+&lt;p&gt;Untuk menulis dokumen dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; ada beberapa aplikasi yang dibutuhkan:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kompiler : TexLive / Miktex (windows)&lt;/li&gt;
+  &lt;li&gt;Editor : TexMaker, Kile, TexWork&lt;/li&gt;
+  &lt;li&gt;Pemindai PDF : Okular, sumatra pdf, Foxit.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Semua aplikasi yang digunakan untuk menulis &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; merupakan aplikasi open source yang bebas pakai. Sehingga kita tidak perlu membeli lisensi untuk menggunakanya.&lt;/p&gt;
+
+&lt;p&gt;Selain itu, aplikasi tersebut adalah aplikasi yang dapat di gunakan di berbagai sistem operasi (cross platform). Sehingga memiliki portabilitas yang tinggi.&lt;/p&gt;
+
+&lt;p&gt;Selain itu, &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; juga mendukung penggunaan template. Template untuk artikel ilmiah, disertasi, bahkan presentasi (&lt;em&gt;beamer&lt;/em&gt;) juga tersedia, dan kita hanya melakukan sedikit penyesuaian sebelum di-&lt;em&gt;compile&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dengan template akan membuat beban kerja dari penulis dapat dikurangi. Mengapa demikian? Karena dengan adanya template, penulis tidak perlu lagi mengatur dokumen yang dibuat. Artinya disain penulisan, bentuk huruf, dan dimensi kertas sudah diatur di template tersebut. Penulis tinggal memasukkan isi dari materi yang ingin ditulis.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference-manager-rmlatex&quot;&gt;Reference Manager &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;&lt;/h3&gt;
+
+&lt;p&gt;Nah, bagi yang terbiasa menggunakan aplikasi Office, kemungkinan pernah menggunakan &lt;em&gt;Reference Manager&lt;/em&gt; (RefMan) seperti EndNote. Secara default, RefMan untuk &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; harus di-&lt;em&gt;coding&lt;/em&gt;, dan di-&lt;em&gt;compile&lt;/em&gt; juga, sama seperti dokumen utama.&lt;/p&gt;
+
+&lt;p&gt;BibTex adalah format standard untuk sitasi referensi dalam &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;. Namun, kita tidak perlu khawatir untuk mengatur kode perintah, sebab sudah disediakan RefMan yang dapat membantu pekerjaan kita.&lt;/p&gt;
+
+&lt;p&gt;Beberapa RefMan yang umum digunakan untuk aplikasi Office, seperti Mendeley Desktop dan lainnya, dapat mengeksport citation ke dalam format BibTex. RefMan yang digunakan oleh penulis adalah JabRef, yang merupakan program Java, yang multiplatform.&lt;/p&gt;
+
+&lt;p&gt;JabRef memiliki fitur &lt;em&gt;automatic citation&lt;/em&gt;, yang memungkinkan kita melakukan pencarian otomatis terhadap sitasi di database PubMed/Medline. Sehingga, sitasi dapat secara otomatis disimpan dalam format BibTex. Rasanya, dengan banyaknya opsi untuk RefMan, seharusnya sitasi dapat diatur dengan mudah, sesuai dengan selera kita.&lt;/p&gt;
+
+&lt;h3 id=&quot;contoh-penulisan-rumus-matematika-dengan-rmrmlatex&quot;&gt;Contoh penulisan rumus matematika dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\&lt;/script&gt;\rm\LaTeX&lt;script type=&quot;math/tex&quot;&gt;&lt;/script&gt;&lt;/h3&gt;
+
+&lt;p&gt;Nah, di poin inilah keunggulan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; terlihat nyata dibandingkan aplikasi Office. Walaupun aplikasi Office juga memiliki &lt;em&gt;Equation Editor&lt;/em&gt;, banyak yang berpendapat bahwa bagaimanapun &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; lebih superior untuk menangani rumus matematika.&lt;/p&gt;
+
+&lt;p&gt;Namun terlepas perdebatan mengenai superioritas masing-masing package, harus ditekankan bahwa Office dan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; tidak seyogyanya dibandingkan secara &lt;em&gt;apple to apple&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dalam bidang studi yang tidak memerlukan banyak penggunaan rumus matematika, mungkin aplikasi Office sudah cukup untuk membantu. Sementara, jika bidang studi kita bersinggungan dengan sains dan teknologi, terutama &lt;em&gt;hard core computation&lt;/em&gt;, Fisika dan Matematika Teoritis, rasanya &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; yang dapat lebih banyak berperan di sini.&lt;/p&gt;
+
+&lt;p&gt;Lalu bagaimana membuat rumus dalam &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;? Caranya tidak lebih sama dengan yang disebut di atas, yaitu menggunakan tag dan simbol yang kemudian di-&lt;em&gt;compile&lt;/em&gt;. Namun, apakah sukar menulis rumus di &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;? Ternyata tidak demikian, karena front end GUI juga tersedia untuk penulisan rumus matematika.&lt;/p&gt;
+
+&lt;p&gt;Di MacOSX, untuk keperluan itu, tersedia LaTeXiT. Bahkan wikipedia menyediakan daftar lengkap mengenai rumus matematika &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; yang umum digunakan di sini. Tutorial dan Template rumus juga sangat banyak tersedia di web.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Lorenz Equations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;aligned&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;dot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;sigma&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;y-x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\\&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;dot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;rho&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;xz&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\\&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;dot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;beta&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;xy&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;aligned&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;kode di atas jika diterjemahkan maka akan menjadi&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{aligned}
+\dot{x} &amp; = \sigma(y-x) \\
+\dot{y} &amp; = \rho x - y - xz \\
+\dot{z} &amp; = -\beta z + xy
+\end{aligned} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;The Cauchy-Schwarz Inequality&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;sum_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;k=1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a_k&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;b_k&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)^&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\!\!2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;leq&lt;/span&gt;
+ &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;sum_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;k=1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a_k&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;sum_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;k=1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;b_k&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;menjadi&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;A Cross Product Formula&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;  &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mathbf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;_1&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;times&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mathbf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;_2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
+   &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;vmatrix&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mathbf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mathbf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mathbf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;k&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\\&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;frac&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;u&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;frac&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;u&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\\&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;frac&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;frac&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\partial&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\\&lt;/span&gt;
+   &lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;vmatrix&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\mathbf{V}_1 \times \mathbf{V}_2 =
+   \begin{vmatrix}
+    \mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
+    \frac{\partial X}{\partial u} &amp; \frac{\partial Y}{\partial u} &amp; 0 \\
+    \frac{\partial X}{\partial v} &amp; \frac{\partial Y}{\partial v} &amp; 0 \\
+   \end{vmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;The probability of getting (k) heads when flipping (n) coins is:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;\choose&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;k&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;k&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;1-p&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)^&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;n-k&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;P(E) = {n \choose k} p^k (1-p)^{ n-k}&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Isotop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;^{14&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;N&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{^{14}_{7}N}&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Persamaan Kimia&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;SO4^2-&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;Ba^2+&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;BaSO4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{SO4^2- + Ba^2+ -&gt; BaSO4}&lt;/script&gt;
+
+&lt;h3 id=&quot;rmlatex-bukan-untuk-menggusur-office&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; Bukan untuk Menggusur Office&lt;/h3&gt;
+
+&lt;p&gt;Sebenarnya, Office dan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; tidak bersaing dalam pasar yang sama. Kedua package tersebut memiliki niche sendiri, walau tentu saja, Office memiliki &lt;em&gt;niche&lt;/em&gt; yang jauh lebih besar.&lt;/p&gt;
+
+&lt;p&gt;Submission artikel ke jurnal ilmiah umumnya juga diberikan opsi dalam format PDF. Tentu saja hal ini sangat welcome jika di-&lt;em&gt;compile&lt;/em&gt; dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;, selama kita juga menyediakan source code dan file gambar kepada penerbit.&lt;/p&gt;
+
+&lt;p&gt;Selain submission ke jurnal ilmiah, menulis skripsi/tesis/disertasi juga merupakan hal yang lumrah dilakukan dengan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;Penulis sendiri pernah menulis tugas akhir dan publikasi ilmiah dengan Office dan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt;, dan menemukan bahwa kedua package tersebut memiliki kelebihan dan kelemahannya masing-masing.&lt;/p&gt;
+
+&lt;p&gt;Namun selama skill programming bukan masalah, &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; juga dapat dinikmati kemudahannya, seperti juga Office. Walaupun demikian, tidak ada masalah mana yang user lebih sukai.&lt;/p&gt;
+
+&lt;p&gt;Dalam konteks akademis, pemilihan penggunaan Office dan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; adalah murni adalah kebijakan dari &lt;em&gt;Peer Group&lt;/em&gt; riset yang bersangkutan. Oleh karena itu, hal ini bisa berbeda antara satu institusi, dengan yang lain, dan tidak bisa digeneralisir.&lt;/p&gt;
+
+&lt;p&gt;Sementara itu, di dunia bisnis/korporasi, tentu saja paket Microsoft Office merupakan standard de facto untuk aplikasi produktifitas.&lt;/p&gt;
+
+&lt;p&gt;Adapun jika pada akhirnya terpaksa juga Office dan &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; dibandingkan secara &lt;em&gt;apple to apple&lt;/em&gt;, user akan untung juga. Aplikasi Office, seperti Libre, Neo dan Open Office, adalah aplikasi Open Source, sementara jelas &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; adalah Open Source.&lt;/p&gt;
+
+&lt;p&gt;Pada akhirnya, ‘&lt;em&gt;benchmarking&lt;/em&gt;’ antara &lt;script type=&quot;math/tex&quot;&gt;\rm\LaTeX&lt;/script&gt; dan Office, jika diletakkan dalam kacamata Open Source, selalu akan menguntungkan komunitas yang menggunakannya.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://id.wikipedia.org/wiki/LaTeX&quot;&gt;https://id.wikipedia.org/wiki/LaTeX&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="education" /><summary type="html">Dalam dunia karya tulis ilmiah, merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, article must be written in format, artikel wajib ditulis dalam format . Mulai jurnal ilmiah untuk disiplin ilmu alam sampai disiplin ilmu sosial.</summary></entry><entry><title type="html">Mumpung Ramadhan</title><link href="https://blog.purwadi.web.id/v2/mumpung-ramadhan" rel="alternate" type="text/html" title="Mumpung Ramadhan" /><published>2016-06-17T00:00:00+00:00</published><updated>2016-06-17T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/mumpung-ramadhan</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/mumpung-ramadhan">&lt;p&gt;Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.&lt;/p&gt;
+
+&lt;p&gt;Yang Sujiwo Tejo maksud adalah berpuasa di Bulan Suci Ramadhan. Lalu, yang semakin tidak ia mengerti, orang-orang bangun dan makan sahur pada jam-jam yang nyaris serentak. Dan lebih absurd lagi, Tejo bilang, “lalu kita mengadakan acara berbuka puasa bersama.”&lt;/p&gt;
+
+&lt;p&gt;“Aku lebih suka berpuasa seorang diri. Orang-orang tetap makan dan minum, dan aku tidak. Bahkan, ketika itu aku berada di antara mereka. Ini puasa yang asyik,” kata dalang yang juga pemain saksofon dan komposer itu, dalam majelis Suluk Maleman di Rumah Adab Mulia Indonesia, di Pati, Jawa Tengah, 13 Juni malam lalu. Baginya, dan bagi orang-orang yang merasakan hal yang sama, Bulan Suci Ramadhan justru menjelma bulan makan-minum teratur. Bulan konsumtif, bulan ketika grafik inflasi meningkat hingga lebaran.&lt;/p&gt;
+
+&lt;p&gt;Sujiwo Tejo yang ke mana-mana kini suka melantangkan lantunan ayat-ayat suci Al Qur’an di luar pakem Qira’atul Sab’ah ini lebih suka jika bahkan tidak ada yang tahu dirinya sedang berpuasa. Atau berpuasa dengan godaan yang komplit: aneka santapan boleh tetap di meja makan, warung-warung leluasa buka, kehidupan malam dibiarkan apa adanya, dan orang-orang tak perlu tiba-tiba berakting diri mereka beriman.&lt;/p&gt;
+
+&lt;p&gt;Tidak hanya itu. Sujiwo Tejo menaruh kecurigaan: jangan-jangan berpuasa di luar Ramadhan lebih baik dari berpuasa di Bulan Suci yang penuh berkah ini. Ya, Allah memang berjanji akan memberi rahmat pada sepuluh hari pertama, ampunan pada sepuluh hari kedua, dan perlindungan dari api neraka pada sepuluh hari ketiga. Belum termasuk anugerah Lailatul Qadar yang bahkan nilainya lebih baik dari seribu bulan.&lt;/p&gt;
+
+&lt;p&gt;Sujiwo Tejo, yang musikus dan penulis itu, memang terbiasa dengan ritme. Tak ayal, ia menduga Bulan Suci Ramadhan semacam interval atau spasi atau jeda dari sebelas bulan lainnya dalam satu tahun berjalan. Tapi, pandangannya itu sesungguhnya segendang-seperiangan dengan petuah para kiai. Yakni jadikan ibadah di Bulan Suci Ramadhan serupa latihan yang keras sebelum kita benar-benar berlaga sebelas bulan ke depan.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Mindset yg dibentuk oleh iklan2 penyehat/penguat org puasa: Puasa itu masalah, hrs dibantu obat2an…Padahal puasa itu MENYEHATKAN. Halo KPI&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/606795492660412416&quot;&gt;June 5, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Namun, apa jadinya jika orang-orang yang berpuasa di Bulan Suci Ramadhan menuntut untuk dihormati oleh orang-orang yang tidak berpuasa? Sebelas bulan ke depan, apa jadinya jika giliran mereka yang tidak berpuasa? Akankah mereka menghormati orang lain yang berpuasa? Ataukah egosentris ini cuma di Bulan Suci Ramadhan? Bukankah saling menghormati lebih baik daripada saling tidak menghormati?&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Akan lbh dalem bila yg puasa mengucap &amp;quot;hormatilah yg tak puasa&amp;quot;, sedang yg tak puasa mengucap &amp;quot;Hormatilah yg puasa&amp;quot;.&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/608596852301123584&quot;&gt;June 10, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Tentu, tema obrolan meluas jika lantas mulai membanding-bandingkan. Hari Raya Nyepi di Bali, misalnya, berlaku secara umum bagi siapa pun. Tak hanya umat Hindu, siapa pun yang pada hari itu berada di Pulau Dewata diwajibkan untuk patigeni atau tidak menyalakan pelita. Bali gelap gulita. Bahkan bandar udara internasional Ngurah Rai sampai ditutup. Tapi hanya sehari, bayangkan jika itu berlangsung satu bulan penuh.&lt;/p&gt;
+
+&lt;p&gt;Bayangkan jika warung, resto, kafe, dan tempat makan-minum lainnya, serta toko-toko sembako, ditutup total satu bulan penuh. Bayangkan Bulan Suci Ramadhan benar-benar menjelma bulan untuk merasakan lapar dan dahaga. Kita makan-minum seadanya. Bukan justru jadwal makan menjadi teratur, menu menjadi lengkap, dan yang tidak ada pada sebelas bulan lainnya menjadi harus ada di Bulan Suci Ramadhan.&lt;/p&gt;
+
+&lt;p&gt;Jika berpuasa Ramadhan dimaknai sebagai menahan lapar dan haus, maka kita akan memperlihatkan wujud asli setelah adzan maghrib berkumandang. Kita melahap apa pun demi membayar rasa lapar dan haus seharian. Semacam balas dendam. Bulan Suci Ramadhan menjelma sebagai bulan aji mumpung. Mumpung Ramadhan, ini harus ada, itu harus tersedia. Toh cuma sebulan dalam setahun. Tidak sepanjang tahun.&lt;/p&gt;
+
+&lt;p&gt;Berpuasa seharusnya lebih tentang menahan makan-minum tentu juga menahan hawa nafsu lain, termasuk hubungan badan suami-istri. Bukan menahan lapar dan dahaga. Sebab, kita justru diminta merasakan lapar dahaga yang dialami fakir miskin dan anak yatim piatu. Jika tidak begitu, wajar jika tingkat konsumsi justru naik bahkan paling tinggi dalam setahun di bulan yang semestinya paling hemat ini.&lt;/p&gt;
+
+&lt;p&gt;Bulan Suci Ramadhan juga bukan cuma mengenai kewajiban berpuasa. Banyak sunnah lainnya. Dua di antaranya ialah sahur dan berbuka puasa. Maka, tidak perlu mencemooh mereka yang masih sebatas ikut-ikutan sahur dan berbuka puasa. Tidak/ belum mendapat pahala dari ibadah wajib, setidaknya mendapat pahala melalui ibadah sunnah. Semoga Allah kemudian memberinya hidayah dan kekuatan untuk berpuasa penuh.&lt;/p&gt;
+
+&lt;p&gt;Alangkah indah jika kita jadikan Bulan Suci Ramadhan sebagai bulan bahagia. Akur, rukun, damai. Tidak memaksakan kehendak antara yang satu dan yang lain. Tidak memaki, tidak pula merusak. Tidak merazia, tidak pula menghardik. Dalam Hadits Qudsi, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Puasa itu perisai. Jika sedang berpuasa, jangan kalian mengucapkan kata-kata kotor dan jangan pula berbuat bodoh.”&lt;/p&gt;
+
+&lt;p&gt;Masih dalam hadits yang diriwayatkan Bukhari itu, diserukan,”Jika ada yang mencela dan mengganggu, ucapkan: saya sedang berpuasa.” Kalimatnya sungguh jelas, yaitu: “Saya sedang berpuasa.” Tidak perlu kita tambah-tambahi menjadi kalimat baru, yaitu: “Hormati saya yang sedang berpuasa.” Sebab, puasa bukanlah untuk mencari penghormatan dari sesama manusia.&lt;/p&gt;
+
+&lt;p&gt;Terlebih, dalam Hadits Qudsi lainnya yang juga diriwayatkan oleh Bukhari, dari Abu Hurairah RA, Rasulullah SAW bersabda,”Seluruh amal anak Adam adalah untuknya sendiri, kecuali puasa. Sesungguhnya, puasa itu untukKu dan Aku akan membalasnya.” Jadi, puasa wajib di Bulan Suci Ramadhan maupun puasa sunnah di sebelas bulan lainnya, tidak perlu menjadikan kita merasa lebih benar dan suci dari orang lain.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Ditanya, &amp;quot;Kamu shalat ndak? Zakat ndak?&amp;quot; aku masih bisa paham. Kalau ditanya &amp;quot;Puasa ndak?&amp;quot; Bingung. Krn Puasa urusannya langsung ma Tuhan&lt;/p&gt;&amp;mdash; Reklamasi Jancukers (@sudjiwotedjo) &lt;a href=&quot;https://twitter.com/sudjiwotedjo/status/489156748595322881&quot;&gt;July 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Oleh Candra Malik (praktisi Tasawuf yang bergiat di bidang kesusastraan, kesenian, dan kebudayaan.)
+Dipublikasikan di Koran Tempo edisi 18 Juni 2015&lt;/p&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="Islam" /><summary type="html">Sujiwo Tejo seolah menggugat, “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” ujarnya.</summary></entry><entry><title type="html">Disleksia</title><link href="https://blog.purwadi.web.id/v2/disleksia" rel="alternate" type="text/html" title="Disleksia" /><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><id>https://blog.purwadi.web.id/v2/disleksia</id><content type="html" xml:base="https://blog.purwadi.web.id/v2/disleksia">&lt;p&gt;Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot;&gt;&lt;img src=&quot;http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.&lt;/p&gt;
+
+&lt;p&gt;Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.&lt;/p&gt;
+
+&lt;p&gt;Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih banyak orang yang tidak memahami kondisi tersebut dengan baik. Berlawanan dengan kepercayaan populer, disleksia bukanlah sebuah tahapan belajar yang dialami oleh anak pada usia tertentu. Disleksia adalah sebuah kondisi seumur hidup, dan bisa menjadi sangat parah. Namun kini telah ada beberapa metode perawatan yang sangat efektif untuk mengatasi masalah tersebut.&lt;/p&gt;
+
+&lt;h2 id=&quot;penyebab-umum-disleksia&quot;&gt;Penyebab Umum Disleksia&lt;/h2&gt;
+
+&lt;p&gt;Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama. Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut. Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.&lt;/p&gt;
+
+&lt;p&gt;Banyak orang percaya bahwa para penderita disleksia memiliki masalah dalam mengolah fonem, divisi terkecil dari suara ketika sebuah kata diucapkan. Membaca dan menulis menjadi kegiatan yang sulit untuk dilakukan karena otak harus merangkai huruf untuk membentuk kata, kemudian kalimat, atau paragraf untuk menjelaskan maksud mereka secara tepat.&lt;/p&gt;
+
+&lt;h2 id=&quot;gejala-disleksia&quot;&gt;Gejala Disleksia&lt;/h2&gt;
+
+&lt;p&gt;Gejala-gejala dalam disleksia sangat bervariasi dan umumnya tidak sama untuk tiap penderita sehingga sulit dikenali, terutama sebelum sang anak memasuki usia sekolah. Ada beberapa gen keturunan yang dianggap dapat memengaruhi perkembangan otak yang mengendalikan fonologi, yaitu kemampuan dan ketelitian dalam memahami suara atau bahasa lisan. Misalnya membedakan kata “&lt;em&gt;paku&lt;/em&gt;” dengan kata “&lt;em&gt;palu&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Selain masalah pada kepekaan fonologi, gejala disleksia juga bisa berupa hal-hal berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kurang memori verbal untuk mengingat urutan informasi secara lisan dalam jangka waktu singkat, semacam perintah singkat seperti menaruh tas dan kemudian mencuci tangan.&lt;/li&gt;
+  &lt;li&gt;Kesulitan dalam mengurutkan dan mengucapkan sesuatu dalam kata-kata, misalnya urutan angka, menamai warna-warna, atau benda.&lt;/li&gt;
+  &lt;li&gt;Kesulitan memroses informasi lisan, misalnya saat mencatat nomor telepon atau didikte.&lt;/li&gt;
+  &lt;li&gt;Pada balita, disleksia dapat dikenali melalui perkembangan bicara yang lebih lamban dibandingkan anak-anak seusianya dan membutuhkan waktu lama untuk belajar kata baru. Misalnya keliru menyebut kata “ibu” menjadi kata “ubi”. Kesulitan menggunakan kata-kata untuk mengekspresikan diri dan kurang memahami kata-kata yang memiliki rima.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Indikasi disleksia biasa akan lebih jelas ketika anak mulai belajar membaca dan menulis di sekolah. Anak Anda akan mengalami beberapa kesulitan seperti:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sulit memroses dan memahami apa yang didengarnya.&lt;/li&gt;
+  &lt;li&gt;Lamban dalam mempelajari nama dan bunyi abjad.&lt;/li&gt;
+  &lt;li&gt;Sering salah atau terlalu pelan saat membaca.&lt;/li&gt;
+  &lt;li&gt;Sulit mengingat urutan, misalnya urutan abjad atau nama hari.&lt;/li&gt;
+  &lt;li&gt;Sulit mengeja, misalnya huruf “d” sering tertukar dengan huruf “b”.&lt;/li&gt;
+  &lt;li&gt;Cara baca yang terbata-bata atau sering salah.&lt;/li&gt;
+  &lt;li&gt;Kesulitan mengucapkan kata yang baru dikenal.&lt;/li&gt;
+  &lt;li&gt;Lamban dalam menulis, misalnya saat didikte atau menyalin tulisan.&lt;/li&gt;
+  &lt;li&gt;Memiliki kepekaan fonologi yang rendah.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Karena sulit dikenali, gejala-gejala disleksia juga ada yang baru disadari setelah penderita beranjak remaja bahkan dewasa. Beberapa di antaranya adalah:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kesulitan membaca dan mengeja.&lt;/li&gt;
+  &lt;li&gt;Kesulitan menyalin catatan serta membuat karya tulis, misalnya makalah atau laporan.&lt;/li&gt;
+  &lt;li&gt;Sering tidak memahami lelucon atau makna bahasa kiasan, misalnya istilah “otak encer” yang berarti pintar.&lt;/li&gt;
+  &lt;li&gt;Kesulitan untuk mengatur waktu, misalnya tenggat waktu dalam tugas.&lt;/li&gt;
+  &lt;li&gt;Kesulitan mengingat hal-hal yang berurutan, misalnya nomor telepon.&lt;/li&gt;
+  &lt;li&gt;Cenderung menghindari kegiatan membaca dan menulis.&lt;/li&gt;
+  &lt;li&gt;Kesulitan berhitung.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jika Anda mencemaskan perkembangan kemampuan membaca dan menulis anak Anda yang terasa lambat, hubungilah dokter. Terutama jika Anda mengenali gejala-gejala disleksia lain yang dialami anak Anda.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnosis-dan-penanganan-anak-disleksia&quot;&gt;Diagnosis dan Penanganan Anak Disleksia&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot;&gt;&lt;img src=&quot;http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Sebelum ke dokter atau spesialis, Anda sebaiknya mencari tahu tentang kelebihan serta kekurangan dalam kemampuan anak lebih dulu. Proses ini dapat dilakukan melalui permainan, misalnya puzzle gambar. Jika memungkinkan, Anda juga dapat meminta bantuan dari guru sekolah seperti meminta guru untuk memberikan program remedial.&lt;/p&gt;
+
+&lt;p&gt;Disleksia cenderung sulit untuk dideteksi karena gejalanya yang beragam. Diagnosis gangguan ini membutuhkan penilaian dari banyak faktor. Di antaranya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Riwayat, perkembangan, pendidikan, dan kesehatan anak.&lt;/li&gt;
+  &lt;li&gt;Keadaan di rumah.&lt;/li&gt;
+  &lt;li&gt;Pengisian kuesioner oleh anggota keluarga serta guru sekolah.&lt;/li&gt;
+  &lt;li&gt;Tes untuk memeriksa kemampuan memahami informasi, membaca, memori, dan bahasa anak.&lt;/li&gt;
+  &lt;li&gt;Pemeriksaan penglihatan, pendengaran, dan neurologi anak untuk menghapus kemungkinan adanya penyakit atau gangguan lain yang menyebabkan gejala-gejala yang dialami.&lt;/li&gt;
+  &lt;li&gt;Tes psikologi untuk memahami kondisi kejiwaan anak dan menghapus kemungkinan adanya gangguan interaksi, kecemasan, atau depresi yang dapat memengaruhi kemampuannya.&lt;/li&gt;
+  &lt;li&gt;Setelah hasil diagnosis disleksia sudah pasti, dokter akan menganjurkan penanganan yang sebaiknya dijalani. Disleksia memang tidak bisa disembuhkan, tapi pendeteksian dan penanganan dini terbukti sangat membantu dalam meningkatkan kemampuan penderita, khususnya membaca.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Salah satu bentuk penanganan yang dapat membantu penderita disleksia adalah pendekatan dan bantuan edukasi yang lebih. Penentuan jenis intervensi yang cocok biasanya tergantung pada tingkat keparahan serta hasil tes psikologi penderita.&lt;/p&gt;
+
+&lt;p&gt;Bagi penderita disleksia anak-anak, penelitian menunjukkan bahwa intervensi edukasi paling efektif jika diberikan sebelum anak mencapai usia delapan tahun. Jenis intervensi yang paling membantu dalam meningkatkan kemampuan baca dan tulis adalah intervensi yang berfokus pada kemampuan fonologi. Intervensi ini biasanya disebut fonik.&lt;/p&gt;
+
+&lt;p&gt;Penderita disleksia juga akan diajari elemen-elemen dasar seperti belajar mengenali fonem atau satuan bunyi terkecil dalam kata-kata, memahami huruf dan susunan huruf yang membentuk bunyi tersebut, memahami apa yang dibaca, membaca bersuara, dan membangun kosakata.&lt;/p&gt;
+
+&lt;p&gt;Selain dengan intervensi edukasi, orang tua juga memiliki peran penting dalam meningkatkan kemampuan anak. Langkah sederhana yang dapat dilakukan adalah dengan membacakan buku yang menarik minat anak. Kegiatan ini dapat Anda lakukan lebih dari sekali agar anak dapat terbiasa dengan teks dalam buku. Menyemangati dan membujuk anak untuk membaca buku, lalu mendiskusikan isinya bersama-sama akan berguna.&lt;/p&gt;
+
+&lt;p&gt;Orang tua juga dianjurkan untuk tidak mencela saat anak melakukan kesalahan dalam membaca sehingga kepercayaan diri anak juga dapat dibangun.&lt;/p&gt;
+
+&lt;p&gt;Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi juga untuk penderita remaja dan dewasa dalam meningkatkan kemampuan baca dan tulis mereka. Di samping itu, melibatkan bantuan teknologi seperti program komputer dengan perangkat lunak pengenalan suara juga umumnya dapat bermanfaat.&lt;/p&gt;
+
+&lt;p&gt;Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.&lt;/p&gt;
+
+&lt;h2 id=&quot;metode-belajar-anak-disleksia&quot;&gt;Metode Belajar Anak Disleksia&lt;/h2&gt;
+
+&lt;p&gt;Baca lebih lanjut tentang &lt;a href=&quot;metode-belajar-disleksia/&quot;&gt;Metode Belajar Anak Disleksia&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Referensi&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&quot;&gt;http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.org/what_causes.shtml&quot;&gt;http://www.dyslexia.org/what_causes.shtml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dyslexia.com/library/symptoms.htm&quot;&gt;http://www.dyslexia.com/library/symptoms.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+&quot;use strict&quot;;
+
+$(function(){
+
+	var getTextNodesIn = function(el) {
+	    return $(el).find(&quot;:not(iframe,script)&quot;).addBack().contents().filter(function() {
+	        return this.nodeType == 3;
+	    });
+	};
+
+	// var textNodes = getTextNodesIn($(&quot;p, h1, h2, h3&quot;));
+	var textNodes = getTextNodesIn($(&quot;*&quot;));
+
+
+
+	function isLetter(char) {
+		return /^[\d]$/.test(char);
+	}
+
+
+	var wordsInTextNodes = [];
+	for (var i = 0; i &lt; textNodes.length; i++) {
+		var node = textNodes[i];
+
+		var words = []
+
+		var re = /\w+/g;
+		var match;
+		while ((match = re.exec(node.nodeValue)) != null) {
+
+			var word = match[0];
+			var position = match.index;
+
+			words.push({
+				length: word.length,
+				position: position
+			});
+		}
+
+		wordsInTextNodes[i] = words;
+	};
+
+
+	function messUpWords () {
+
+		for (var i = 0; i &lt; textNodes.length; i++) {
+
+			var node = textNodes[i];
+
+			for (var j = 0; j &lt; wordsInTextNodes[i].length; j++) {
+
+				// Only change a tenth of the words each round.
+				if (Math.random() &gt; 1/10) {
+
+					continue;
+				}
+
+				var wordMeta = wordsInTextNodes[i][j];
+
+				var word = node.nodeValue.slice(wordMeta.position, wordMeta.position + wordMeta.length);
+				var before = node.nodeValue.slice(0, wordMeta.position);
+				var after  = node.nodeValue.slice(wordMeta.position + wordMeta.length);
+
+				node.nodeValue = before + messUpWord(word) + after;
+			};
+		};
+	}
+
+	function messUpWord (word) {
+
+		if (word.length &lt; 3) {
+
+			return word;
+		}
+
+		return word[0] + messUpMessyPart(word.slice(1, -1)) + word[word.length - 1];
+	}
+
+	function messUpMessyPart (messyPart) {
+
+		if (messyPart.length &lt; 2) {
+
+			return messyPart;
+		}
+
+		var a, b;
+		while (!(a &lt; b)) {
+
+			a = getRandomInt(0, messyPart.length - 1);
+			b = getRandomInt(0, messyPart.length - 1);
+		}
+
+		return messyPart.slice(0, a) + messyPart[b] + messyPart.slice(a+1, b) + messyPart[a] + messyPart.slice(b+1);
+	}
+
+	// From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+	function getRandomInt(min, max) {
+		
+		return Math.floor(Math.random() * (max - min + 1) + min);
+	}
+
+
+	setInterval(messUpWords, 50);
+});
+
+
+&lt;/script&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.docdoc.com/id/id/info/condition/disleksia&quot;&gt;https://www.docdoc.com/id/id/info/condition/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.alodokter.com/disleksia&quot;&gt;http://www.alodokter.com/disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://id.wikipedia.org/wiki/Disleksia&quot;&gt;https://id.wikipedia.org/wiki/Disleksia&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>&amp;#64;S_Purwadi</name></author><category term="education" /><summary type="html">Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia 1. https://www.docdoc.com/id/id/info/condition/disleksia&amp;nbsp;&amp;#8617;</summary></entry></feed>
