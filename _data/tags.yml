@@ -1,15 +1,57 @@
+academic:
+  name: academic
+  description: False
+  cover: False
 edtech:
   name: edtech
   title: Educational Technology
   description: Live as if you were to die tomorrow. Learn as if you were to live forever.
   cover: assets/images/sekolah.jpg
+funny:
+  name: funny
+  description: False
+  cover: False
+health:
+  name: health
+  description: False
+  cover: False
+history:
+  name: history
+  description: False
+  cover: False
+how-tos:
+  name: how-tos
+  description: False
+  cover: False
 islam:
   name: islam
+  title: Islam
   description: There is no god except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
+personal:
+  name: personal
+  title: Personal stories
+  description: False
+  cover: False
+politics:
+  name: politics
+  description: False
+  cover: False
 random:
   name: random
-  title: Random Post
+  title: Random Thoughts
+  description: False
+  cover: False
+relationships:
+  name: relationships
+  description: False
+  cover: False
+review:
+  name: review
+  description: False
+  cover: False
+self-discovery:
+  name: self-discovery
   description: False
   cover: False
 speeches:
@@ -22,6 +64,10 @@ technologeek:
   cover: assets/images/artcytech.jpg
 webmaster:
   name: webmaster
+  description: False
+  cover: False
+wisdom:
+  name: wisdom
   description: False
   cover: False
 writing:
