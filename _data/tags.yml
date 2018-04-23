@@ -26,3 +26,7 @@ technologeek:
   name: technologeek
   description: False
   cover: assets/images/artcytech.jpg
+webmaster:
+  name: webmaster
+  description: False
+  cover: False
