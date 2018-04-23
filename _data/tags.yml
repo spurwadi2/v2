@@ -22,6 +22,10 @@ islam:
   name: islam
   description: False
   cover: False
+random:
+  name: random
+  description: False
+  cover: False
 sastra:
   name: sastra
   description: False
