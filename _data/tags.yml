@@ -6,7 +6,7 @@ edtech:
 islam:
   name: islam
   description: There is no god except Allah and Muhammad is a messenger of Allah
-  cover: False
+  cover: assets/images/islam.jpg
 random:
   name: random
   title: Random Post
