@@ -36,7 +36,7 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: s_purwadi # replace by your username
+twitter: S_Purwadi # replace by your username
 facebook: sigitofficial # replace by your username
 
 # Social meta tag
