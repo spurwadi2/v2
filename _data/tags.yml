@@ -1,5 +1,6 @@
-education:
-  name: education
+edtech:
+  name: edtech
+  title: Educational Technology
   description: Live as if you were to die tomorrow. Learn as if you were to live forever.
   cover: assets/images/sekolah.jpg
 getting-started:
