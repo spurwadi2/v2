@@ -5,7 +5,7 @@ cover:  assets/images/ramadan2.jpg
 navigation: True
 title: Mumpung Ramadhan
 date: 2016-06-17
-tags: [Islam]
+tags: [islam]
 class: post-template
 subclass: 'post tag-islam'
 author: sigit
