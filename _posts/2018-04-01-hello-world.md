@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/menulis.jpg
 navigation: True
 title: Hello World v.2
-tags: [sastra]
+tags: [artcytech]
 class: post-template
 subclass: 'post tag-artcytech'
 author: sigit
@@ -39,6 +39,8 @@ So, this time around, while I was still brainstorming for ideas and theme design
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. So I used Jekyll and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided.
+
+Baca juga: [Sigit Purwadi on Medium]({{ site.baseurl }}{% post_url 2017-01-27-sigit-purwadi-on-medium %})
 
 After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator.
 
