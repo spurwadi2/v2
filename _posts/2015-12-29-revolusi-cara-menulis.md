@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/menulis.jpg
 navigation: True
 title: Revolusi Cara Menulismu!
-tags: [sastra]
+tags: [writing]
 class: post-template
-subclass: 'post tag-sastra'
+subclass: 'post tag-writing'
 author: sigit
 ---
 
