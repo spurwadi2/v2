@@ -8,6 +8,7 @@ tags: [islam]
 class: post-template
 subclass: 'post tag-islam'
 author: sigit
+comments: true
 ---
 
 Terhitung sejak tanggal 1 Ramadhan nanti, ada sekian milyar Muslim di seantero dunia yang serta-merta memasuki fase baru dalam hidupnya. Baik yang sudah dengan persiapan sebelumnya, atau tak sama sekali.

@@ -8,6 +8,7 @@ tags: [writing]
 class: post-template
 subclass: 'post tag-writing'
 author: sigit
+comments: true
 ---
 
 Medium is a relatively new publishing platform, having launched in August 2012. That’s a full 10 years behind WordPress–at least when you consider how long WordPress has been around–but it’s become a staple among the internet’s blogging scene.

@@ -9,6 +9,7 @@ tags: [islam]
 class: post-template
 subclass: 'post tag-islam'
 author: sigit
+comments: true
 ---
 
 Sujiwo Tejo seolah menggugat, "Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama," ujarnya. 

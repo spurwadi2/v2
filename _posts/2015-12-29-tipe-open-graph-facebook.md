@@ -8,6 +8,7 @@ tags: [webmaster]
 class: post-template
 subclass: 'post tag-webmaster'
 author: artcytech
+comments: true
 ---
 
 Open Graph Protocol adalah format meta tags yang berfungsi untuk menampilkan objek konten halaman website ke media social facebook. Meta tags Open Graph (og) ini ditempatkan pada header, tepatnya antara **<head>** dan **</head>** pada semua halaman website, baik itu halaman utama, kategori, tags, atau post.

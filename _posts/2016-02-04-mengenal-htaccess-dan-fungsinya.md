@@ -8,6 +8,7 @@ tags: [webmaster]
 class: post-template
 subclass: 'post tag-webmaster'
 author: artcytech
+comments: true
 ---
 
 File .htaccess adalah file konfigurasi yang disediakan oleh web server Apache, yang biasanya digunakan untuk mengubah pengaturan default dari Apache.

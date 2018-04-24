@@ -9,6 +9,7 @@ class: post-template
 subclass: 'post tag-technologeek'
 author: sigit
 mathjax: true
+comments: true
 ---
 
 Dalam dunia karya tulis ilmiah, $$\rm\LaTeX$$ merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, *article must be written in $$\rm\LaTeX$$ format*, artikel wajib ditulis dalam format $$\rm\LaTeX$$. Mulai jurnal ilmiah untuk disiplin ilmu alam sampai disiplin ilmu sosial.

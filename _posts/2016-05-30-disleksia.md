@@ -8,6 +8,7 @@ tags: [edtech]
 class: post-template
 subclass: 'post tag-edtech'
 author: sigit
+comments: true
 ---
 
 Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia [^1].

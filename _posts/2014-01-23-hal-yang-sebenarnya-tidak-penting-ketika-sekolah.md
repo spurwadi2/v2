@@ -4,11 +4,11 @@ current: post
 cover:  assets/images/smansa-kebumen.jpg
 navigation: True
 title: Hal-Hal yang (Sebenarnya) Tidak Penting Ketika Sekolah
-date: 2017-07-27 10:00:00
 tags: [edtech]
 class: post-template
 subclass: 'post tag-edtech'
 author: sigit
+comments: true
 ---
 
 

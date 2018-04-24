@@ -8,6 +8,7 @@ tags: [writing]
 class: post-template
 subclass: 'post tag-writing'
 author: sigit
+comments: true
 ---
 
 Kemampuan seseorang menulis sebuah artikel didapat secara alamiah atau dengan proses belajar. Untuk Anda yang sudah memiliki naluri seorang penulis, maka tidaklah sulit menulis artikel yang padat informasi, atraktif, dan membuat pembaca enggan mengalihkan perhatian mereka dari tulisan Anda. Namun, bagaimana jika Anda belum bisa menulis artikel dengan baik? Apakah itu berarti Anda tidak berbakat menulis? Tentu saja tidak! mari kita ikuti beberapa langkah tentang cara menulis artikel yang baik dan atraktif.

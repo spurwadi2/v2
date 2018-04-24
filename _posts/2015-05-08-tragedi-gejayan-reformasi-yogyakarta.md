@@ -8,6 +8,7 @@ tags: [history]
 class: post-template
 subclass: 'post tag-history'
 author: sigit
+comments: true
 ---
 
 Kita mungkin tidak banyak yang menyadari bahwa nama jalan yang berada di Yogyakarta diangkat dari nama-nama tokoh yang telah mewarnai perjalanan sejarah Indonesia.
