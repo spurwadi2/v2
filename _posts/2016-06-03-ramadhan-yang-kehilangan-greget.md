@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/ramadan.jpg
+cover:  assets/images/rmdn.jpg
 navigation: True
 title: Ramadhan yang Kehilangan Greget
 tags: [islam]
