@@ -14,9 +14,15 @@ Terhitung sejak tanggal 1 Ramadhan nanti, ada sekian milyar Muslim di seantero d
 
 Tulisan sederhana ini hendak diniatkan untuk menguliti beberapa keganjilan dan penyempalan yang terjadi selama Ramadhan, khususnya yang berlangsung di Indonesia. Entah dimulai sejak kapan. Intinya, perkara ini terkadang membuat rasa kepantasan kita beraduk sengit di dalam diri. Baiklah, mari kita mulai.
 
+![Menu takjil](https://cdn.trivia.id/trivia/shabrinisa/large/2017-05-30-15-01-21-takjilpuasanibble.jpg)
+
 Keganjilan pertama jelang Ramadhan adalah, harga daging & sembako melonjak drastis. Ini aneh bukan? Harga melambung itu karena adanya permintaan yang tinggi. Pasti. Pertanyaannya, siapa yang meminta? Besar kemungkinan ya umat Muslim yang menyambut Ramadhan dengan daging, kurma, sirup, penganan, gorengan, dkk seangkatannya. Padahal perintah puasa Ramadhan yang paling tegas adalah, menahan makan-minum (bukan menahan lapar-haus). Sebab tak ada satu pun manusia di jagat ini yang bisa menahan kemunculan lapar dari perutnya, dan rasa haus yang timbul dari kerongkongannya. Kerana yang ditahan lapar dan haus, maka wajar ketika berbuka, segala makanan yang sebelum Ramadhan tak pernah ada, diadakan. Sebanyak mungkin kalau bisa.
 
+![tarawih](http://cdn2.tstatic.net/palembang/foto/bank/images/shalat-tarawih_20170528_160738.jpg)
+
 Keganjilan kedua. Jamaah shalat khususnya Isya dan tarawih tumpah ruah hingga ke luar masjid. Pekan kedua hingga ketiga Ramadhan, fenomena ini terus menyusut. Sebab para jamaah yang semula semangat berapiapi itu, sudah pindah berjamaah ke cafe di banyak mall. Dalihnya, ngabuburit dan buka bersama. Meskipun kalau mau menggunakan Hadis, perbuatan itu sama sekali tak pernah dikerjakan Nabi Muhammad Saw. Termasuk tarawih, yang tak pernah beliau kerjakan secara berjamaah di Masjid Nabawi, melainkan di kediamannya.
+
+![Mercon](http://jogjaupdate.com/wp-content/uploads/2017/05/petasan.jpg)
 
 Keganjilan ketiga. Kebisingan merajalela di seantero tempat. Terutama di kitaran masjid. Anak-anak kecil seolah dapat izin tak tertulis dari orangtua mereka untuk meledakkan gendang telinga banyak orang dengan petasan berjenis rupa—yang sudah sama kita tahu, kerap menelan korban tahun ke tahun.
 
@@ -44,7 +50,7 @@ Ingat, ayat di atas hanya perintah berpuasa—bukan puasa pada bulan Ramadhan. P
 
 ![Bulan puasa](https://blog.bukalapak.com/wp-content/uploads/2016/05/tetap-fit-di-bulan-puasa-6.jpg)
 
-APA yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash (al-Quran dan Hadis), jawabannya sangat sedikit sekali—untuk tidak mengatakannya kurang menarik. Penjelasannya begini.
+Apa yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash (al-Quran dan Hadis), jawabannya sangat sedikit sekali untuk tidak mengatakannya kurang menarik. Penjelasannya begini.
 
 Pertama, ada sekian milyar Muslim lain yang berpuasa berjamaah. Entah seberapa ratus juta dari mereka yang tetiba minta dihormati oleh mereka yang tak berpuasa. Mau itu sesama Muslim/umat beragama lain. Mereka yang tak berpuasa (padahal bisa jadi non-Muslim), dilarang makan-minum sembarangan demi kata "menghormati" itu. Aneh kan?
 
@@ -54,6 +60,8 @@ Kalo kata mbah Tejo di Twitter:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Padahal kan seharusnya tugas mereka yang berpuasa untuk menahan diri dari godaan makan-minum itu. Alhasil, kondisi inilah yang membuat tingkat konsumsi meningkat di Ramadhan. Bulan yang konon diduga sebagai bulan belajar demi menghadapi 11 bulan lain. Nyatanya?
+
+![Tutup warung](https://konsultasisyariah.com/wp-content/uploads/2016/06/hukum-buka-warung-makan-ketika-puasa.jpg)
 
 Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurairah ra, Rasulullah Muhammad Saw bersabda,
 
