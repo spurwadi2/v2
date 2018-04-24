@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://blog.purwadi.web.id/v2/sitemap.xml
+Sitemap: https://blog.purwadi.web.id/sitemap.xml
