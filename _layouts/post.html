@@ -38,14 +38,14 @@ into the {body} of the default.hbs template -->
                             {% endif %}
                         {% endfor %}
                     {% endif %}
-
+                    <!-- Reading time section -->
                     {% if site.wpm %}
                     {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
                     {% else %}
                     {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
                     {% endif %}
                     {% if site.readtime %}
-                        &nbsp;∙&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}
+                        <span class="date-divider">∙</span>{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}
                         {% if readtime > 1.5 %}{{ readtime | round }} minutes read{% endif %}
                         {% if readtime < 1 %}Less than 1 minute read{% endif %}
                     {% endif %}
