@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/rdmn2.jpg
+cover:  assets/images/rmdn2.jpg
 navigation: True
 title: Mumpung Ramadhan
 date: 2016-06-17
