@@ -8,6 +8,7 @@ tags: [technologeek]
 class: post-template
 subclass: 'post tag-technologeek'
 author: artcytech
+comments: true
 ---
 
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that.
