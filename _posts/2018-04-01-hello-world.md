@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/menulis.jpg
 navigation: True
 title: Hello World v.2
-tags: [technologeek]
+tags: [personal]
 class: post-template
-subclass: 'post tag-technologeek'
+subclass: 'post tag-personal'
 author: artcytech
 comments: true
 ---
