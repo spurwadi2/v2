@@ -42,10 +42,11 @@ random:
   title: Random Thoughts
   description: False
   cover: False
-relationships:
-  name: relationships
-  description: False
-  cover: False
+relationshit:
+  name: relationshit
+  title: Relation<strike>ship</strike>shit
+  description: When a relationship gone terribly wrong
+  cover: assets/images/galaxy.jpg
 review:
   name: review
   description: False
