@@ -1,5 +1,10 @@
 academic:
   name: academic
+  title: Permanent Head Damage (PhD)
+  description: False
+  cover: False
+android:
+  name: android
   description: False
   cover: False
 edtech:
@@ -28,11 +33,19 @@ islam:
   title: Islam
   description: There is no god except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
+linux:
+  name: linux
+  description: False
+  cover: False
 millennials:
   name: millennials
   title: Millennials Rising
   description: The Next Great Generation
   cover: assets/images/millennials.png
+pcmasterrace:
+  name: pcmasterrace
+  description: False
+  cover: False
 personal:
   name: personal
   title: Personal stories
@@ -49,7 +62,7 @@ random:
   cover: False
 relationshit:
   name: relationshit
-  title: Relation<strike>ship</strike>shit
+  title: Relation<strike>ship</strike>shit!
   description: When a relationship gone terribly wrong
   cover: assets/images/galaxy.jpg
 review:
@@ -72,11 +85,15 @@ webmaster:
   name: webmaster
   description: False
   cover: False
+windows:
+  name: windows
+  description: False
+  cover: False
 wisdom:
   name: wisdom
   description: False
   cover: False
 writing:
   name: writing
-  description: False
-  cover: assets/images/menulis.jpg
+  description: A million monkeys randomly typing Shakespeare
+  cover: assets/images/typing-monkey.jpg
