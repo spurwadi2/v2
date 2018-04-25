@@ -7,6 +7,11 @@ android:
   name: android
   description: False
   cover: False
+comodos:
+  name: comodos
+  title: Wkwk Land..
+  description: Show your “WKWK LAND” pride!
+  cover: False
 edtech:
   name: edtech
   title: Educational Technology
