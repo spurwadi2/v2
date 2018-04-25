@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/tugu-jogja.jpg
 navigation: True
 title: Yogyakarta Low End Living
-tags: [personal]
+tags: [millennials]
 class: post-template
-subclass: 'post tag-personal'
+subclass: 'post tag-millennials'
 author: sigit
 comments: true
 ---

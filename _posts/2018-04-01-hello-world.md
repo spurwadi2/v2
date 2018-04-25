@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/menulis.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: Hello World v.2
 tags: [personal]
