@@ -28,6 +28,11 @@ islam:
   title: Islam
   description: There is no god except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
+millennials:
+  name: millennials
+  title: Millennials Rising
+  description: The Next Great Generation
+  cover: assets/images/millennials.png
 personal:
   name: personal
   title: Personal stories
