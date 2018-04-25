@@ -1,0 +1,13 @@
+---
+layout: post
+current: post
+cover:  assets/images/cover.png
+navigation: True
+title: Judul
+tags: [contoh-tag]
+class: post-template
+subclass: 'post tag-contoh-tag'
+author: sigit
+comments: true
+mathjax:
+---
