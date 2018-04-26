@@ -7,6 +7,10 @@ android:
   name: android
   description: False
   cover: False
+cogito:
+  name: cogito
+  description: False
+  cover: False
 comodos:
   name: comodos
   title: Wkwk Land..
