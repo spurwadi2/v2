@@ -3,9 +3,10 @@ layout: default
 current: home
 class: 'home-template'
 navigation: True
+description: Sigit Purwadi is an EdTech and a blogger based in Yogyakarta, Indonesia. His interests are anything that’s related to logic, ethics, aethetics.
 ---
 
-<!-- < default -->
+<!-- default -->
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
@@ -20,7 +21,7 @@ into the {body} of the default.hbs template -->
                     {{ site.title }}
                 {% endif %}
             </h1>
-            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+            <h2 class="site-description">{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}</h2>
         </div>
         {% include site-nav.html %}
     </div>
