@@ -1,4 +1,4 @@
-    <!-- For excerpt -- >
+    <!-- For excerpt -->
     {% if page.content and page.current == 'post' or page.current == 'about' %}{% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}{% endif %}
 
     <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
