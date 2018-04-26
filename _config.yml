@@ -18,7 +18,7 @@ baseurl: /
 
 # Website info
 title: Sigit Purwadi's Blog
-description: You're nobody until you're talked about
+description: Sigit Purwadi is an EdTech and a blogger based in Yogyakarta, Indonesia. His interests are anything that’s related to logic, ethics, aethetics.
 cover: assets/images/blog-cover.jpg
 logo: # assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -37,7 +37,8 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: S_Purwadi # replace by your username
-facebook: sigitofficial # replace by your username
+facebook: SigitOfficial # replace by your username
+google_plus: https://plus.google.com/111158361004969556148
 
 # Social meta tag
 twitter_card_images: twitter-images-280x150.jpg
