@@ -92,12 +92,12 @@ feed:
 safe: False
 lsi: False
 username: spurwadi2
-repo: v2
+repo: spurwadi2.github.io
 branch: master
-relative_source: ../v2/
-destination: ../v2-pages/
-production_url:  https://blog.purwadi.web.id/v2/
-source_url:  https://github.com/spurwadi2/v2/
+relative_source: 
+destination: ../spurwadi2.github.io-pages/
+production_url:  https://blog.purwadi.web.id/
+source_url:  https://github.com/spurwadi2/
 
 exclude:
   - assets/css
