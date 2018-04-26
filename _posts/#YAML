@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/cover.png
 navigation: True
 title: Judul
+description: 
 tags: [contoh-tag]
 class: post-template
 subclass: 'post tag-contoh-tag'

@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/hello-world.png
 navigation: True
 title: Hello World v.2
+description: 
 tags: [personal]
 class: post-template
 subclass: 'post tag-personal'
