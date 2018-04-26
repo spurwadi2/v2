@@ -67,10 +67,13 @@ permalink: :title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-mentions]
 
 feed:
   path: feed.xml
+
+jekyll-mentions:
+  base_url: https://twitter.com
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
