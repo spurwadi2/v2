@@ -8,7 +8,7 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 highlighter: rouge
-paginate: 8 # it will paginate after this number
+paginate: 100 # it will paginate after this number
 paginate_path: "page:num"
 language: 'en-uk'
 
@@ -92,12 +92,12 @@ feed:
 safe: False
 lsi: False
 username: spurwadi2
-repo: spurwadi2.github.io
+repo: v2
 branch: master
-relative_source: ../spurwadi2.github.io/
-destination: ../spurwadi2.github.io-pages/
+relative_source: ../v2/
+destination: ../v2-pages/
 production_url:  https://blog.purwadi.web.id/
-source_url:  https://github.com/spurwadi2/spurwadi2.github.io
+source_url:  https://github.com/spurwadi2/v2/
 
 exclude:
   - assets/css
