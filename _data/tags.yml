@@ -27,8 +27,8 @@ health:
   cover: False
 history:
   name: history
-  description: False
-  cover: False
+  description: Blast From The Past
+  cover: assets/images/history.jpg
 how-tos:
   name: how-tos
   description: False
