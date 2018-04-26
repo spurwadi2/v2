@@ -21,6 +21,10 @@ funny:
   name: funny
   description: False
   cover: False
+futurist:
+  name: futurist
+  description: False
+  cover: False
 health:
   name: health
   description: False
