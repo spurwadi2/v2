@@ -94,10 +94,10 @@ lsi: False
 username: spurwadi2
 repo: spurwadi2.github.io
 branch: master
-relative_source: 
+relative_source: ../spurwadi2.github.io/
 destination: ../spurwadi2.github.io-pages/
 production_url:  https://blog.purwadi.web.id/
-source_url:  https://github.com/spurwadi2/
+source_url:  https://github.com/spurwadi2/spurwadi2.github.io
 
 exclude:
   - assets/css
