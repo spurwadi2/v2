@@ -17,6 +17,11 @@ comodos:
   title: Wkwk Land..
   description: Show your “WKWK LAND” pride!
   cover: assets/images/indonesia-dark.jpg
+data-is-beautiful:
+  name: data-is-beautiful
+  title: Data Is Beautiful
+  description: False
+  cover: False
 edtech:
   name: edtech
   title: Educational Technology
