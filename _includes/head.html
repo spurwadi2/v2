@@ -2,7 +2,7 @@
     {% if page.content and page.current == 'post' or page.current == 'about' %}{% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}{% endif %}
 
     <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
-    <meta name="keywords" content="{% if page.tags %}{{ page.tags | first | capitalizeall }}, {% endif %}Sigit Purwadi, Sigit Purwadi Official Blog, Sigit, S_Purwadi">
+    <meta name="keywords" content="{% if page.tags %}{{ page.tags | first | capitalizeall }}, {% endif %}Sigit Purwadi, Sigit Blog, Sigit Purwadi Blog, edutech, edtech indonesia, edtech startup, teknologi pendidikan, blogger indonesia, yogyakarta, jogja, jogjakarta">
     <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
     <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -21,7 +21,7 @@
     <meta property="og:locale:alternate" content="id_ID">
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
-    <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
@@ -36,7 +36,7 @@
     <meta property="article:tag" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
