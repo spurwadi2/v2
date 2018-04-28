@@ -139,7 +139,16 @@ into the {body} of the default.hbs template -->
                         <header class="read-next-card-header">
                             <small class="read-next-card-header-sitetitle">&mdash; {{ site.title }} &mdash;</small>
                             {% if primary %}
-                                <h3 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h3>
+                            {% for tag in site.data.tags %}
+                            {% if primary contains tag[1].name %}
+                            {% assign tag_title = tag[1].title %}
+                                {% if tag[1].title %}
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title | capitalizeall }}</a></h4>
+                                {% else %}
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h4>
+                                {% endif %}
+                            {% endif %}
+                            {% endfor %}
                             {% endif %}
                         </header>
                         <div class="read-next-divider">{% include infinity.html %}</div>
