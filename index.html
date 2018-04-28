@@ -21,7 +21,7 @@ into the {body} of the default.hbs template -->
                     {{ site.title }}
                 {% endif %}
             </h1>
-            <h2 class="site-description"><b>{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}</b></h2>
+            <h2 class="site-description">{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}</h2>
         </div>
         <b>{% include site-nav.html %}</b>
     </div>
