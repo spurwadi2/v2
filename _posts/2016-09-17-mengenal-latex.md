@@ -84,7 +84,7 @@ Beberapa RefMan yang umum digunakan untuk aplikasi Office, seperti Mendeley Desk
 
 JabRef memiliki fitur *automatic citation*, yang memungkinkan kita melakukan pencarian otomatis terhadap sitasi di database PubMed/Medline. Sehingga, sitasi dapat secara otomatis disimpan dalam format BibTex. Rasanya, dengan banyaknya opsi untuk RefMan, seharusnya sitasi dapat diatur dengan mudah, sesuai dengan selera kita.
 
-### Contoh penulisan rumus matematika dengan $$\rm\$$\rm\LaTeX$$$$ ###
+### Contoh penulisan rumus matematika dengan $$\rm\LaTeX$$ ###
 
 Nah, di poin inilah keunggulan $$\rm\LaTeX$$ terlihat nyata dibandingkan aplikasi Office. Walaupun aplikasi Office juga memiliki *Equation Editor*, banyak yang berpendapat bahwa bagaimanapun $$\rm\LaTeX$$ lebih superior untuk menangani rumus matematika.
 
