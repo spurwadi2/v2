@@ -45,7 +45,7 @@ You must not conduct any systematic or automated data collection activities on o
 This includes:
 
 * Scraping
-* Data mining<
+* Data mining
 * Data extraction
 * Data harvesting
 * 'Framing' (iframes)
