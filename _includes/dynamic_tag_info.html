@@ -1,4 +1,3 @@
-<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
 {% for tag in site.data.tags %}
     {% if page.url contains tag[1].name %}
     	{% assign tag_title = tag[1].title %}
