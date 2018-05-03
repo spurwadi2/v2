@@ -69,7 +69,7 @@ personal:
   name: personal
   title: Personal stories
   description: False
-  cover: False
+  cover: assets/images/personal-story.jpg
 politics:
   name: politics
   description: False
@@ -88,6 +88,11 @@ review:
   name: review
   description: False
   cover: False
+school-lyfe:
+  name: school-lyfe
+  title: Memoirs of School
+  description: Hating school when you are in it is normal but once you leave you will surely miss it then.
+  cover: assets/images/memoir-of-school.jpg
 self-discovery:
   name: self-discovery
   description: False
