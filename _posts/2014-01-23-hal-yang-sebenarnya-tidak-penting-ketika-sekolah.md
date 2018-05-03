@@ -3,10 +3,10 @@ layout: post
 current: post
 cover:  assets/images/smansa-kebumen.jpg
 navigation: True
-title: Hal-Hal yang (Sebenarnya) Tidak Penting Ketika Sekolah
-tags: [edtech]
+title: Hal-hal yang (Sebenarnya) Tidak Penting Ketika Sekolah
+tags: [school-lyfe]
 class: post-template
-subclass: 'post tag-edtech'
+subclass: 'post tag-school-lyfe'
 author: sigit
 comments: true
 ---
