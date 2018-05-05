@@ -122,3 +122,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+  - vendor

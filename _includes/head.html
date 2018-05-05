@@ -1,7 +1,7 @@
     <!-- For excerpt -->
     {% if page.content and page.current == 'post' or page.current == 'about' or 'privacy' or 'disclaimer' or 'tos' %}{% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}{% endif %}
 
-    <meta name="description" content="{% include dynamic_site_description.html %}" />
+    <meta name="description" content="{% if page.url contains 'topics/' %}I have an interest in art{% for tag in site.data.tags %}{{ tag[1].name | prepend: ', ' }}{% endfor %}{% elsif page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_description %}{{ tag_description }}{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}{% elsif page.url contains 'author/' %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}{% endfor %}{% elsif page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="keywords" content="{% if page.tags %}{{ page.tags | first | capitalizeall }}, {% endif %}Sigit Purwadi, Sigit Blog, Sigit Purwadi Blog, edutech, edtech indonesia, edtech startup, teknologi pendidikan, blogger indonesia, yogyakarta, jogja, jogjakarta">
     <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
     <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
@@ -22,7 +22,7 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}" />
-    <meta property="og:description" content="{% include dynamic_site_description.html %}" />
+    <meta property="og:description" content="{% if page.url contains 'topics/' %}I have an interest in art{% for tag in site.data.tags %}{{ tag[1].name | prepend: ', ' }}{% endfor %}{% elsif page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_description %}{{ tag_description }}{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}{% elsif page.url contains 'author/' %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}{% endfor %}{% elsif page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
     <!-- Facebook OG -->
@@ -37,7 +37,7 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}" />
-    <meta name="twitter:description" content="{% include dynamic_site_description.html %}" />
+    <meta name="twitter:description" content="{% if page.url contains 'topics/' %}I have an interest in art{% for tag in site.data.tags %}{{ tag[1].name | prepend: ', ' }}{% endfor %}{% elsif page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_description %}{{ tag_description }}{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}{% elsif page.url contains 'author/' %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}{% endfor %}{% elsif page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
     <meta name="twitter:label1" content="Written by" />
@@ -69,7 +69,7 @@
         "@type": "WebPage",
         "@id": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
     },
-    "description": "{% include dynamic_site_description.html %}"
+    "description": "{% if page.url contains 'topics/' %}I have an interest in art{% for tag in site.data.tags %}{{ tag[1].name | prepend: ', ' }}{% endfor %}{% elsif page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_description %}{{ tag_description }}{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}{% elsif page.url contains 'author/' %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}{% endfor %}{% elsif page.description %}{{ page.description }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}"
     }
     </script>
 
