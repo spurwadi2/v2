@@ -32,9 +32,9 @@ into the {body} of the default.hbs template -->
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>
                             {% else %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
+                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>,
                             {% endif %}
                         {% endfor %}
                     {% endif %}
@@ -143,9 +143,9 @@ into the {body} of the default.hbs template -->
                             {% if primary contains tag[1].name %}
                             {% assign tag_title = tag[1].title %}
                                 {% if tag[1].title %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title | capitalizeall }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title | capitalizeall }}</a></h4>
                                 {% else %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h4>
                                 {% endif %}
                             {% endif %}
                             {% endfor %}
@@ -168,7 +168,7 @@ into the {body} of the default.hbs template -->
                             </ul>
                         </div>
                         <footer class="read-next-card-footer">
-                            <a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">
+                            <a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">
                                 {% if related_posts > 1 %}
                                     See all {{ related_posts | minus: 1 }} posts  →
                                 {% elsif related_posts == 1 %}
