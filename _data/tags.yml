@@ -43,6 +43,11 @@ history:
   name: history
   description: Blast From The Past
   cover: assets/images/history.jpg
+hobbies:
+  name: hobbies
+  title: Hobbies - Interests - Sports - Recreation
+  description: False
+  cover: False
 how-tos:
   name: how-tos
   description: False
