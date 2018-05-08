@@ -45,8 +45,8 @@ history:
   cover: assets/images/history.jpg
 hobbies:
   name: hobbies
-  title: Hobbies - Interests - Sports - Recreation
-  description: False
+  title: Everybody Needs a Hobby!
+  description: Hobbies - Interests - Sports - Recreation
   cover: False
 how-tos:
   name: how-tos
