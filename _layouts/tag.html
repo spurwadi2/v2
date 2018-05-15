@@ -18,13 +18,13 @@ logo: 'assets/images/ghost.png'
         {% include site-nav.html %}
         <div class="site-header-content">
             <h1 class="site-title">{% if tag_title %}{{ tag_title }}{% else %}{{ page.tag | capitalizeall }}{% endif %}</h1>
-            <h2 class="site-description"><b>
+            <h2 class="site-description">
                 {% if tag_description %}
                     {{ tag_description }}
                 {% elsif page.tag %}
     			    A collection of {{ paginator.total_posts }} posts
                 {% endif %}
-            </b></h2>
+            </h2>
         </div>
     </div>
 </header>
