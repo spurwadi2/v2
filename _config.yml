@@ -15,6 +15,7 @@ language: 'en-uk'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 url: https://blog.purwadi.web.id
 baseurl: /
+CNAME: blog.purwadi.web.id
 
 # Website info
 title: Sigit Purwadi's Blog
