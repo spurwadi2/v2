@@ -8,13 +8,9 @@ class: page-template
 subclass: 'post page'
 ---
 
-I
-make
-stuff.
-
+I make stuff.
 
 *Beautiful, practical, meaningful stuff.*
-
 
 I make what I love.
 
@@ -25,7 +21,7 @@ But over the years, I noticed that somehow, along the way, software designed to 
 So I set out to build tools that work the way I do.
 
 
-Tools for the creative space — the 53 centimeters that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
+Tools for the creative space that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
 
 
 > For
