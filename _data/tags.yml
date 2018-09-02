@@ -22,6 +22,11 @@ data-is-beautiful:
   title: Data Is Beautiful
   description: False
   cover: False
+design:
+  name: design
+  title: Design Porn
+  description: False
+  cover: False
 edtech:
   name: edtech
   title: Educational Technology
@@ -113,7 +118,7 @@ technologeek:
 webmaster:
   name: webmaster
   description: False
-  cover: False
+  cover: assets/images/gandalf-webmaster.jpg
 windows:
   name: windows
   description: False
