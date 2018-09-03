@@ -91,12 +91,16 @@ Dengan menggunakan aplikasi seperti Soundcloud pada perangkat telepon pintar yan
 
 ##### Best Indonesian Podcast
 
-Ada banyak sekali *podcast* yang bisa kita akses dan dengarkan. Lalu, apa saja pilihan kanal podcast yang ada di Indonesia saat ini?
+Ada banyak sekali *podcast* yang bisa kita akses dan dengarkan. Lalu, apa saja pilihan kanal podcast yang ada di Indonesia saat ini? Bagian ini akan saya bahas dalam kesempatan lain.
 
-Bagian ini akan saya bahas dalam artikel lain.
+Atau dengarkan *podcast* berikut untuk mengenal lebih jauh tentang *podcast* yang ada di Indonesia [^3].
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385350272&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ----------
 
 [^1]: [The Guardian: Why online radio is booming](https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia)
 
 [^2]: [CNN Indonesia: Podcast, Masa Depan Penyiaran yang Belum Pasaran di Indonesia](https://www.cnnindonesia.com/hiburan/20180401031240-241-287315/podcast-masa-depan-penyiaran-yang-belum-pasaran-di-indonesia)
+
+[^3]: [Episode 03 - Tentang Podcast di Indonesia by Suarane](https://soundcloud.com/suarane/episode-02-tentang-podcast-indonesia)
