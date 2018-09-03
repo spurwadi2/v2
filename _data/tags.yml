@@ -105,7 +105,8 @@ school-lyfe:
   cover: assets/images/memoir-of-school.jpg
 self-discovery:
   name: self-discovery
-  description: False
+  title: The Journey of Self-Discovery!
+  description: My Decision to Find Myself! A story about how I was changed into the person I am today.
   cover: False
 speeches:
   name: speeches
