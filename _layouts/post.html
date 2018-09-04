@@ -129,8 +129,13 @@ into the {body} of the default.hbs template -->
                 {% endfor %}
                 {% if related_posts > 1 %}
                     <article class="read-next-card"
-                        {% if page.cover %}
-                            style="background-image: url({{ site.baseurl }}{{ page.cover }})"
+                        {% if page.tags %}
+                            {% for tag in site.data.tags %}
+                            {% if page.tags contains tag[1].name %}
+                            {% assign tag_cover = tag[1].cover %}
+                                style="background-image: url({{ site.baseurl }}{{ tag_cover }})"
+                            {% endif %}
+                            {% endfor %}
                         {% else %}
                             {% if site.cover %}
                             style="background-image: url(url({{ site.baseurl }}{{ site.cover }})"{% endif %}
