@@ -5,8 +5,9 @@ academic:
   cover: False
 android:
   name: android
+  title: Android Invasion
   description: False
-  cover: False
+  cover: assets/images/android.png
 cogito:
   name: cogito
   title: Cogito Ergo Cool
@@ -50,7 +51,7 @@ history:
   cover: assets/images/history.jpg
 hobbies:
   name: hobbies
-  title: Everybody Needs a Hobby!
+  title: Everybody Needs a Hobby! 🎸
   description: Topics that related to hobbies, interests, sports, recreation, etc.
   cover: assets/images/hobbies.jpg
 how-tos:
@@ -59,7 +60,7 @@ how-tos:
   cover: False
 islam:
   name: islam
-  title: Islam
+  title: Islam 
   description: There is no god except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
 linux:
@@ -105,9 +106,9 @@ school-lyfe:
   cover: assets/images/memoir-of-school.jpg
 self-discovery:
   name: self-discovery
-  title: The Journey of Self-Discovery!
-  description: My Decision to Find Myself! A story about how I was changed into the person I am today.
-  cover: False
+  title: The Journey of Self-Discovery
+  description: a story about how I was changed into the person I am today
+  cover: assets/images/self-discovery.jpeg
 speeches:
   name: speeches
   description: Some of the greatest words ever spoken.
