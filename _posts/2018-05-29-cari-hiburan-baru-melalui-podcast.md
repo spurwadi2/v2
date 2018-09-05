@@ -18,7 +18,7 @@ Istilah *podcast* (Indonesia: [Siniar](https://kbbi.kemdikbud.go.id/siniar)) ata
 
 Sedangkan di luar negeri seperti Amerika, Inggris, atau Australia, istilah ini sudah cukup umum karena banyaknya pendengar dan konten yang tersedia secara bebas. 
 
-*Podcast* bagi saya pribadi seperti sumber belajar baru yang begitu bermanfaat untuk didengarkan disaat sedang santai, sambil mengerjakan sesuatu, ketika sedang menunggu antrean, bahkan saat sedang berolahraga.
+*Podcast* bagi saya pribadi seperti sumber belajar baru yang begitu bermanfaat untuk didengarkan disaat sedang santai, ketika sedang menunggu antrean, sambil bekerja, bahkan saat sedang berolahraga.
 
 Terkadang waktu kita tidak banyak untuk membaca buku, *podcast* inilah yang dapat menjadi salah satu solusi agar tetap *up to date* dengan informasi dan ilmu-ilmu baru.
 
