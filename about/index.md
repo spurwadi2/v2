@@ -6,6 +6,7 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
+cover: assets/images/blog-cover.jpg
 ---
 
 I make stuff.
