@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/podcast-phone.jpg
 navigation: True
 title: Mencari Hiburan Baru Melalui Podcast
-description: Bila kalian merasa bosan dengan bentuk hiburan yang itu-itu saja, mungkin sudah saatnya kalian mencoba untuk mendengarkan podcast.
+description: Bila kalian merasa bosan dengan bentuk hiburan yang itu-itu saja, mungkin sudah saatnya kalian mencoba untuk mendengarkan podcast!
 tags: [millennials]
 class: post-template
 subclass: 'post tag-millennials'
@@ -12,22 +12,25 @@ author: sigit
 comments: true
 ---
 
-Bila kalian merasa bosan dengan bentuk hiburan yang itu-itu saja, mungkin sudah saatnya kalian mencoba untuk mendengarkan podcast.
+Bila kalian merasa bosan dengan bentuk hiburan yang itu-itu saja, mungkin sudah saatnya kalian mencoba untuk mendengarkan *podcast*.
 
-Istilah podcast (Indonesia: [Siniar](https://kbbi.kemdikbud.go.id/siniar)) atau siaran audio digital mungkin belum dikenal oleh masyarakat Indonesia secara luas. Di luar negeri seperti Amerika, Inggris, atau Autralia, istilah ini sudah cukup umum karena banyaknya pendengar dan konten yang tersedia. Sedangkan di Indonesia, memang belum banyak orang di Indonesia yang tahu apa itu podcast, apalagi tahu bagaimana cara menggunakan dan memanfaatkannya.
+Istilah *podcast* (Indonesia: [Siniar](https://kbbi.kemdikbud.go.id/siniar)) atau siaran audio digital mungkin belum banyak dikenal oleh masyarakat Indonesia secara luas. Kepopuleran *podcast* di kalangan anak muda dan masyarakat Indonesia masih kalah jika dibandingkan dengan kepopuleran *vlog*.
 
-Podcast bagi saya pribadi seperti sumber belajar baru yang begitu bermanfaat untuk didengarkan di saat sedang bekerja, atau sedang di kereta atau bahkan mengendarai mobil. Karena terkadang waktu kita tidak banyak untuk membaca buku, podcast bisa jadi salah satu solusi untuk Anda agar tetap *up to date* dengan informasi dan ilmu-ilmu baru yang ada.
+Sedangkan di luar negeri seperti Amerika, Inggris, atau Australia, istilah ini sudah cukup umum karena banyaknya pendengar dan konten yang tersedia secara bebas. 
 
-Dengan variasi kanal yang beragam, tipe pembawa acara yang berbeda-beda, serta topik yang yang bisa disesuaikan dengan kebutuhan kalian, podcast sebenarnya bisa dijadikan sebagai alternatif lain dalam memilih jenis hiburan.
+*Podcast* bagi saya pribadi seperti sumber belajar baru yang begitu bermanfaat untuk didengarkan disaat sedang santai, sambil mengerjakan sesuatu, ketika sedang menunggu antrean, bahkan saat sedang berolahraga.
 
+Terkadang waktu kita tidak banyak untuk membaca buku, *podcast* inilah yang dapat menjadi salah satu solusi agar tetap *up to date* dengan informasi dan ilmu-ilmu baru.
+
+Dengan variasi kanal yang beragam, tipe pembawa acara yang berbeda-beda, serta topik yang yang bisa disesuaikan dengan kebutuhan kalian, *podcast* sebenarnya bisa dijadikan sebagai alternatif lain dalam memilih jenis hiburan.
 
 ##### Apa Itu Podcast?
 
-Merujuk artikel Guardian pada 2004 silam, jurnalis Ben Hammersley menyebut bahwa pod datang dari pemutar media digital ciptaan Apple, iPod. Sedangkan cast adalah kependekan dari broadcast atau siaran. [^1]
+Merujuk pada artikel Guardian pada 2004 silam, jurnalis Ben Hammersley menyebut bahwa pod datang dari pemutar media digital ciptaan Apple, iPod. Sedangkan cast adalah kependekan dari broadcast atau siaran. [^1]
 
-Menurut penjelasan dari iTunes, podcast adalah episode program yang tersedia di internet. Biasanya, podcast merupakan rekaman asli audio dari siaran televisi atau program radio.
+Menurut penjelasan dari iTunes, *podcast* adalah episode program yang tersedia di internet. Biasanya, *podcast* merupakan rekaman asli audio dari siaran televisi atau program radio.
 
-Sepintas podcast terdengar seperti radio. Pendengar akan disuguhi serial audio berisi obrolan penyiar akan suatu topik dan diselingi musik-musik pilihan. Namun, sebenarnya keduanya lumayan berbeda.
+Sepintas *podcast* terdengar seperti radio. Pendengar akan disuguhi serial audio berisi obrolan penyiar akan suatu topik dan diselingi musik-musik pilihan. Namun, sebenarnya keduanya lumayan berbeda.
 
 Tak seperti radio yang memiliki jadwal untuk program-programnya, pendengar bebas mendengarkan podcast kapan saja mereka mau dan topik apa yang mereka ingin dengarkan. Sederhananya, podcast seperti vlog di saluran Youtube, namun tanpa visual. Kalo kita ketinggalan acara radio favorite, kita tidak perlu panik karena ada podcast-nya.
 
@@ -38,41 +41,39 @@ Beberapa bulan belakangan ini podcast kembali ramai didengarkan, terutama di Ame
 Podcast semakin menjadi pilihan lantaran tingginya intensitas perjalanan orang-orang masa kini. Mereka yang menghabiskan banyak waktu di jalan, baik di mobil maupun transportasi publik, memilih untuk mendengarkan podcast agar tetap mendapat wawasan baru dan, di saat yang sama, terhibur.
 
 
-###### Sejarah Podcast
+Menilik sejarahnya, *podcast* lahir seiring kelahiran iPod bikinan Apple yang diperkenalkan Steve Jobs pada 2001. *Podcast* bisa dibilang sebagai “iPod broadcasting” alias siaran dengan menggunakan iPod. Berbeda dengan radio FM/AM konvensional, *podcast* tak menyiarankan siarannya secara linear. *Podcast* yang serupa dengan Youtube itu merupakan platform siaran suara on demand. 
 
-Menilik sejarahnya, podcast lahir seiring kelahiran iPod bikinan Apple yang diperkenalkan Steve Jobs pada 2001. Podcast bisa dibilang sebagai “iPod broadcasting” alias siaran dengan menggunakan iPod. Berbeda dengan radio FM/AM konvensional, podcast tak menyiarankan siarannya secara linear. Podcast yang serupa dengan Youtube itu merupakan platform siaran suara on demand. 
-
-Sempat meledak di awal kemunculannya lebih dari satu dekade silam, podcast kini kembali menjadi pilihan, terutama di Amerika dan Inggris. Tren ini tampaknya juga akan mewabah hingga ke regional lain, termasuk negara-negara Asia.
+Sempat meledak di awal kemunculannya lebih dari satu dekade silam, *podcast* kini kembali menjadi pilihan, terutama di Amerika dan Inggris. Tren ini tampaknya juga akan mewabah hingga ke regional lain, termasuk negara-negara Asia.
 
 ###### Bukan Ancaman Bagi Radio
 
-Kembalinya podcast sebagai salah satu pilihan ternyata tidak dianggap sebagai ancaman bagi para praktisi siaran radio. Alih-alih, platform ini disebut bisa menjadi pelengkap yang bagus.
+Kembalinya *podcast* sebagai salah satu pilihan ternyata tidak dianggap sebagai ancaman bagi para praktisi siaran radio. Alih-alih, platform ini disebut bisa menjadi pelengkap yang bagus.
 
-Eks penyiar 96,7 Hitz FM Adit 'Insomnia' berpandangan bahwa kemunculan format digital apapun sebenarnya sudah menjadi ancaman bagu radio. Namun, podcast sendiri, menurutnya, dibuat oleh orang-orang yang mungkin tidak punya keahlian dasar penyiaran, sehingga para praktisi radio tidak usah khawatir 'lapaknya' direbut oleh penyiar podcast. [^2]
+Eks penyiar 96,7 Hitz FM Adit 'Insomnia' berpandangan bahwa kemunculan format digital apapun sebenarnya sudah menjadi ancaman bagu radio. Namun, podcast sendiri, menurutnya, dibuat oleh orang-orang yang mungkin tidak punya keahlian dasar penyiaran, sehingga para praktisi radio tidak usah khawatir 'lapaknya' direbut oleh penyiar *podcast*. [^2]
 
 
 ##### Kelebihan Podcast
 
-Jadi apa sebenarnya kelebihan podcast dibanding radio atau dengarin rekaman audio MP3?
+Jadi apa sebenarnya kelebihan *podcast* dibanding radio atau dengarin rekaman audio MP3?
 
-* Ada banyak pilihan podcast yang bisa Anda dengar. Ada ratusan kategori dan puluhan atau bahkan ratusan ribu podcast yang bisa Anda pilih sesuai dengan minat dan hobi Anda. Bandingkan dengan radio, ada berapa banyak stasiun radio di kota Anda? Ada radio untuk orang bisnis, radio untuk wanita dan sebagainya, tapi ada berapa banyak? Paling juga 15-an.
+* Ada banyak pilihan *podcast* yang bisa Anda dengar. Ada ratusan kategori dan puluhan atau bahkan ratusan ribu *podcast* yang bisa Anda pilih sesuai dengan minat dan hobi Anda. Bandingkan dengan radio, ada berapa banyak stasiun radio di kota Anda? Ada radio untuk orang bisnis, radio untuk wanita dan sebagainya, tapi ada berapa banyak? Paling juga 15-an.
 
 * Tidak ada iklan berlebihan seperti radio, yang rasanya tiap 10 menit ada iklan atau selingan lagu.
 
-* Anda bisa mendengarkan podcast sesuai dengan waktu yang Anda miliki. Jadi misal Anda jogging jam 5 pagi, Anda bisa mendengarkan podcast yang bermanfaat atau yang Anda sukai. Kalau radio jam 5 pagi ya cuma lagi instrumen doang he..he.. karena penyiar radio masih tidur 
+* Anda bisa mendengarkan *podcast* sesuai dengan waktu yang Anda miliki. Jadi misal Anda jogging jam 5 pagi, Anda bisa mendengarkan *podcast* yang bermanfaat atau yang Anda sukai. Kalau radio jam 5 pagi ya cuma lagi instrumen doang he..he.. karena penyiar radio masih tidur 
 
-* Anda otomatis menerima episode baru di smartphone (sudah di download dan siap didengarkan) dari podcast yang Anda langganan. Jadi tidak perlu repot-repot lagi harus download di komputer, lalu pindahkan filenya ke smartphone (itu juga kalau Anda ngerti caranya he..he..).
+* Anda otomatis menerima episode baru di smartphone (sudah di download dan siap didengarkan) dari *podcast* yang Anda langganan. Jadi tidak perlu repot-repot lagi harus download di komputer, lalu pindahkan filenya ke smartphone (itu juga kalau Anda ngerti caranya he..he..).
 
-* Podcast yang sudah didengar, bisa otomatis dihapus sehingga tidak menghabiskan space memori di smartphone Anda.
+* *Podcast* yang sudah didengar, bisa otomatis dihapus sehingga tidak menghabiskan space memori di smartphone Anda.
 
-Itu kelebihan utama dari podcast yang saya sukai. Jadi itu sebabnya saya juga tidak pernah dengar radio. Buat apa? Kita dipaksa mendengarkan sesuatu yang kadang tidak kita sukai. Setelah itu dicekokin iklan lagi he..he.. Goodbye Radio 
+Itu kelebihan utama dari *podcast* yang saya sukai. Jadi itu sebabnya saya juga tidak pernah dengar radio. Buat apa? Kita dipaksa mendengarkan sesuatu yang kadang tidak kita sukai. Setelah itu dicekokin iklan lagi he..he.. Goodbye Radio 
 
 
 ##### Bagaimana Cara Mendengarkan Podcast?
 
 Dengan menggunakan aplikasi seperti Soundcloud pada perangkat telepon pintar yang dimiliki, kalian sudah dapat mengakses berbagai pilihan kanal yang berasal dari dalam hingga luar negeri.
 
-###### List Aplikasi Podcast Rekomendasi
+###### Rekomendasi Aplikasi *Podcast*
 
 * Podcast – Untuk pengguna iPhone gue rekomendasi banget aplikasi bawaan mereka yang namanya -guess what?- Podcast 
 
@@ -91,7 +92,7 @@ Dengan menggunakan aplikasi seperti Soundcloud pada perangkat telepon pintar yan
 
 ##### Best Indonesian Podcast
 
-Ada banyak sekali *podcast* yang bisa kita akses dan dengarkan. Lalu, apa saja pilihan kanal podcast yang ada di Indonesia saat ini? Bagian ini akan saya bahas dalam kesempatan lain.
+Ada banyak sekali *podcast* yang bisa kita akses dan dengarkan. Lalu, apa saja pilihan kanal *podcast* yang ada di Indonesia saat ini? Bagian ini akan saya bahas dalam kesempatan lain.
 
 Atau dengarkan *podcast* berikut untuk mengenal lebih jauh tentang *podcast* yang ada di Indonesia [^3].
 
