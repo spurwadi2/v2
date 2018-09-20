@@ -67,7 +67,7 @@ Kecerdasan buatan ini akan sangat membantu dalam pengenalan objek pada bingkai k
 
 Tidak cukup dalam hal fotografi, buat kamu yang juga suka merekam apa saja di sekitarmu, Huawei nova 3i memiiki keunggulan resolusi Full HD Video dengan hasil jernih dan tajam.
 
-Tak ketinggalan, terdapat fitur 16x Super Slow Motion yang dapat merekam video dalam mode gerak lambat hingga 480 frame per detik [^2].
+Tak ketinggalan, terdapat fitur 16x Super Slow Motion yang dapat merekam video dalam mode gerak lambat hingga 480 frame per detik [^1].
 
 Sejujurnya saya belum pernah secara langsung *menjajal* kualitas kamera ponsel ini. Namun saya yakin, dengan empat kamera AI 24 MP + 2 MP di bagian depan dan 16 MP + 2 MP di belakang, HUAWEI nova 3i mampu menunjukkan hasil kamera yang terbaik di kelasnya.
 
@@ -89,15 +89,17 @@ Tidak perlu lagi membeli memori tambahan (SD Card) pada ponsel ini. Tidak perlu 
 
 Penilaian performa sebuah smartphone bukan hanya dinilai dari seberapa kuat dia mampu mengangkat game berat dengan pengaturan grafis terbaik, tetapi juga dilihat dari seberapa efektifkah sebuah smartphone mampu menjalankan bermacam aplikasi dalam waktu bersamaan dan berapa lama daya baterainya mampu bertahan.
 
-Dengan chipset Hisilicon Kirin 710 berukuran 12nm dipadukan dengan CPU Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53) dan RAM 4GB akan membuat Huawei nova 3i lebih *wus-wus* tetapi tetap hemat daya.
+Dengan chipset Hisilicon Kirin 710 berukuran 12nm dipadukan dengan CPU Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53) pasti akan membuat Huawei nova 3i ini lebih *wus-wus* tapi tetap hemat daya.
+
+Dalam urusan *multitasking*, saya yakin RAM 4GB sudah lebih dari cukup untuk menjalankan berbagai macam game dan aplikasi.
 
 <a href="https://clixtrac.com/banner/click.php?banner=268808"><img src="{{ site.baseurl }}assets/images/huawei/last.JPG" alt="Huawei Nova 3i" width="80%" /></a>
 
-Ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengikuti kehidupan digital dan mewakili gaya hidup kekinian yang selalu up to date dan serba terdigitalisasi.
+Ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengikuti kehidupan digital dan mewakili gaya hidup kekinian yang selalu *up to date* dan serba terdigitalisasi.
 
-**Huawei nova 3i** telah mewakili kebutuhan smartphone bagi generasi milenial. Desain luar yang inik & kece, kamera berteknologi tinggi dan performa luar biasa menjadikan smartphone ini sebagai pilihan smartphone impian yang harus dimiliki di tahun 2018!
+**Huawei nova 3i** [^2] telah mewakili kebutuhan smartphone bagi generasi milenial. Desain luar yang inik & *kece*, kamera berteknologi tinggi dan performa luar biasa menjadikan smartphone ini sebagai pilihan yang harus kamu miliki di tahun 2018!
 
 -----
-[^1]: [GIVEAWAY: 3 Huawei Nova 3i - Urbandigital](https://clixtrac.com/banner/click.php?banner=268808)
+[^1]: [Huawei nova 3i: Four AI Cameras](https://consumer.huawei.com/id/phones/nova3i/)
 
-[^2]: [Huawei nova 3i: Four AI Cameras](https://consumer.huawei.com/id/phones/nova3i/)
+[^2]: [GIVEAWAY: 3 Huawei Nova 3i - Urbandigital](https://clixtrac.com/banner/click.php?banner=268808)
