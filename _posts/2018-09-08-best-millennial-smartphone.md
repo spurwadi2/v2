@@ -12,7 +12,9 @@ author: sigit
 comments: true
 ---
 
-Kebutuhan penggunaan ponsel pintar saat ini semakin beragam. Banyak sekali perubahan dan inovasi yang terjadi pada ponsel pintar dibandingkan saat ponsel masih digunakan hanya untuk kebutuhan komunikasi saja.
+Kebutuhan penggunaan ponsel pintar saat ini semakin beragam.
+
+Banyak sekali perubahan dan inovasi yang terjadi pada ponsel pintar dibandingkan saat ponsel masih digunakan hanya untuk kebutuhan komunikasi saja.
 
 Sejalan dengan perubahan kebutuhan tersebut, smartphone telah menjadi sesuatu yang lebih dari sekedar sarana komunikasi biasa. Namun sudah menjelma seperti komputer dan kamera saku berteknologi tinggi, lengkap dengan kemampuan penunjang produktifitas dan multimedia.
 
