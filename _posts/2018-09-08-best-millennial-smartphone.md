@@ -98,6 +98,6 @@ Ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengikuti kehidup
 **Huawei nova 3i** telah mewakili kebutuhan smartphone bagi generasi milenial. Desain luar yang inik & kece, kamera berteknologi tinggi dan performa luar biasa menjadikan smartphone ini sebagai pilihan smartphone impian yang harus dimiliki di tahun 2018!
 
 -----
-[^1]: [Huawei Nova 3i - Urbandigital](https://urbandigital.id/giveaway-3-huawei-nova-3i/)
+[^1]: [GIVEAWAY: 3 Huawei Nova 3i - Urbandigital](https://clixtrac.com/banner/click.php?banner=268808)
 
 [^2]: [Huawei nova 3i: Four AI Cameras](https://consumer.huawei.com/id/phones/nova3i/)
