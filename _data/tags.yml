@@ -6,7 +6,7 @@ academic:
 android:
   name: android
   title: Android Invasion
-  description: False
+  description: Are You Smarter Than Your Phone?
   cover: assets/images/android.png
 cogito:
   name: cogito
