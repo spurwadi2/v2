@@ -13,7 +13,7 @@ on Friday, 23 Mar 2018 in Yogyakarta Indonesia
 Poke me for inquiry: sigit [at] purwadi.web.id
 -->
 <head>
-
+{% include analytics.html %}
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -41,21 +41,9 @@ Poke me for inquiry: sigit [at] purwadi.web.id
             }
         </style>
     <![endif]-->
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google_analytics }}');
-    </script>
-    <!-- End of Google Analytics -->
  
     <!-- This tag outputs SEO meta+structured data and other important settings -->
 {% include head.html %}
-
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
@@ -147,8 +135,8 @@ Poke me for inquiry: sigit [at] purwadi.web.id
     {% endif %}
 
 
-<!-- Add Google Analytics  -->
-{% include analytics.html %}
+<!-- Add Google Analytics (move to header tag) -->
+<!-- {% include analytics.html %} -->
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
     {% if page.class == "post-template" %}
