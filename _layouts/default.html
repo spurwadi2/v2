@@ -42,6 +42,17 @@ Poke me for inquiry: sigit [at] purwadi.web.id
         </style>
     <![endif]-->
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.google_analytics }}');
+    </script>
+    <!-- End of Google Analytics -->
+ 
     <!-- This tag outputs SEO meta+structured data and other important settings -->
 {% include head.html %}
 
