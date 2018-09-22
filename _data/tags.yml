@@ -18,8 +18,8 @@ comodos:
   title: Wkwk Land..
   description: Show your “WKWK LAND” pride!
   cover: assets/images/comodo-dragon.jpg
-data-is-beautiful:
-  name: data-is-beautiful
+data:
+  name: data
   title: Data Is Beautiful
   description: False
   cover: False
@@ -61,7 +61,7 @@ how-tos:
 islam:
   name: islam
   title: Islam 
-  description: There is no god except Allah and Muhammad is a messenger of Allah
+  description: There is no God except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
 linux:
   name: linux
