@@ -49,29 +49,7 @@
 
     <meta name="theme-color" content="#000000">
 
-    <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "Website",
-    "publisher": {
-        "@type": "Organization",
-        "name": "{{ site.title }}",
-        "logo": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}"
-    },
-    "url": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}",
-    "image": {
-        "@type": "ImageObject",
-        "url": "{% if page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_cover %}{{ site.url }}{{ site.baseurl }}{{ tag_cover }}{% endif %}{% elsif page.cover %}{{ site.url }}{{ site.baseurl }}{{ page.cover }}{% else %}{{ site.url }}{{ site.baseurl }}{{ site.cover }}{% endif %}",
-        "width": 2000,
-        "height": 666
-    },
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
-    },
-    "description": "{% include dynamic_site_description.html %}"
-    }
-    </script>
+{% include schema.html %}
 
     {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
     {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
