@@ -1,0 +1,70 @@
+  <script type="application/ld+json">
+  {
+  	"@context": "https://schema.org",
+      "@type": "{% if page.title %}Article{% else %}WebSite{% endif %}",    
+      "url": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}",
+      "description": "{% include dynamic_site_description.html %}",
+      "image": {
+          "@type": "ImageObject",
+          "url": "{% if page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_cover %}{{ site.url }}{{ site.baseurl }}{{ tag_cover }}{% endif %}{% elsif page.cover %}{{ site.url }}{{ site.baseurl }}{{ page.cover }}{% else %}{{ site.url }}{{ site.baseurl }}{{ site.cover }}{% endif %}",
+          "width": 2000,
+          "height": 666
+      },
+      {% if page.title %}
+      "headline": "{{ page.description }}",
+      "datePublished": "{{ page.date }}",
+      {% endif %}
+      "author": {
+      	"@type": "Person",
+        	"name": "Sigit Purwadi",
+          "gender": "male",
+          "image": "{{ site.url }}{{ site.baseurl }}assets/images/sigit.jpg",
+          "jobTitle": "Educational Technologist",
+          "disambiguatingDescription": "Educational Technology (EdTech) specialist based in Yogyakarta, Indonesia",
+          "alumniof": {
+          	"@type": "Organization",
+              "name": "Universitas Negeri Yogyakarta",
+              "url": "https://www.uny.ac.id"
+          },
+          "nationality": "Indonesia",
+          "brand": {
+          	"@type": "Organization",
+            	"name": "Art Cyber Tech",
+            	"logo": "{{ site.url }}{{ site.baseurl }}assets/images/artcytech.gif",
+            	"sameAs": [
+              	"https://www.twitter.com/artcytech",
+              	"https://www.facebook.com/4rtcytech",
+              	"https://instagram.com/artcytech"
+            	]
+          },
+          "url": "https://sigit.purwadi.web.id",
+          "sameAs": [
+            "https://www.twitter.com/S_Purwadi",
+            "https://www.facebook.com/SigitOfficial",
+            "https://www.linkedin.com/in/SPurwadi",
+            "https://instagram.com/S_Purwadi",
+            "https://plus.google.com/+SigitPurwadiOfficial",
+            "https://www.youtube.com/user/spurwadi",
+            "https://www.soundcloud.com/S_Purwadi",
+            "https://www.pinterest.com/S_Purwadi",
+            "https://blog.purwadi.web.id"
+          ]
+      },
+      
+      "publisher": {
+          "@type": "Organization",
+          "name": "Art Cyber Tech",
+          "logo": "{{ site.url }}{{ site.baseurl }}assets/images/artcytech.gif",
+          "sameAs": [
+            "https://www.twitter.com/artcytech",
+            "https://www.facebook.com/4rtcytech",
+            "https://instagram.com/artcytech"
+          ]
+  	},
+      
+      "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
+      }
+  }
+  </script>
