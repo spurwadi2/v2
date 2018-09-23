@@ -1,92 +1,85 @@
-# Jekyll configuration
-markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-highlighter: rouge
-paginate: 100 # it will paginate after this number
-paginate_path: "page:num"
-language: 'en-uk'
-
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-url: https://blog.purwadi.web.id
-baseurl: /
-CNAME: blog.purwadi.web.id
+url             : https://blog.purwadi.web.id
+baseurl         : /
+CNAME           : blog.purwadi.web.id
 
 # Website info
-title: Sigit Purwadi's Blog
-description: You're Nobody Until You're Talked About
-cover: assets/images/blog-cover.jpg
-logo: # assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+title           : Sigit Purwadi's Blog
+description     : You're Nobody Until You're Talked About
+cover           : assets/images/blog-cover.jpg
+logo            : # assets/images/blog-icon.png
+logo_dark       : assets/images/favicon.png
+favicon         : assets/images/favicon.png
 # production_url: https://blog.purwadi.web.id/v2/
-# source_url: https://github.com/spurwadi2/v2/
-
-# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
-readtime: true
-# Specify the average Words per minute. If not defined, 180 will be used
-wpm: 200
+# source_url    : https://github.com/spurwadi2/v2/
 
 # Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+twitter         : S_Purwadi # replace by your username
+facebook        : SigitOfficial # replace by your username
+google_plus     : https://plus.google.com/111158361004969556148
+
+# Social media meta tag
+twitter_card_images: twitter-images-280x150.jpg
+og_images       : OG-images-1200x1200.jpg
+facebook_app_id : 106994376015650
+facebook_user_id: 100000333350212
+facebook_page_id: 309668355825706
+
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+# Specify the average Words per minute. If not defined, 180 will be used
+read-time       : true
+wpm             : 200
+navigation      : True # show the navbar links
+subscribers     : True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: S_Purwadi # replace by your username
-facebook: SigitOfficial # replace by your username
-google_plus: https://plus.google.com/111158361004969556148
-
-# Social meta tag
-twitter_card_images: twitter-images-280x150.jpg
-og_images:           OG-images-1200x1200.jpg
-facebook_app_id:     106994376015650
-facebook_user_id:    100000333350212
-facebook_page_id:    309668355825706
 
 # Disqus
-disqus: True
+disqus          : True
 disqus_shortname: spurwadi # replace with your disqus username
 
-# Google Analytics
+# Google Verify & Analytics
 google_analytics: UA-61535015-2 # replace with your GA tracking identifier
-# Google Verify
-google_verify:     oEfgtpe8RoaSXmpUaa-vPjD2D-l6jv5uFiJB7mFOyFA
+google_verify   : oEfgtpe8RoaSXmpUaa-vPjD2D-l6jv5uFiJB7mFOyFA
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:       732F0388A96A6CD82BBC5006CF4E2A49
+bing_verify     : 732F0388A96A6CD82BBC5006CF4E2A49
+
+# Jekyll configuration
+markdown        : kramdown
+kramdown        :
+  input         : GFM
+  auto_ids      : true
+  footnote_nr   : 1
+  entity_output : as_char
+  toc_levels    : 1..6
+  enable_coderay: false
+highlighter     : rouge
+paginate        : 100 # it will paginate after this number
+paginate_path   : "page:num"
+language        : 'en-uk'
 
 # Permalinks
-permalink: :title
-# permalink: /author/:author
-# permalink: /tag/:tag
+permalink       : :title
+# permalink     : /author/:author
+# permalink     : /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed, jekyll-mentions]
+plugins         : [jekyll-paginate, jekyll-feed, jekyll-mentions]
 
-feed:
-  path: feed.xml
+feed            :
+  path          : feed.xml
 
-jekyll-mentions:
-  base_url: https://twitter.com
+jekyll-mentions :
+  base_url      : https://twitter.com
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+#compress_html   : # see http://jch.penibelst.de/
+#  comments      : all
 
 # Settings for builing master branch with travis-ci
 # with jekyll-travis
-
 # Settings for deploy rake task
 # Username and repo of Github repo, e.g.
 # https://github.com/USERNAME/REPO.git
@@ -94,32 +87,32 @@ jekyll-mentions:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: False
-lsi: False
-username: spurwadi2
-repo: v2
-branch: master
-relative_source: ../v2/
-destination: ../v2-pages/
-production_url:  https://blog.purwadi.web.id/
-source_url:  https://github.com/spurwadi2/v2/
+safe            : False
+lsi             : False
+username        : spurwadi2
+repo            : v2
+branch          : master
+relative_source : ../v2/
+destination     : ../v2-pages/
+production_url  :  https://blog.purwadi.web.id/
+source_url      :  https://github.com/spurwadi2/v2/
 
-include: [".htaccess"]
-
-exclude:
-  - assets/css
-  - node_modules
-  - vendor
-  - .travis.yml
-  - Gemfile
-  - Gemfile.lock
-  - GHOST.txt
-  - gulpfile.js
-  - LICENSE
-  - package.json
-  - Rakefile
-  - README.md
-  - script.py
-  - changelog.md
-  - "*.Rmd"
-  - .git*
+include         : [".htaccess"]
+exclude         :
+                - assets/css
+                - node_modules
+                - vendor
+                - .travis.yml
+                - Gemfile
+                - Gemfile.lock
+                - GHOST.txt
+                - gulpfile.js
+                - LICENSE
+                - package.json
+                - Rakefile
+                - README.md
+                - script.py
+                - changelog.md
+                - "*.Rmd"
+                - .git*
+                - Gruntfile.js
