@@ -21,7 +21,7 @@
     };
 
     if(!document.getElementById('fit-vids-style')) {
-      // appendStyles: https://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js
+      /* appendStyles: https://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js */
       var head = document.head || document.getElementsByTagName('head')[0];
       var css = '.fluid-width-video-container{flex-grow: 1;width:100%;}.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}';
       var div = document.createElement("div");
@@ -54,13 +54,13 @@
       }
 
       var $allVideos = $(this).find(selectors.join(','));
-      $allVideos = $allVideos.not('object object'); // SwfObj conflict patch
-      $allVideos = $allVideos.not(ignoreList); // Disable FitVids on this video.
+      $allVideos = $allVideos.not('object object'); /* SwfObj conflict patch */
+      $allVideos = $allVideos.not(ignoreList); /* Disable FitVids on this video. */
 
       $allVideos.each(function(){
         var $this = $(this);
         if($this.parents(ignoreList).length > 0) {
-          return; // Disable FitVids on this video.
+          return; /* Disable FitVids on this video. */
         }
         if (this.tagName.toLowerCase() === 'embed' && $this.parent('object').length || $this.parent('.fluid-width-video-wrapper').length) { return; }
         if ((!$this.css('height') && !$this.css('width')) && (isNaN($this.attr('height')) || isNaN($this.attr('width'))))
@@ -82,8 +82,8 @@
     });
   };
 
-  // Internal counter for unique video names.
+  /* Internal counter for unique video names. */
   $.fn.fitVids._count = 0;
 
-// Works with either jQuery or Zepto
+/* Works with either jQuery or Zepto */
 })( window.jQuery || window.Zepto );

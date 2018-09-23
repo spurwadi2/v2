@@ -128,7 +128,7 @@ $(function(){
 	    });
 	};
 
-	// var textNodes = getTextNodesIn($("p, h1, h2, h3"));
+	/* var textNodes = getTextNodesIn($("p, h1, h2, h3")); */
 	var textNodes = getTextNodesIn($("*"));
 
 
@@ -169,7 +169,7 @@ $(function(){
 
 			for (var j = 0; j < wordsInTextNodes[i].length; j++) {
 
-				// Only change a tenth of the words each round.
+				/* Only change a tenth of the words each round. */
 				if (Math.random() > 1/10) {
 
 					continue;
@@ -213,7 +213,7 @@ $(function(){
 		return messyPart.slice(0, a) + messyPart[b] + messyPart.slice(a+1, b) + messyPart[a] + messyPart.slice(b+1);
 	}
 
-	// From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+	/* From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random */
 	function getRandomInt(min, max) {
 		
 		return Math.floor(Math.random() * (max - min + 1) + min);

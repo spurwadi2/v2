@@ -1,4 +1,4 @@
-// Code snippet inspired by https://github.com/douglasrodrigues5/ghost-blog-infinite-scroll
+/* Code snippet inspired by https://github.com/douglasrodrigues5/ghost-blog-infinite-scroll */
 $(function ($) {
     var currentPage = 1;
     var pathname = window.location.pathname;
@@ -13,7 +13,7 @@ $(function ($) {
     var lastWindowHeight = window.innerHeight;
     var lastDocumentHeight = $document.height();
 
-    // remove hash params from pathname
+    /* remove hash params from pathname */
     pathname = pathname.replace(/#(.*)$/g, '').replace('/\//g', '/');
 
     function onScroll() {
@@ -35,35 +35,35 @@ $(function ($) {
     }
 
     function infiniteScroll () {
-        // return if already loading
+        /* return if already loading */
         if (isLoading) {
             return;
         }
 
-        // return if not scroll to the bottom
+        /* return if not scroll to the bottom */
         if (lastScrollY + lastWindowHeight <= lastDocumentHeight - buffer) {
             ticking = false;
             return;
         }
 
-        // return if currentPage is the last page already
+        /* return if currentPage is the last page already */
         if (currentPage === maxPages) {
             return;
         }
 
         isLoading = true;
 
-        // next page
+        /* next page */
         currentPage++;
 
-        // Load more
+        /* Load more */
         var nextPage = pathname + 'page' + currentPage + '/';
 
         $.get(nextPage, function (content) {
             $result.append($(content).find('.post').hide().fadeIn(100));
 
         }).fail(function (xhr) {
-            // 404 indicates we've run out of pages
+            /* 404 indicates we've run out of pages */
             if (xhr.status === 404) {
                 window.removeEventListener('scroll', onScroll, {passive: true});
                 window.removeEventListener('resize', onResize);
