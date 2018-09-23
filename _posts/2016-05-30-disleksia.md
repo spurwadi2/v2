@@ -96,11 +96,6 @@ Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi 
 
 Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.
 
-## Metode Belajar Anak Disleksia
-
-Baca lebih lanjut tentang [Metode Belajar Anak Disleksia](metode-belajar-disleksia/)
-
-
 [^1]: [https://www.docdoc.com/id/id/info/condition/disleksia](https://www.docdoc.com/id/id/info/condition/disleksia)
 [^2]: [http://www.alodokter.com/disleksia](http://www.alodokter.com/disleksia)
 [^3]: [https://id.wikipedia.org/wiki/Disleksia](https://id.wikipedia.org/wiki/Disleksia)
@@ -128,7 +123,6 @@ $(function(){
 	    });
 	};
 
-	/* var textNodes = getTextNodesIn($("p, h1, h2, h3")); */
 	var textNodes = getTextNodesIn($("*"));
 
 
@@ -169,7 +163,6 @@ $(function(){
 
 			for (var j = 0; j < wordsInTextNodes[i].length; j++) {
 
-				/* Only change a tenth of the words each round. */
 				if (Math.random() > 1/10) {
 
 					continue;
@@ -213,7 +206,6 @@ $(function(){
 		return messyPart.slice(0, a) + messyPart[b] + messyPart.slice(a+1, b) + messyPart[a] + messyPart.slice(b+1);
 	}
 
-	/* From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random */
 	function getRandomInt(min, max) {
 		
 		return Math.floor(Math.random() * (max - min + 1) + min);
@@ -222,6 +214,5 @@ $(function(){
 
 	setInterval(messUpWords, 50);
 });
-
 
 </script>
