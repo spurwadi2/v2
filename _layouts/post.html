@@ -27,7 +27,7 @@ into the {body} of the default.hbs template -->
             <header class="post-full-header">
                 <h1 class="post-full-title">{{ page.title }}</h1>
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="{{ page.date | date:'%A, %e %B %Y' }}">{{ page.date | date:'%A, %e %B %Y' }}</time>
+                    <time class="post-full-meta-date" datetime="{{ page.date | date:'%A, %e %b %Y' }}">{{ page.date | date:'%A, %e %b %Y' }}</time>
                     {% if page.tags.size > 0 %}
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
@@ -39,16 +39,10 @@ into the {body} of the default.hbs template -->
                         {% endfor %}
                     {% endif %}
                     <!-- Reading time section -->
-                    {% if site.wpm %}
-                    {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
-                    {% else %}
-                    {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
-                    {% endif %}
-                    {% if site.readtime %}
-                        <span class="date-divider">∙</span>{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}
-                        {% if readtime > 1.5 %}{{ readtime | round }} minutes read{% endif %}
-                        {% if readtime < 1 %}Less than 1 minute read{% endif %}
-                    {% endif %}
+                    {% assign readtime = content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
+                        <span class="date-divider">∙</span>{% if readtime > 1 and readtime < 1.5 %}1 min read{% endif %}
+                        {% if readtime > 1.5 %}{{ readtime | round }} min read{% endif %}
+                        {% if readtime < 1 %}Less than 1 min read{% endif %}
                 </section>
             </header>
 
