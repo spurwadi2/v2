@@ -67,7 +67,7 @@ Di tahun 2018 ini, ada berbagai macam merk dan tipe smartphone yang berlomba-lom
 
 ***Apa yang membedakan kamera Huawei dari smarphone lain?***
 
-<a href="https://clixtrac.com/banner/click.php?banner=268808"><img src="{{ site.baseurl }}assets/images/huawei/cam.JPG" alt="Huawei Nova 3i" width="80%" /></a>
+<a href="https://clixtrac.com/banner/click.php?banner=268808" target="_blank"><img src="{{ site.baseurl }}assets/images/huawei/cam.JPG" alt="Huawei Nova 3i" width="80%" /></a>
 
 Kita tahu bahwa Huawei melalui seri P20 Pro-nya merupakan salah satu produsen smartphone yang memiliki ponsel *flagship* dengan kamera terbaik. [^2]
 
@@ -126,7 +126,7 @@ Saya yakin RAM 4GB sudah lebih dari cukup untuk  *multitasking* berbagai macam g
 
 **Konklusi..**
 
-<a href="https://clixtrac.com/banner/click.php?banner=268808"><img src="{{ site.baseurl }}assets/images/huawei/last.JPG" alt="Huawei Nova 3i" width="80%" /></a>
+<a href="https://clixtrac.com/banner/click.php?banner=268808" target="_blank"><img src="{{ site.baseurl }}assets/images/huawei/last.JPG" alt="Huawei Nova 3i" width="80%" /></a>
 
 Pada akhirnya, ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengimbangi kehidupan digital dan mewakili gaya hidup mereka yang kekinian, *up to date*, dan serba terdigitalisasi.
 
