@@ -18,11 +18,19 @@ Banyak sekali perubahan dan inovasi yang terjadi pada ponsel pintar dibandingkan
 
 Sejalan dengan perubahan kebutuhan tersebut, smartphone telah menjadi sesuatu yang lebih dari sekedar sarana komunikasi biasa. Namun sudah menjelma seperti komputer dan kamera saku berteknologi tinggi, lengkap dengan kemampuan penunjang produktifitas dan multimedia.
 
-Pada kenyataannya, produsen smartphone saat ini telah banyak menawarkan berbagai jenis tipe, merek, fungsi dan fitur yang membuat orang-orang termasuk generai muda justru merasa tersesat di antara semua pilihan tersebut.
+Tentu saja, kehadiran smartphone ini sangat berarti bagi generasi kita. Gawai ternyata telah mengubah budaya, *lifestyle*, mengubah cara berkomunikasi, menghubungkan kita dengan banyak informasi, dan membuat hidup lebih praktis dan mudah.
 
-Smartphone untuk generasi milenial menurut saya bukan hanya tentang mengikuti *hype* dan *trend*, tetapi juga harus menuruti apa yang sebenarnya diinginkan oleh generasi milenial, memperhatikan peran ponsel dalam kehidupan mereka, dan memberikan fitur yang disesuaikan dengan kebutuhan yang sebenarnya.
+Penggunaan smartphone bagi saya pribadi sudah pada level bagaimana sebuah ponsel pintar mampu menunjang produktifitas saya dalam menjalani keseharian sebagai mahasiswa.
 
-Dengan kata lain, smartphone dambaan bagi anak muda kekinian haruslah smartphone yang dapat mengikuti kehidupan digital dan mewakili gaya hidup mereka yang selalu *up to date* dan serba terdigitalisasi.
+Sebagaimana sudah saya tulis dalam artikel [Menjadi Mahasiswa 'Hi-Tech' Kekinian]({{ site.baseurl }}menjadi-mahasiswa-hi-tech), kehidupan saya sehari-hari sangat terbantu dengan adanya smartphone yang saya miliki.
+
+Oleh karena itu, saat membeli smartphone saya pasti akan sangat mempertimbangkan smartphone apa yang sesuai dengan kebutuhan saya.
+
+Namun pada kenyataannya, produsen smartphone saat ini telah banyak menawarkan berbagai jenis tipe, merek, fungsi dan fitur yang membuat orang-orang termasuk generasi muda seperti saya justru merasa tersesat di antara semua pilihan tersebut.
+
+Smartphone untuk generasi milenial menurut saya bukan hanya tentang mengikuti *hype* dan *trend* saja, tetapi juga harus menuruti apa yang sebenarnya diinginkan oleh generasi milenial, memperhatikan peran ponsel dalam kehidupan mereka, dan memberikan fitur yang disesuaikan dengan kebutuhan yang sebenarnya.
+
+Dengan kata lain, smartphone dambaan bagi anak muda milenial haruslah smartphone yang dapat mengikuti kehidupan digital dan mewakili gaya hidup mereka yang selalu *up to date*, kekinian, dan serba terdigitalisasi.
 
 <a href="https://clixtrac.com/banner/click.php?banner=268808" target="_blank"><img src="https://i0.wp.com/clixtrac.com/banner/268808.jpg" alt="Urbandigital" title="Urbandigital" border="0" width="80%" /></a>
 
@@ -47,9 +55,9 @@ Dilihat dari bentuk fisiknya memang sudah sangat *millennial-minded*, terkesan m
 
 Selain menawarkan keunikan pada kaca belakangnya, layar 6,3 inch dengan resolusi FHD+ (2340 x 1080) pada layar depan menampilkan pandangan yang luas dan jernih.
 
-Kerapatan dan warna tone pada layar sudah sangat pas disesuaikan untuk penggunaan sehari-hari, misalnya untuk sekedar melihat hasil kamera, menonton film, atau bermain game.
+Kerapatan dan warna tone pada layar sudah sangat pas disesuaikan untuk penggunaan sehari-hari, misalnya untuk streaming film, bermain game, atau sekedar melihat hasil kameranya yang canggih.
 
-#### Bukan hanya sekedar kamera
+#### Kecerdasan Kamera
 
 Hampir semua generasi milenial saat ini pasti sepakat bahwa kamera adalah fitur terpenting dari sebuah smartphone.
 
