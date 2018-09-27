@@ -84,14 +84,14 @@ Tak ketinggalan, terdapat fitur *Augmented Reality* dengan nama QMoji yang dapat
 
 Selain itu, mode 16x Super Slow Motion-nya juga dapat merekam video dalam mode gerak lambat hingga 480 frame per detik [^1].
 
-Sejujurnya saya belum pernah secara langsung *menjajal* kualitas kamera ponsel ini. Namun saya yakin dengan empat kamera AI 24 MP + 2 MP di bagian depan dan 16 MP + 2 MP di belakang, Huawei nova 3i mampu menunjukkan hasil kamera yang terbaik di kelasnya.
+Sejujurnya saya belum pernah secara langsung *menjajal* kualitas kamera ponsel ini. Namun saya yakin dengan empat kamera berteknologi AI 24 MP + 2 MP di bagian depan dan 16 MP + 2 MP di belakang, Huawei nova 3i mampu menunjukkan hasil kamera yang terbaik di kelasnya.
 
 
 #### Kapasitas penyimpanan yang besar
 
-Kualitas kamera dan pengunaanya pastilah berbanding lurus dengan penggunaan kapasitas penyimpanan.
+Kualitas kamera dan pengunaannya pastilah berbanding lurus dengan penggunaan kapasitas penyimpanan.
 
-Semakin banyak kamu mengambil gambar dan video maka semakin berkurang juga memori dalam ponselmu.
+Semakin banyak kamu mengambil gambar, semakin sering kamu merekam video, maka semakin berkurang juga memori dalam ponselmu.
 
 Atau kita mungkin sering mendengar ~~pepatah lama mengatakan~~,
 
@@ -99,13 +99,13 @@ Atau kita mungkin sering mendengar ~~pepatah lama mengatakan~~,
 
 *Kenapa bisa begitu? Apa penyebabnya?*
 
-Beberapa penyebab menurut Robert Merkel dari Monash University yang dikutip dari Kompas.com adalah karena *memori yang overload*, *cache yang berlebih*, dan *kebanyakan memasang aplikasi*. [^3]
+Beberapa penyebab menurut Robert Merkel dari Monash University yang dikutip dari Kompas.com, hal ini terjadi karena *memori yang overload*, *cache yang berlebih*, dan *terlalu banyak memasang aplikasi*. [^3]
 
 Namun kamu tak perlu khawatir karena Huawei nova 3i ini sudah menyiapkan 128GB pada total penyimpanan internalnya.
 
 <a href="https://clixtrac.com/banner/click.php?banner=268808" target="_blank"><img src="https://i0.wp.com/clixtrac.com/banner/268808.jpg" alt="Urbandigital" title="Urbandigital" border="0" width="80%" /></a>
 
-Saya rasa sudah tidak perlu lagi membeli memori tambahan untuk ponsel ini. Juga tidak masalah kalau kamu memasang banyak game dan aplikasi. 😂
+Saya rasa sudah tidak perlu lagi membeli memori tambahan untuk ponsel ini. Juga tidak terlalu masalah kalau kamu memasang banyak game dan aplikasi. 😂
 
 
 #### Performa luar biasa
@@ -116,7 +116,7 @@ Sebelum saya lanjutkan, ada beberapa pertanyaan:
 
 > *Seberapa puas kamu dengan kinerja ponselmu saat ini?*
 
-Penilaian performa sebuah smartphone bukan hanya dinilai dari seberapa kuat dia mampu mengangkat game berat dengan pengaturan grafis terbaik, tetapi juga dilihat dari seberapa efektif dan efisienkah sebuah smartphone mampu menjalankan bermacam aplikasi dalam waktu bersamaan dan berapa lama daya baterainya mampu bertahan.
+Penilaian performa sebuah smartphone bukan hanya dinilai dari seberapa kuat dia mampu mengangkat game berat dengan pengaturan grafis terbaik, tetapi juga dilihat dari seberapa efektif dan efisien sebuah smartphone mampu menjalankan bermacam aplikasi dalam waktu bersamaan dan berapa lama daya baterainya mampu bertahan.
 
 Dengan chipset Hisilicon Kirin 710 berukuran 12nm dipadukan dengan CPU Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53) dinilai membuat Huawei nova 3i ini lebih *wus-wus* tetapi tetap hemat daya.
 
@@ -124,11 +124,13 @@ Dalam performa, Huawei nova 3i juga digadang sebagai smartphone pertama yang dil
 
 Saya yakin RAM 4GB sudah lebih dari cukup untuk  *multitasking* berbagai macam game dan aplikasi. Dampaknya adalah performa *multitasking* dan mode *split screen* di sejumlah aplikasi berjalan dengan halus dan lancar tanpa *lag & freeze*.
 
+**Konklusi..**
+
 <a href="https://clixtrac.com/banner/click.php?banner=268808"><img src="{{ site.baseurl }}assets/images/huawei/last.JPG" alt="Huawei Nova 3i" width="80%" /></a>
 
-Pada akhirnya, ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengimbangi kehidupan digital dan mewakili gaya hidup kekinian yang selalu *up to date* dan serba terdigitalisasi.
+Pada akhirnya, ponsel terbaik bagi generasi milenial adalah ponsel yang mampu mengimbangi kehidupan digital dan mewakili gaya hidup mereka yang kekinian, *up to date*, dan serba terdigitalisasi.
 
-[**Huawei nova 3i**](https://consumer.huawei.com/id/phones/nova3i/) [^3] telah mewakili kebutuhan smartphone bagi generasi milenial. Desain luar yang premium dan futuristik, kamera berteknologi tinggi, dan performa luar biasa menjadikan **smartphone ini memenuhi kriteria yang layak kamu miliki di tahun 2018!**
+[**Huawei nova 3i**](https://consumer.huawei.com/id/phones/nova3i/) telah mewakili kebutuhan smartphone bagi generasi milenial. Desain luar premium dan futuristik, kamera berteknologi tinggi, dan performa luar biasa telah membuat **smartphone ini memenuhi kriteria yang layak kamu miliki di tahun 2018!** [^4][^5]
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Desain mewah, warna yang sempurna, empat kamera membuat <a href="https://twitter.com/hashtag/HuaweiNova3i?src=hash&amp;ref_src=twsrc%5Etfw">#HuaweiNova3i</a> wajib menjadi temanmu mengarungi hari. Pesan <a href="https://twitter.com/hashtag/HuaweiNova3i?src=hash&amp;ref_src=twsrc%5Etfw">#HuaweiNova3i</a> sekarang di <a href="https://t.co/hRKhcKSxMQ">https://t.co/hRKhcKSxMQ</a> <a href="https://twitter.com/hashtag/oooo?src=hash&amp;ref_src=twsrc%5Etfw">#oooo</a> <a href="https://t.co/A1fZGJ6Y16">pic.twitter.com/A1fZGJ6Y16</a></p>&mdash; Huawei Mobile ID (@HuaweiMobileID) <a href="https://twitter.com/HuaweiMobileID/status/1044857398148706310?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -141,3 +143,5 @@ Pada akhirnya, ponsel terbaik bagi generasi milenial adalah ponsel yang mampu me
 [^3]: [Mengapa Makin Lama Dipakai, Gadget Makin Lemot?](https://tekno.kompas.com/read/2017/10/26/14140067/mengapa-makin-lama-dipakai-gadget-makin-lemot)
 
 [^4]: [GIVEAWAY: 3 Huawei Nova 3i - Urbandigital](https://clixtrac.com/banner/click.php?banner=268808)
+
+[^5]: [Huawei Mobile ID on Twitter](https://twitter.com/HuaweiMobileID)
