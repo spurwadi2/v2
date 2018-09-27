@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/huawei-nova-3i.jpg
+cover:  assets/images/huawei-nova3i.jpg
 navigation: True
 title: Smartphone Terbaik Untuk Generasi Milenial
 description: Apa saja yang harus dimiliki sebuah smartphone bagi generasi milenial?
