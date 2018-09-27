@@ -21,7 +21,7 @@ Satu pertanyaan yang selalu membuat saya merasa tergugah, ***Are you smarter tha
 Dari sekian banyak merk, jenis, tipe, dan kecanggihan smartphone yang ada, orang-orang termasuk pelajar dan mahasiswa justru tidak dapat memanfaatkan teknologi ini dengan maksimal. 
 
 -----
-Jangan salah memilih smartphone, baca artikel tentang kriteria [**smartphone terbaik untuk generasi milenial**]({{ site.baseurl }}best-millennial-smartphone)!
+Jangan sampai salah memilih smartphone, ketahuilah kriteria [**smartphone terbaik untuk generasi milenial**]({{ site.baseurl }}best-millennial-smartphone)!
 
 -----
 Berawal dari keprihatinan seorang dosen universitas swasta di Jakarta yang menemukan bahwa kemampuan mahasiswa saat ini ternyata tidak sebanding dengan kemajuan teknologi yang ada.
@@ -34,7 +34,7 @@ Beliau memang sedang menyoroti kondisi mahasiswa jurusan IT yang seharusnya menj
 
 Sebagai mahasiswa saya pun mengakuinya, sebagian besar mahasiswa yang saya tahu memang lebih suka mendengarkan dosen berceloteh di depan kelas, mencatat celotehan dosen dan belajar dari catatan tersebut ketika akan ujian.
 
-Sebuah kondisi yang tidak sebanding jika dilihat dari kenyataan bahwa masing individu tersebut sudah dipersenjatai dengan:
+Sebuah kondisi yang tidak sebanding jika dilihat dari kenyataan bahwa masing-masing individu tersebut sudah dipersenjatai dengan:
 
 * **Smartphone**. Mayoritas sudah pakai Android, sebagian kecil menggunakan iOS/iPhone.
 * **Internet nonstop**. Baik paket data dari smartphone maupun internet gratis dari wifi kampus.
@@ -42,7 +42,7 @@ Sebuah kondisi yang tidak sebanding jika dilihat dari kenyataan bahwa masing ind
 
 *Lalu bagaimana seharusnya?*
 
-Menurut Pak Endi Muhardin, ada beberapa poin yang seharusnya dilakukan agar menjadi mahasiswa *hi-tech* kekinian, yaitu:
+Menurut Pak Endy Muhardin, ada beberapa poin yang seharusnya dilakukan agar menjadi mahasiswa *hi-tech* kekinian, yaitu:
 * Auto generated table of contents
 {:toc}
 
@@ -64,13 +64,13 @@ Sebenarnya ada beberapa kerugian kalau kita mencatat selama sesi perkuliahan:
 2. Tidak dapat mencatat 100% isi materi, karena kecepatan menulis kita terbatas sedangkan kecepatan mengajar dan berceloteh dosen lebih cepat.
 3. Konten pembelajaran misalnya seperti sesi *live coding* (bagi mahasiswa IT), terdapat urutan dan langkah-langkah yang sulit ditangkap dengan tulisan tangan.
 
-Namun demikian, kegiatan menulis dan mencatat tetap penting dan harus dilakukan dengan alasan:
+Meskipun demikian, kegiatan menulis dan mencatat tetap penting dan harus dilakukan dengan alasan:
 
 1. Mengatasi faktor lupa, apalagi saat kita mengikuti beragam kelas dengan berbagai mata kuliah. Kalau tidak dicatat, isi kuliah A mungkin saja akan lenyap seketika begitu kita mengikuti kelas mata kuliah B.
 2. Kegiatan mencatat ulang dengan kalimat sendiri dapat meningkatkan pemahaman mahasiswa terhadap materi kuliah.
 3. Kegiatan mencatat dapat mengikat materi lebih kuat ke dalam ingatan dibandingkan dengan hanya melihat dan mendengarkan saja.
 
-*Best practices* untuk tidak mencatat selama kuliah, Pak Endi menyarankan:
+*Best practices* untuk tidak mencatat selama kuliah, Pak Endy menyarankan:
 
 1. Kalau dosen menulis di papan tulis, jangan dicatat. **Potret saja!**
 2. Selama sesi perkuliahan, kalian dapat menghidupkan perekam suara untuk merekam pembelajaran dan celoteh dosen.
@@ -150,8 +150,7 @@ Oke lah kita bagi dua menjadi 200 jam, karena separuhnya kita pakai untuk foto p
 
 Pengguna Ubuntu bisa menggunakan aplikasi [Shutter](http://shutter-project.org/) untuk mengambil cuplikan layar praktikum kamu dan [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php) untuk merekam *screencast*.
 
-Untuk aplikasi di ponsel, memakai aplikasi 
-
+Untuk daftar aplikasi yang bisa kamu gunakan di smartphone android akan saya bahas pada kesempatan lain.
 
 #### Simpulan
 
