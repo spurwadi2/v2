@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover:  assets/images/cover.png
+cover:  assets/images/blog-cover.jpg
 navigation: True
-title: Judul
-description:
-date:
+title: Judul Artikel
+description: Deskripsi Singkat..
+date: 
 tags: [contoh-tag]
 class: post-template
 subclass: 'post tag-contoh-tag'

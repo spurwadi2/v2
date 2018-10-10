@@ -13,9 +13,9 @@ comments: true
 mathjax:
 ---
 
-Setiap orang memiliki keunikan atau keanehan tersendiri.
+Setiap orang memiliki keunikan atau keanehan tersendiri. Setiap orang itu spesial dan berbeda.
 
-Setiap orang itu spesial dan berbeda. Keunikan dan kekhususan yang dimiliki seseorang bisa menjadi modal daya tarik atau bahkan daya tawarnya di tengah komunitas.
+Keunikan dan kekhususan yang dimiliki seseorang bisa menjadi modal daya tarik atau bahkan daya tawarnya di tengah komunitas.
 
 Dalam situasi yang ekstrim, jika ingin terkenal dan memiliki *personal brand* yang kuat cobalah untuk menjadi lebih spesifik, unik, dan aneh.
 
