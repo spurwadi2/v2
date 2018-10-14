@@ -15,7 +15,7 @@ mathjax:
 
 Selama ini saya telah menerima beberapa *mention* pertanyaan dan *direct messages* di akun twitter <a href="https://twitter.com/_Purwadi" target="_blank">@S_Purwadi</a>,
 
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" align="left" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
 Jika kamu datang ke sini dengan pertanyaan yang sama seperti contoh di atas, maka kamu berada di tempat yang tepat untuk mendapatkan jawabannya.
 
@@ -57,7 +57,7 @@ Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendap
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens: not changing your avatar for five years.</p>&mdash; Sigit Purwadi H W (@S_Purwadi) <a href="https://twitter.com/S_Purwadi/status/1050777105380720644?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have.*
+*And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have.*
 
 <img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/mention1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
