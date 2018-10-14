@@ -15,11 +15,7 @@ mathjax:
 
 Selama ini saya telah menerima beberapa *mention* pertanyaan dan *direct messages* di akun twitter <a href="https://twitter.com/_Purwadi" target="_blank">@S_Purwadi</a>,
 
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/1.png" alt="@S_Purwadi twitter" title="@S_Purwadi twitter" border="0" width="80%" />
-
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/2.png" alt="@S_Purwadi twitter" title="@S_Purwadi twitter" border="0" width="80%" />
-
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/3.png" alt="@S_Purwadi twitter" title="@S_Purwadi twitter" border="0" width="80%" />
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
 Jika kamu datang ke sini dengan pertanyaan yang sama seperti contoh di atas, maka kamu berada di tempat yang tepat untuk mendapatkan jawabannya.
 
@@ -63,11 +59,7 @@ Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendap
 
 > *And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have.*
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="in" dir="ltr">Gw salah fokus ama ava nya bisa gerak geraaaak</p>&mdash; Naj (@Hujandisenja) <a href="https://twitter.com/Hujandisenja/status/1017055503308877825?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="in" dir="ltr">eh tunggu tunggu, ko gue salfok sama ava lu sih? gerak gerak gitu</p>&mdash; cah awu (@tezetozzz) <a href="https://twitter.com/tezetozzz/status/1050727716645826562?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/mention1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
 Tidak banyak yang tersisa dari orang-orang dengan GIF avatar seperti ini. Kalian bisa melihat [daftar akun dengan GIF avatar](https://twitter.com/S_Purwadi/lists/jedi-of-twitter).
 
