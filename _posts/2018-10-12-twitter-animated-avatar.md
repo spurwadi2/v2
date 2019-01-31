@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover:  assets/images/twitter-avatar.gif
+cover:  assets/images/s_purwadi-twitter.gif
 navigation: True
-title: My Twitter Animated GIF Avatar
+title: How To Animate (GIF) Your Twitter Avatar
 description: There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens, not changing your avatar for five years.
 tags: [personal]
 class: post-template
@@ -11,9 +11,10 @@ subclass: 'post tag-personal'
 author: sigit
 comments: true
 mathjax:
+summary: There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens, not changing your avatar for five years.
 ---
 
-Selama ini saya telah menerima beberapa *mention* pertanyaan dan *direct messages* di akun twitter <a href="https://twitter.com/_Purwadi" target="_blank">@S_Purwadi</a>,
+Saya telah menerima cukup banyak *mention* pertanyaan dan *direct messages* dalam akun twitter pribadi saya (<a href="https://twitter.com/_Purwadi" target="_blank">@S_Purwadi</a>),
 
 <img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" align="left" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
@@ -31,9 +32,9 @@ Jauh sebelum *Giphy* lahir,
 
 orang-orang menyimpan gambar GIF ke dalam folder khusus untuk digunakan pada saat yang tepat. Tentu saja sangat dimungkinkan untuk mengunggahnya ke dalam twitter sebagai gambar profil (*avatar*).
 
-Meskipun tidak diperbolehkan secara *official*, kita tetap bisa mengakalinya dengan cara mengubah rasio dan ukuran gambar dan mengunggahnya melalui *unofficial third-party app/client*.
+Meskipun tidak diperbolehkan secara *official*, kita tetap bisa mengakalinya dengan cara mengubah ukuran gambar serta rasio, dan mengunggahnya melalui twitter client dari pihak ketiga.
 
-Dengan rasio dan ukuran yang tepat (48px, 96px, 128px, 192px, 384px), kita bisa langsung mengujinya untuk mengetahui apakah berhasil atau tidak. Saat itu saya menggunakan *third-party app/client* yang saya buat sendiri dari [Dabr](https://github.com/edent/Dabr).
+Dengan rasio dan ukuran yang tepat (48px, 96px, 128px, 192px, 384px), kita bisa langsung mengujinya untuk mengetahui apakah gambar avatar berhasil bergerak atau tidak. Saat itu saya menggunakan twitter client sendiri yang saya buat dari [Dabr](https://github.com/edent/Dabr).
 
 Sedikit yang saya ingat, ukuran file avatar ini juga harus kurang dari 40kb. Apabila melebihi 40kb, gambar tetap terunggah tetapi tidak akan bergerak.
 
@@ -50,9 +51,9 @@ Salah satu artikel di BuzzFeed menjelaskan, percakapan tersebut ternyata berlanj
 
 Tak lama setelah itu, celah GIF avatar ini pun akhirnya ditutup oleh @Twitter.  
 
-Sebagaimana seperti akun saya, orang-orang yang sudah terlanjur basah tetap bisa mempertahankan avatar hidupnya. Namun tidak dapat membuat atau mengunggah yang baru.
+Sebagaimana seperti akun saya saat ini, orang-orang yang sudah "terlanjur basah" tetap bisa mempertahankan avatar hidupnya. Namun tidak dapat membuat atau mengunggah yang baru.
 
-Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendapatkan GIF avatar kembali. Meskipun sebenarnya saya ingin mengubahnya menjadi sesuatu yang lebih *kece*.
+Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendapatkan avatar bergerak kembali. Meskipun sebenarnya saya ingin mengubahnya menjadi sesuatu yang lebih kekinian.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens: not changing your avatar for five years.</p>&mdash; Sigit Purwadi H W (@S_Purwadi) <a href="https://twitter.com/S_Purwadi/status/1050777105380720644?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -61,6 +62,6 @@ Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendap
 
 <img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/mention1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
-Tidak banyak yang tersisa dari orang-orang dengan GIF avatar seperti ini. Kalian bisa melihat [daftar akun dengan GIF avatar](https://twitter.com/S_Purwadi/lists/jedi-of-twitter).
+Tidak banyak yang tersisa dari orang-orang dengan GIF avatar seperti ini. Kalian bisa melihat orang-orang dengan GIF avatar dalam [daftar akun yang saya buat](https://twitter.com/S_Purwadi/lists/jedi-of-twitter).
 
 [^1]: [Why Twitter Banned GIF Avatars](https://www.buzzfeednews.com/article/katienotopoulos/the-real-reason-twitter-doesnt-allow-gif-avatars)
