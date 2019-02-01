@@ -630,6 +630,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content {
     position: relative;
     margin: 0 auto;
+    text-align: justify;
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: Georgia, serif;
