@@ -31,7 +31,7 @@ It's a good idea to keep this template as minimal as possible in terms of both f
                     {% if site.logo %}
                         <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
                     {% else %}
-                        <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }}</a>
+                        <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }} | Page Not Found..</a>
                     {% endif %}
                 </nav>
             </div>
@@ -58,7 +58,10 @@ It's a good idea to keep this template as minimal as possible in terms of both f
             </div>
         </aside>
         <!-- /get -->
-
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            {% include footer.html %}
+        </footer>
     </div>
 </body>
 </html>

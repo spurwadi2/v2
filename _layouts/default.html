@@ -62,20 +62,7 @@ layout: compress
 
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
-            <div class="site-footer-content inner">
-                <section class="copyright"><center><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }} v.2</a> &copy; 2009 - {{  site.time | date: '%Y' }}<br/>A fast and flexible modern static blogsite built with ❤</center></section>
-                <section class="poweredby"></section>
-                <nav class="site-footer-nav">
-                    <a href="{{ site.baseurl }}">Home</a>
-                    <a href="{{site.baseurl}}topics/">Topics</a>
-                    <a href="{{site.baseurl}}about">About</a>
-                    <a href="{{site.baseurl}}atom.xml">Feed</a>
-                    <a href="{{site.baseurl}}sitemap.xml">Sitemap</a>
-                    <a href="{{site.baseurl}}privacy">Privacy</a>
-                    <a href="{{site.baseurl}}tos">ToS</a>
-                    <a href="{{site.baseurl}}disclaimer">Disclaimer</a>
-                </nav>
-            </div>
+            {% include footer.html %}
         </footer>
 
     </div>
