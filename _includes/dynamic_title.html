@@ -1,4 +1,4 @@
-<!-- dynamically fixing the title for tag/author pages -->
+<!-- Dynamically fixing the title for tag/author pages -->
 {% if page.url %}
   {% for tag in site.data.tags %}
     {% if page.url contains "relationshit/" %}{% assign title = page.url | remove: 'tag' | remove: '/' | replace: '-', ' ' | capitalizeall %}
