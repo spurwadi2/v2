@@ -6,7 +6,8 @@ navigation: True
 title: Judul Artikel
 description: Deskripsi singkat untuk opengraph
 summary: Ringkasan untuk post card laman utama
-date: 
+date: 2012-09-01 10:00:00
+modified: 2013-09-01 10:00:00
 tags: [contoh-tag]
 class: post-template
 subclass: 'post tag-contoh-tag'
