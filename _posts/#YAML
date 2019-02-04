@@ -4,7 +4,8 @@ current: post
 cover:  assets/images/blog-cover.jpg
 navigation: True
 title: Judul Artikel
-description: Deskripsi Singkat..
+description: Deskripsi singkat untuk opengraph
+summary: Ringkasan untuk post card laman utama
 date: 
 tags: [contoh-tag]
 class: post-template
