@@ -7,7 +7,8 @@ layout: compress
 <!-- Made by Sigit Purwadi on Friday, 23 Mar 2018 in Yogyakarta Indonesia. Poke me for inquiry: sigit [at] purwadi.web.id -->
 <head>
 
-{% include analytics.html %}
+    {% include analytics.html %}
+    
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,14 +18,15 @@ layout: compress
     <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- Styles'n'Scripts -->
+
+    <!-- Styles and scripts -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/syntax.css" />
-    <!-- highlight.js -->
+    <!-- highlight.js script-->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
-
+    <meta name="theme-color" content="#000000">
     <!--[if IE]>
         <style>
             p, ol, ul{
@@ -36,9 +38,10 @@ layout: compress
         </style>
     <![endif]-->
  
-    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <!-- This tag outputs SEO meta, structured data, open graph, and other important settings -->
 {% include head.html %}
 </head>
+
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
     <div class="site-wrapper">
