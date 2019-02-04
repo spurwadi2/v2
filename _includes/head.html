@@ -1,5 +1,5 @@
     <!-- For excerpt -->
-    {% if page.content and page.current == 'post' or page.current == 'about' or 'privacy' or 'disclaimer' or 'tos' %}{% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}{% endif %}
+    {% if page.content and page.current == 'post' or page.current == 'about' or 'privacy' or 'disclaimer' or 'tos' %}{% assign excerpt = page.content | markdownify | strip_html | truncatewords: 50, "" %}{% endif %}
 
     <meta name="description" content="{% include dynamic_site_description.html %}" />
     <meta name="keywords" content="{% if page.tags %}{{ page.tags | first | capitalizeall }}, {% endif %}Sigit Purwadi, Sigit Blog, Sigit Purwadi Blog, edutech, edtech indonesia, edtech startup, teknologi pendidikan, blogger indonesia, yogyakarta, jogja, jogjakarta">
