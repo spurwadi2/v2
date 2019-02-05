@@ -16,6 +16,8 @@ favicon         : assets/images/favicon.png
 # Social info
 twitter         : S_Purwadi # replace by your username
 facebook        : SigitOfficial # replace by your username
+instagram       : S_Purwadi
+linkedin        : SPurwadi
 google_plus     : https://plus.google.com/111158361004969556148
 
 # Social media meta tag
@@ -29,6 +31,7 @@ facebook_page_id: 309668355825706
 # Specify the average Words per minute. If not defined, 180 will be used
 read-time       : true
 wpm             : 200
+timezone        : Asia/Jakarta
 navigation      : True # show the navbar links
 subscribers     : True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
@@ -38,10 +41,9 @@ subscribers     : True # you need to connect an external service for this to wor
 disqus          : True
 disqus_shortname: spurwadi # replace with your disqus username
 
-# Google Verify & Analytics
-google_analytics: UA-61535015-2 # replace with your GA tracking identifier
+# Search Engine Verification & Analytics
+google_analytics: UA-61535015-2
 google_verify   : oEfgtpe8RoaSXmpUaa-vPjD2D-l6jv5uFiJB7mFOyFA
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify     : 732F0388A96A6CD82BBC5006CF4E2A49
 
 # Jekyll configuration
