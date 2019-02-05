@@ -2,12 +2,13 @@ artcytech:
   username: artcytech
   name: 'Art Cyber Tech'
   location: World Wide Web
-  url_full: https://sigit.purwadi.web.id
-  url: sigit.purwadi.web.id
+  url_full: 
+  url: 
   bio: Logic, Ethics, Aesthetics<br/>Pseudo-intelligence
   picture: assets/images/artcytech.gif
   facebook: 4rtcytech
   twitter: Artcytech
+  instagram: Artcytech
   cover: assets/images/artcytech.jpg
 sigit:
   username: sigit
@@ -19,4 +20,6 @@ sigit:
   picture: assets/images/sigit.jpeg
   facebook: SigitOfficial
   twitter: S_Purwadi
+  instagram: S_Purwadi
+  linkedin: SPurwadi
   cover: assets/images/sigit-cover.jpg
