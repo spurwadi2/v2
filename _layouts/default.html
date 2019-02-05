@@ -40,10 +40,9 @@ layout: compress
  
     <!-- This tag outputs SEO meta, structured data, open graph, and other important settings -->
 {% include head.html %}
-<a name="top"></a>
 </head>
 
-<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
+<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}"><a name="top"></a>
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
