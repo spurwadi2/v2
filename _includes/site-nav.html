@@ -13,15 +13,18 @@
     </div>
     <div class="site-nav-right">
         <div class="social-links">
-            {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
-            {% endif %}
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter-svg.html %}</a>
             {% endif %}
+            {% if site.facebook %}
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook-svg.html %}</a>
+            {% endif %}
+            {% if site.instagram %}
+                <a class="social-link social-link-ig" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram-svg.html %}</a>
+            {% endif %}    
         </div>
         {% if site.subscribers %}
-            <a class="subscribe-button" href="{{ site.url }}{{ site.baseurl }}feed.xml">RSS Feed</a>
+            <a class="subscribe-button" href="//sigit.purwadi.web.id" target="_blank">Portfolio</a>
         {% endif %}
     </div>
 </nav>
