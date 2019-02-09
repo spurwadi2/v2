@@ -11,11 +11,12 @@
     <div class="floating-header-title">{{ site.title }}</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label"><small>{% include reading-time.html %}</small></div>
-        <a class="floating-header-share-tw" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&amp;via={% if page.author %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{% if author[1].twitter %}{{ author[1].twitter }}{% else %}{{ site.twitter }}{% endif %}{% endif %}{% endfor %}{% else %}{{ site.twitter }}{% endif %}&amp;related=s_purwadi%3ASigit%20Purwadi,artcytech%3AArt%20Cyber%20Tech" data-toggle="tooltip" title="Share on Twitter" itemprop="Twitter">
+        <a class="floating-header-share-tw" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&amp;via={% if page.author %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{% if author[1].twitter %}{{ author[1].twitter }}{% else %}{{ site.twitter }}{% endif %}{% endif %}{% endfor %}{% else %}{{ site.twitter }}{% endif %}&amp;related=S_Purwadi,Artcytech"
+			onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;"
+			data-toggle="tooltip" title="Share on Twitter" itemprop="Twitter">
             {% include twitter-svg.html %}
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/dialog/share?app_id={{ site.facebook_app_id }}&display=popup&href={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&redirect_uri={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
-			onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
+        <a class="floating-header-share-fb" href="https://www.facebook.com/dialog/share?app_id={{ site.facebook_app_id }}&display=popup&href={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&redirect_uri={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
             {% include facebook-svg.html %}
         </a>
         <a class="floating-header-share-wa" href="https://wa.me/?text=&#42;{{ page.title }}&#32;-&#32;{{ site.title }}&#42;%0A%0A{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: '/' }}"
