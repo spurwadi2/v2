@@ -15,8 +15,7 @@
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter" itemprop="Twitter">
             {% include twitter-svg.html %}
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
-            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
+        <a class="floating-header-share-fb" href="https://www.facebook.com/dialog/share?app_id={{ site.facebook_app_id }}&display=popup&href={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&redirect_uri={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
             {% include facebook-svg.html %}
         </a>
         <a class="floating-header-share-wa" href="https://wa.me/?text=&#42;{{ page.title }}&#32;-&#32;{{ site.title }}&#42;%0A%0A{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: '/' }}"
