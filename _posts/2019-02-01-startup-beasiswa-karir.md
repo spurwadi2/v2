@@ -1,20 +1,22 @@
 ---
 layout: post
 current: post
-cover:  assets/images/future.jpg
+cover:  assets/images/signature.jpg
 navigation: True
-title: Antara Pendiri Start-up, Beasiswa Luar Negeri, dan Perintis Karir Konvensional
+title: Antara Pendiri Start-up, Beasiswa LPDP, dan Karir Konvensional
 description: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
 summary: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
-tags: [millenials]
+tags: [millennials]
 class: post-template
-subclass: 'post tag-millenials'
+subclass: 'post tag-millennials'
 author: sigit
 comments: true
 mathjax: 
 ---
 
-Sebelum memulai, perlu saya tekankan bahwa tulisan ini adalah murni pendapat pribadi berdasarkan pengamatan terkait fenomena generasi muda Indonesia saat ini dalam meraih puncak karirnya.
+Sebelum memulai, perlu saya tekankan bahwa tulisan ini adalah murni pendapat pribadi.
+
+Tulisan ini dibuat berdasarkan pengamatan terkait fenomena generasi muda Indonesia saat ini dalam meraih puncak karirnya.
 
 Karir dalam hal ini adalah profesi yang dilakoni seseorang di mana tinggi rendahnya karir tersebut tergantung pada besar kecilnya pengaruh jabatan di tempat ia bekerja.
 
@@ -26,19 +28,23 @@ Secara garis besar ada tiga jenis fenomena di kalangan generasi milenial saat in
 2. Mendirikan bisnis startup
 3. Merintis karir konvensional
 
-Fenomena ini biasa terjadi pada generasi muda yang mulai menempatkan diri pada pilihan setelah lulus pendidikan sarjana (S1). Berikut pembahasannya:
+Fenomena ini biasa terjadi pada generasi muda yang mulai menempatkan diri pada pilihan setelah lulus pendidikan sarjana (S1).
+
+Berikut pembahasannya:
 
 ### Mengambil Beasiswa Luar Negeri
 
 Di sini saya akan membagi para penerima beasiswa (sebut saja *awardee*) menjadi 2 tipe.
 
-Tipe pertama (*Awardee A*) adalah mereka yang mengambil kuliah di luar negeri semata-mata karena kecintaannya pada bidang ilmu yang ditekuni.
+Tipe pertama (*Awardee A*) adalah mereka yang mengambil kuliah di luar negeri semata-mata karena kecintaan mereka pada bidang ilmu yang ditekuni.
 
-Tipe kedua (*Awardee B*) adalah mereka yang ingin mendapatkan penghargaan lebih atas status sebagai mahasiswa lulusan luar negeri, baik untuk meningkatkan nilai dirinya di mata orang lain maupun dalam persaingan dunia kerja.
+Tipe kedua (*Awardee B*) adalah mereka yang ingin mendapatkan penghargaan lebih atas status mereka sebagai mahasiswa lulusan luar negeri, baik untuk meningkatkan nilai dirinya di mata orang lain maupun dalam persaingan dunia kerja.
 
 Pembagian ini tidak bisa dilihat secara dikotomi karena kedua alasan tersebut biasanya ada dalam setiap diri mahasiswa dengan kadar yang berbeda-beda.
 
-**Berikut adalah perbedaan antara Awardee tipe A dan Awardee tipe B.**
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/3ohhwjVJo2i7sJ6LGU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/originals-stick-around-iron-gif-3ohhwjVJo2i7sJ6LGU">via GIPHY</a></p>
+
+Saya akan membahas perbedaan antara Awardee A dengan Awardee B terlebih dahulu.
 
 *Awardee A* umumnya langsung melanjutkan kuliah setelah menyelesaikan studi S1. Kalau pun mereka sudah bekerja sebelumnya, tipe ini lebih memilih untuk mengundurkan diri dari pekerjaan demi pendidikan.
 
@@ -95,6 +101,8 @@ Pengalaman kerja mereka sudah menempatkan mereka sebagai senior dalam struktur j
 Terkadang sesekali mereka juga "mengintip" media sosial teman-teman mereka yang sukses membangun start-up atau berhasil bekerja di luar negeri setelah menyelesaikan pendidikan di sana.
 
 Tidak bisa dipungkiri, mereka akan menceritakan keinginan mereka untuk mengikuti jejak teman-temannya itu pada istri mereka di rumah, tetapi mengurungkan niat karena banyaknya cicilan yang mereka sudah ambil.
+
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/future.jpg" alt="Your future is created by what you do today." />
 
 Ketiga pilihan diatas memiliki tingkat resiko yang berbeda dan tentunya menjanjikan tingkat kesuksesan yang berbeda pula. Yang terpenting untuk diperhatikan adalah selalu memahami resiko yang diambil dan tidak serta merta meletakkan ekspektasi yang terlalu berlebihan.
 
