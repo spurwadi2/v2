@@ -16,20 +16,19 @@ mathjax:
 
 Sebelum memulai, perlu saya tekankan bahwa tulisan ini adalah murni pendapat pribadi.
 
-Tulisan ini dibuat berdasarkan pengamatan terkait fenomena generasi muda Indonesia saat ini dalam meraih puncak karirnya.
+Tulisan ini dibuat berdasarkan pengamatan pribadi terkait fenomena generasi muda Indonesia dalam meraih puncak karirnya.
 
 Karir dalam hal ini adalah profesi yang dilakoni seseorang di mana tinggi rendahnya karir tersebut tergantung pada besar kecilnya pengaruh jabatan di tempat ia bekerja.
 
 ### Memahami Fenomena Saat Ini
 
-Secara garis besar ada tiga jenis fenomena di kalangan generasi milenial saat ini:
+Secara garis besar ada tiga jenis fenomena di kalangan generasi milenial yang terjadi saat ini:
 
 1. Mengambil beasiswa luar negeri
 2. Mendirikan bisnis startup
 3. Merintis karir konvensional
 
-Fenomena ini biasa terjadi pada generasi muda yang mulai menempatkan diri pada pilihan setelah lulus pendidikan sarjana (S1).
-
+Fenomena ini biasa terjadi pada mereka yang mulai menempatkan diri pada pilihan setelah lulus pendidikan sarjana (S1). 
 Berikut pembahasannya:
 
 ### Mengambil Beasiswa Luar Negeri
@@ -42,9 +41,9 @@ Tipe kedua (*Awardee B*) adalah mereka yang ingin mendapatkan penghargaan lebih 
 
 Pembagian ini tidak bisa dilihat secara dikotomi karena kedua alasan tersebut biasanya ada dalam setiap diri mahasiswa dengan kadar yang berbeda-beda.
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/3ohhwjVJo2i7sJ6LGU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/originals-stick-around-iron-gif-3ohhwjVJo2i7sJ6LGU">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgsAZTS0OKXWIQo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/taking-notes-okay-alright-xT9IgsAZTS0OKXWIQo">via GIPHY</a></p>
 
-Saya akan membahas perbedaan antara Awardee A dengan Awardee B terlebih dahulu.
+Saya akan membahas terlebih dahulu tentang perbedaan tipe antara Awardee A dengan Awardee B.
 
 *Awardee A* umumnya langsung melanjutkan kuliah setelah menyelesaikan studi S1. Kalau pun mereka sudah bekerja sebelumnya, tipe ini lebih memilih untuk mengundurkan diri dari pekerjaan demi pendidikan.
 
@@ -57,6 +56,8 @@ Jika sudah bekerja di perusahaan atau instansi yang cukup bonafit, awardee tipe 
 ### Pendiri Start-up dan Perintis Karir Konvensional
 
 Jika kamu bertemu dengan anak muda yang memilih untuk mendirikan start-up, entah itu yang langsung memulai setelah lulus kuliah S1 atau yang bekerja terlebih dahulu, kamu akan menemukan semangat muda yang menggebu-gebu di dalam diri mereka.
+
+<div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/26FKZUqmaGFahH8li" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bbc-one-bbc1-26FKZUqmaGFahH8li">via GIPHY</a></p>
 
 Kental dengan nuansa narsistik, mereka akan langsung berbicara tentang ide-ide besar seakan-akan hanya mereka lah *"sang anak terpilih"* yang mampu menyelesaikannya.
 
