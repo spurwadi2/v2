@@ -6,8 +6,6 @@ navigation: True
 title: Antara Pendiri Start-up, Beasiswa Luar Negeri, dan Perintis Karir Konvensional
 description: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
 summary: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
-date: 
-modified: 
 tags: [millenials]
 class: post-template
 subclass: 'post tag-millenials'
