@@ -97,14 +97,16 @@ Beberapa pendiri start-up yang menyerah akan kembali mencari kerja dan memulai h
 
 Sedangkan bagi para peniti karir konvensional, mereka bisa dibilang akan jauh lebih bahagia setelah beberapa tahun dibandingkan generasi milenial kebanyakan.
 
+<div style="width:100%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnKQ17UrGl5DUYw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/endemolbeyond-ti-tip-xTiTnKQ17UrGl5DUYw">via GIPHY</a></p>
+
 Pengalaman kerja mereka sudah menempatkan mereka sebagai senior dalam struktur jabatan di perusahaan. Meskipun tidak eksponensial, jumlah pendapatan mereka meningkat setiap tahunnya. Bagi yang memiliki kinerja diatas rata-rata, mereka mungkin sudah menempati jabatan struktural dengan beberapa bawahan.
 
 Terkadang sesekali mereka juga "mengintip" media sosial teman-teman mereka yang sukses membangun start-up atau berhasil bekerja di luar negeri setelah menyelesaikan pendidikan di sana.
 
-Tidak bisa dipungkiri, mereka akan menceritakan keinginan mereka untuk mengikuti jejak teman-temannya itu pada istri mereka di rumah, tetapi mengurungkan niat karena banyaknya cicilan yang mereka sudah ambil.
+Tidak bisa dipungkiri, mereka akan menceritakan keinginan mereka untuk mengikuti jejak teman-temannya itu pada istri mereka di rumah, tetapi mengurungkan niat karena banyaknya cicilan yang sudah mereka ambil.
 
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/future.jpg" alt="Your future is created by what you do today." />
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/idzd69igkWjKw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/steveharveytv-confused-steve-harvey-idzd69igkWjKw">via GIPHY</a></p>
 
-Ketiga pilihan diatas memiliki tingkat resiko yang berbeda dan tentunya menjanjikan tingkat kesuksesan yang berbeda pula. Yang terpenting untuk diperhatikan adalah selalu memahami resiko yang diambil dan tidak serta merta meletakkan ekspektasi yang terlalu berlebihan.
+Ketiga pilihan diatas memiliki tingkat resiko yang berbeda dan tentunya menjanjikan tingkat kesuksesan yang berbeda pula. Yang terpenting untuk diperhatikan adalah selalu memahami resiko yang diambil dan tidak serta merta meletakkan ekspektasi berlebihan.
 
 Demikianlah tulisan ini saya buat dengan analisa yang sekedarnya. Semoga bermanfaat terutama bagi generasi muda Indonesia agar lebih siap menghadapi kondisi terburuk atas pilihan yang akan mereka ambil.
