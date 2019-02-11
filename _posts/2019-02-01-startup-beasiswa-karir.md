@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/signature.jpg
 navigation: True
-title: Antara Pendiri Start-up, Beasiswa LPDP, dan Karir Konvensional
+title: Antara Pendiri Start-up, Awardee LPDP, dan Pekerja Konvensional
 description: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil agar tidak serta-merta meletakkan ekspektasi yang terlalu berlebihan.
 summary: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil agar tidak serta-merta meletakkan ekspektasi yang terlalu berlebihan.
 tags: [millennials]
