@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/signature.jpg
 navigation: True
 title: Antara Pendiri Start-up, Beasiswa LPDP, dan Karir Konvensional
-description: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
-summary: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil dan tidak meletakkan ekspektasi yang terlalu berlebihan.
+description: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil agar tidak serta-merta meletakkan ekspektasi yang terlalu berlebihan.
+summary: Bagi generasi milenial, ketiga pilihan ini memiliki resiko dan tingkat kesuksesan yang berbeda. Penting untuk memahami resiko yang diambil agar tidak serta-merta meletakkan ekspektasi yang terlalu berlebihan.
 tags: [millennials]
 class: post-template
 subclass: 'post tag-millennials'
@@ -16,9 +16,9 @@ mathjax:
 
 Sebelum memulai, perlu saya tekankan bahwa tulisan ini adalah murni pendapat pribadi.
 
-Tulisan ini dibuat berdasarkan pengamatan pribadi terkait fenomena generasi muda Indonesia dalam meraih puncak karirnya.
+Tulisan ini dibuat berdasarkan pengamatan pribadi terkait fenomena yang terjadi pada generasi muda Indonesia dalam meraih puncak karirnya.
 
-Karir dalam hal ini adalah profesi yang dilakoni seseorang di mana tinggi rendahnya karir tersebut tergantung pada besar kecilnya pengaruh jabatan di tempat ia bekerja.
+Karir dalam hal ini adalah profesi yang dilakoni seseorang di mana tinggi rendahnya karir tersebut tergantung pada pengalaman dan besar kecilnya pengaruh jabatan di tempat ia bekerja.
 
 ### Memahami Fenomena Saat Ini
 
@@ -37,7 +37,7 @@ Di sini saya akan membagi para penerima beasiswa (sebut saja *awardee*) menjadi 
 
 Tipe pertama (*Awardee A*) adalah mereka yang mengambil kuliah di luar negeri semata-mata karena kecintaan mereka pada bidang ilmu yang ditekuni.
 
-Tipe kedua (*Awardee B*) adalah mereka yang ingin mendapatkan penghargaan lebih atas status mereka sebagai mahasiswa lulusan luar negeri, baik untuk meningkatkan nilai dirinya di mata orang lain maupun dalam persaingan dunia kerja.
+Sedangkan tipe kedua (*Awardee B*) adalah mereka yang ingin mendapatkan penghargaan lebih atas status mereka sebagai mahasiswa lulusan luar negeri, baik untuk meningkatkan nilai dirinya di mata orang lain maupun dalam persaingan dunia kerja.
 
 Pembagian ini tidak bisa dilihat secara dikotomi karena kedua alasan tersebut biasanya ada dalam setiap diri mahasiswa dengan kadar yang berbeda-beda.
 
@@ -47,11 +47,11 @@ Saya akan membahas terlebih dahulu tentang perbedaan tipe antara Awardee A denga
 
 *Awardee A* umumnya langsung melanjutkan kuliah setelah menyelesaikan studi S1. Kalau pun mereka sudah bekerja sebelumnya, tipe ini lebih memilih untuk mengundurkan diri dari pekerjaan demi pendidikan.
 
-Mereka cenderung lebih selektif dalam mencari pekerjaan, terutama yang benar-benar sesuai dengan bidang keilmuan yang mereka tekuni. Awardee yang memilih karir sebagai pengajar juga dikategorikan dalam tipe ini.
+Mereka cenderung lebih selektif dalam mencari pekerjaan, terutama untuk pekerjaan yang benar-benar sesuai dengan bidang keilmuan yang mereka tekuni. Awardee yang memilih karir sebagai pengajar juga dikategorikan dalam tipe ini.
 
 Berbeda dari tipe A, *Awardee B* akan mengambil beasiswa setelah bekerja beberapa tahun. Keputusan ini diambil untuk mempercepat kenaikan tingkat dalam tangga karirnya. Mereka memiliki ekspektasi yang sangat tinggi untuk dipromosikan oleh perusahaannya setelah kembali dari luar negeri.
 
-Jika sudah bekerja di perusahaan atau instansi yang cukup bonafit, awardee tipe ini lebih memilih cuti tanpa dibayar daripada harus mengundurkan diri dari pekerjaan. Tipe inilah yang selanjutnya akan dibahas dan dibandingkan dengan pendiri start-up dan perintis karir konvensional.
+Apabila mereka sudah bekerja di perusahaan atau instansi yang cukup bonafit, awardee tipe ini lebih memilih cuti tanpa dibayar daripada harus mengundurkan diri dari pekerjaan. Tipe inilah yang selanjutnya akan saya bahas dan membandingkannya dengan pendiri start-up maupun para perintis karir konvensional.
 
 ### Pendiri Start-up dan Perintis Karir Konvensional
 
@@ -61,27 +61,27 @@ Jika kamu bertemu dengan anak muda yang memilih untuk mendirikan start-up, entah
 
 Kental dengan nuansa narsistik, mereka akan langsung berbicara tentang ide-ide besar seakan-akan hanya mereka lah *"sang anak terpilih"* yang mampu menyelesaikannya.
 
-Nuansa narsistik itu tetap akan kamu rasakan ketika kamu berbicara dengan para awardee tipe B yang akan berangkat bulan depan ke Inggris atau Amerika. Namun, meskipun mereka terbukti memiliki kemampuan menjadi mahasiswa di universitas ternama dunia, kamu akan tetap dapat meraba kerendahan hati dalam penggambaran diri mereka.
+Nuansa narsistik itu tetap akan kamu rasakan ketika kamu berbicara dengan para awardee tipe B yang akan berangkat bulan depan ke Inggris atau Amerika. Akan tetapi, meskipun mereka terbukti memiliki kemampuan menjadi mahasiswa di universitas ternama dunia, kamu akan tetap dapat meraba kerendahan hati dalam penggambaran diri mereka.
 
 Berbeda dengan kedua kelompok diatas, para perintis karir konvensional tampak lebih objektif dalam menilai diri mereka.
 
 Mereka sadar bahwa masih banyak pengalaman yang perlu mereka dapatkan untuk bisa menjadi seperti *role model* mereka (yang kebanyakan adalah para petinggi di perusahaan tempat mereka bekerja, atau para teknokrat di perusahaan besar lain).
 
-Namun sebagaimana generasi milenial kebanyakan, mereka juga tetap punya kepercayaan diri yang tinggi.
+Namun sebagaimana generasi milenial kebanyakan, mereka juga tetap punya kepercayaan diri yang cukup tinggi.
 
 ### Ketiganya Beberapa Tahun Kemudian
 
-Awardee tipe A akan mengalami lonjakan kepercayaan diri yang paling besar setelah menyelesaikan pendidikan mereka di luar negeri.
+Awardee tipe B akan mengalami lonjakan kepercayaan diri yang paling besar setelah menyelesaikan pendidikan mereka di luar negeri.
 
 Hal ini akan membawa permasalahan tersendiri bagi mereka, khususnya yang mengambil pilihan *leave without pay* atau cuti sementara dari perusahaan.
 
-Sekembalinya dari studi, mereka berharap akan ditempatkan di posisi yang sama sebelum mereka pergi atau di posisi baru yang lebih sesuai dengan pendidikan mereka. Tentunya dengan harapan bahwa posisi yang baru memiliki tingkatan yang lebih tinggi dari posisi mereka sebelumnya.
+Sekembalinya dari studi, mereka berharap akan ditempatkan di posisi yang sama sebelum mereka pergi atau di posisi baru yang lebih sesuai dengan pendidikan mereka saat ini. Tentunya dengan harapan bahwa posisi yang baru memiliki tingkatan yang lebih tinggi dari posisi mereka sebelumnya.
 
 Hal ini akan menjadi masalah karena perusahaan tidak akan mungkin membiarkan suatu posisi kosong selama dua tahun, terlebih jika memang posisi tersebut sangat dibutuhkan untuk diisi.
 
-Apabila awardee ini ingin posisi baru yang sesuai dengan pendidikannya, posisi itu belum tentu ada. Selain karena perusahaan yang tidak akan mengubah struktur organisasi berdasarkan kepentingan individu, ilmu yang dipelajari di luar negeri belum tentu dibutuhkan oleh perusahaan.
+Apabila awardee ini ingin posisi baru yang sesuai dengan pendidikannya, posisi itu belum tentu ada. Selain karena perusahaan yang tidak akan mengubah struktur organisasi berdasarkan kepentingan individu, ilmu yang dipelajari di luar negeri ternyata belum tentu dibutuhkan oleh perusahaan.
 
-Bagi mereka yang mengambil kuliah dengan mengundurkan diri dari pekerjaan sebelumnya, masalah ini menjadi jauh lebih sederhana. Mereka akan mencari pekerjaan lain yang akan menawarkan jabatan sesuai dengan ijazah baru yang didapat selama di luar negeri.
+Bagi mereka yang mengambil kuliah dengan mengundurkan diri dari pekerjaan sebelumnya, masalah ini menjadi jauh lebih sederhana. Mereka akan mencari pekerjaan lain yang akan menawarkan jabatan sesuai dengan ijazah baru yang didapat selama kuliah di luar negeri.
 
 Namun, hal ini juga tidak mudah karena beberapa perusahaan di Indonesia memiliki R&D yang cukup kuat untuk memiliki kebutuhan akan pekerja dengan tingkat pendidikan tinggi, jumlahnya tidak sebanyak itu.
 
@@ -93,13 +93,13 @@ Di lain pihak, para pendiri start-up setelah dua tahun berjalan akan merasakan p
 
 Start-up bisa jadi akan melejit karena berhasil menggaet investor jutaan dollar, namun jumlahnya tentu tidak sebanyak start-up yang gagal atau yang berjalan dengan terengah-engah.
 
-Beberapa pendiri start-up yang menyerah akan kembali mencari kerja dan memulai hidup baru sebagai profesional. Sebagai profesional, tentunya para bekas pendiri start up ini harus rela berada di lantai dasar tangga karir.
-
-Sedangkan bagi para peniti karir konvensional, mereka bisa dibilang akan jauh lebih bahagia setelah beberapa tahun dibandingkan generasi milenial kebanyakan.
+Beberapa pendiri start-up yang menyerah akan kembali mencari kerja dan memulai hidup baru sebagai profesional. Sebagai profesional, tentunya para mantan pendiri start up ini harus rela berada di lantai dasar tangga karir.
 
 <div style="width:100%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnKQ17UrGl5DUYw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/endemolbeyond-ti-tip-xTiTnKQ17UrGl5DUYw">via GIPHY</a></p>
 
-Pengalaman kerja mereka sudah menempatkan mereka sebagai senior dalam struktur jabatan di perusahaan. Meskipun tidak eksponensial, jumlah pendapatan mereka meningkat setiap tahunnya. Bagi yang memiliki kinerja diatas rata-rata, mereka mungkin sudah menempati jabatan struktural dengan beberapa bawahan.
+Sedangkan bagi para peniti karir konvensional, mereka bisa dibilang akan jauh lebih bahagia setelah beberapa tahun dibandingkan generasi milenial kebanyakan. Pengalaman kerja mereka sudah menempatkan mereka sebagai senior dalam struktur jabatan di perusahaan.
+
+Meskipun tidak eksponensial, jumlah pendapatan mereka meningkat setiap tahunnya. Bagi yang memiliki kinerja diatas rata-rata, mereka mungkin sudah menempati jabatan struktural dengan beberapa bawahan.
 
 Terkadang sesekali mereka juga "mengintip" media sosial teman-teman mereka yang sukses membangun start-up atau berhasil bekerja di luar negeri setelah menyelesaikan pendidikan di sana.
 
