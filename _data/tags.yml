@@ -10,7 +10,7 @@ android:
 cogito:
   name: cogito
   title: Cogito Ergo Cool
-  description: Yes I'm cool<br> (⌐■_■)
+  description: (⌐■_■) <br/>Yes I'm cool<br> 
   cover: assets/images/cogito.jpg
 comodos:
   name: comodos
@@ -31,6 +31,10 @@ edtech:
   description: Never stop learning, because life never stops teaching.
   cover: assets/images/edtech.jpg
 futurist:
+  description: False
+  cover: False
+gaming:
+  title:
   description: False
   cover: False
 health:
