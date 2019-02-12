@@ -14,17 +14,17 @@
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter-svg.html %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" title="@{{ site.twitter }} on Twitter">{% include twitter-svg.html %}</a>
             {% endif %}
             {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook-svg.html %}</a>
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener" title="Sigit Purwadi on Facebook">{% include facebook-svg.html %}</a>
             {% endif %}
             {% if site.instagram %}
-                <a class="social-link social-link-ig" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram-svg.html %}</a>
-            {% endif %}    
+                <a class="social-link social-link-ig" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener" title="@{{ site.instagram }} on Instagram">{% include instagram-svg.html %}</a>
+            {% endif %}
         </div>
         {% if site.subscribers %}
-            <a class="subscribe-button" href="//sigit.purwadi.web.id" target="_blank">Portfolio</a>
+            <a class="subscribe-button" href="//sigit.purwadi.web.id" target="_blank" title="Sigit Purwadi's Portofio Site">Portfolio</a>
         {% endif %}
     </div>
 </nav>

@@ -15,9 +15,7 @@ logo: 'assets/images/ghost.png'
     	{% include site-nav.html %}
         <div class="site-header-content">
             <h1 class="site-title">{{ page.title }}</h1>
-            <h2 class="site-description">
-                    {{ page.description }}
-            </h2>
+            <h2 class="site-description">{{ page.description }}</h2>
         </div>
     </div>
 </header>
