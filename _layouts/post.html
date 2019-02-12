@@ -41,7 +41,7 @@ into the {body} of the default.hbs template -->
                     <!-- Reading time section -->
                     {% assign readtime = content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
                         <span class="date-divider">∙</span>{% if readtime > 1 and readtime < 1.5 %}1 min read{% endif %}
-                        {% if readtime > 1.5 %}{{ readtime | round }} min read{% endif %}
+                        {% if readtime > 1.5 %}{{ readtime | round }} min read {% if readtime > 5.9 %}★{% endif %}{% endif %}
                         {% if readtime < 1 %}Less than 1 min read{% endif %}
                 </section>
             </header>
