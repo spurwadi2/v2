@@ -1,15 +1,31 @@
 ---
-layout: page
-current: tags
-title: Topics
-navigation: true
-logo: 'assets/images/ghost.png'
-class: page-template
+layout: default
+current: topics
+title: Explore Topics 💡
+description: Topics pages provide rich coverage of events and high-profile figures in the news. Each topic's page delivers a wide range of articles, photos, video, and more..
+navigation: True
+cover: assets/images/topics.png
+class: 'page-template'
 subclass: 'post page'
+logo: 'assets/images/ghost.png'
 ---
 
-<p style="text-align: center; line-height: 3em;">
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags = site_tags | split:',' | sort: 'title' %}
-{% include tagcloud.html %}
-</p>
+<header class="site-header outer" style="background-image: url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}">
+    <div class="inner">
+    	{% include site-nav.html %}
+        <div class="site-header-content">
+            <h1 class="site-title">{{ page.title }}</h1>
+            <h2 class="site-description">
+                    {{ page.description }}
+            </h2>
+        </div>
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+
+        <div class="post-feed">
+            {%  include topics.html %}
+        </div>
+
+</main>

@@ -1,1 +1,12 @@
-{% if page.url contains 'topics/' %}I have an interest in art{% for tag in site.data.tags %}{{ tag[1].name | prepend: ', ' }}{% endfor %}{% elsif page.current == 'tag' %}{% include dynamic_tag_info.html %}{% if tag_description %}{{ tag_description | strip_html }}{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}{% elsif page.url contains 'author/' %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}{% endfor %}{% elsif page.description %}{{ page.description | markdownify | strip_html }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}
+{% if page.current == 'tag' %}
+	{% include dynamic_tag_info.html %}
+		{% if tag_description %}{{ tag_description | strip_html }}
+		{% elsif page.tag %}A collection of {{ paginator.total_posts }} posts{% endif %}
+{% elsif page.url contains 'author/' %}
+	{% for author in site.data.authors %}
+		{% if author[1].username == page.author %}{{ author[1].bio | strip_html }}{% endif %}
+	{% endfor %}
+{% elsif page.description %}{{ page.description | markdownify | strip_html }}
+{% elsif excerpt %}{{ excerpt }}
+{% else %}{{ site.description }}
+{% endif %}

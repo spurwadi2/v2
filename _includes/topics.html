@@ -1,0 +1,24 @@
+{% assign count = 0 %}
+{% for tag in site.data.tags %}
+{% if tag[1].name %}
+
+<article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
+
+<a class="post-card-image-link" href="{{ site.baseurl }}{{ tag[1].name }}">
+	<div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ tag[1].cover }})">
+	</div>
+</a>
+<a class="post-card-content-link" href="{{ site.baseurl }}{{ tag[1].name }}">
+	<div class="post-card-content">
+		<header class="post-card-header">
+			<h3 align="center" class="post-card-title">{% if tag[1].title %}{{ tag[1].title }}{% else %}{{ tag[1].name | capitalize }}{% endif %}</h3>
+		</header>
+	</div>
+	<section class="post-card-excerpt">
+		<p align="center">{% if tag[1].description %}{{ tag[1].description }}{% else %}Collection of 1 post{% endif %}</p>
+	</section>
+</a>
+</article>
+
+{% endif %}
+{% endfor %}
