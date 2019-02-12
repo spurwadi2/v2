@@ -1,53 +1,45 @@
 academic:
-  name: academic
   title: Permanent Head Damage (PhD)
   description: False
   cover: False
 android:
   name: android
   title: Android Invasion
-  description: Are You Smarter Than Your Phone?
+  description: Are you smarter than your phone?
   cover: assets/images/android.png
 cogito:
   name: cogito
   title: Cogito Ergo Cool
-  description: (⌐■_■)
+  description: Yes I'm cool<br> (⌐■_■)
   cover: assets/images/cogito.jpg
 comodos:
   name: comodos
   title: Wkwk Land..
-  description: Show your “WKWK LAND” pride!
+  description: Show your “WKWK Land” pride!
   cover: assets/images/comodo-dragon.jpg
 data:
-  name: data
   title: Data Is Beautiful
   description: False
   cover: False
 design:
-  name: design
   title: Design Porn
   description: False
   cover: False
 edtech:
   name: edtech
   title: Educational Technology
-  description: Never Stop Learning, Because Life Never Stops Teaching
+  description: Never stop learning, because life never stops teaching.
   cover: assets/images/edtech.jpg
-funny:
-  name: funny
-  description: False
-  cover: False
 futurist:
-  name: futurist
   description: False
   cover: False
 health:
-  name: health
   description: False
   cover: False
 history:
   name: history
-  description: Blast From The Past
+  title: Blast From The Past
+  description: History do repeat itself..
   cover: assets/images/history.jpg
 hobbies:
   name: hobbies
@@ -55,7 +47,6 @@ hobbies:
   description: Topics that related to hobbies, interests, sports, recreation, etc.
   cover: assets/images/hobbies.jpg
 how-tos:
-  name: how-tos
   description: False
   cover: False
 islam:
@@ -64,7 +55,6 @@ islam:
   description: There is no God except Allah and Muhammad is a messenger of Allah
   cover: assets/images/islam.jpg
 linux:
-  name: linux
   description: False
   cover: False
 millennials:
@@ -73,7 +63,6 @@ millennials:
   description: The Next Great Generation
   cover: assets/images/millennials.png
 pcmasterrace:
-  name: pcmasterrace
   description: False
   cover: False
 personal:
@@ -82,21 +71,18 @@ personal:
   description: False
   cover: assets/images/personal-story.jpg
 politics:
-  name: politics
   description: False
   cover: False
 random:
-  name: random
   title: Random Thoughts
   description: False
   cover: False
 relationshit:
   name: relationshit
   title: Relation<strike>ship</strike>shit!
-  description: When a relationship gone terribly wrong
+  description: When a relationship gone terribly wrong~
   cover: assets/images/galaxy.jpg
 review:
-  name: review
   description: False
   cover: False
 school-lyfe:
@@ -107,14 +93,12 @@ school-lyfe:
 self-discovery:
   name: self-discovery
   title: The Journey of Self-Discovery
-  description: a story about how I was changed into the person I am today
+  description: A story about how I was changed into the person I am today
   cover: assets/images/self-discovery.jpeg
 speeches:
-  name: speeches
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
 technologeek:
-  name: technologeek
   description: False
   cover: assets/images/artcytech.jpg
 webmaster:
@@ -122,11 +106,9 @@ webmaster:
   description: False
   cover: assets/images/gandalf-webmaster.jpg
 windows:
-  name: windows
   description: False
   cover: False
 wisdom:
-  name: wisdom
   description: False
   cover: False
 writing:
