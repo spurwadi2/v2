@@ -19,7 +19,7 @@ comodos:
   cover: assets/images/comodo-dragon.jpg
 data:
   title: Data Is Beautiful
-  description: False
+  description: You can have data without information, but you cannot have information without data.
   cover: False
 design:
   title: Design Porn
@@ -38,7 +38,7 @@ health:
   cover: False
 history:
   name: history
-  title: Blast From The Past
+  title: 🔥 Blast From The Past 🔥
   description: History do repeat itself..
   cover: assets/images/history.jpg
 hobbies:
@@ -47,7 +47,7 @@ hobbies:
   description: Topics that related to hobbies, interests, sports, recreation, etc.
   cover: assets/images/hobbies.jpg
 how-tos:
-  description: False
+  description: Do something, do something to that, and then do something to that.
   cover: False
 islam:
   name: islam
@@ -68,7 +68,7 @@ pcmasterrace:
 personal:
   name: personal
   title: Personal stories
-  description: False
+  description: Everyone is necessarily the hero of his own life story.
   cover: assets/images/personal-story.jpg
 politics:
   description: False
@@ -99,11 +99,11 @@ speeches:
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
 technologeek:
-  description: False
+  description: Technology is a useful servant but a dangerous master.
   cover: assets/images/artcytech.jpg
 webmaster:
   name: webmaster
-  description: False
+  description: We are all apprentices in a craft where no one ever becomes a master.
   cover: assets/images/gandalf-webmaster.jpg
 windows:
   description: False

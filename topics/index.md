@@ -2,7 +2,7 @@
 layout: default
 current: topics
 title: Explore Topics 💡
-description: Topics pages provide rich coverage of events and high-profile figures in the news. Each topic's page delivers a wide range of articles, photos, video, and more..
+description: Topics pages provide rich coverage about certain events, discussions and information. Each topic's page delivers a wide range of articles, photos, video, and more..
 navigation: True
 cover: assets/images/topics.png
 class: 'page-template'
