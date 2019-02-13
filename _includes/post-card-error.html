@@ -24,9 +24,9 @@
                     </header>
                     <section class="post-card-excerpt">
                         {% if post.summary %}
-                        <p align="justify">{{ post.summary | truncatewords: 33, "" }}</p>
+                        <p>{{ post.summary | truncatewords: 33, "" }}</p>
                     {% else %}
-                        <p align="justify">{{ post.content | markdownify | strip_html | truncatewords: 33, "" }}</p>
+                        <p>{{ post.content | markdownify | strip_html | truncatewords: 33, "" }}</p>
                     {% endif %}
                     </section>
                 </a>
