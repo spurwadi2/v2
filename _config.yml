@@ -6,6 +6,7 @@ CNAME           : blog.purwadi.web.id
 # Website info
 title           : Sigit Purwadi's Blog
 description     : You're Nobody Until You're Talked About
+version         : v2.1
 cover           : assets/images/blog-cover.jpg
 logo            : # assets/images/blog-icon.png
 logo_dark       : assets/images/favicon.png
@@ -63,7 +64,7 @@ language        : 'en-uk'
 # Permalinks
 permalink       : :title
 # permalink     : /author/:author
-# permalink     : /tag/:tag
+# permalink     : /topic/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
@@ -77,8 +78,16 @@ feed            :
 jekyll-mentions :
   base_url      : https://twitter.com
 
-#compress_html   : # see http://jch.penibelst.de/
-#  comments      : all
+# HTML compress, see http://jch.penibelst.de/
+compress_html   :
+  clippings     : all
+  comments      : all
+  endings       : all
+  ignore        :
+    envs        : [local]
+  blanklines    : True
+  profile       : False
+  startings     : [html, head, body]
 
 # Settings for builing master branch with travis-ci
 # with jekyll-travis
@@ -109,6 +118,7 @@ exclude         :
                 - Gemfile.lock
                 - GHOST.txt
                 - gulpfile.js
+                - paths.js
                 - LICENSE
                 - package.json
                 - Rakefile
