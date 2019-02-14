@@ -10,37 +10,48 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
 
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
-
-        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
-
-            <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
-            </header>
-
-            {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
-            {% endif %}
-
-            <section class="post-full-content">
-                {{ content }}
-            </section>
-
-        </article>
-
-    </div>
+{% if page.cover %}
+<header class="site-header outer" style="background-image: url({{ site.baseurl }}{{ page.cover }}">
+<div class="inner">
+    {% include site-nav.html %}
+<div class="site-header-content">
+    <h1 class="site-title">{{ page.title }}</h1>
+    <h2 class="site-description">{{ page.description }}</h2>
+</div>
+</div>
+</header>
+<main id="site-main" class="site-main outer">
+<div class="inner">
+    <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+    <section class="post-full-content">
+        {{ content }}
+    </section>
+    </article>
+</div>
 </main>
+{% else %}
+<header class="site-header outer">
+<div class="inner">
+    {% include site-nav.html %}
+</div>
+</header>
+<main id="site-main" class="site-main outer" role="main">
+<div class="inner">
+<article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+<header class="post-full-header">
+    <h1 class="post-full-title">{{ page.title }}</h1>
+</header>
+    <section class="post-full-content">
+        {{ content }}
+    </section>
+ </article>
+</div>
+</main>
+{% endif %}
 
 <!-- /post -->
 
