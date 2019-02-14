@@ -85,7 +85,7 @@ compress_html   :
   endings       : all
   ignore        :
     envs        : [local]
-  blanklines    : True
+  blanklines    : False
   profile       : False
   startings     : [html, head, body]
 
