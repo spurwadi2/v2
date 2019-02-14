@@ -6,35 +6,34 @@ disqus: false
 ---
 
 <!-- default -->
-
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
 <header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
+<div class="inner">
+{% include site-nav.html %}
+</div>
 </header>
 
-<!-- Everything inside the #post tags pulls data from the post -->
+<!-- Everything inside the #post tags pulls data from the post layouts -->
 <!-- #post -->
 
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}" itemprop="liveBlogUpdate" itemscope itemtype="http://schema.org/Article">
 
             <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
+                <h1 class="post-full-title" itemprop="name">{{ page.title }}</h1>
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="{{ page.date | date:'%A, %e %b %Y' }}">{{ page.date | date:'%A, %e %b %Y' }}</time>
+                    <time class="post-full-meta-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date:'%A, %e %b %Y' }}</time>
                     {% if page.tags.size > 0 %}
                         <span class="date-divider">∙</span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>
+                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}' itemprop='keywords'>{{ tag | upcase }}</a>
                             {% else %}
-                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>,
+                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}' itemprop='keywords'>{{ tag | upcase }}</a>,
                             {% endif %}
                         {% endfor %}
                     {% endif %}
@@ -47,11 +46,11 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})" itemprop="image">
             </figure>
             {% endif %}
 
-            <section class="post-full-content">
+            <section class="post-full-content" itemprop="description">
                 <div class="kg-card-markdown">
                     {{ content }}
                 </div>
@@ -71,21 +70,21 @@ into the {body} of the default.hbs template -->
                 <!-- #author-->
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.author %}
-                        <section class="author-card">
+                        <section class="author-card" itemprop="author" itemscope itemtype="http://schema.org/Person">
                             {% if author[1].picture %}
-                                <img itemprop="image" class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}'s avatar" />
+                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}'s avatar" itemprop="image" />
                             {% endif %}
                             <section class="author-card-content">
-                                <h4 itemprop="author" itemscope itemtype="http://schema.org/Person" itemprop="name" class="author-card-name"><a itemprop="url" href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
+                                <h4 class="author-card-name" itemprop="name"><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
                                 {% if author[1].bio %}
-                                    <p>{{ author[1].bio }}</p>
+                                    <p itemprop="description">{{ author[1].bio }}</p>
                                 {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}" itemprop="url">more posts</a> by this author.</p>
                                 {% endif %}
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}" itemprop="url">Read More</a>
                         </div>
                     {% endif %}
                 {% endfor %}
@@ -96,7 +95,7 @@ into the {body} of the default.hbs template -->
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
-                <section class="post-full-comments">
+                <section class="post-full-comments" itemprop="comment">
                     <div id="disqus_thread"></div>
                     {% if site.disqus_shortname and page.comments == true %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
                 </section>
