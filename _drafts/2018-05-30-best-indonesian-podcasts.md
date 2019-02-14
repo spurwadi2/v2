@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/podcast-indonesia.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: Best Indonesian Podcast
 description: 

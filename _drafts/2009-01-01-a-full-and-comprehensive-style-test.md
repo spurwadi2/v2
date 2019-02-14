@@ -1,95 +1,93 @@
 ---
 layout: post
 current: post
-cover: assets/images/blog-cover.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: A Full and Comprehensive Style Test
+summary: Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 date: 2012-09-01 10:00:00
-tags: [webmaster]
+tags: [draft]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-draft'
 author: artcytech
 ---
 
-<p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
+Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
+---
 
-<hr />
+# Heading 1 #
+## Heading 2 ##
+### Heading 3 ###
+#### Heading 4 ####
+##### Heading 5 #####
+###### Heading 6 ######
 
-<h1 id="heading1">Heading 1</h1>
+---
 
-<h2 id="heading2">Heading 2</h2>
+Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. Nunc iaculis suscipit dui. 5<sup>sup</sup> = 125. Water is H<sub>sub</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <u>Underline.</u> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-<h3 id="heading3">Heading 3</h3>
+      Lorem ipsum dolor sit amet, test link adipiscing elit.
 
-<h4 id="heading4">Heading 4</h4>
+<abbr title="Hyper Text Markup Language">HTML abbr</abbr> and <abbr title="Cascading Style Sheets">CSS abbr</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. <del>This is **del** correction</del> Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code>.  <ins>Let’s make that 7.</ins> This <strike>**strike** text</strike> has been struck.
 
-<h5 id="heading5">Heading 5</h5>
+***
 
-<h6 id="heading6">Heading 6</h6>
+    This is strong. Nullam dignissim convallis est. Quisque aliquam. This is emphasized. Donec faucibus. Nunc iaculis suscipit dui. 5sup = 125. Water is HsubO.
 
-<hr />
+## Media ##
 
-<p>Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline.</span> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
-<p><abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code>. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> This <span style="text-decoration:line-through;">text</span> has been struck.</p>
+### Big Image
 
-<hr />
+<img src="assets/images/hello-world.png#big" alt="Test Image" />
 
-<h2 id="media">Media</h2>
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+### Small Image
 
-<h3 id="bigimage">Big Image</h3>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
-<p><img src="http://demo.ghost.io/content/images/2014/09/testimg1.jpeg" alt="Test Image" /></p>
+![img](assets/images/sigit-cover.png#small)
+<small>Your image caption</small>
 
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+Labore et dolore.
 
-<h3 id="smallimage">Small Image</h3>
+## List Types
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
-<p><img src="http://demo.ghost.io/content/images/2014/09/testimg2.jpg" alt="Small Test Image" /></p>
-
-<p>Labore et dolore.</p>
-
-<hr />
-
-<h2 id="listtypes">List Types</h2>
-
-<h3 id="definitionlist">Definition List</h3>
+### Definition List
 
 <dl>
 <dt>Definition List Title</dt>
 <dd>This is a definition list division.</dd>
+
 <dt>Definition</dt>
 <dd>An exact statement or description of the nature, scope, or meaning of something: <em>our definition of what constitutes poetry.</em></dd>
 </dl>
 
-<h3 id="orderedlist">Ordered List</h3>
+### Ordered List
 
-<ol>
-<li>List Item 1  </li>
-<li>List Item 2 <br />
-<ol><li>Nested list item A</li>
-<li>Nested list item B</li></ol></li>
-<li>List Item 3</li>
-</ol>
+1.  Item 1
+2.  Item 2
+    1. Sub item 1
+    2. Sub item 2
 
-<h3 id="unorderedlist">Unordered List</h3>
+3.  Item 3
 
-<ul>
-<li>List Item 1</li>
-<li>List Item 2
-<ul><li>Nested list item A</li>
-<li>Nested list item B</li></ul></li>
-<li>List Item 3</li>
-</ul>
+### Unordered List
 
-<hr />
+* Item 1
+* Item 2
+  * Sub item 1
 
-<h2 id="table">Table</h2>
+    Desciption sub item 1
+  
+  * Sub item 2
+    * Sub item 1
+* Item 3
+
+### Table
 
 <table>
 <tbody>
@@ -116,17 +114,15 @@ author: artcytech
 </tbody>
 </table>
 
-<hr />
+## Preformatted Text
 
-<h2 id="preformattedtext">Preformatted Text</h2>
-
-<p>Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.</p>
+Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.
 
 <h3 id="code">Code</h3>
 
-<p>Code can be presented inline, like <code>&lt;?php bloginfo('stylesheet_url'); ?&gt;</code>, or within a <code>&lt;pre&gt;</code> block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.</p>
+Code can be presented inline, like <code>&lt;?php bloginfo('stylesheet_url'); ?&gt;</code>, or within a <code>&lt;pre&gt;</code> block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.
 
-<p>Code blocks can also be inserted with the highlight tag as below:</p>
+Code blocks can also be inserted with the highlight tag as below:
 <pre>
     {% raw %}
     {% highlight language-x %}
@@ -135,9 +131,9 @@ author: artcytech
     {% endraw %}
 </pre>
 
-<p>More information about code highlighting in jekyll can be found  <a href="https://jekyllrb.com/docs/templates/#code-snippet-highlighting">in Jekyll documentation</a>.</p>
+More information about code highlighting in jekyll can be found  <a href="https://jekyllrb.com/docs/templates/#code-snippet-highlighting">in Jekyll documentation</a>.
 
-<p>These area a couple of examples showing the resulting highlighted code:</p>
+These area a couple of examples showing the resulting highlighted code:
 
 {% highlight css %}
 /* css code sample */
@@ -165,10 +161,10 @@ $.ajax({
 });
 {% endhighlight %}
 
-<p>Now you can also use <a href="https://highlightjs.org/">highlight.js</a>.
+Now you can also use <a href="https://highlightjs.org/">highlight.js</a>.
 For more on how to use it and on the available styles check their
 <a href="https://highlightjs.org/static/demo/">demo</a> and
-<a href="http://highlightjs.readthedocs.org/en/latest/">documentation</a> pages.</p>
+<a href="http://highlightjs.readthedocs.org/en/latest/">documentation</a> pages.
 
 <div class="system">
 <pre><code class="swift">// Swift code sample
@@ -195,19 +191,19 @@ import Foundation
 
 <h2 id="blockquotes">Blockquotes</h2>
 
-<p>Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.</p>
+Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.
 
 <blockquote>
-  <p>Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite></p>
+  Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite>
 </blockquote>
 
-<p>And here’s a bit of trailing text.</p>
+And here’s a bit of trailing text.
 
 <hr />
 
 <h2 id="textlevelsemantics">Text-level semantics</h2>
 
-<p>The <a href="#">a element</a> example <br />
+The <a href="#">a element</a> example <br />
 The <abbr>abbr element</abbr> and <abbr title="Title text">abbr element with title</abbr> examples <br />
 The <b>b element</b> example <br />
 The <cite>cite element</cite> example <br />
@@ -228,7 +224,7 @@ The <strong>strong element</strong> example <br />
 The <sub>sub element</sub> example <br />
 The <sup>sup element</sup> example <br />
 The <var>var element</var> example <br />
-The <u>u element</u> example</p>
+The <u>u element</u> example
 
 <hr />
 
@@ -340,39 +336,39 @@ The <u>u element</u> example</p>
 
 <hr />
 
-<h2 id="embeds">Embeds</h2>
+## Embeds
 
-<p>Sometimes all you want to do is embed a little love from another location and set your post alive.</p>
+Sometimes all you want to do is embed a little love from another location and set your post alive.
 
-<h3 id="video">Video</h3>
+### Video
 
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <iframe src="//player.vimeo.com/video/103224792?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+Culpa qui officia deserunt mollit anim id est laborum.
 
-<h3 id="slides">Slides</h3>
+### Slides
 
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <script async class="speakerdeck-embed" data-id="34d2856027ce01316b5d621ab8e7d421" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+Culpa qui officia deserunt mollit anim id est laborum.
 
-<h3 id="audio">Audio</h3>
+### Audio
 
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169381837&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+Culpa qui officia deserunt mollit anim id est laborum.
 
-<h3 id="code">Code</h3>
+### Code
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
-<p><div data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="js" data-user="rglazebrook" class='codepen'></p>
+<div data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="js" data-user="rglazebrook" class='codepen'>
 
 <pre><code>var c = new Sketch.create({autoclear: false}),
     bigCircle = 50,
@@ -417,8 +413,6 @@ c.draw = function() {
 }
 </code></pre>
 
-<p>See the Pen <a href='http://codepen.io/rglazebrook/pen/bcqhe/'>Simple Rotating Spinner</a> by Rob Glazebrook (<a href='http://codepen.io/rglazebrook'>@rglazebrook</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+See the Pen <a href='http://codepen.io/rglazebrook/pen/bcqhe/'>Simple Rotating Spinner</a> by Rob Glazebrook (<a href='http://codepen.io/rglazebrook'>@rglazebrook</a>) on <a href='http://codepen.io'>CodePen</a>.
 
-<p></div><script async src="//codepen.io/assets/embed/ei.js"></script></p>
-
-<p>Isn't it beautiful?</p>
+</div><script async src="//codepen.io/assets/embed/ei.js"></script>

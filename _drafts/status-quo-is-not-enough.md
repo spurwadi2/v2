@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/blog-cover.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: Status Quo is Not Enough
 description: Bertahan dalam situasi yang selalu sama sedangkan dunia terus berubah bukanlah sebuah pilihan.

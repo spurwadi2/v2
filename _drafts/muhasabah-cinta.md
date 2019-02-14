@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/muhasabah-cinta.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: Muhasabah Cinta
 description: 

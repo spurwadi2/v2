@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/blog-cover.jpg
+cover:  assets/images/hello-world.png
 navigation: True
 title: Buat kamu mamanya anakku nanti, belajar lah yang giat mulai sekarang
 description: 
