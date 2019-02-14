@@ -48,5 +48,5 @@ I hope this site will perform as envisioned.
 
 -----
 
-[^1]: [Sigit Purwadi on Medium]({{ site.url }}{{ site.baseurl }}{% post_url 2017-01-27-sigit-purwadi-on-medium %})
+[^1]: [Sigit Purwadi on Medium]({{ site.url }}{% post_url 2017-01-27-sigit-purwadi-on-medium %})
 [^2]: This domain previously hosted a Wordpress blog.
