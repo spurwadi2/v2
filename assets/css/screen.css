@@ -257,6 +257,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0;
     padding: 0;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 .nav li a {
