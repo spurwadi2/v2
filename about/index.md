@@ -1,14 +1,15 @@
 ---
 layout: page
 current: about
-title: Hello World v2.0
+title: Hello World v2.1
 description: A fast and flexible modern static blogsite built with ❤
 date: 2018-04-01 10:00:00
+modified: 2019-02-14 00:00:00
 navigation: true
 class: page-template
 subclass: 'post page'
 cover: assets/images/dark-space.png
-logo: 'assets/images/ghost.png'
+logo: assets/images/ghost.png
 ---
 
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that. [^1]
@@ -44,7 +45,6 @@ Static sites are impossible to hack, as there are no codes needed to be run on t
 After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator.
 
 I hope this site will perform as envisioned.
-
 
 -----
 
