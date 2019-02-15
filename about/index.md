@@ -7,7 +7,7 @@ date: 2018-04-01 10:00:00
 navigation: true
 class: page-template
 subclass: 'post page'
-cover: assets/images/artcytech.jpg
+cover: assets/images/dark-space.png
 logo: 'assets/images/ghost.png'
 ---
 
