@@ -28,10 +28,10 @@ logo: 'assets/images/ghost.png'
                 {% endif %}
                 <div class="author-meta">
                     {% if author[1].location %}
-                        <div class="author-location" itemprop="address">{{ author[1].location }} <span class="bull">&bull;</span></div>
+                        <div class="social-link social-link-wb" itemprop="address">{% include location-svg.html %}{{ author[1].location }}<span class="bull">&bull;</span></div>
                     {% endif %}
                     <div class="author-stats">
-                        {% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %} <span class="bull">&bull;</span>
+                        {% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}<span class="bull">&bull;</span>
                     </div>
                     {% if author[1].url %}
                         <a class="social-link social-link-wb" href="{{ author[1].url_full }}" target="_blank" rel="noopener" itemprop="url">{% include website-svg.html %}</a>
