@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/edtech-startup.jpg
 navigation: True
-title: Startup EdTech Di Indonesia
+title: Startup EdTech Indonesia
 description:
 tags: [edtech]
 class: post-template
@@ -13,12 +13,11 @@ comments: true
 mathjax:
 ---
 
-Layanan digital di bidang pendidikan yang disebut *education technology* (EdTech) atau teknologi pendidikan dinilai berpotensi tinggi di Indonesia.
+Layanan digital dalam bidang <a href="https://id.wikipedia.org/wiki/Teknologi_pendidikan" title="Wikipedia: Teknologi Pendidikan">Teknologi Pendidikan</a> atau *Education Technology* (EdTech) dinilai memiliki potensi tinggi di Indonesia.
 
-Jika dibandingkan dengan perusahaan rintisan bisnis *e-commerce*, transportasi *on-demand*, atau bahkan perusahaan *fintech*, startup yang bergerak di sektor teknologi pendidikan di Indonesia memang jarang diberitakan meraih pendanaan dengan jumlah fantastis.
+Jika dibandingkan dengan perusahaan rintisan bisnis *e-commerce*, transportasi *on-demand*, atau perusahaan *fintech*, startup yang bergerak di sektor teknologi pendidikan di Indonesia memang jarang diberitakan meraih pendanaan dengan jumlah fantastis.
 
-Namun eksistensi mereka nyata adanya. Beberapa di antaranya telah menawarkan layanan pendidikan secara online selama bertahun-tahun, misalnya seperti Zenius yang telah berdiri sejak 2004.
-
+Namun eksistensi mereka nyata adanya. Beberapa di antaranya telah menawarkan layanan pendidikan secara online selama bertahun-tahun. Seperti Zenius misalnya, yang telah berdiri sejak 2004.
 
 
 Hanya saja industri EdTech masih terus berusaha keras mengambil peluang-peluang yang ada di dunia pendidikan Indonesia.
@@ -32,7 +31,7 @@ Layanan Edtech sejatinya dibagi menjadi beberapa jenis atau kategori. Contohnya 
 Secara umum, tiap kategori memiliki hambatan yang sama.
 
 
-##### Masih harus mengedukasi masyarakat
+###### Masih harus mengedukasi masyarakat
 
 Sama seperti banyak bisnis baru di banyak sektor lain, tugas pertama kali yang harus dihadapi layanan edtech adalah mengenalkan solusi yang mereka tawarkan kepada para calon pengguna.
 
@@ -54,7 +53,7 @@ Masih banyak pula yang beranggapan bahwa pendidikan yang baik adalah mereka yang
 
 Perbedaan cara pandang siswa atau orang tua tentang keberhasilan pendidikan ini juga menjadi area yang harus disikapi. Pengadaan uji coba, seminar atau usaha lainnya bisa membuka pandangan masyarakat terhadap solusi teknologi pendidikan.
 
-##### Konten dan cara belajar
+###### Konten dan cara belajar
 
 Hadirnya teknologi membawa sejumlah perubahan dari segi cara belajar. Kelas jarak jauh, konten-konten pelajaran *on demand* berbentuk video pun mulai banyak ditemukan.
 

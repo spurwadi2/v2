@@ -12,6 +12,11 @@ cover: assets/images/dark-space.png
 logo: assets/images/ghost.png
 ---
 
+Thanks for visiting my blog. I don’t post as often as I’d like. It’s a little contingent on time and motivation. Mostly time I’d say.
+
+<center>•   •   •</center>
+
+
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that. [^1]
 
 >&quot;The beginning is the most important part of the work.&quot;
