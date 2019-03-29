@@ -6,7 +6,11 @@ android:
   name: android
   title: Android Invasion
   description: Are you smarter than your phone?
-  cover: assets/images/android.png
+  cover: assets/images/android-invasion.jpg
+coding:
+  title: Artcytech Dev.
+  description: Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.
+  cover: assets/images/coding.jpg
 cogito:
   name: cogito
   title: Cogito Ergo Cool
@@ -28,7 +32,7 @@ design:
 edtech:
   name: edtech
   title: Educational Technology
-  description: Never stop learning, because life never stops teaching.
+  description: Always feel like you're smart enough to do things, but never smart enough to stop learning.
   cover: assets/images/edtech.jpg
 futurist:
   description: False
@@ -44,7 +48,7 @@ history:
   name: history
   title: 🔥 Blast From The Past 🔥
   description: History do repeat itself..
-  cover: assets/images/history.jpg
+  cover: assets/images/bftp.jpg
 hobbies:
   name: hobbies
   title: Everybody Needs a Hobby! 🎸
@@ -71,7 +75,7 @@ pcmasterrace:
   cover: False
 personal:
   name: personal
-  title: Personal stories
+  title: Personal Stories
   description: Everyone is necessarily the hero of his own life story.
   cover: assets/images/personal-story.jpg
 politics:
@@ -107,6 +111,7 @@ technologeek:
   cover: assets/images/artcytech.jpg
 webmaster:
   name: webmaster
+  title: Web Mastery
   description: We are all apprentices in a craft where no one ever becomes a master.
   cover: assets/images/gandalf-webmaster.jpg
 windows:
@@ -117,5 +122,6 @@ wisdom:
   cover: False
 writing:
   name: writing
+  title: The Writing Cooperative
   description: A million monkeys randomly typing Shakespeare
   cover: assets/images/typing-monkey.jpg
