@@ -8,7 +8,7 @@ modified: 2019-02-14 00:00:00
 navigation: true
 class: page-template
 subclass: 'post page'
-cover: assets/images/dark-space.png
+cover: assets/images/dark-space.jpg
 logo: assets/images/ghost.png
 ---
 
