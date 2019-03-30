@@ -15,11 +15,11 @@ into the {body} of the default.hbs template -->
 <!-- #post -->
 
 {% if page.cover %}
-<header class="site-header outer" style="background-image: url({{ site.baseurl }}{{ page.cover }}">
+<header class="site-header outer" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
 <div class="inner">
     {% include site-nav.html %}
 <div class="site-header-content">
-    <h1 class="site-title">{{ page.title }}</h1>
+    {% if page.logo %}<img class="site-logo" src="{{ site.baseurl }}{{ page.logo }}" alt="{{ page.title }}"/>{% else %}<h1 class="site-title">{{ page.title }}</h1>{% endif %}
     <h2 class="site-description">{{ page.description }}</h2>
 </div>
 </div>
