@@ -10,13 +10,13 @@
       "sizes": "192x192"
     },
     {
-      "src": "/assets/images/icons/apple-touch-icon-152x152.png",
+      "src": "/assets/images/icons/favicon-192x.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/?utm_source=homescreen",
   "background_color": "#000000",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#000000"
 }
