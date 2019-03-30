@@ -6,9 +6,9 @@ navigation: True
 title: Memilih Ruby Version Management Tools
 description: Deskripsi singkat untuk opengraph
 summary: Ini adalah contoh YAML template untuk post baru.<br/>Akan terus diupdate tergantung kebutuhan dan versi terbaru.
-tags: [draft]
+tags: [coding]
 class: post-template
-subclass: 'post tag-draft'
+subclass: 'post tag-coding'
 author: artcytech
 comments: true
 mathjax:
