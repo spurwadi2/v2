@@ -1,0 +1,22 @@
+{
+  "short_name": "Sigit's Blog",
+  "name": "Sigit Purwadi's Blog",
+  "description": "Sigit Purwadi is an EdTech student and a blogger based in Yogyakarta, Indonesia. His interests are anything that’s related to logic, ethics, and aethetics.",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/assets/images/icons/favicon-192x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/icons/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "browser",
+  "theme_color": "#000000"
+}
