@@ -8,15 +8,16 @@ title           : Sigit Purwadi's Blog
 description     : You're Nobody Until You're Talked About
 version         : v2.1
 cover           : assets/images/blog-cover.jpg
-logo            : assets/images/logo/blog-white.png
-logo_dark       : assets/images/icons/favicon-192x.png
+#logo           : assets/images/logo/blog-logos.png
+logo_white      : assets/images/icons/icon-white-560x.png
+logo_dark       : assets/images/icons/icon-dark-560x.png
 favicon         : assets/images/icons/favicon-192x.png
 # production_url: https://blog.purwadi.web.id/v2/
 # source_url    : https://github.com/spurwadi2/v2/
 
 # Social info
-twitter         : S_Purwadi # replace by your username
-facebook        : SigitOfficial # replace by your username
+twitter         : S_Purwadi
+facebook        : SigitOfficial
 instagram       : S_Purwadi
 linkedin        : SPurwadi
 google_plus     : https://plus.google.com/111158361004969556148
