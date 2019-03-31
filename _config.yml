@@ -9,8 +9,8 @@ description     : You're Nobody Until You're Talked About
 version         : v2.1
 cover           : assets/images/blog-cover.jpg
 #logo           : assets/images/logo/blog-logos.png
-logo_white      : assets/images/icons/icon-white-560x.png
-logo_dark       : assets/images/icons/icon-dark-560x.png
+logo_white      : assets/images/icons/icon-white.svg
+logo_dark       : assets/images/icons/icon-dark.svg
 favicon         : assets/images/icons/favicon-192x.png
 # production_url: https://blog.purwadi.web.id/v2/
 # source_url    : https://github.com/spurwadi2/v2/
