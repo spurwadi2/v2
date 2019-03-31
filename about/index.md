@@ -9,7 +9,7 @@ navigation: true
 class: page-template
 subclass: 'post page'
 cover: assets/images/dark-space.jpg
-logo: assets/images/ghost.png
+logo:
 ---
 
 Thanks for visiting my blog. I don’t post as often as I’d like. It’s a little contingent on time and motivation. Mostly time I’d say.
