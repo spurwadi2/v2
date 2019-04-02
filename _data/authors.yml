@@ -1,25 +1,28 @@
 artcytech:
   username: artcytech
   name: 'Art Cyber Tech'
-  location: World Wide Web
-  url_full: 
-  url: 
-  bio: Logic, Ethics, Aesthetics<br/> Pseudo-intelligence
   picture: assets/images/avatar/artcytech.gif
-  facebook: 4rtcytech
-  twitter: Artcytech
-  instagram: Artcytech
   cover: assets/images/artcytech.jpg
+  bio: Logic, Ethics, Aesthetics<br/> Pseudo-intelligence
+  url: 
+  location: World Wide Web
+  twitter: Artcytech
+  facebook: 4rtcytech
+  instagram: Artcytech
+  linkedin: 
+  github: 
+  youtube: 
 sigit:
   username: sigit
   name: 'Sigit Purwadi'
-  location: Yogyakarta, ID
-  url_full: https://sigit.purwadi.web.id
-  url: sigit.purwadi.web.id
-  bio: I'm the admin, dude!<br/> I’m still writing the bio which feels like the hardest thing I’ve ever written.<br/><br/> Follow @S_Purwadi on Twitter 🐦
   picture: assets/images/avatar/sigit.gif
-  facebook: SigitOfficial
+  cover: assets/images/dark-space.jpg
+  bio: I'm the admin, dude!<br/> I’m still writing the bio which feels like the hardest thing I’ve ever written.
+  location: Yogyakarta, ID
+  url: https://sigit.purwadi.web.id
   twitter: S_Purwadi
+  facebook: SigitOfficial
   instagram: S_Purwadi
   linkedin: SPurwadi
-  cover: assets/images/dark-space.jpg
+  github: spurwadi
+  youtube: spurwadi
