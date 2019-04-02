@@ -28,11 +28,11 @@ logo: 'assets/images/ghost.png'
                 {% endif %}
                 <div class="author-meta">
                     {% if author[1].location %}
-                        <div class="social-link social-link-wb" itemprop="address">{% include location-svg.html %}{{ author[1].location }}<span class="bull">&bull;</span></div>
+                        <div class="social-link social-link-wb" itemprop="address">{% include location-svg.html %}{{ author[1].location }}</div>
                     {% endif %}
-                    <div class="author-stats">
-                        {% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}<span class="bull">&bull;</span>
-                    </div>
+                    <!-- <div class="author-stats">
+                        {% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}
+                    </div> -->
                     {% if author[1].url %}
                         <a class="social-link social-link-wb" href="{{ author[1].url }}" target="_blank" rel="noopener" itemprop="url">{% include website-svg.html %}</a>
                     {% endif %}
@@ -49,7 +49,7 @@ logo: 'assets/images/ghost.png'
                         <a class="social-link social-link-fb" href="https://linkedin.com/in/{{ author[1].linkedin }}" target="_blank" rel="noopener" itemprop="linkedin">{% include linkedin-svg.html %}</a>
                     {% endif %}
                     {% if author[1].github %}
-                        <a class="social-link social-link-fb" href="https://github.com/{{ author[1].github }}" target="_blank" rel="noopener" itemprop="linkedin">{% include github-svg.html %}</a>
+                        <a class="social-link social-link-wb" href="https://github.com/{{ author[1].github }}" target="_blank" rel="noopener" itemprop="linkedin">{% include github-svg.html %}</a>
                     {% endif %}
                     {% if author[1].youtube %}
                         <a class="social-link social-link-fb" href="https://youtube.com/user/{{ author[1].youtube }}" target="_blank" rel="noopener" itemprop="linkedin">{% include youtube-svg.html %}</a>
