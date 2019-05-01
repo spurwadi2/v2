@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/sinetron.jpg
 navigation: True
 title: The Controversial of Indonesian 'Melodramatic' Soap Opera
-tags: [comodos]
+tags: [komodos]
 class: post-template
-subclass: 'post tag-comodos'
+subclass: 'post tag-komodos'
 author: sigit
 comments: true
 ---

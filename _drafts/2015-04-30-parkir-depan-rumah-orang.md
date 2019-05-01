@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/hello-world.png
 navigation: True
 title: Pelanggaran Hukum bagi Pemilik Kendaraan yang Parkir Sembarangan di Depan Rumah Orang Lain
-tags: [comodos]
+tags: [komodos]
 class: post-template
-subclass: 'post tag-comodos'
+subclass: 'post tag-komodos'
 author: sigit
 comments: true
 mathjax:

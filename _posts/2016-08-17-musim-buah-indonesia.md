@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/durian.jpg
 navigation: True
 title: Mengetahui Jadwal Musim Buah di Indonesia
-tags: [comodos]
+tags: [komodos]
 class: post-template
-subclass: 'post tag-comodos'
+subclass: 'post tag-komodos'
 author: sigit
 comments: true
 ---

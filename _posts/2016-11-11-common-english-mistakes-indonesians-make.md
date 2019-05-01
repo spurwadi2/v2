@@ -5,9 +5,9 @@ cover:  assets/images/deadline.jpg
 navigation: True
 title: Common English Mistakes Indonesians Make
 description: 
-tags: [comodos]
+tags: [komodos]
 class: post-template
-subclass: 'post tag-comodos'
+subclass: 'post tag-komodos'
 author: sigit
 comments: true
 mathjax:

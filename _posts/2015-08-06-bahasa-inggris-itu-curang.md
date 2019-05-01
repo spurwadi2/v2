@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/ice-tea.jpg
 navigation: True
 title: Bahasa Inggris Itu Curang
-tags: [comodos]
+tags: [komodos]
 class: post-template
-subclass: 'post tag-comodos'
+subclass: 'post tag-komodos'
 author: sigit
 comments: true
 mathjax:
