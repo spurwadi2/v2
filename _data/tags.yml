@@ -29,6 +29,9 @@ edtech:
   title: Educational Technology
   description: Always feel like you're smart enough to do things, but never smart enough to stop learning.
   cover: assets/images/edtech.jpg
+financial:
+  description: False
+  cover: False
 futurist:
   description: False
   cover: False
