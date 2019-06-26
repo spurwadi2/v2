@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/twitter-bird.webp
+cover:  assets/images/twitter-ppl.jpg
 navigation: True
 title: Twitter, Please Do Your Magic!
 description: Jika harus memilih, aplikasi media sosial mana yang harus saya hapus dari gadget, jelas bukan Twitter. Kalau Instagram, saya pernah menonaktifkan akun dalam beberapa bulan dan tidak masalah.
@@ -45,6 +45,8 @@ Mungkin ia tak akan menyangka cuitannya pada 12 Maret kemarin akan berdampak bes
 cuitnya selang sehari kemudian. Dukungan kepadanya pun terus mengalir sampai artikel ini dibuat.
 
 #### Giliran Twitter Turun Tangan
+
+<div style="width:100%;height:0;padding-bottom:30%;position:relative;"><iframe src="https://giphy.com/embed/k4ZItrTKDPnSU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/twitter-animation-k4ZItrTKDPnSU">via GIPHY</a></p>
 
 Setelah berkali-kali disebut untuk membuat keajaiban, si platform ini pun menunjukkan "kuasanya". Siapa yang kali ini mendapat keberkahan tersebut?
 
