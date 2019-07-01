@@ -8,10 +8,11 @@ description: Deskripsi singkat untuk meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
 date: 2009-01-01 00:00:00
 modified: 2009-01-02 00:00:00
-tags: [draft]
+tags: [edtech]
 class: post-template
-subclass: 'post tag-draft'
-author: artcytech
+subclass: 'post tag-edtech'
+author: sigit
 comments: true
 mathjax:
 ---
+

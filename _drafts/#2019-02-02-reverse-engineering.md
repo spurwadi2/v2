@@ -13,5 +13,3 @@ author: artcytech
 comments: true
 mathjax:
 ---
-
-asdasad

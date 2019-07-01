@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: assets/images/invest.jpg
+cover: assets/images/investasi.jpg
 navigation: True
-title: Financial Freedom dan Investasi di Indonesia
+title: Kebebasan Finansial dan Investasi di Indonesia
 description: 
 summary:
 tags: [millennials]
@@ -14,26 +14,32 @@ comments: true
 mathjax:
 ---
 
-Baiklah.. Kali ini saya mau membahas tentang instrumen investasi di Indonesia dan tekniknya. 
+> Kebebasan finansial adalah suatu kondisi keuangan dengan pencapaian investasi yang cukup banyak, relatif aman, dan hasilnya mencukupi kebutuhan kita untuk hidup dengan gaya hidup yang kita inginkan.
+
+Baiklah.. Kali ini saya mau membahas tentang instrumen investasi di Indonesia dan tekniknya.
 
 *Feel free to chime in or correct me.. 🥂*
 
+<h1> Macam instrumen investasi </h1>
+* Auto generated table of contents
+{:toc}
+
 Sebelum melakukan sebuah investasi ada baiknya kita penuhin beberapa syarat dulu, yaitu:
 
-* Investasikan sejumlah uang yang kita mampu dan kita relakan untuk hilang. Jangan investasi melebihi kemampuan finansial dan mental kita.
+1. Investasikan sejumlah uang yang kita mampu dan kita relakan untuk hilang. Jangan investasi melebihi kemampuan finansial dan mental kita.
 
-* **Jangan pake uang sehari hari!**
+2. **Jangan pake uang sehari hari!**
 
 	Di sini pentingnya budgeting sehari hari, biar kita tau sebenarnya kita habis berapa sih setiap bulannya dan butuhnya berapa setiap bulan. Konsep budgeting ntar dibahas di kesempatan lain aja ya..
 
-* Punya minimal 3 bulan tabungan buat hidup nyaman. **Nyaman bukan foya-foya.**
+3. Punya minimal 3 bulan tabungan buat hidup nyaman. **Nyaman ya.. bukan foya-foya.**
 
-* Jangan investasi di satu tempat atau malah *hedging* kalau mau aman.
+4. Jangan investasi di satu tempat atau malah *hedging* kalau mau aman.
 	
-	*Hedging* itu konsep lindung nilai. Misalnya kita tahu bahwa harga emas dan USD itu selalu berlawanan, jadi kita bisa beli emas dan USD. Kalau satu instrumen turun yang lain naik dan begitu sebaliknya, nilai uang kita relatif terjaga. Namun kalau pake teknik hedging gain yang diperoleh cenderung kecil.
+	> *Hedging* itu konsep lindung nilai. Misalnya kita tahu bahwa harga emas dan USD itu selalu berlawanan, jadi kita bisa beli emas dan USD. Kalau satu instrumen turun yang lain naik dan begitu sebaliknya, nilai uang kita relatif terjaga. Namun kalau pake teknik hedging gain yang diperoleh cenderung kecil.
 
 
-#### Apa sih tujuan investasi?
+<h3> Apa sih tujuan investasi </h3>
 
 Menurut pendapat saya sih investasi itu tujuannya menjaga nilai uang kita agar tidak termakan inflasi. Kalau mau jadi kaya baru spekulasi. Tapi sebenarnya investasi dan spekulasi itu seperti sebuah spektrum, gak bisa dibedakan secara jelas.
 
@@ -87,9 +93,7 @@ Sama seperti tabungan, bunga deposito kena pajak 20%, jadi kalau dibilang bunga 
 >
 > Likuiditas : gampang dicairin
 
-tambahan dari /u/nyanyanpasu :
-
-Tambahin itu deposito online bisa di Internet banking BNI, minimal 10jt, bunganya cek di website bni (klo ga salah sekitar 4-5 persen skrg). Bisa dicairkan kapan saja di jam kerja, ga kena penalti tapi jadi ga dapat bunga. Ini deposito online bahkan udah ada dari 2013an klo ga salah.
+Untuk deposito online bisa di Internet banking BNI, minimal 10jt, bunganya cek di website bni (klo ga salah sekitar 4-5 persen skrg). Bisa dicairkan kapan saja di jam kerja, ga kena penalti tapi jadi ga dapat bunga. Ini deposito online bahkan udah ada dari 2013an klo ga salah.
 
 ### 3. Emas
 
@@ -307,19 +311,13 @@ aku personally sih udah males analisa macem macem, sekarang stock pick ku cuma B
 
 <center>•   •   •</center>
 
-#### TL;DR
-
 bikin 2 tabungan, satu isinya biaya hidup tiga bulan. satu lagi isinya biaya hidup bulan ini.
 
 sisa uang baru diinvestasikan di instrumen yg ada diatas, bergantung dari resiko yg mau diambil.
 
 hidup foya foya , kaya raya, masuk surga
 
-
-
 end note : jangan lupa investasi di personal network, ketemu orang orang baru, siapa tau ada yg punya usaha menarik terus bisa ikutan bikin usaha bareng. biasanya usaha itu gainnya jauh lebih tinggi dari semua investasi ginian.
-
-
 
 tambahan dari /u/nyanyanpasu :
 
@@ -327,8 +325,6 @@ Saran buat yang baru mulai, coba mulai dari yang risk nya rendah, kalau ada uang
 
 -----
 
-#### Referensi:
+[^1]: [https://www.bca.co.id/id/individu/sarana/kurs-dan-suku-bunga/suku-bunga-simpanan](https://www.bca.co.id/id/individu/sarana/kurs-dan-suku-bunga/suku-bunga-simpanan)
 
-[^1]: (https://www.bca.co.id/id/individu/sarana/kurs-dan-suku-bunga/suku-bunga-simpanan)
-
-[^2]: (https://www.jenius.com/rates-and-limits/)
+[^2]: [https://www.jenius.com/rates-and-limits/](https://www.jenius.com/rates-and-limits/)
