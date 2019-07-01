@@ -16,6 +16,8 @@ mathjax:
 
 Bertahan dalam situasi yang selalu sama sedangkan dunia terus berubah bukanlah sebuah pilihan.
 
+Sejatinya semua orang paham dan sadar selalu dituntut untuk terus bisa berubah. Bukan sekedar persoalan urusan bisnis atau bangsa semata, karena hakikat hidup ini pun sebenarnya adalah deretan perubahan yang terjadi dalam domain waktu dan tempat. Maka perubahan adalah keniscayaan.
+
 *Status quo* mungkin kondisi yang menyenangkan, tetapi karena harus terjadi perkembangan, maka harus ada perubahan.
 
 Jika kamu mencari perkembangan, maka kamu harus mencari perubahan.
