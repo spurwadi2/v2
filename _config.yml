@@ -59,7 +59,7 @@ kramdown        :
   toc_levels    : 1..6
   enable_coderay: false
 highlighter     : rouge
-paginate        : 100 # it will paginate after this number
+paginate        : 15 # it will paginate after this number
 paginate_path   : "page:num"
 language        : 'en-uk'
 
