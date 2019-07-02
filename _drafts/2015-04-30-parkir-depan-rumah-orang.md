@@ -16,7 +16,7 @@ Jika Anda tinggal di kompleks perumahan yang jalannya relatif sempit, jalan dua 
 
 Bisa saja pada suatu waktu ada tetangga yang memarkirkan mobilnya di pinggir jalan yang sempit ini sehingga memakan badan jalan, sedangkan posisi mobil yang diparkir tersebut menyulitkan Anda yang punya mobil untuk keluar dan masuk garasi rumah Anda sendiri.
 
-Biasanya yang parkir pun cukup pandai dia tidak parkir tepat didepan pagar Anda, tetapi di seberang jalan dan posisinya antara rumah Anda dengan rumah di sebelah Anda. Jadi tidak persis menghalangi anda keluar masuk, namun lebar jalan yang sudah kecil makin menyempit menjadi satu lajur saja, sehingga menyulitkan anda yang punya mobil dan di parkir di dalam rumah untuk keluar masuk. 
+Biasanya yang parkir pun cukup pandai dia tidak parkir tepat didepan pagar Anda, tetapi di seberang jalan dan posisinya antara rumah Anda dengan rumah di sebelah Anda. Jadi tidak persis menghalangi anda keluar masuk, namun lebar jalan yang sudah kecil makin menyempit menjadi satu lajur saja, sehingga menyulitkan anda yang punya mobil dan di parkir di dalam rumah untuk keluar masuk.
 
 Mau bergerak bebas susah, karena bisa bersenggolan dengan mobil yang diparkir, pelan-pelan pun susahnya bukan main untuk memasukkan atau mengeluarkan mobil anda. Atau lebih parah memang parkir tepat di depan pintu pagar rumah anda sehingga Anda harus extra keras berupaya mengemudikan mobil anda hanya untuk keluar masuk rumah dan melalui jalan umum di depan rumah anda.
 
