@@ -30,8 +30,10 @@ edtech:
   description: Always feel like you're smart enough to do things, but never smart enough to stop learning.
   cover: assets/images/edtech.jpg
 financial:
-  description: False
-  cover: False
+  name: financial
+  title: Making of a Millionaire 💰
+  description: Publishing stories on all things related to personal finance and financial freedom
+  cover: assets/images/financial-millennials.jpg
 futurist:
   description: False
   cover: False
