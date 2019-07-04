@@ -38,9 +38,9 @@
                             {% if page.previous.tags.size > 0 %}
                             {% for tag in page.previous.tags %}
                             {% if forloop.index == page.previous.tags.size %}
-                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}">{{ tag | capitalize }}</a>
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}" data-toggle="tooltip" title="Other posts from the {{ tag }} category">{{ tag | capitalize }}</a>
                             {% else %}
-                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}">{{ tag | capitalize }}</a>
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}" data-toggle="tooltip" title="Other posts from the {{ tag }} category">{{ tag | capitalize }}</a>
                             {% endif %}
                             {% endfor %}
                             {% endif %}
