@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/hello-world.png
 navigation: True
 title: Membangun Generasi Open Minded
-description: Deskripsi singkat untuk meta tag dan OpenGraph
-summary: Ringkasan artikel untuk ditampilkan pada *post card*
+description: 
+summary: 
 tags: [draft]
 class: post-template
 subclass: 'post tag-draft'

@@ -19,4 +19,3 @@ mathjax:
 Jaman sekarang pria sudah tak harus hanya peduli pada penampilan, tapi juga pada kebersihan.
 
 Berbagai aktifitas yang kita lakukan dari pagi sampai malam tentunya mengandung kotoran, minyak dan debu yang bisa membuat kulit muka kita rusak. Banyak pria juga masih malu untuk menggunakan skincare karena ada stereotype buruk.
-
