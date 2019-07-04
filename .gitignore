@@ -8,3 +8,5 @@ node_modules/
 .ruby-version
 about/version.md
 *.bak
+*.old
+*.new
