@@ -26,7 +26,7 @@ into the {body} of the default.hbs template -->
             <header class="post-full-header">
                 <h1 class="post-full-title" itemprop="name">{{ page.title }}</h1>
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date:'%A, %e %b %Y' }}</time>
+                    <time class="post-full-meta-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date:'%a, %e %b %Y' }}</time>
                     {% if page.tags.size > 0 %}
                         <span class="date-divider">∙</span>
                         {% for tag in page.tags %}
