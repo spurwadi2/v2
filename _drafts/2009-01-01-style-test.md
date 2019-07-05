@@ -12,16 +12,30 @@ subclass: 'post tag-draft'
 author: artcytech
 ---
 
-Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just about everything you’ll need to style in the theme.
+
+Check the source code to see the many embedded elements within paragraphs.
+
+...
+
+* Auto generated table of contents
+{:toc}
 
 ---
 
 # Heading 1 #
+
 ## Heading 2 ##
+
 ### Heading 3 ###
+
 #### Heading 4 ####
+
 ##### Heading 5 #####
+
 ###### Heading 6 ######
+
+<h7> Heading 7 </h7>
 
 ---
 
@@ -35,13 +49,25 @@ Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipisci
 
     This is strong. Nullam dignissim convallis est. Quisque aliquam. This is emphasized. Donec faucibus. Nunc iaculis suscipit dui. 5sup = 125. Water is HsubO.
 
+***
+
+    Hello,
+
+    I apologize, but I was forced to suspend the script "/home/xxxxx/public_html/xxxxxx/index.php" as it was causing a high load on the server, and due to it affecting all of the other accounts on the system, I was forced to take immediate action for the health of the server.
+
+    I did notice that this was a Wordpress installation, and would recommend that you enable caching for it.
+  
+    Please note that if you already have caching enabled, you will need to take more action such as looking into any high use modules or plugins, and seeing if there are any updates, or possibly any that you can disable to reduce the load that your site causes. 
+  
+    If you reply back to this with your IP address we will be more than happy to go ahead enable HTTP access for you, so that you can safely work on the script without it causing further issues. Please let me know how you would like to proceed.
+
 ## Media ##
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
 ### Big Image
 
-<img src="assets/images/hello-world.png#big" alt="Test Image" />
+<img src="assets/images/topics.png#full" alt="Test Image" />
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -166,8 +192,8 @@ For more on how to use it and on the available styles check their
 <a href="https://highlightjs.org/static/demo/">demo</a> and
 <a href="http://highlightjs.readthedocs.org/en/latest/">documentation</a> pages.
 
-<div class="system">
-<pre><code class="swift">// Swift code sample
+{% highlight swift %}
+// Swift code sample
 import Foundation
 
 @objc class Person: Entity {
@@ -183,9 +209,7 @@ import Foundation
     return "\(name) is \(age + offset) years old"
   }
 }
-</code></pre>
-</div>
-
+{% endhighlight %}
 
 <hr />
 
@@ -194,10 +218,17 @@ import Foundation
 Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.
 
 <blockquote>
-  Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite>
+  Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. <q>plant in Urbana</q>, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite>
 </blockquote>
 
 And here’s a bit of trailing text.
+
+> Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <small><cite>HAL9000</cite></small>
+
+> &quot;The beginning is the most important part of the work.&quot; <small><cite title="Plato">Plato</cite></small>
+
+> &quot;The beginning is the most important part of the work.&quot;
+> <br/><small><cite title="Plato">Plato</cite></small>
 
 <hr />
 
