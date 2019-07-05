@@ -89,7 +89,7 @@ compress_html   :
   startings     : [html, head, body]
 
 # Settings for deploy rake task
-# Settings for builing master branch with travis-ci with jekyll-travis
+# Settings for building master branch with travis-ci with jekyll-travis
 # Username and repo of Github repo, e.g. https://github.com/USERNAME/REPO.git username defaults to ENV['GIT_NAME'] used by Travis repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io or "master" otherwise
 safe            : False
@@ -115,6 +115,7 @@ exclude         :
                 - paths.js
                 - LICENSE
                 - package.json
+                - package-lock.json
                 - Rakefile
                 - README.md
                 - script.py
