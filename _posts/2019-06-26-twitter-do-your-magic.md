@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/twitter-ppl.jpg
 navigation: True
-title: Twitter, Please Do Your Magic!
+title: ✨ Twitter, Please Do Your Magic! ✨
 description: Jika harus memilih, aplikasi media sosial mana yang harus saya hapus dari gadget, jelas bukan Twitter. Kalau Instagram, saya pernah menonaktifkan akun dalam beberapa bulan dan tidak masalah.
 summary: Jika harus memilih, aplikasi media sosial mana yang harus saya hapus dari gadget, jelas bukan Twitter. Kalau Instagram, saya pernah menonaktifkan akun dalam beberapa bulan dan tidak masalah.
 tags: [millennials]
