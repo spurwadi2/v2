@@ -36,3 +36,4 @@ about/version.md
 *.bak
 *.old
 *.new
+.blog*
