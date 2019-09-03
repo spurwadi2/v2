@@ -16,9 +16,9 @@ mathjax:
 
 Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, yang memerlukan uang yang banyak, pengetahuan yang dalam, dan segudang pengalaman.
 
-Jika investasi diartikan seperti diatas, artinya *financial freedom* atau kebebasan finansial hanyalah milik segelintir orang yang punya modal saja dong, hanya untuk segelintir orang yang pintar saja dong? Apakah benar begitu?
+Jika investasi diartikan seperti diatas, artinya *financial freedom* atau kebebasan finansial hanyalah milik segelintir orang yang punya modal saja dong? Hanya untuk segelintir orang yang pintar saja dong? Apakah benar begitu?
 
-Sudah lama sekali saya ingin membahas mengenai ini, bahwa jika kita melakukan investasi, dengan tujuan untuk mencapai kebebasan finansial, tidak selalu harus dihubungkan dengan saham, properti, atau bisnis yang canggih canggih.
+Sudah lama saya ingin membahas mengenai ini, bahwa jika kita melakukan investasi, dengan tujuan untuk mencapai kebebasan finansial, tidak selalu harus dihubungkan dengan saham, properti, atau bisnis yang canggih canggih.
 
 Investasi sangat bisa dilakukan dengan cara yang sederhana, tentu dengan gain & risk-nya masing-masing.
 
