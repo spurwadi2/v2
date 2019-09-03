@@ -24,7 +24,7 @@ Jika kamu datang ke sini dengan pertanyaan yang sama seperti contoh di atas, mak
 
 Sebelum semuanya menjadi rumit, saya akan membawa kalian mundur 5-6 tahun yang lalu ketika gambar bergerak dengan format GIF sedang keren-kerennya.
 
-Saat itu tidak ada cara termudah untuk membuat GIF selain membuatnya sendiri dengan bantuan Photoshop dan Photoscape, sedangkan bagi sebagian orang tentu akan kesulitan untuk membuatnya.
+Saat itu tidak ada cara termudah untuk membuat GIF versi kita sendiri selain membuatnya dengan bantuan software Adobe Photoshop atau Photoscape, sedangkan bagi sebagian orang tentu akan kesulitan untuk membuatnya.
 
 Bahkan jauh sebelum *Giphy* lahir, orang-orang menyimpan gambar GIF yang mereka dapat dari internet ke dalam folder khusus untuk digunakan kembali pada saat yang tepat.
 
@@ -36,7 +36,7 @@ Meskipun (sebenarnya) Twitter tidak memperbolehkannya secara resmi, kita masih b
 
 Selanjutnya dengan rasio dan ukuran yang tepat (48px, 96px, 128px, 192px, 384px), kita bisa langsung mengujinya untuk mengetahui apakah gambar tersebut berhasil bergerak atau tidak.
 
-Sebagai catatan, saat itu saya menggunakan twitter client versi sendiri yang saya buat dari [Dabr](https://github.com/edent/Dabr). Sedikit yang saya ingat, ukuran file size avatar ini juga harus kurang dari 40kb. Apabila melebihi 40kb, gambar tetap terunggah tetapi tidak akan bergerak.
+Sebagai catatan, saat itu saya menggunakan twitter client versi sendiri yang saya buat dari [Dabr](https://github.com/edent/Dabr). Sedikit yang saya ingat, ukuran file untuk avatar gerak ini juga harus kurang dari 40kb. Apabila melebihi 40kb, gambar tetap terunggah tetapi tidak akan bergerak.
 
 ###### Kenapa Twitter memblokir GIF Avatar?
 
