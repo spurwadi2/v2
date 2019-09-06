@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/overthinking.jpg
 navigation: True
-title: The "Overthinking" Mind
+title: The 'Overthinking' Mind
 description: Tanpa kita sadari, kita dikendalikan oleh pikiran-pikiran yang sesungguhnya tidak perlu kita jadikan beban. Lalu, bagaimana cara mengatasinya?
 summary:  Tanpa kita sadari, kita dikendalikan oleh pikiran-pikiran yang sesungguhnya tidak perlu kita jadikan beban. Lalu, bagaimana cara mengatasinya?
 tags: [self-discovery]
@@ -48,7 +48,7 @@ Berikutnya, jika kita ada pekerjaan jangan ditunda-tunda, tetapkan waktunya kapa
 
 Ketika kita sudah selesai melakukan suatu tugas dan sudah mengusahakan yang terbaik untuk menyelesaikannya namun masih belum sempurna atau belum memenuhi standar, sadari dan terima bahwa itulah usaha terbaik yang kita mampu.
 
-Terakhir, sesungguhnya ini adalah yang paling penting. Yaitu **bersyukur**.
+Terakhir dan yang paling penting adalah **senantiasa bersyukur**.
 
 Setiap harinya jangan lupa bersyukur, jika perlu tuliskan di kertas atau di note handphone hal-hal apa saja yang patut kita syukuri di hari ini.
 
