@@ -14,7 +14,9 @@ comments: true
 mathjax:
 ---
 
-Belakangan, saya merasakan banyak sekali perubahan drastis dalam kehidupan orang – orang sekitar saya, yang secara tidak langsung mempengaruhi sedikit banyak bahan renungan saya.
+Belakangan ini, saya merasakan banyak sekali perubahan drastis dalam kehidupan orang – orang di sekitar saya.
+
+Hal tersebut secara tidak langsung juga mempengaruhi kehidupan dan bahan renungan saya.
 
 Misalnya, mulai banyak yang menikah dan bahkan sudah banyak yang punya anak. Mungkin kalo dihitung- hitung lagi, sahabat SD, SMP, dan SMA hampir 75% sudah berkeluarga. Bahkan kalo dihitung lagi, teman kuliah sudah banyak yang menikah either itu perempuan atau laki-laki.
 
