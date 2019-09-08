@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/kopitalisme.jpg
 navigation: True
-title: Kopitalisme dan Budaya dalam Secangkir Kopi
+title: Kopitalisme dan Budaya dalam Secangkir Kopi ☕
 description: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
 summary: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
 tags: [millennials]
@@ -100,7 +100,7 @@ Kita ngopi di *coffee shop* untuk menunjukkan bahwa kebudayaan kita berbeda deng
 
 Kita ingin menunjukkan bahwa kita yang suka ngopi di *coffee shop* itu lebih berbudaya daripada yang cuma *nyruput* kopi sachet di rumah.
 
-Nah, ternyata untuk dibilang ber-kebudayaan itu mudah. Cukup *ngopi* saja..
+Nah, ternyata untuk bisa dibilang "berbudaya" itu mudah. Cukup dengan *ngopi* saja~
 
 -----
 
