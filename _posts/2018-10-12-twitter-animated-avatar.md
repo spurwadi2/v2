@@ -36,9 +36,9 @@ Meskipun (sebenarnya) Twitter tidak memperbolehkannya secara resmi, kita masih b
 
 Misalnya dengan mengubah ukuran gambar (*size*) atau rasio pada gambar GIF yang akan kita buat. Tak kalah penting adalah jangan mengunggahnya melalui *official twitter client*, baik melalui aplikasi twitter maupun web/mobile client-nya.
 
-Selanjutnya dengan rasio dan ukuran yang tepat (48px, 96px, 128px, 192px, 384px), kita bisa langsung mengujinya untuk mengetahui apakah gambar tersebut berhasil bergerak atau tidak.
-
 Sebagai catatan, saat itu saya menggunakan twitter client versi sendiri yang saya buat dari [Dabr](https://github.com/edent/Dabr).
+
+Selanjutnya dengan rasio dan ukuran yang tepat (48px, 96px, 128px, 192px, 384px), kita bisa langsung mengujinya untuk mengetahui apakah gambar tersebut berhasil bergerak atau tidak.
 
 Sedikit yang saya ingat, ukuran file untuk avatar hidup ini juga harus kurang dari 40kb. Apabila melebihi 40kb, gambar tetap terunggah tetapi tidak akan bergerak.
 
