@@ -100,7 +100,7 @@ Kita ngopi di *coffee shop* untuk menunjukkan bahwa kebudayaan kita berbeda deng
 
 Kita ingin menunjukkan bahwa kita yang suka ngopi di *coffee shop* itu lebih berbudaya daripada yang cuma *nyruput* kopi sachet di rumah.
 
-Nah, ternyata untuk bisa dibilang "berbudaya" itu mudah. Cukup dengan *ngopi* ☕ saja~ 
+Nah, ternyata untuk bisa dibilang "berbudaya" itu mudah. Cukup dengan *ngopi* saja~ 
 
 -----
 
