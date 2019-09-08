@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover: assets/images/investasi.jpg
+cover: assets/images/millennials-investment.jpg
 navigation: True
-title: Kebebasan Finansial dan Investasi di Indonesia
-description: 
-summary:
+title: Pilihan Instrumen Investasi di Indonesia
+description: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Jika investasi diartikan seperti itu, apakah artinya kebebasan finansial hanyalah milik segelintir orang yang punya modal dan pintar saja? Apakah benar begitu?
+summary: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Jika investasi diartikan seperti itu, apakah artinya kebebasan finansial hanyalah milik segelintir orang yang punya modal dan pintar saja? Apakah benar begitu?
 tags: [financial]
 class: post-template
 subclass: 'post tag-financial'
@@ -14,17 +14,17 @@ comments: true
 mathjax:
 ---
 
-Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, yang memerlukan uang yang banyak, pengetahuan yang dalam, dan segudang pengalaman.
+Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, yang memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman.
 
 Jika investasi diartikan seperti diatas, artinya *financial freedom* atau kebebasan finansial hanyalah milik segelintir orang yang punya modal saja dong? Hanya untuk segelintir orang yang pintar saja dong? Apakah benar begitu?
 
-Sudah lama saya ingin membahas mengenai ini, bahwa jika kita melakukan investasi, dengan tujuan untuk mencapai kebebasan finansial, tidak selalu harus dihubungkan dengan saham, properti, atau bisnis yang canggih canggih.
+Sudah lama saya ingin membahas mengenai ini, bahwa jika kita melakukan investasi, dengan tujuan untuk mencapai kebebasan finansial, tidak selalu harus dihubungkan dengan saham, properti, atau bisnis yang canggih-canggih.
 
-Investasi sangat bisa dilakukan dengan cara yang sederhana, tentu dengan gain & risk-nya masing-masing.
+Investasi sangat bisa dilakukan dengan cara yang sederhana, tentu dengan *gain* & *risk*-nya masing-masing.
 
-Menurut pendapat saya, *investasi* itu tujuannya menjaga nilai uang kita agar tidak termakan inflasi. Sedangkan kalau mau jadi kaya barulah *spekulasi*. Tapi sebenarnya investasi dan spekulasi itu seperti sebuah spektrum, gak bisa dibedakan secara jelas.
+Menurut saya, *investasi* itu tujuannya menjaga nilai uang kita agar tidak termakan inflasi. Sedangkan kalau mau jadi kaya barulah *spekulasi*. Tapi sebenarnya investasi dan spekulasi itu seperti sebuah spektrum, gak bisa dibedakan secara jelas.
 
-Di Indonesia, kita bisa membagi produk investasi jadi 3:
+Di Indonesia sendiri, kita bisa membagi produk investasi menjadi 3,
 
 1. Utang (tabungan, deposito, surat utang negara, reksadana pasar uang, *p2p lending*)
 2. Jual beli (emas, saham, *index fund*, properti)
@@ -44,9 +44,9 @@ Sebelum melakukan sebuah investasi ada baiknya kita penuhin beberapa syarat dulu
 
 4. Jangan investasi di satu tempat atau malah *hedging* kalau mau aman.
 	
-	*Hedging* itu konsep lindung nilai. Misalnya kita tahu bahwa harga emas dan USD itu selalu berlawanan, jadi kita bisa beli emas dan USD. Kalau satu instrumen turun yang lain naik dan begitu sebaliknya, nilai uang kita relatif terjaga. Namun kalau pake teknik hedging, gain yang diperoleh cenderung kecil.
+	*Hedging* itu konsep lindung nilai. Misalnya kita tahu bahwa harga emas dan USD itu selalu berlawanan, jadi kita bisa beli emas dan USD. Kalau satu instrumen turun yang lain naik dan begitu sebaliknya, nilai uang kita relatif terjaga. Namun kalau pake teknik *hedging*, *gain* yang diperoleh cenderung kecil.
 
-5. Saran buat yang baru mulai, coba mulai dari yang resikonya paling rendah. Kalau ada uang lagi baru lanjut ke investment yang resikonya lebih tinggi, jadi sekalian bagi2 resiko nya gitu, ga satu gagal trus gagal semua.
+5. Saran buat yang baru mulai, coba mulai dari yang resikonya paling rendah. Kalau ada uang lagi baru lanjut ke *investment* yang resikonya lebih tinggi, jadi sekalian bagi-bagi resikonya gitu, ga satu gagal trus gagal semua.
 
 Setelah semuanya terpenuhi, selanjutnya akan kita bahas mulai dari instrumen yang paling aman ke yang paling beresiko.
 
@@ -61,7 +61,7 @@ Setelah semuanya terpenuhi, selanjutnya akan kita bahas mulai dari instrumen yan
 
 Tabungan bisa dikatakan sebagai instrumen paling aman dalam dunia investasi. Investasi dengan resiko terkecil ini dijamin sama LPS (Lembaga Penjamin Simpanan), jadi kalau misalnya bank-nya bangkrut, uang kita akan diganti oleh LPS (selama tabungan masih dibawah 2 Miliar).
 
-Cuma malesnya adalah return yang ditawarkan sangat kecil, jadi tabungan lebih baik untuk nempatin biaya hidup sehari hari aja. Itu pun tabungan yang bunganya cukup baik sekarang cuma JENIUS (BTPN) dan Digibank (DBS). Mereka pun cukup cepat mengikuti suku bunga acuan BI.
+Cuma malesnya adalah *return* yang ditawarkan sangat kecil, jadi tabungan lebih baik untuk nempatin biaya hidup sehari hari aja. Itu pun tabungan yang bunganya cukup baik sekarang cuma Jenius (BTPN) dan Digibank (DBS). Mereka pun cukup cepat mengikuti suku bunga acuan BI.
 
 Suku bunga BCA cuma 1.35% itupun harus nabung diatas 1 Miliar [^1]. Sedangkan di Jenius nawarin 5% tanpa saldo minimum [^2].
 
@@ -75,17 +75,17 @@ Perlu kalian tahu juga, bunga tabungan kena pajak 20%. Jadi, kalau dari bank men
 
 ### 2. Deposito
 
-Deposito juga termasuk aman, karena dijamin sama LPS. Bunganya lebih tinggi dari tabungan, tapi tidak bisa ditarik sewaktu-waktu, harus habis tenor baru bisa ditarik. Kalau ditarik sebelum tenor habis biasanya kena denda.
+Deposito juga termasuk aman, karena dijamin sama LPS. Bunganya lebih tinggi dari tabungan, tapi tidak bisa ditarik sewaktu-waktu. Jadi harus habis tenor dulu baru bisa ditarik. Kalau ditarik sebelum tenor habis biasanya kena denda.
 
-Ada dua produk pilihan yang bisa dipake untuk deposito yang cukup tinggi bunganya. JENIUS (BTPN) sama Digibank (DBS), Digibank bunganya lebih tinggi sekitar 2% tapi kena denda kalau tarik tiba-tiba, sedangkan Jenius gak ada dendanya kalau tarik tiba-tiba tapi gak dapet bunga. 
+Ada dua produk pilihan yang bisa dipake untuk deposito yang cukup tinggi bunganya. Jenius (BTPN) sama Digibank (DBS), Digibank bunganya lebih tinggi sekitar 2% tapi kena denda kalau tarik tiba-tiba, sedangkan Jenius gak ada dendanya kalau tarik tiba-tiba tapi gak dapet bunga.
 
-Saran saya, kalau belum yakin sama budgeting bulanan mending pakai JENIUS kalau sudah yakin silahkan pake Digibank.
+Saran saya, kalau belum yakin sama *budgeting* bulanan mending pakai Jenius kalau sudah yakin silahkan pake Digibank.
 
 Untuk masuk deposito ntar ada 3 jenis kontrak, yaitu *non-ARO*, *ARO* dan *ARO plus*.
 
 * *Non ARO* itu selesai kontrak, uang pokok dan bunga dibalikin.
-* *ARO* itu selesai kontrak lsg diperpanjang lagi dengan uang pokok. bunga di transfer.
-* *ARO plus* itu selesai kontrak lsg diperpanjang lagi dengan uang pokok + bunga, jadi gk ada yang ditransfer ke kita. tapi ini tipe kontrak yang paling powerfull karena bunga kita berbunga lagi terus dan terus hehe.
+* *ARO* itu selesai kontrak langsung diperpanjang lagi dengan uang pokok. Bunga di transfer.
+* *ARO plus* itu selesai kontrak langsung diperpanjang lagi dengan uang pokok + bunga, jadi gak ada yang ditransfer ke kita. Tapi ini tipe kontrak yang paling *powerfull* karena bunga kita berbunga lagi terus dan terus hehe..
 
 Sama seperti tabungan, bunga deposito kena pajak 20%, jadi kalau dibilang bunga 5% sebenarnya yang kita dapet ntar 4%.
 
@@ -97,13 +97,13 @@ Sama seperti tabungan, bunga deposito kena pajak 20%, jadi kalau dibilang bunga 
 
 	Likuiditas : gampang dicairkan
 
-Untuk deposito online kalian bisa coba di internet banking BNI, minimal 10jt, bunganya cek di website BNI (klo ga salah sekitar 4-5 persen skrg). Bisa dicairkan kapan saja di jam kerja, ga kena penalti tapi jadi ga dapat bunga. Ini deposito online bahkan udah ada dari 2013-an klo ga salah. CMIIW
+Untuk deposito online kalian bisa coba di internet banking BNI, minimal 10jt, bunganya cek di website BNI (kalo ga salah sekitar 4-5 persen skrg). Bisa dicairkan kapan saja di jam kerja, ga kena penalti tapi jadi ga dapat bunga. Ini deposito online bahkan udah ada dari 2013-an klo ga salah. CMIIW..
 
 ### 3. Emas
 
-Emas menurutku sih tidak terlalu aman karena bergantung sama persepsi orang terhadap emas, harganya pun tidak selalu naik karena biasanya emas naik saat keadaan geopolitik atau saham sedang memburuk.
+Emas menurut saya sih tidak terlalu aman karena bergantung sama persepsi orang terhadap emas, harganya pun tidak selalu naik karena biasanya emas naik saat keadaan geo-politik atau saham sedang memburuk.
 
-Nah untuk emas ada 3 cara yang viable untuk di Indonesia:
+Nah untuk emas ada 3 cara yang *viable* untuk di Indonesia:
 
 * *Emas batangan*
 	
@@ -113,15 +113,15 @@ Nah untuk emas ada 3 cara yang viable untuk di Indonesia:
 
 * *Pakai proxy*
 
-	Proxy disini maksudnya instrumen yang harganya punya korelasi yang tinggi sama emas. Sejauh ini yang aku lihat korelasinya tinggi sama harga emas itu CHF (swiss franc - mata uang swiss) dan AUD(Dollar Australia).
+	*Proxy* disini maksudnya instrumen yang harganya punya korelasi yang tinggi sama emas. Sejauh ini yang aku lihat korelasinya tinggi sama harga emas itu CHF (Swiss franc - mata uang swiss) dan AUD (Dollar Australia).
 	
 	Kelebihannya kita gak kena biaya sertifikat antam dan masih bisa menikmati kenaikan harga emas (kalau naik). Sedangkan kekurangannya jadi ke expose sama faktor lain, misalnya kebijakan bank sentral Swiss dan Australia, atau kalau kasusnya Australia ke expose sama faktor cuaca, tambang dan ekonomi China.
 
-Kalau mau beli tanpa sertifikat secara online bisa coba di Tokopedia, Bukaemas atau e-mas. Semuanya setauhuku belum di restui OJK jadi hati-hati yah.
+Kalau mau beli tanpa sertifikat secara online bisa coba di Tokopedia, Bukaemas atau e-mas. Semuanya setauhuku belum di restui OJK jadi hati-hati yah..
 
-Kelebihannya sama kayak pakai proxy jadi gak perlu bayar biaya sertifikat, tapi kekurangannya yah belum ada yang berizin.
+Kelebihannya sama kayak pakai *proxy* jadi gak perlu bayar biaya sertifikat, tapi kekurangannya yah belum ada yang berizin.
 
-Ada yang bilang beli saham ANTM(antam), tapi sejauh ini yang kulihat, harga saham ANTM tidak begitu berkorelasi sama harga emas.
+Ada yang bilang beli saham ANTM (antam), tapi sejauh ini yang kulihat, harga saham ANTM tidak begitu berkorelasi sama harga emas.
 
 	Gain : lebih tinggi dari deposito.
 
@@ -139,9 +139,9 @@ Ada yang bilang beli saham ANTM(antam), tapi sejauh ini yang kulihat, harga saha
 
 Ada dua cara untuk berinvestasi dalam mata uang asing, bisa menabung atau spekulasi.
 
-Kalau menabung biasanya orang-orang yah ke money changer atau buka tabungan mata uang asing :) 
+Kalau menabung biasanya orang-orang yah ke *money changer* atau buka tabungan mata uang asing :) 
 
-Kelebihannya nyimpen di mata uang asing itu biasanya inflasi di negara maju itu lebih rendah dibanding indonesia. jadi nilai mata uang asing tergerusnya lebih sedikit dibanding rupiah.
+Kelebihannya nyimpen di mata uang asing itu biasanya inflasi di negara maju itu lebih rendah dibanding indonesia. Jadi nilai mata uang asing tergerusnya lebih sedikit dibanding rupiah.
 
 Kalau mau spekulasi biasanya orang buka akun di broker online. Kalian bisa coba cari broker yang ECN dan di regulasi sama otoritas setempat.
 
@@ -163,11 +163,11 @@ Intrumen ini intinya kita minjemin uang ke negara, uang ini nantinya dipakai sam
 
 Untuk surat utang negara ada dua cara kita membelinya, pertama bisa beli langsung di bank atau sekuritas atau bisa juga beli secara gak langsung yaitu melalui reksadana pasar uang.
 
-Sejauh ini surat utang negara ada tiga jenis :
+Sejauh ini surat utang negara ada tiga jenis:
 
 * SBR (*Saving Bond Retail*)
 
-	SBR ini bunganya *floating*, artinya bunganya berubah rubah sesuai bunga suku bunga acuan BI tapi dijamin pasti sekian persen diatas bunga BI(tergantung kontrak).
+	SBR ini bunganya *floating*, artinya bunganya berubah rubah sesuai bunga suku bunga acuan BI tapi dijamin pasti sekian persen diatas bunga BI (tergantung kontrak).
 	
 	Spesialnya SBR ini gk bisa dijual/dirubah kepemilikikannya. Jadi satu satunya cara untuk dapet untung dari SBR adalah dengan menerima bunga.
 	
@@ -175,7 +175,7 @@ Sejauh ini surat utang negara ada tiga jenis :
 	
 	Pembelian SBR tergantung serinya biasanya sih di bank bank besar, sekuritas atau investree, bareksa bisa.
 
-* ORI (Bbligasi Retail Indonesia)
+* ORI (Obligasi Retail Indonesia)
 
 	Pada umumnya bunganya tidak berubah ubah. Kepemilikan bisa dirubah alias bisa dijual di pasar sekunder. tapi biasanya harganya jatuh banget. pembeliannya bisa di bank bank besar atau sekuritas. biasanya kita bisa dapet harga murah kalau beli ORI di pasar sekunder lewat bank.
 
@@ -195,7 +195,7 @@ Tambahan untuk SBR seinget saya pajaknya 15%.
 
 ### 6. Properti
 
-Untuk investasi dalam bidang properti, yang harus diingat adalah pemilihan lokasi dan financing.
+Untuk investasi dalam bidang properti, yang harus diingat adalah pemilihan lokasi dan *financing*.
 
 Jangan ambil KPR atau KPT, umumnya bunganya tinggi gak ketutup keuntungan jual propertinya. Tapi kalau misalnya belinya cash, bolehlah..
 
@@ -207,11 +207,7 @@ Beli properti itu harus pinter pinter milih, semacam bikin satu keputusan harus 
 
 	Jangka waktu optimal: puluhan tahun
 
-	Likuiditas : gk bisa dicairin cepat ada kali tahunan baru kejual.
-
-tambahan pov dari /u/kidroach :
-
-I kinda disagree though. Yes real estate needs high capital. Interest rate is at its lowest now though, at about 7%. I personally leverage using KPR. Indeed, there's not much capital gain. On the other hand, rent is usually one of a person's highest expense so having your own house will offset this expense. If you choose to rent it, the general rule of thumb is about 5%. So if the price increase at 3% annually, you have just broke even with the interest rate. If the rent price increase, then it's a pretty decent investment with relatively low risk since the property will likely not go bankrupt
+	Likuiditas : gak bisa dicairin cepat ada kali tahunan baru kejual.
 
 ### 7. Reksadana
 
