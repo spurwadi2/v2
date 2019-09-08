@@ -4,8 +4,8 @@ current: post
 cover: assets/images/millennials-investment.jpg
 navigation: True
 title: Pilihan Instrumen Investasi di Indonesia
-description: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Jika investasi diartikan seperti itu, apakah artinya kebebasan finansial hanyalah milik segelintir orang yang punya modal dan pintar saja? Apakah benar begitu?
-summary: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Jika investasi diartikan seperti itu, apakah artinya kebebasan finansial hanyalah milik segelintir orang yang punya modal dan pintar saja? Apakah benar begitu?
+description: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Apakah benar begitu?
+summary: Banyak orang ketika mendengar istilah investasi, yang terbayang di pikiran mereka sesuatu yang canggih, memerlukan banyak uang, pengetahuan yang dalam, dan segudang pengalaman. Apakah benar begitu?
 tags: [financial]
 class: post-template
 subclass: 'post tag-financial'
