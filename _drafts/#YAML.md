@@ -15,3 +15,5 @@ author: sigit
 comments: true
 mathjax:
 ---
+
+<center>•   •   •</center>
