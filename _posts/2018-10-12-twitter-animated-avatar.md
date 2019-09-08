@@ -32,9 +32,9 @@ Jauh sebelum *Giphy* lahir, orang-orang menyimpan gambar GIF yang mereka dapat d
 
 Dalam hal ini, tentu saja sangat dimungkinkan untuk mengunggahnya ke Twitter sebagai foto profil (*avatar*) pribadi.
 
-Meskipun (sebenarnya) Twitter tidak memperbolehkannya secara resmi, kita masih bisa mengakalinya dengan beberapa trik sederhana.
+Meskipun (sebenarnya) Twitter tidak memperbolehkannya secara resmi, kita masih bisa mengakalinya dengan beberapa trik sederhana. Yaitu dengan mengubah ukuran gambar (*size*) atau rasio pada gambar GIF yang akan kita buat.
 
-Misalnya dengan mengubah ukuran gambar (*size*) atau rasio pada gambar GIF yang akan kita buat. Tak kalah penting adalah jangan mengunggahnya melalui *official twitter client*, baik melalui aplikasi twitter maupun web/mobile client-nya.
+Trik lain yang tak kalah penting adalah jangan mengunggahnya melalui *official twitter client*, baik melalui aplikasi twitter maupun web/mobile client-nya.
 
 Sebagai catatan, saat itu saya menggunakan twitter client versi sendiri yang saya buat dari [Dabr](https://github.com/edent/Dabr).
 
@@ -48,7 +48,7 @@ Di sinilah permasalahan itu berlanjut. CEO BuzzFeed Jonah Peretti (@peretti) ter
 
 <img src="https://img.buzzfeed.com/buzzfeed-static/static/2017-04/26/13/asset/buzzfeed-prod-fastlane-02/sub-buzz-14561-1493228778-1.jpg?downsize=800:*&output-format=auto&output-quality=auto" alt="BuzzFeed" border="0" width="80%" />
 
-Salah satu artikel di BuzzFeed menerangkan bahwa percakapan tersebut ternyata berlanjut pada salah satu author BuzzFeed, John Herrman (@jwherrman).
+Salah satu artikel di BuzzFeed menuliskan bahwa percakapan tersebut ternyata berlanjut pada salah satu author BuzzFeed, John Herrman (@jwherrman).
 
 Dia bahkan membuatkan Dick Costolo sebuah avatar gerak yang akhirnya diteruskan oleh Carolyn Penner, salah seorang senior manager komunikasi di Twitter [^1].
 
@@ -61,12 +61,12 @@ Sebagaimana seperti akun saya saat ini, orang-orang yang sudah "terlanjur basah"
 
 Hal tersebut berarti bahwa jika saya menggantinya, saya tidak akan pernah mendapatkan avatar bergerak kembali.
 
-Ya meskipun sebenarnya saya ingin mengubahnya menjadi sesuatu yang lebih kekinian.
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens: not changing your avatar for five years.</p>&mdash; Sigit Purwadi H W (@S_Purwadi) <a href="https://twitter.com/S_Purwadi/status/1050777105380720644?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have.*
+Ya meskipun sebenarnya pengen sih, ganti ava lain yang lebih *kece* misalnya..
+
+> *And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have. 😎*
 
 <img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/mention1.jpg" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="80%" />
 
