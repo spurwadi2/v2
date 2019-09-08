@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/kopitalisme.jpg
 navigation: True
 title: Kopitalisme, Budaya dalam Secangkir Kopi
-description: Orang-orang yang betah nongkrong di coffee shop sebenarnya bukan meminum kopi.
-summary: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop. Kita ingin menunjukkan bahwa kita yang suka ngopi di coffee shop lebih berbudaya daripada yang cuma nyruput kopi sachet di rumah.
+description: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
+summary: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
 tags: [millennials]
 class: post-template
 subclass: 'post tag-millennials'
@@ -40,7 +40,9 @@ Seperti layaknya sebuah ritual khusus, kegiatan minum kopi ini membutuhkan tempa
 
 Para penikmat kopi akan benar-benar memilih citarasa kopi yang nikmat dan tempat yang nyaman untuk menikmatinya. Alasan itulah yang biasa dimanfaatkan oleh pengusaha kedai kopi.
 
-Bisa jadi *coffee shop* bukan lagi sebuah trend musiman. Tetapi memang menjadi budaya baru bagi kaum urban perkotaan. Pertumbuhan pesat *coffee shop* di Indonesia seolah sudah mengalahkan pertumbuhan jamur di musim hujan.
+Bisa jadi *coffee shop* bukan lagi sebuah trend musiman. Tetapi memang menjadi budaya baru bagi kaum urban perkotaan.
+
+Pertumbuhan pesat *coffee shop* di Indonesia seolah sudah mengalahkan pertumbuhan jamur di musim hujan.
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">☕️ <a href="https://t.co/XJCppW3kNO">pic.twitter.com/XJCppW3kNO</a></p>&mdash; Reza Mustar (@komikazer) <a href="https://twitter.com/komikazer/status/1144609118440656896?ref_src=twsrc%5Etfw">June 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -54,7 +56,7 @@ Dalam buku *Marketing in Venus*, Hermawan Kertajaya menuliskan
 
 > Selain kualitas kopi, Starbuck menyediakan tempat yang tenang bagi mereka yang mencari peristirahatan antara rumah dan pekerjaan. Sebuah kebutuhan melarikan diri dari kesibukan rutin.
 
-Sejalan dengan itu, budaya diskusi dan komunitas informal juga diharapkan ikut tumbuh seiring berkembangnya masyarakat penikmat kopi.
+Sejalan dengan itu, budaya diskusi dan komunitas informal juga diharapkan ikut tumbuh dalam masyarakat seiring bertambahnya penikmat kopi.
 
 Namun perlu diwaspadai juga, merebaknya budaya konsumerisme, budaya instan, budaya hedonis, budaya materialisme akan mempengaruhi perilaku sosial masyarakat.
 
@@ -62,13 +64,17 @@ Menurut Baudrillard (1998) pada dasarnya masyarakat modern dewasa ini telah beru
 
 Konsumsi dalam perspektif Baudrillard bukanlah tentang membeli barang atau produk. Konsumsi di sini lebih dilihat sebagai tatanan pemaknaan dari sebuah objek.
 
-Fenomena demikian menarik, yang dalam pandangan penulis bahwa adanya kecenderungan proses transformasi sosial, dari penekanan kelas ke status sosial, misalnya pemilihan tempat minum kopi. Tempat-tempat demikian merupakan simbol status sosial dengan penekanan gaya hidup modern.
+Fenomena demikian menarik, yang dalam pandangan penulis bahwa adanya kecenderungan proses transformasi sosial, dari penekanan kelas ke status sosial, misalnya pemilihan tempat minum kopi.
+
+Tempat-tempat demikian merupakan simbol status sosial dengan penekanan gaya hidup modern.
 
 Menurut Mike Featherstone, konsumsi secara alami telah memberi identitas yang tidak melulu terbatas bagi kaum muda dan kaum kaya, melainkan secara potensial berdampak pada kehidupan setiap orang.
 
 Segala sesuatu adalah mungkin, kita dapat menjadi siapapun yang kita inginkan sejauh telah siap untuk mengkonsumsi, maka yang terjadi adalah estetisasi dalam kehidupan yang semua dicitrakan menjadi yang terbaik.
 
-Minum kopi atau makan tidak lagi subtansi kopi dan makannya yang dicari, tetapi dengan siapa dan apakah tempatnya nyaman, aman, dan bercitra tinggi. Begitu juga dengan cangkir, piring, layanan dan asesoris lainnya apakah berbeda dengan lainnya, yang diikuti dengan kebiasaan orang-orang sekarang mengupload moment-moment makan dan ngopi tersebut. Hal ini secara tersirat menunjukkan status sosialnya di kalangan teman-teman media sosialnya.
+Minum kopi atau makan tidak lagi subtansi kopi dan makannya yang dicari, tetapi dengan siapa dan apakah tempatnya nyaman, aman, dan bercitra tinggi.
+
+Begitu juga dengan cangkir, piring, layanan dan asesoris lainnya apakah berbeda dengan lainnya, yang diikuti dengan kebiasaan orang-orang sekarang mengupload moment-moment makan dan ngopi tersebut. Hal ini secara tersirat menunjukkan status sosialnya di kalangan teman-teman media sosialnya.
 
 Kecenderungan di dalam estetisasi kehidupan demikian sesungguhnya telah menegaskan proses-proses individualisasi dalam dua tingkatan.
 
@@ -76,15 +82,17 @@ Pertama, terjadi individualisasi di dalam pengertian bahwa sistem nilai yang ter
 
 Kedua, gaya dan mode seseorang telah memisahkan dirinya dari kelompoknya sendiri, di mana setiap orang dalam kelompok berusaha untuk mencari nilai tambah (*value added*) dengan cara mengkonsumsi barang yang berbeda dengan orang lain dalam kelompoknya.
 
-Misalnya kesukaan atau hobi dan mengkoleksi dan mempublis barang-barang trendis seperti; akik, pakaian, makanan, dan tempat-tempat ngopi, serta pilihan organisasi ekstrim kiri atau kanan di luar kelompoknya.
+Misalnya kesukaan atau hobi dan mengkoleksi atau mempublikasikan barang-barang trendis seperti; akik, pakaian, makanan, dan tempat-tempat ngopi, serta pilihan organisasi ekstrim kiri atau kanan di luar kelompoknya.
 
-Kembali lagi ke *ngopi*, sampai di sini kita masuk ke dalam permasalahan yang sama. Apa benar yang kita minum itu hanya kopi semata? Atau apa benar yang kita minum itu kopi, dan bukannya kelas sosial atau kebudayaan itu sendiri?
+Oke, kembali lagi ke *ngopi*, sampai di sini kita masuk ke dalam permasalahan yang sama.
+
+Apa benar yang kita minum itu hanya kopi semata? Atau apa benar yang kita minum itu kopi, dan bukannya kelas sosial atau kebudayaan itu sendiri?
 
 Seno Gumira Ajidarma (2008) menyebutkan bahwa yang namanya kebudayaan itu bukan hanya “pameran lukisan”, tapi ngopi pun juga merupakan sebuah kebudayaan [^2]. Karena di dalamnya bukan hanya soal selera tapi juga soal pilihan dan citra diri. Kopi bukanlah sekedar kopi. Kopi bukan hanya *caffeine*, kopi telah menjadi makna.
 
 Saya sendiri lebih melihat para manusia yang betah nongkrong di *coffee shop* sebenarnya bukan meminum kopi. Mereka meminum makna.
 
-Mengapa pula mereka lebih memilih *ngopi* di Starbucks berjam-jam, dan bukannya ngopi di warkop? 
+Mengapa pula mereka lebih memilih *ngopi* di Starbucks berjam-jam, dan bukannya *ngopi* di warkop? 
 
 Bukankah kalau memang cuma mau *ngopi*, di warkop juga sama saja? Bahkan kalau di warkop bisa *ngopi* plus main catur dan kalau Anda lapar bisa sambil pesan mie rebus.
 
