@@ -24,7 +24,7 @@ Jika kamu datang ke sini dengan pertanyaan yang sama seperti contoh di atas, mak
 
 Sebelum semuanya menjadi rumit, saya akan membawa kalian mundur 5-6 tahun yang lalu ketika gambar bergerak dengan format GIF sedang keren-kerennya.
 
-Saat itu tidak ada cara termudah untuk membuat GIF versi kita sendiri selain membuatnya dengan bantuan software Adobe Photoshop atau Photoscape, sedangkan bagi sebagian orang tentu akan kesulitan untuk membuatnya.
+Saat itu tidak ada cara termudah untuk membuat GIF versi kita sendiri selain membuatnya dengan bantuan Adobe Photoshop atau Photoscape, sedangkan bagi sebagian orang tentu akan kesulitan untuk membuatnya.
 
 Jauh sebelum *Giphy* lahir, orang-orang menyimpan gambar GIF yang mereka dapat dari internet ke dalam folder khusus untuk digunakan kembali pada saat yang tepat.
 
