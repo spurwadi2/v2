@@ -12,41 +12,41 @@ author: sigit
 comments: true
 ---
 
-Sepertinya jarang sekali kita temukan ada mahasiswa yang tidak memiliki smartphone, Sebagian besar mahasiswa pasti memiliki benda ini.
+Sepertinya jarang sekali kita temukan ada mahasiswa yang tidak memiliki smartphone.
 
-Yang membedakan hanya dari tipe yang dimiliki. Soal apapun itu tipenya, tetap smartphone adalah benda canggih yang tak bisa dilepaskan dari tangan manusia.
+Sebagian besar mahasiswa pasti memiliki benda ini, yang membedakan hanyalah dari tipe yang dimiliki.
 
-Satu pertanyaan yang selalu membuat saya merasa tergugah, ***Are you smarter than your phone?*** *Apakah kamu lebih pintar dari ponselmu?*
+Soal apapun itu tipenya, tetap smartphone adalah benda canggih yang tak bisa dilepaskan dari tangan manusia.
+
+Satu pertanyaan yang selalu membuat saya merasa tergugah,
+
+> **Are you smarter than your phone?**
 
 Dari sekian banyak merk, jenis, tipe, dan kecanggihan smartphone yang ada, orang-orang termasuk pelajar dan mahasiswa justru tidak dapat memanfaatkan teknologi ini dengan maksimal. 
 
------
-Jangan sampai salah memilih smartphone, ketahuilah kriteria [**smartphone terbaik untuk generasi milenial**]({{ site.baseurl }}best-millennial-smartphone)!
+Tulisan ini berawal dari keprihatinan seorang dosen universitas swasta di Jakarta yang menemukan bahwa kemampuan mahasiswa saat ini ternyata tidak sebanding dengan kemajuan teknologi yang ada.
 
------
-Berawal dari keprihatinan seorang dosen universitas swasta di Jakarta yang menemukan bahwa kemampuan mahasiswa saat ini ternyata tidak sebanding dengan kemajuan teknologi yang ada.
+Dalam blog pribadinya, beliau sedikit menyinggung tentang kondisi mahasiswa sekarang yang justru jauh dari kesan mahasiswa *hi-tech* kekinian,
 
-Dalam blognya, beliau sedikit menyinggung tentang kondisi mahasiswa sekarang yang justru jauh dari kesan mahasiswa *hi-tech* kekinian,
-
-> Dari sekian banyak mahasiswa, tidak ada satupun yang mengikuti perkuliahan sesuai dengan kondisi jaman sekarang. Semuanya, tanpa terkecuali, masih kuliah seperti halnya saya kuliah di tahun 1997 dulu. Ya benar, selama 17 tahun tidak ada perubahan metodologi sama sekali. [^1]
+> Dari sekian banyak mahasiswa saya, tidak ada satupun yang mengikuti perkuliahan sesuai dengan kondisi jaman sekarang. Semuanya, tanpa terkecuali, masih kuliah seperti halnya saya kuliah di tahun 1997 dulu. Ya benar, selama 17 tahun tidak ada perubahan metodologi sama sekali. [^1]
 
 Beliau memang sedang menyoroti kondisi mahasiswa jurusan IT yang seharusnya menjadi yang terdepan dalam hal memahami dan memanfaatkan teknologi, tetapi tidak demikian pada kenyataannya.
 
-Sebagai mahasiswa saya pun mengakuinya, sebagian besar mahasiswa yang saya tahu memang lebih suka mendengarkan dosen berceloteh di depan kelas, mencatat celotehan dosen dan belajar dari catatan tersebut ketika akan ujian.
+Sebagai mahasiswa saya pun mengakuinya, sebagian besar rekan saya sesama mahasiswa memang lebih suka mendengarkan dosen berceloteh di depan kelas, mencatat celotehan dosen, dan belajar dari catatan tersebut ketika akan ujian saja.
 
 Sebuah kondisi yang tidak sebanding jika dilihat dari kenyataan bahwa masing-masing individu tersebut sudah dipersenjatai dengan:
 
-* **Smartphone**. Mayoritas sudah pakai Android, sebagian kecil menggunakan iOS/iPhone.
+* **Smartphone**. Mayoritas sudah pakai Android, sebagian kecil menggunakan iOS (iPhone).
 * **Internet nonstop**. Baik paket data dari smartphone maupun internet gratis dari wifi kampus.
 * Sesi kuliah praktikum lebih sering dilakukan di lab komputer dengan **1 PC untuk masing-masing mahasiswa**.
 
 *Lalu bagaimana seharusnya?*
 
-Menurut Pak Endy Muhardin, ada beberapa poin yang seharusnya dilakukan agar menjadi mahasiswa *hi-tech* kekinian, yaitu:
+Menurut Pak Endy, ada beberapa poin yang seharusnya dilakukan mahasiswa *canggih* zaman sekarang:
 * Auto generated table of contents
 {:toc}
 
-*Waduh, kalau tidak mencatat gimana mau ingat? Kalau tidak bawa buku lalu mau menulis dimana? Bukannya orang bilang Facebook itu tidak produktif?*
+> *Waduh, kalau tidak mencatat gimana mau ingat? Kalau tidak bawa buku lalu mau menulis di mana? Bukannya orang bilang Facebook itu tidak produktif?*
 
 Baiklah mari kita bahas..
 

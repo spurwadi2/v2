@@ -42,7 +42,7 @@ Pertama, kita harus memiliki kesadaran penuh untuk mulai melakukan perubahan car
 
 Selanjutnya, hindari prasangka buruk. Jangan cepat-cepat menilai sesuatu itu buruk atau akan menghasilkan sesuatu yang buruk. Selain itu, coba ubah cara pandang kita terhadap sesuatu yang kita takutkan.
 
-> Berhenti terlalu idealis dan menuntu segala sesuatunya sempurna.
+> "Berhenti terlalu idealis dan menuntut segala sesuatunya sempurna."
 
 Berikutnya, jika kita ada pekerjaan jangan ditunda-tunda, tetapkan waktunya kapan harus diselesaikan. Dan sadari mana yang bisa kita capai dan mana yang tidak.
 
