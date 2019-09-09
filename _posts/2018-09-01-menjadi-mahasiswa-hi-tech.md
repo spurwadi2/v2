@@ -90,37 +90,37 @@ Dengan demikian, kita bisa mendapatkan segala keuntungan menulis tanpa menggangg
 
 Pada sesi praktikum, biasanya tidak ada penjelasan dosen atau asisten. Mahasiswa hanya diberikan tugas untuk dikerjakan. Terkadang dilengkapi dengan instruksi atau tutorial.
 
-Bagi mahasiswa pemrograman, selama praktikum tentu akan disuruh melakukan *coding*. Untuk mata kuliah jaringan, kadangkala disuruh setting server. Apapun itu, untuk menyelesaikan tugas praktikum biasanya dibutuhkan beberapa langkah pengerjaan menggunakan komputer.
+Bagi mahasiswa pemrograman, selama praktikum tentu akan disuruh melakukan *coding*. Untuk mata kuliah jaringan, kadangkala disuruh *setting server*. Apapun itu, untuk menyelesaikan tugas praktikum biasanya dibutuhkan beberapa langkah pengerjaan menggunakan komputer.
 
 *Lalu apanya yang dicatat?*
 
 Ya tentu saja langkah demi langkah penyelesaian tugas. Ambil screenshot tiap langkah, kemudian pasang di aplikasi *word processor* seperti *Microsoft Word* atau *Libre Office Writer*. Kalau mau lebih canggih, ketiklah dengan menggunakan format *markdown*.
 
-Selain menggunakan *word processor*, kita juga bisa merekam kegiatan kita di komputer selama sesi praktikum. Kalau sudah ada rekaman, kapan saja perlu tinggal kita tonton ulang. Bonus point-nya adalah kita bisa menambahkan *dubbing* suara pada rekaman screencast yang kita buat sebelumnya.
+Selain menggunakan *word processor*, kita juga bisa merekam kegiatan kita di komputer selama sesi praktikum. Kalau sudah ada rekaman, kapan saja perlu tinggal kita tonton ulang. Bonus point-nya adalah kita bisa menambahkan *dubbing* suara pada rekaman *screencast* yang kita buat sebelumnya.
 
 #### Berkolaborasi Aktif di Sosial Media
 
-Jaman dulu, orang diskusi di milis. Jaman sekarang milis sudah mulai sepi, orang-orang mulai beralih ke Facebook.
+Jaman dulu, orang diskusi di *milis*. Jaman sekarang *milis* sudah mulai sepi, orang-orang mulai beralih ke Facebook.
 
-Di facebook kamu bisa bergabung ke dalam berbagai grup dengan beragam topik yang akan membantumu memecahkan permasalahan tugas kuliah. Inilah salah satu alasan saya masih memakai facebook.
+Di Facebook kamu bisa bergabung ke dalam berbagai grup dengan beragam topik yang akan membantumu memecahkan permasalahan tugas kuliah. Inilah salah satu alasan saya masih memakai Facebook.
 
-Selain facebook, masih ada puluhan platform lain seperti reddit, github, slack, stackoverflow, quora, atau bisa juga melalui telegram dan whatsapp.
+Selain Facebook, masih ada puluhan platform lain seperti Reddit, Github, Slack, StackOverflow, Quora, Medium, Twitter, Dev.To, atau bisa juga melalui Telegram dan Whatsapp.
 
 #### Tinggal di Awan
 
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/czyRCsoai6tZm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sky-family-guy-czyRCsoai6tZm">via GIPHY</a></p>
 
-Jaman sekarang, orang berlomba-lomba menyediakan *cloud services*. Ada Dropbox, Gdrive, OwnCloud, Youtube, Github, Twitter, Facebook, dan sebagainya.
+Jaman sekarang, orang berlomba-lomba menyediakan *cloud services*. Ada Dropbox, Google Drive, OwnCloud, Youtube, Github, Telegram, dan sebagainya. Bahkan sekarang banyak perguruan tinggi yang sudah menyediakan Google Drive *unlimited* untuk mahasiswanya.
 
 Kita harus manfaatkan layanan gratis ini semaksimal mungkin. Kasihan yang bikin, udah susah-susah bikinnya, kita tinggal pake aja gak mau.. 😂
 
 Ada beberapa layanan komputasi awan yang bisa kamu gunakan, yaitu:
 * Youtube, untuk mengunggah hasil *screencast*. Selain itu, tersedia ribuan materi dan tutorial yang bisa kamu dapatkan secara gratis di sini.
-* Github, *social networking* buat programmer. Karena udah gak zaman mahasiswa *ngejunk* inbox email dosennya. Github bisa dijadikan platform pengumpulan tugas dari dosen. 
+* Github, *social networking* buat programmer. Karena udah gak zaman mahasiswa *ngejunk* inbox email dosennya. Github bisa dijadikan platform pengumpulan tugas dari dosen.
 
-#### Belajar Dari Internet
+#### Belajar dari Internet
 
-Bapak menteri kita pernah bertanya,
+Bapak menteri kita dulu pernah bertanya,
 
 > Memangnya kalau internet kenceng, mau dipake apa??
 
@@ -130,11 +130,11 @@ Setelah membaca artikel ini sampai di sini, kamu sekarang bisa menjawab dengan y
 > Saya akan donlod semua video tutorial di Youtube. Saya copy ke smartphone saya. Tiap ada waktu luang, misalnya ngantri di ATM, selama kegencet di commutter line, kena macet di angkot, saya akan tonton tutorial tersebut.
 > Insya Allah saya bisa cepet pinter Pak, biar bisa gantiin Bapak ngeberesin internet di Indonesia. 
 
-Banyak sekali materi pelajaran di internet. Mau belajar NodeJS dan SailsJS ada. Mau belajar Spring Framework ada. Mau belajar fotografi juga ada.
+Banyak sekali materi pelajaran di internet. Mau belajar *NodeJS* dan *SailsJS* ada. Mau belajar *Spring Framework* ada. Mau belajar fotografi juga siap!
 
 #### Persiapkan Modalnya..
 
-*Wah, dengan segala macam teknologi di atas, pasti modalnya mahal ya? Saya mahasiswa cekak, bokek, pas-pasan.*
+> *Wah, dengan segala macam teknologi di atas, pasti modalnya mahal ya? Saya mahasiswa cekak, bokek, pas-pasan..*
 
 <div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/ly8G39g1ujpNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/editingandlayout-ly8G39g1ujpNm">via GIPHY</a></p>
 
@@ -150,7 +150,7 @@ Oke lah kita bagi dua menjadi 200 jam, karena separuhnya kita pakai untuk foto p
 
 Pengguna Ubuntu bisa menggunakan aplikasi [Shutter](http://shutter-project.org/) untuk mengambil cuplikan layar praktikum kamu dan [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php) untuk merekam *screencast*.
 
-Untuk daftar aplikasi yang bisa kamu gunakan di smartphone android akan saya bahas pada kesempatan lain.
+Untuk daftar aplikasi yang bisa kamu gunakan di smartphone akan saya bahas pada kesempatan lain.
 
 #### Simpulan
 
@@ -160,7 +160,9 @@ Masa kalah sama generasi *pager* yang komputernya jauh lebih lemot daripada smar
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Alphadual.jpg" alt="Pager" width="60%" />](https://upload.wikimedia.org/wikipedia/commons/4/40/Alphadual.jpg)
 
-Tinggal kita saja pintar-pintar mengatur prioritas. Mana yang lebih penting, jago *coding* atau *up to date* dengan kelakuan Farhat/Jupe/Justin/whatever yang terbaru?
+Tinggal kita saja pintar-pintar mengatur prioritas.
+
+Mana yang lebih penting, jago *coding* atau *up-to-date* dengan kelakuan selebgram/youtuber terbaru?
 
 -----
 [^1]: [Menjadi Mahasiswa Hi-Tech](https://software.endy.muhardin.com/life/menjadi-mahasiswa-hi-tech/)
