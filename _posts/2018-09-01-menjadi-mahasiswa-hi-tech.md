@@ -12,7 +12,7 @@ author: sigit
 comments: true
 ---
 
-Sepertinya jarang sekali kita temukan ada mahasiswa yang tidak memiliki smartphone.
+Zaman sekarang sepertinya jarang sekali kita menemukan ada mahasiswa yang tidak memiliki smartphone.
 
 Sebagian besar mahasiswa pasti memiliki benda ini, yang membedakan hanyalah dari tipe yang dimiliki.
 
