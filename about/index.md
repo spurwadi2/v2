@@ -12,11 +12,6 @@ cover: assets/images/about.gif
 logo:
 ---
 
-Thanks for visiting my blog. I don’t post as often as I’d like. It’s a little contingent on time and motivation. Mostly time I’d say.
-
-<center>•   •   •</center>
-
-
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that. [^1]
 
 >&quot;The beginning is the most important part of the work.&quot;<small><cite>Plato</cite></small>
@@ -49,6 +44,10 @@ Static sites are impossible to hack, as there are no codes needed to be run on t
 After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator.
 
 I hope this site will perform as envisioned.
+
+<center>•   •   •</center>
+
+**Update:* Thanks for visiting my blog. I don’t post as often as I’d like. It’s a little contingent on time and motivation. Mostly time I’d say. But enjoy.. :D
 
 -----
 
