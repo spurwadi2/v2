@@ -1,7 +1,7 @@
 ---
 layout: error
 current: error
-title: "404 - A million monkeys randomly typing Shakespeare"
+title: "404 - Sorry.. this page is unavailable."
 permalink: 404.html
 ---
 <!--
@@ -25,7 +25,7 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 <body class="error-template">
     <div class="site-wrapper">
 
-        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}">
+        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}){% else %}no-cover{% endif %}">
             <div class="inner">
                 <nav class="site-nav-center">
                     {% if site.logo %}
@@ -42,7 +42,7 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 
                 <section class="error-message">
                     <h1 class="error-code">404</h1>
-                    <p class="error-description">A million monkeys randomly typing Shakespeare..</p>
+                    <p class="error-description">Sorry.. Unless you've got a time machine, this page is unavailable.</p>
                     <a class="error-link" href="{{ site.baseurl }}">Go to the front page →</a>
                 </section>
             </div>
