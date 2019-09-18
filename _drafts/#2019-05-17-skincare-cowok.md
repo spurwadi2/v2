@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: Cowok Juga Butuh
+title: Ternyata Cowok Juga Butuh!
 description: Deskripsi singkat untuk opengraph
 summary: Ini adalah contoh YAML template untuk post baru.<br/>Akan terus diupdate tergantung kebutuhan dan versi terbaru.
 date: 2009-01-01 00:00:00
@@ -16,6 +16,6 @@ comments: true
 mathjax:
 ---
 
-Jaman sekarang pria sudah tak harus hanya peduli pada penampilan, tapi juga pada kebersihan.
+Bagi sebagian orang, kaum pria zaman sekarang bukan hanya harus peduli pada penampilan saja, tetapi juga pada kebersihan diri termasuk kebersihan pada bagian kulit dan wajah.
 
-Berbagai aktifitas yang kita lakukan dari pagi sampai malam tentunya mengandung kotoran, minyak dan debu yang bisa membuat kulit muka kita rusak. Banyak pria juga masih malu untuk menggunakan skincare karena ada stereotype buruk.
+Sayangnya, kenyataan tersebut ternyata tidak sebanding dengan banyaknya pria yang juga masih malu dan ragu-ragu untuk menggunakan perawatan wajah dan kulit (*skincare*).
