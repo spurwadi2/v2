@@ -48,6 +48,14 @@ Sebelum melakukan sebuah investasi, ada baiknya kita penuhin beberapa persyarata
 
 5. Saran buat yang baru mulai, cobalah untuk memulai dari yang resikonya paling rendah. Kalau ada uang lagi baru lanjut ke *investment* yang resikonya lebih tinggi. Jadi sekalian bagi-bagi resikonya gitu, ga satu gagal trus gagal semua..
 
+<h3> Pahami Resikonya </h3>
+
+Semua investasi pasti memiliki resiko. Ada instrumen yang memiliki resiko rendah seperti tabungan, hingga resiko tinggi seperti saham. Yang perlu kalian pelajari dalam investasi ini adalah cara untuk mengatur instrumen sesuai dengan keadaan keuangan dan tingkat resiko yang ada.
+
+Hal lain yang harus diperhatikan adalah tingkat likuiditas instrument investasi tersebut. Secara sederhana, pengertian *likuiditas* adalah seberapa mudah kita bisa mencairkan atau menjual kembali produk investasi tersebut.
+
+Sebagai contoh, investasi emas umumnya lebih mudah dijual kembali dibanding investasi rumah. Hal ini biasanya menjadi penting ketika menghadapi keadaan finansial yang tidak terduga dan membutuhkan dana dalam jumlah besar dan singkat.
+
 Setelah semuanya terpenuhi, selanjutnya akan kita bahas mulai dari instrumen yang paling aman ke yang paling beresiko.
 
 <h2> Macam Instrumen Investasi </h2>
