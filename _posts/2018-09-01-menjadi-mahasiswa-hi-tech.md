@@ -132,7 +132,7 @@ Setelah membaca artikel ini sampai di sini, kamu sekarang bisa menjawab dengan y
 
 Banyak sekali materi pelajaran di internet. Mau belajar *NodeJS* dan *SailsJS* ada. Mau belajar *Spring Framework* ada. Mau belajar fotografi juga siap!
 
-#### Persiapkan Modalnya..
+#### Persiapkan Modalnya
 
 > *Wah, dengan segala macam teknologi di atas, pasti modalnya mahal ya? Saya mahasiswa cekak, bokek, pas-pasan..*
 
@@ -152,7 +152,7 @@ Pengguna Ubuntu bisa menggunakan aplikasi [Shutter](http://shutter-project.org/)
 
 Untuk daftar aplikasi yang bisa kamu gunakan di smartphone akan saya bahas pada kesempatan lain.
 
-#### Simpulan
+<h4> Konklusi </h4>
 
 Jaman sekarang semua sudah serba mudah. Mau belajar apa saja gak perlu tunggu guru/dosen. Lima tahun ke depan, pelajar dan mahasiswa harusnya bisa 5 kali lebih hebat dari guru dan dosennya.
 
