@@ -141,15 +141,15 @@ into the {body} of the default.hbs template -->
                             {% if primary contains tag[1].name %}
                             {% assign tag_title = tag[1].title %}
                                 {% if tag[1].title %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title | capitalizeall }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title }}</a></h4>
                                 {% else %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalize }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalizeall }}</a></h4>
                                 {% endif %}
                             {% endif %}
                             {% endfor %}
                             {% endif %}
                         </header>
-                        <div class="read-next-divider">{% include infinity.html %}</div>
+                        <div class="read-next-divider">{% include infinity-svg.html %}</div>
                         <div class="read-next-card-content">
                             <ul>
                                 {% assign count = 0 %}
