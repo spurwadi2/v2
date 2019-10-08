@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: YAML 'Post' Template
+title: Anak Twitter vs Anak Instagram
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
 date: 2009-01-01 00:00:00
@@ -16,20 +16,20 @@ comments: true
 mathjax:
 ---
 
-Saya sebenarnya gatau siapa yang awalnya ngasih label macem begini.
+Sebenarnya saya juga gatau siapa yang awalnya ngasih label macem begini..
 
-Tapi yang jelas bagi pengguna dua media sosial ini, Twitter dan Instagram pasti pernah denger istilah *anak twitter* atau *anak instagram*.
+Tapi yang jelas bagi pengguna dua media sosial ini, Twitter dan Instagram pasti pernah denger istilah *Anak Twitter* atau *Anak Instagram*.
 
-Jujur, label ini lebih banyak saya baca di twitter – di mana mereka yang merasa *anak Twitter* lebih mengerti banyak hal dibanding anak Instagram.
+Jujur ya, label ini lebih banyak saya temui di Twitter di mana mereka yang merasa *anak twitter* lebih mengerti banyak hal dibanding anak Instagram.
 
-HAH? MASA?
+*HAH? YANG BENUL?*
 
-Bukannya mereka yang bilang gitu juga pengguna instagram? Jadi sebenernya apa sih yang bedain anak twitter atau anak instagram? Kalau penggunanya pake kedua media sosial itu, disebutnya anak apa dong, heyhalo?
+Bukannya mereka yang bilang gitu juga pengguna instagram? Jadi sebenernya apa sih yang bedain anak twitter atau anak instagram? Kalau mereka yang pake kedua media sosial itu, disebutnya anak apa dong, hey halo? 
 
 
 Kadang saya gak ngerti, beberapa orang yang membandingkan kedua media sosial tersebut ; isinya, humornya, penggunanya, atau yang lainnya. Lah bukannya emang beda ya? Secara konsep aja instagram dan twitter emang jelas beda. Keduanya punya fungsi masing-masing, gak ada yang lebih baik, gak ada yang lebih buruk. Kelakuan manusianya juga sama aja, yang goblok juga banyak.
 
-Konsep dan Konten
+#### Konsep dan Konten
 
 Kalian pasti tahu, instagram konsepnya foto dan video.
 
@@ -47,7 +47,7 @@ Kalau kontennya murni dari sendiri terus di-copas, itu beda lagi urusannya ya, s
 
 *****
 
-Twitterland
+#### Twitterland
 
 1. Sobat misqueen. Tempatnya orang-orang tyda miskin tapi belaga miskin.
 
@@ -61,7 +61,7 @@ Iya iya temenan aja masa gaboleh Fasy, boleh kok uwuwuwu bebas.
 
 *****
 
-Instagramerssss
+#### Instagramerssss
 
 1. Mevvah, tempatnya orang kaya dan pura-pura kaya
 
@@ -75,7 +75,7 @@ Instagram konsepnya foto dan video, apa yang ditampilkan ya tentu mau sebaik mun
 
 *****
 
-Anak Twitter VS Anak Instagram
+#### Anak Twitter VS Anak Instagram
 
 Dari hal-hal yang udah saya sebutin diatas. Twitter sama instagram bisa sama-sama punya fungsi yang bermanfaat kok. Kalau disebutin lagi ya mungkin ada banyaaaak, tapi saya cuma ambil 3 hal yang setidaknya ada di keduanya. Jadi ya, menurut saya gak perlu lah ngerasa lebih padahal cuma pengguna media sosial doang. Apalagi punya label anak twitter atau anak instagram – padahal pake dua-duanya. Lagian, apa sih yang dicari kalau ngerasa lebih? Kebenaran? Eksistensi? Update-an berita?
 

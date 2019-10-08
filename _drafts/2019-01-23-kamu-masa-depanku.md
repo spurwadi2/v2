@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: Buat kamu mamanya anakku nanti, belajar lah yang giat mulai sekarang
+title: Untuk Kamu, Masa Depanku
 description: 
 summary: 
 tags: [self-discovery]
@@ -14,11 +14,11 @@ comments: true
 mathjax:
 ---
 
-Aku disini juga belajar kok.
+*Aku disini juga belajar kok..*
 
-Halo, Tulisan ini buat kamu yang namanya belum aku tahu sekarang, rumahmu dimana pun aku belum tahu namun aku punya keyakinan yang kuat, tulisan ini yang saya buat sekarang ini kamu disana dapat membacanya.
+Tulisan ini buat kamu yang namanya belum aku tahu sekarang, rumahmu di mana pun aku belum tahu, tetapi aku punya keyakinan yang kuat, tulisan ini yang saya buat sekarang ini kamu di sana dapat membacanya.
 
-Buat kamu yang kelak menjadi ibu nya anakku nanti.
+*Buat kamu yang kelak menjadi ibu nya anakku nanti.*
 
 Manfaatkan masa muda mu untuk belajar.
 
