@@ -18,7 +18,7 @@ cogito:
   cover: assets/images/cogito.jpg
 data:
   title: Data Is Beautiful
-  description: You can have data without information, but you cannot have information without data.
+  description: You can have data without information, but you cannot have information without data
   cover: False
 design:
   title: Design Porn
@@ -27,7 +27,7 @@ design:
 edtech:
   name: edtech
   title: Educational Technology
-  description: Always feel like you're smart enough to do things, but never smart enough to stop learning.
+  description: Always feel like you're smart enough to do things, but never smart enough to stop learning
   cover: assets/images/edtech.jpg
 financial:
   name: financial
@@ -55,17 +55,17 @@ hobbies:
   description: Topics that related to hobbies, interests, sports, recreation, etc.
   cover: assets/images/hobbies.jpg
 how-tos:
-  description: Do something, do something to that, and then do something to that.
+  description: Do something, do something to that, and then do something to that
   cover: False
 islam:
   name: islam
-  title: Islam 
-  description: There is no God except Allah and Muhammad is a messenger of Allah
+  title: Deen Al-Islam
+  description: Islam isn't a hard religion, people make it hard. <br/>Islam is a light religion, but should not be taken lightly.
   cover: assets/images/islam.jpg
 komodos:
   name: komodos
-  title: Wkwk Land..
-  description: Show your “WKWK Land” pride!
+  title: Wkwk Land.. 🇮🇩
+  description: Show your “Wkwk Land” pride!
   cover: assets/images/comodo-dragon.jpg
 linux:
   description: False
@@ -81,7 +81,7 @@ pcmasterrace:
 personal:
   name: personal
   title: Personal Stories
-  description: Everyone is necessarily the hero of his own life story.
+  description: Everyone is necessarily the hero of his own life story
   cover: assets/images/personal-story.jpg
 politics:
   description: False
@@ -101,7 +101,7 @@ review:
 school-lyfe:
   name: school-lyfe
   title: Memoirs of School
-  description: Hating school when you are in it is normal but once you leave you will surely miss it then.
+  description: Hating school when you are in it is normal but once you leave you will surely miss it then
   cover: assets/images/memoir-of-school.jpg
 self-discovery:
   name: self-discovery
@@ -117,7 +117,7 @@ technologeek:
 webmaster:
   name: webmaster
   title: Web Mastery
-  description: We are all apprentices in a craft where no one ever becomes a master.
+  description: We are all apprentices in a craft where no one ever becomes a master
   cover: assets/images/gandalf-webmaster.jpg
 windows:
   description: False
