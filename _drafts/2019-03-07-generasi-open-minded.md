@@ -6,23 +6,23 @@ navigation: True
 title: Generasi Open-Minded
 description: 
 summary: 
-tags: [draft]
+tags: [self-discovery]
 class: post-template
-subclass: 'post tag-draft'
-author: artcytech
+subclass: 'post tag-self-discovery'
+author: sigit
 comments: true
 mathjax:
 ---
 
-Gimana? Udah selesai dengan *scrolling* Twitter-nya? Sudah berapa lama *stalking* akun 'Doi' di Instagram?
+Gimana? Udah selesai dengan *scrolling* Twitter-nya? Sudah berapa lama *stalking* akun Dia di Instagram?
 
 Gue kadang mikir ya.. dan mungkin lo juga pernah merasakan hal ini.
 
 > "Scrolling ternyata capek juga ya.."
 >
-> "Jir, ga kerasa uda 2 jam aja gue *scrolling feed* dan 8*explore* Instagram.."
+> "Jir, ga kerasa uda 2 jam aja gue *scrolling feed* dan *explore* Instagram.."
 >
-> "Yang awalnya cuma mau cari referensi, gara-gara *IG Stories* si anu gue jadi ga bisa berenti, Haduuuuh.." #Nyesel
+> "Yang awalnya cuma mau cari referensi, gara-gara *IG stories* si anu gue jadi ga bisa berenti, Haduuuuh.." #Nyesel
 
 Begitulah.. dengan dalih mencari inspirasi, kebanyakan dari kita akan terbuai dengan postingan-postingan yang mengugah mata. *It’s normal…* Namanya juga manusia ya, pengennya tuh sesuatu yang baru dan apa ya… ya itu lah gue lupa tadi mau bahas apa…
 
@@ -48,6 +48,8 @@ ato
 
 Jadi, yang manakah Anda?
 
+<center>•   •   •</center>
+
 Gue jujur sering banget menjumpai hal seperti ini. Ada suatu kasus, tapi ga langsung menghakimi dan justru mikir ulang.
 
 > Koq bisa ya? Kenapa nih?
@@ -70,6 +72,10 @@ Gue ga bilang semuanya jelek, karena ga ada temen yang ngajak kejelekan. Gue yak
 
 Kemungkinan ke-5, membangun mood. Keadaan ini juga perlu diperhatikan karena dengan emosi yang terkontrol otomatis kita bisa lebih mudah mengatur pembicaraan dan pikiran jadi terbuka.
 
-Ambil contoh lagi misalnya saat dalam kondisi diajak debat dengan orang lain lalu mood lagi bete dan emosi, apakah kita masih bisa berpikir terbuka? Yang ada bawaannya emosi dan naik darah. Akhirnya segala argumentasi yang kita berikan mau tidak mau harus dipaksakan dan sulit untuk menerima argumentasi orang lain.
+Ambil contoh lagi misalnya saat dalam kondisi diajak debat dengan orang lain lalu mood lagi bete dan emosi, apakah kita masih bisa berpikir terbuka?
 
-Jadi Gue pikir itu dia beberapa hal bagaimana kita bisa membangun dan memiliki pikiran positif dan terbuka dengan berbagai kritik serta masukan. Kalau misalnya tulisan ini bermanfaat (*misalnya ya..*) atau ada pandangan lain, silakan boleh ditulis di kolom komentar biar bisa jadi bahan diskusi orang lain sesama netijen.
+Yang ada bawaannya emosi dan naik darah. Akhirnya segala argumentasi yang kita berikan mau tidak mau harus dipaksakan dan sulit untuk menerima argumentasi orang lain.
+
+Jadi Gue pikir itu dia beberapa hal bagaimana kita bisa membangun dan memiliki pikiran positif dan terbuka dengan berbagai kritik serta masukan.
+
+Kalau misalnya tulisan ini bermanfaat (*misalnya ya..*) atau ada pandangan lain, silakan boleh ditulis di kolom komentar biar bisa jadi bahan diskusi orang lain sesama netijen.

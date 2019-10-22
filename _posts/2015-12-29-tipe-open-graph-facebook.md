@@ -11,7 +11,9 @@ author: artcytech
 comments: true
 ---
 
-Open Graph Protocol adalah format meta tags yang berfungsi untuk menampilkan objek konten halaman website ke media social facebook. Meta tags Open Graph (og) ini ditempatkan pada header, tepatnya antara **<head>** dan **</head>** pada semua halaman website, baik itu halaman utama, kategori, tags, atau post.
+Open Graph Protocol adalah format meta tags yang berfungsi untuk menampilkan objek konten halaman website ke media social facebook.
+
+Meta tags Open Graph (OG) ini ditempatkan pada header, tepatnya antara <code><head></code> dan <code></head></code> pada semua halaman website, baik itu halaman utama, kategori, tags, atau post.
 
 Dengan menggunakan meta tags ini, saat kita share atau berbagi link halaman website atau blog kita pada facebook, maka pada kolom status akan generate secara otomatis sesuai dengan data yang terdapat pada meta tags Open Graph. Untuk menampilkan format status tersebut sesuai dengan tema website atau blog kita, tentunya kita harus menggunakan Open Graph meta tags pada website dan berikut ini penjelasannya.
 
@@ -22,7 +24,7 @@ Ada 7 format nama atau names URI yang berfungsi sebagai penanda pembuka pengguna
 {% highlight html %}
 {% raw %}
 <html prefix="og: http://ogp.me/ns#">
-<html prefix="og: http://ogp.me/ns/music# ">
+<html prefix="og: http://ogp.me/ns/music#">
 <html prefix="og: http://ogp.me/ns/video#">
 <html prefix="og: http://ogp.me/ns/article#">
 <html prefix="og: http://ogp.me/ns/book#">

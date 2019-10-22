@@ -30,13 +30,15 @@ File .htaccess dapat digunakan antara lain untuk:
 
 Pesan error pada sebuah website sangat penting karena bisa membantu para pengunjung dalam mengetahui apa yang sedang terjadi. Dengan htaccess kita dapat mengubah halaman error pada server, dengan mendefinisikan sesuai dengan keinginan kita sendiri. Contohnya yaitu pengalihan pesan sesuai fungsinya seperti berikut :
 
-~~~ html
+{% highlight html %}
+{% raw %}
 ErrorDocument 400 /errors/400.html
 ErrorDocument 401 /errors/401.html
 ErrorDocument 403 /errors/403.html
 ErrorDocument 404 /errors/404.html
 ErrorDocument 500 /errors/500.html
-~~~
+{% endraw %}
+{% endhighlight %}
 
 ### 2. OVERRIDE SSI SETTINGS ###
 
@@ -188,9 +190,14 @@ htaccess bisa mengendalikan caching pada web browser sehingga dapat mengurangi p
 
 {% highlight html %}
 {% raw %}
-# 480 weeks Header set Cache-Control "max-age=290304000, public"
-# 2 DAYS Header set Cache-Control "max-age=172800, public, must-revalidate"
-# 2 HOURS Header set Cache-Control "max-age=7200, must-revalidate"
+# 480 weeks
+Header set Cache-Control "max-age=290304000, public"
+
+# 2 DAYS
+Header set Cache-Control "max-age=172800, public, must-revalidate"
+
+# 2 HOURS
+Header set Cache-Control "max-age=7200, must-revalidate"
 {% endraw %}
 {% endhighlight %}
 
