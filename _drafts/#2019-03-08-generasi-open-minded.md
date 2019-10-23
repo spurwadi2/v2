@@ -14,7 +14,6 @@ comments: true
 mathjax:
 ---
 
-
 > Open-minded people are the best kind of people to be around
 
 Memang benar, punya keluarga, teman kuliah, teman kerja, atasan atau sekedar teman ngobrol yang *open-minded* ini emang jauh lebih menyenangkan jika dibandingkan orang-orang yang hanya sekedar pintar saja.

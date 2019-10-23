@@ -3,17 +3,21 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: YAML 'Post' Template
+title: Logic, Ethics, Aesthetics
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
-date: 2009-01-01 00:00:00
-modified: 2009-01-02 00:00:00
-tags: [draft]
+tags: [cogito]
 class: post-template
-subclass: 'post tag-draft'
+subclass: 'post tag-cogito'
 author: sigit
 comments: true
 mathjax:
 ---
 
 <center>•   •   •</center>
+
+Logika, etika, dan estetika sebenarnya adalah bagian dari ilmu filsafat. Secara sederhana,
+
+Logika melahirkan kebenaran.
+
+Pada akhirnya, manusia yang paripurna adalah mereka yang mampu menguasai ketiga hal ini, logika, etika, dan estetika. Meskipun 

@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: YAML 'Post' Template
+title: Revolusi Toilet
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
 date: 2009-01-01 00:00:00
@@ -17,3 +17,9 @@ mathjax:
 ---
 
 <center>•   •   •</center>
+
+Toilet, seberapa sering kamu bersihkan dalam sehari? seminggu? sebulan? setahun? atau seumur hidupmu?
+
+Sebuah ruangan sederhana berukuran 3x2 mungkin lebih kecil atau lebih besar memang menyimpan banyak hal dan ide-ide menarik.
+
+Setidaknya beberapa pakar psikologi atau estetis 

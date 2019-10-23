@@ -14,6 +14,4 @@ comments: true
 mathjax:
 ---
 
-
-
 <center>•   •   •</center>
