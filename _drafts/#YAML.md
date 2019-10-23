@@ -17,3 +17,7 @@ mathjax:
 ---
 
 <center>•   •   •</center>
+
+---
+
+[^1]: [Nama](www.com)
