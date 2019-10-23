@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/reverse-eng.png
 navigation: True
 title: Reverse Engineering
-description: Reverse engineering itu ibarat mencari tahu resep bahan, bumbu, dan rempah suatu masakan dengan cara "membongkar" rasa dan aroma dalam setiap sendokannya.
-summary: Reverse engineering itu ibarat mencari tahu resep bahan, bumbu, dan rempah suatu masakan dengan cara "membongkar" rasa dan aroma dalam setiap sendokannya.
+description: Reverse engineering itu ibarat mencari tahu resep, bahan, bumbu dan rempah suatu masakan dengan cara "menguliti" rasa dan aroma dalam setiap sendoknya.
+summary: Reverse engineering itu ibarat mencari tahu resep, bahan, bumbu dan rempah suatu masakan dengan cara "menguliti" rasa dan aroma dalam setiap sendoknya.
 tags: [coding]
 class: post-template
 subclass: 'post tag-coding'
@@ -14,13 +14,11 @@ comments: true
 mathjax:
 ---
 
-Salah satu hal yang penting dalam bidang keamanan adalah reverse engineering.
-
-Sebelum masuk ke bagian yang agak teknis. Saya berpendapat bahwa keahlian RE ini amat sangat penting untuk cyber defense dan cyber security.
+Reverse engineering merupakan topik paling menarik, tetapi juga butuh waktu yang sangat lama untuk mempelajarinya.
 
 *Reverse Engineering (RE)* atau rekayasa terbalik atau rekayasa mundur secara bebas dapat diartikan sebagai prosedur dan proses dalam membongkar suatu objek untuk mengetahui bahan, cara kerja, atau teknologi yang dipakai sehingga objek tersebut bisa berfungsi dengan baik.
 
-Orang bisa merekayasa balik berbagai macam hal, ambilah contoh paling sederhana seperti mencari tahu resep suatu masakan. Kita bisa menerka bahan-bahan, bumbu, dan rempah yang dipakai dalam suatu masakan, atau bisa juga dengan melakukan riset komprehensif untuk "membongkar" rasa dan aroma dalam setiap sendokannya.
+Orang bisa merekayasa balik berbagai macam hal, ambilah contoh paling sederhana seperti mencari tahu resep suatu masakan. Kita bisa menerka bahan, bumbu dan rempah yang dipakai dalam suatu masakan, atau bisa juga dengan melakukan riset komprehensif untuk "menguliti" rasa dan aroma dalam setiap sendoknya.
 
 Setelah melalui proses yang panjang, akhirnya kita tahu bahwa masakan itu terbuat dari bahan utama berupa daging ayam yang direbus bersama rempah tradisional, misalnya..
 
@@ -51,10 +49,6 @@ Dalam kasus kehilangan source code, kita bisa mengembalikan sebagian kode yang h
 Reverse engineering untuk tujuan menyalin atau menduplikat program merupakan pelanggaran hak cipta. Dalam beberapa kasus, penggunaan perangkat lunak berlisensi secara khusus melarang praktik reverse engineering (lihat bagian [etika dan legalitas RE](#etika-dan-legalitas-dalam-melakukan-re)).
 
 Jika kita ingin membuat program yang bisa membaca format program lain, kita juga perlu merekayasa balik jika format tersebut tidak bisa dibuka secara umum.
-
-Seseorang yang melakukan rekayasa terbalik pada perangkat lunak umumnya menggunakan beberapa program khusus. Salah satu yang cukup terkenal adalah dengan *hexadecimal dumper*.
-
-Alat lain yang biasa digunakan adalah *disamssembler*.
 
 ## Menjadi Seorang Reverse Engineer
 
@@ -157,11 +151,13 @@ Contoh hal lain yang abu-abu adalah membongkar script trading untuk mengetahui s
 
 ## Konklusi
 
-Jika Anda merasa memakai jasa orang lain terlalu mahal, cobalah untuk belajar sendiri. Sering kali orang merasa sesuatu terlalu mahal, tapi tidak mau juga untuk mempelajari sendiri.
+Membaca kode biner bisa sangat membosankan apalagi ketika awal belajar dan belum tahu harus dari mana untuk mempelajarinya. Dan reverse engineering memang sulit, sangat teknis dan butuh ketekunan kita untuk mendalami sampai level kode mesin.
 
-Reverse engineering memang sulit, sangat teknis dan butuh ketekunan kita untuk mendalami sampai level kode mesin.
+Namun saya yakin kalian mampu menguasai sesuatu kalau ada niat kuat dan tekun dalam mempelajarinya. Jika Anda merasa memakai jasa orang lain terlampau mahal, cobalah untuk belajar sendiri.
 
-Namun saya yakin kalian mampu menguasai sesuatu kalau ada niat kuat dan tekun dalam mempelajarinya. Dan khusus buat kalian yang sekarang ini sedang menargetkan diri untuk jadi carder, ayo jadi lebih baik lagi!
+Saran utama saya untuk belajar reverse engineering, buatlah program sendiri, compile, disassembler, lalu bongkar sendiri.
+
+Terakhir, khusus buat kalian yang sekarang ini sedang menargetkan diri menjadi carder untuk hal-hal negatif atau semacamnya, Indonesia sedang membutuhkan generasi terbaiknya, kalian bisa lebih baik dari itu!
 
 ---
 **Pranala:**
