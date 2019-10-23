@@ -98,7 +98,7 @@ Di MacOSX, untuk keperluan itu, tersedia LaTeXiT. Bahkan wikipedia menyediakan d
 
 **The Lorenz Equations**
 
-{% highlight css %}
+{% highlight tex %}
 \begin{aligned}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
@@ -116,7 +116,7 @@ $$\begin{aligned}
 
 **The Cauchy-Schwarz Inequality**
 
-{% highlight css %}
+{% highlight tex %}
 {% raw %}
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
@@ -132,7 +132,7 @@ $$
 
 **A Cross Product Formula**
 
-{% highlight css %}
+{% highlight tex %}
 {% raw %}
   \mathbf{V}_1 \times \mathbf{V}_2 =
    \begin{vmatrix}
@@ -154,7 +154,7 @@ $$
 
 **The probability of getting \(k\) heads when flipping \(n\) coins is:**
 
-{% highlight css %}
+{% highlight tex %}
 {% raw %}
 P(E) = {n \choose k} p^k (1-p)^{ n-k} 
 {% endraw %}
@@ -164,7 +164,7 @@ $$P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 
 **Isotop**
 
-{% highlight css %}
+{% highlight tex %}
 {% raw %}
 {^{14}_{7}N}
 {% endraw %}
@@ -174,7 +174,7 @@ $${^{14}_{7}N}$$
 
 **Persamaan Kimia**
 
-{% highlight css %}
+{% highlight tex %}
 {% raw %}
 {SO4^2- + Ba^2+ -> BaSO4}
 {% endraw %}

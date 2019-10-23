@@ -58,7 +58,8 @@ kramdown        :
   entity_output : as_char
   toc_levels    : 1..6
   enable_coderay: false
-highlighter     : rouge
+  footnote_backlink: '&#x21A9;&#xFE0E;'
+  highlighter     : rouge
 paginate        : 15 # it will paginate after this number
 paginate_path   : "page:num"
 language        : 'en-uk'
@@ -123,3 +124,4 @@ exclude         :
                 - "*.Rmd"
                 - .git*
                 - Gruntfile.js
+                - .jekyll-cache

@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.7.4"
+gem "jekyll"
 gem "github-pages"
 gem "rake"
 gem "jekyll-mentions"
