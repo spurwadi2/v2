@@ -124,4 +124,4 @@ exclude         :
                 - "*.Rmd"
                 - .git*
                 - Gruntfile.js
-                - .jekyll-cache
+                - .jekyll-cache # For jekyll v.4.0 update
