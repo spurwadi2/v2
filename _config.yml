@@ -99,7 +99,7 @@ username        : spurwadi2
 repo            : v2
 branch          : master
 relative_source : ../v2/
-destination     : ../v2-pages/
+destination     : ../.blog-build-cache/
 production_url  :  https://blog.purwadi.web.id/
 source_url      :  https://github.com/spurwadi2/v2/
 
