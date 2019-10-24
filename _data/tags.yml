@@ -42,6 +42,10 @@ gaming:
   title:
   description: False
   cover: False
+grooming:
+  title: Man's Grooming!
+  description:
+  cover: False
 health:
   description: False
   cover: False
