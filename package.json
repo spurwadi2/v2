@@ -1,10 +1,10 @@
 {
-  "name": "sigit-blog",
+  "name": "Sigit Purwadi's Blog",
   "description": "Sigit Purwadi's Blog – You're Nobody Until You're Talked About",
   "demo": "https://blog.purwadi.web.id",
-  "version": "2.1.0",
+  "version": "2.1.3",
   "engines": {
-    "jekyll": ">=3.7.4"
+    "jekyll": ">=3.8.5"
   },
   "license": "MIT",
   "screenshots": {
