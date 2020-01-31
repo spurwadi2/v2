@@ -70,7 +70,7 @@ permalink       : :title
 # permalink     : /topic/:tag # Tags' info in `_data/tags_info.yml`
 
 # Gemfiles and other config
-plugins         : [jekyll-paginate, jekyll-feed, jekyll-mentions]
+plugins         : [jekyll-paginate, jekyll-feed, jekyll-mentions, jekyll-linkpreview]
 
 feed            :
   path          : feed.xml

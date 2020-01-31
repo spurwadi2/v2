@@ -18,6 +18,8 @@ Nearly all Markdown applications support the basic syntax outlined in John Grube
 
 There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
 
+{% linkpreview https://blog.purwadi.web.id/kopitalisme %}
+
 Using Markdown doesn't mean that you can't also use HTML. You can add HTML tags to any Markdown file. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find that it's easier to use HTML tags for images [^1].
 
 <h1>Table of content</h1>
@@ -325,6 +327,27 @@ To display a literal character that would otherwise be used to format text in a 
 <pre><code>\* Without the backslash, this would be a bullet in an unordered list.</code></pre>
 
 \* Without the backslash, this would be a bullet in an unordered list.
+
+# Link preview
+
+Jekyll plugin to generate link preview by <code>linkpreview</code> tag.
+
+The plugin fetches Open Graph protocols of the designated page to generate preview. The og properties are saved as JSON for caching and it is used when rebuilding the site.
+
+You can pass url directly to the tag,
+
+```markdown
+{\% linkpreview https://github.com %}
+```
+
+or, can pass a url variable.
+
+```markdown
+{\% assign github_toppage = 'https://github.com' %}
+{\% linkpreview github_toppage %}
+```
+
+{% linkpreview https://github.com %}
 
 # Full HTML
 
