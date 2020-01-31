@@ -795,8 +795,8 @@ Usage (In Ghost edtior):
 }
 
 .post-full-content img[src$="#small"] {
-    max-width: none;
-    width: 50vw;
+    max-width: 1040;
+    width: 50%;
 }
 
 
