@@ -20,6 +20,8 @@ Anyways, the moment I thought about blogging, Wordpress flashed in my mind. Well
 
 Those weren’t too much trouble, I would avoid fixing those bugs if I was busy, and sometimes I would leave the system untouched for 2 days straight and let the server admins frown and try to mitigate the outage. <i>I had a pretty straight forward deal with my hosting provider, that no matter what, they can’t shut down my website.</i>
 
+{% linkpreview https://medium.purwadi.web.id/hello-world-a189b8e2e05c %}
+
 The PHP runtime errors weren’t a big deal, the hundreds of thousands of SQL database queries weren’t a trouble, sometimes the site would run a tad bit slower than average, but it was OK overall for me. A sample of the emails I would receive from my hosting provider is given below:
 
 >   Hello, 

@@ -21,6 +21,8 @@ Murahnya biaya hidup di Yogyakarta memang bukan tanpa alasan. Menurut Aktivis Jo
 
 Biaya hidup mahasiswa di Yogyakarta yang murah saat ini telah lama menjadi cerita masa lalu sejak tahun 2012, atau satu tahun menjelang mulai maraknya pembangunan hotel, apartemen, tempat pusat perbelanjaan dan hiburan.
 
+{% linkpreview https://medium.purwadi.web.id/yogyakarta-low-end-living-3735dd42ca59 %}
+
 Menurut Ketua Pusat Studi Ekonomi keuangan dan Industri LPPM UPN Veteran Yogyakarta, Ardito Bhinardi dalam paparan "Survei Biaya Hidup Mahasiswa Jogja pada 2012". Kenaikan biaya hidup mahasiswa Jogja 2012 terjadi di semua jenjang studi. Untuk program Diploma IV Rp1,64 juta. S-1 Rp1,74, dan S-2 Rp2,37 juta [^2].
 
 Selain untuk memenuhi kebutuhan tempat tinggal (kost) dan konsumsi, biaya rekreasi dan hiburan juga cukup tinggi. Kenaikan biaya hidup Jogja ini dipicu kenaikan biaya makan, minum dan tempat tinggal. Selain itu juga biaya handphone, transportasi dan kebutuhan pendidikan seperti alat tulis dan buku. Internet juga menjadi variabel utama yang diperlukan mahasiswa Yogyakarta.
