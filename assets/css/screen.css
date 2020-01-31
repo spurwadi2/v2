@@ -761,6 +761,8 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content small {
     display: inline-block;
     line-height: 1.6em;
+    font-size: small;
+    color: rgba(0, 0, 0, 0.54);
 }
 
 .post-full-content li:first-child {
@@ -770,7 +772,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content img,
 .post-full-content video {
     display: block;
-    margin: 1.5em auto;
+    margin: 1.5em auto 0 auto;
     max-width: 1040px;
 }
 @media (max-width: 1040px) {
@@ -797,6 +799,7 @@ Usage (In Ghost edtior):
 .post-full-content img[src$="#small"] {
     max-width: 1040;
     width: 50%;
+    border-radius: 7px;
 }
 
 
@@ -808,9 +811,13 @@ Usage (In Ghost editor):
 <small>Your image caption</small>
 
 */
-.post-full-content img + br + small {
+.post-full-content img + small,
+.post-full-content img[src$="#full"] + small,
+.post-full-content img[src$="#small"] + small {
+    text-align: center;
+    font-size: small;
     display: block;
-    margin-top: -3em;
+    margin-top: 0.5em;
     margin-bottom: 1.5em;
 }
 
