@@ -18,9 +18,9 @@ mathjax:
 
 Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!
 
-Ada sebagian millenial yang beranggapan bahwa udah bayar pajak aja syukur, mbok ya ga usah direpotin dengan melaporkan apa yang telah dibayarkan.
+Ada sebagian dari kita yang beranggapan bahwa udah bayar pajak aja syukur, mbok ya ga usah direpotin dengan melaporkan apa yang telah dibayarkan.
 
-Meskipun melaporkan SPT adalah suatu PR bagi para pekerja, tetapi dengan sedikit kontribusi ini kita membantu mencegah korupsi. Kita meminimalisir celah korupsi yang mungkin akan timbul dengan perbedaan jumlah yang dibayarkan dan yang dilaporkan.
+Meskipun melaporkan SPT adalah suatu PR bagi para pekerja, tetapi dengan sedikit kontribusi ini kita membantu mencegah korupsi. Kita bisa meminimalisasi celah korupsi yang mungkin akan timbul dengan perbedaan jumlah yang dibayarkan dan yang dilaporkan.
 
 Coba aja bayangkan berapa jumlah pajak yang kamu bayarkan dan ada ribuan anak muda yang tidak melaporkannya.
 

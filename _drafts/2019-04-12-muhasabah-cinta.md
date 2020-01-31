@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/hello-world.png
 navigation: True
 title: Muhasabah Cinta, Muhasabah Diri
-description: Manusia memang dilahirkan secara fitrahnya mempunyai perasaan cinta.
+description: Cinta adalah tentang melupakan, mengabaikan, dan melepaskan hal-hal penting dan besar dari diri kita untuk mulai mementingkan, memperdulikan, dan memperjuangkan hal-hal kecil dari sesuatu atau seseorang yang dicintai.
 tags: [islam]
 class: post-template
 subclass: 'post tag-islam'
@@ -19,13 +19,31 @@ Seorang ibu sanggup berkorban nyawa untuk anaknya karena cintanya kepada anak. S
 
 Seorang penuntut ilmu sanggup bersusah payah mengharungi bahtera karena cintanya kepada ilmu.
 
-Seorang perwira sanggup berkorban jiwa karena cintanya kepada tanah air, seorang hartawan sanggup berkorban masa dan maruah karena cintanya kepada harta. Dan seorang pencinta kononnya sanggup merentasi lautan berapi lantaran cintanya kepada kekasihnya.
+Seorang perwira sanggup berkorban jiwa karena cintanya kepada tanah air, pun seorang hartawan sanggup berkorban masa dan maruah karena cintanya kepada harta.
 
-Secara dasarnya, kita sanggup berbuat apa saja karena ingin menjaga dan mengejar cinta.
+Dan seorang pencinta kononnya sanggup merentasi lautan berapi lantaran cintanya kepada kekasihnya.
 
-Itulah cinta.. Ia fitrah.  Dan ia juga boleh menjadi fitnah. Ia boleh menjadikan seseorang mulia atau hina. Ia bisa merubah manusia menjadi lebih baik di sisi Tuhan dan manusia. Dan ia bisa juga menjatuhkan nilai seseorang dari sudut pandangan Tuhan dan manusia.
+Pada dasarnya, kita sanggup berbuat apa saja karena ingin menjaga dan mengejar cinta.
 
-Sudah lama kita menjalani kehidupan ini, sudah banyak sekali perkataan ‘cinta’ kita ungkapkan dan luahkan. Di kesempatan yang terbatas ini, marilah kita bermuhasabah. Muhasabah tentang cinta.  Mudah-mudahan muhasabah ini bisa menyedarkan kita semua akan di mana letak duduknya rasa cinta kita? Di tempat yang sepatutnya kah Atau sudah cinta kita tersasarkan selama ini?
+Cinta itu fitrah dan ia juga boleh menjadi fitnah. Ia boleh menjadikan seseorang mulia atau hina. Ia bisa merubah manusia menjadi lebih baik di sisi Tuhan dan manusia. Sebaliknya, ia juga bisa menjatuhkan nilai seseorang dari sudut pandangan Tuhan dan manusia.
+
+Sudah lama kita menjalani kehidupan ini, tentu sudah banyak perkataan ‘cinta’ yang kita ungkapkan dan luahkan. Di kesempatan yang terbatas ini, marilah kita bertafakkur dan bermuhasabah. Muhasabah tentang cinta.
+
+Rabiah Al-Adawiyah pernah menuliskan dalam bukunya, *Muhasabah Cinta*:
+
+> Cinta adalah tentang melupakan, mengabaikan, dan melepaskan hal-hal penting dan besar dari diri kita untuk mulai mementingkan, memperdulikan, dan memperjuangkan hal-hal kecil dari sesuatu atau seseorang yang dicintai.
+
+Banyak orang memandang adalah sebuah hal klise apabila membicarakan cinta, apalagi cinta kepada lawan jenis.
+
+Menurut saya, mereka adalah orang yang terlalu sempit memandang cinta, hanya menganggapnya sekedar nafsu belaka, memabukkan, melalaikan, belum melihat agungnya.
+
+Erich Fromm, dalam bukunya *The Art of Loving* membahas dalam tentang luasnya makna cinta. Rabiah Al-Adawiyah menggunakan cinta sebagai mediasi untuk zuhud dalam mengenal Allah.
+
+Cinta juga tentang kemanusiaan, kepada tumbuhan, hewan, mbah-mbah di Alkid, mas-mas burjo, bersihnya jalan, tenangnya malam, dan banyaak hal lain.
+Oleh karena itu, aku mencoba untuk menghargai semua hal yang ada, mencintainya. Waktu yang saya miliki, kesehatan tubuhku, hal-hal kecil dan besar dari hidupku, tak lupa dia dan Dia
+
+
+Mudah-mudahan muhasabah ini bisa menyedarkan kita semua akan di mana letak duduknya rasa cinta kita? Di tempat yang sepatutnya kah Atau sudah cinta kita tersasarkan selama ini?
 
 1. Orang yang beriman sangat cinta kepada Allah.
 
