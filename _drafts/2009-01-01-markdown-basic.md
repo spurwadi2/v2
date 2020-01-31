@@ -59,7 +59,7 @@ Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehi
 
 You can add emphasis by making text **bold**, *italic* or ***bold and italic***
 
-<pre><code>
+``` markdown
 *italic*
 _italic_
 
@@ -67,8 +67,8 @@ _italic_
 __bold__
 
 ***bold and italic***
-__*bold and italic***
-</code></pre>
+___bold and italic___
+```
 
 ## Special formating
 
@@ -104,8 +104,9 @@ The <u>u element</u> example
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
 
-<pre><code>My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-</code></pre>
+``` html
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+```
 
 The rendered output looks like this:
 
@@ -120,32 +121,47 @@ To add an image, add an exclamation mark (*!*), followed by alt text in brackets
 
 One neat trick which you can use in Markdown to distinguish between different types of images is to add a <code>#hash</code> value to the end of the source URL, and then target images containing the hash with special styling. For example:
 
-<pre><code>![ALT text](assets/images/markdown.jpeg#full "Title text example")</code></pre>
+``` markdown
+![alt text](assets/images/markdown.jpeg#full "Title text example")
+<small>This is full image caption example with [link](https://link)</small>
+```
 
 which is styled with...
 
-<pre><code>img[src$=&quot;#full&quot;] {
-    max-width: 100vw;
+``` css
+/* Full bleed images (#full) */
+.post-full-content img[src$="#full"] {
+    max-width: none;
+    width: 100vw;
 }
-</code></pre>
+```
 
 This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.
 
 The rendered output looks like this:
 
 ![ALT text](assets/images/markdown.jpeg#full "Title text example")
+<small>This is full image caption example with [link](https://link)</small>
 
 ## Small image
 
-<pre><code>![ALT Text](assets/images/markdown.jpeg#small "Title text example")</code></pre>
+``` markdown
+![alt Text](assets/images/markdown.jpeg#small "Title text example")
+<small>This is small image caption example with [link](https://link)</small>
+```
 
 ![ALT Text](assets/images/markdown.jpeg#small "Title text example")
+<small>This is small image caption example with [link](https://link)</small>
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
-<pre><code>[![ALT Text](assets/images/markdown.jpeg "IMG default size")](#media)</code></pre>
+``` markdown
+[![alt Text](assets/images/markdown.jpeg "IMG title example")](#media)
+<small>This is normal image caption example with [link](https://link)</small>
+```
 
 [![ALT Text](assets/images/markdown.jpeg "IMG default size")](#media)
+<small>This is normal image caption example with [link](https://link)</small>
 
 # Line Breaks & horizontal rule
 
@@ -237,6 +253,14 @@ Code blocks can also be inserted with the highlight tag as below:
     # some code
     {% endhighlight %}
     {% endraw %}
+</pre>
+
+or simply,
+
+<pre>
+    ``` language
+    # some code
+    ```
 </pre>
 
 If you want to get really fancy, you can even add syntax highlighting using <a href="http://prismjs.com/">Prism.js</a>.
