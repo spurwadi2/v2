@@ -18,8 +18,6 @@ Nearly all Markdown applications support the basic syntax outlined in John Grube
 
 There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
 
-{% linkpreview https://blog.purwadi.web.id/kopitalisme %}
-
 Using Markdown doesn't mean that you can't also use HTML. You can add HTML tags to any Markdown file. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find that it's easier to use HTML tags for images [^1].
 
 <h1>Table of content</h1>
@@ -157,6 +155,8 @@ The rendered output looks like this:
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
+## Normal image
+
 ``` markdown
 [![alt Text](assets/images/markdown.jpeg "IMG title example")](#media)
 <small>This is normal image caption example with [link](https://link)</small>
@@ -164,6 +164,14 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 
 [![ALT Text](assets/images/markdown.jpeg "IMG default size")](#media)
 <small>This is normal image caption example with [link](https://link)</small>
+
+``` markdown
+![Yogyakarta Low End Living](assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
+<small>Yogyakarta Low End Living</small>
+```
+
+![Yogyakarta Low End Living](assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
+<small>Yogyakarta Low End Living</small>
 
 # Line Breaks & horizontal rule
 
@@ -346,8 +354,6 @@ or, can pass a url variable.
 {\% assign github_toppage = 'https://github.com' %}
 {\% linkpreview github_toppage %}
 ```
-
-{% linkpreview https://github.com %}
 
 # Full HTML
 
