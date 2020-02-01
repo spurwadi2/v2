@@ -70,7 +70,7 @@ Cukup Jelas kan? Oke lanjut!
 
 #### Equilibrium
 
-Titik *equlibrium* adalah posisi di mana *demand* dan *supply* akan bertemu.
+Titik *equilibrium* adalah posisi di mana *demand* dan *supply* akan bertemu.
 
 Ini ibarat gayung bersambut kalo dalam dunia perbucinan. Apa yang kamu cari pas dengan yang mencari kamu. *Ciee.. akhirnya..*
 
