@@ -31,10 +31,8 @@ Data tersebut adalah hasil survei 4 tahun lalu, saat itu pembangunan Mall, Apart
 
 Kenaikan biaya hidup saat ini memberikan dampak bagi masyarakat Jogja terutama mahasiswa dan pendatang. Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, ***saatnya untuk menjalani gaya hidup low end!***
 
-<figure>
-	<a href="{{ site.url }}{{ site.baseurl }}assets/images/yogyakarta-low-end-living-banner.jpg"><img src="{{ site.url }}/assets/images/yogyakarta-low-end-living-banner.jpg"></a>
-	<small>Yogyakarta Low End Living</small>
-</figure><br/>
+![Yogyakarta Low End Living](assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
+<small>Yogyakarta Low End Living</small>
 
 Yogyakarta Low End Living terinspirasi dari grup komunitas serupa yang mengedepankan gaya hidup hemat, murah, kreatif, unik, namun tetap asik, menyenangkan, sehat, dan istimewa.
 
