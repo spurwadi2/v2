@@ -14,13 +14,15 @@ comments: true
 mathjax:
 ---
 
-Sebagian dari klean yang dulu ~~ngakunya~~ anak sekolah pasti pernah belajar ekonomi kan..
+Sebagian dari kalian yang ~~ngakunya~~ anak sekolah pasti pernah belajar ekonomi kan.. apalagi yang anak IPS.
 
-Kalo belajar ilmu ekonomi tentu tidak terlepas dari hukum permintaan (*demand*) dan penawaran (*supply*). Terus ada lagi teori elastisitas sama inelastisitas.
+Belajar ilmu ekonomi tentu tidak terlepas dari hukum permintaan (*demand*) dan penawaran (*supply*). Terus ada lagi teori elastisitas sama inelastisitas.
 
-Mungkin klean dulu juga berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu klean cabut sekolah buat ke warnet atau maen PS. Kalian ga gitu? Oh berarti cuma gue.. -_-
+Mungkin kalian juga sempat berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu kalian kabur dari sekolah buat ke warnet atau maen PS.
 
-Tau gaksih, kenyataannya teori-teori ini sebenarnya berguna banget *<small>(b- ajasih)</small>* di kehidupan kita sehari-hari, mulai dari aktivitas jual beli, siklus pergaulan pada sirkel tongkrongan, sampai pada kehidupan dalam dunia percintaan.
+Kalian ga gitu? Oh oke berarti cuma gue.. -_-
+
+Tau gaksih, kenyataannya teori-teori ini sebenarnya berguna banget *<small>(berguna ajasih)</small>* di kehidupan kita sehari-hari, mulai dari aktivitas jual beli, siklus pergaulan pada sirkel tongkrongan(?), sampai pada kehidupan dalam dunia percintaan.
 
 Kek gimana tuh? Begini ceritanya...
 
@@ -62,7 +64,7 @@ Kurvanya seperti ini:
 
 Lanjut dari contoh yang tadi, Natasha dengan segala ke-oke-annya pasti dianggep sebagai *high-quality jomblo*. Karena dia super oke, banyak yang naksir sama dia dan pengen jadi pacarnya. Ya taro lah ada 20 gitu..
 
-Sedangkan si Dodi, karena kualitasnya dia yaa.. klean tau sendiri, siapa sih yang mau sama dia. Dikit doang kan. Kita kasih angka 5.
+Sedangkan si Dodi, karena kualitasnya dia yaa.. kalian tau sendiri, siapa sih yang mau sama dia. Dikit doang kan. Kita kasih angka 5.
 
 Cukup Jelas kan? Oke lanjut!
 
