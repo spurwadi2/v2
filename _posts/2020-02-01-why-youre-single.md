@@ -20,12 +20,12 @@ Kalo belajar ilmu ekonomi tentu tidak terlepas dari hukum permintaan (*demand*) 
 
 Mungkin klean dulu juga berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu klean cabut sekolah buat ke warnet atau maen PS. Kalian ga gitu? Oh berarti cuma gue.. -_-
 
-Tau gaksih, kenyataannya teori *demand and supply* ini sebenarnya berguna banget *<small>(b- ajasih)</small>* di kehidupan kita sehari-hari, mulai dari aktifitas ekonomi, pergaulan pada sirkel tongkrongan, sampai pada kehidupan percintaan.
+Tau gaksih, kenyataannya teori-teori ini sebenarnya berguna banget *<small>(b- ajasih)</small>* di kehidupan kita sehari-hari, mulai dari aktivitas jual beli, siklus pergaulan pada sirkel tongkrongan, sampai pada kehidupan dalam dunia percintaan.
 
 Kek gimana tuh? Begini ceritanya...
 
 -----
-<center><sup>⚠<br/><i><b>DISCLAIMER</b>: Nama-nama yang digunakan dalam kasus ini semata-mata adalah tokoh fiksi untuk kepentingan ilustrasi. Jika ada kesamaan nama dan kondisi, maka itu hanyalah kebetulan, atau keajaiban. Kalo kamu merasa kamu adalah Natasha, harap segera hubungi saya. Mungkin ini pertanda~</i></sup></center>
+<center><sup>⚠<br/><i><b>DISCLAIMER</b>: Nama-nama yang digunakan dalam kasus ini semata-mata adalah tokoh fiksi untuk kepentingan ilustrasi. Jika ada kesamaan nama dan kondisi, maka itu hanyalah kebetulan, atau ~~mukjizat~~ keajaiban. Kalo kamu merasa kamu adalah Natasha, harap segera hubungi saya. Mungkin ini pertanda~</i></sup></center>
 -----
 
 #### Demand
@@ -47,11 +47,7 @@ Dari kedua contoh di atas, bakal ketauan kan mana yang nilainya lebih tinggi.
 
 Natasha sebagai individu yang memiliki nilai tinggi, kalo nyari pacar tentunya pengen yang selevel dong. Terus orang yang selevel dan pantas buat dia berapa sih? Dikit, taro lah 5 orang..
 
-Sedangkan si Dodi, dengan atributnya yang kayak gitu pasti nilainya gak oke lah ya..
-
-Karena dia tau diri, dia gak pasang standar tinggi-tinggi buat cari pacar. Dia nyari yang mau menerima dia apa adanya aja. Nah karena dia gak pasang standar tinggi, dia pikir banyak nih yang bisa masuk. Jadi taro lah ada 20-an.
-
-Lanjut yaa..
+Sedangkan si Dodi, dengan atributnya yang kayak gitu pasti nilainya gak oke lah ya.. Karena dia tau diri, dia gak pasang standar tinggi-tinggi buat cari pacar. Dia nyari yang mau menerima dia apa adanya aja. Nah karena dia gak pasang standar tinggi, dia pikir banyak nih yang bisa masuk. Jadi taro lah ada 20-an.
 
 #### Supply
 
@@ -99,7 +95,7 @@ Terus bagaimana jika diterapkan dalam dunia percintaan?
 
 Menurut euG, elastisitas seorang jomblo adalah seberapa besar perubahan jumlah orang-orang yang dia mau pacarin kalo misalnya nilainya dia berubah.
 
-Kalo sebelumnya ada si Dodi sama Natasha yang udah cukup kita pergunjingkan, jadi sekarang kita pake contoh baru, ada Sinta sama Didit.
+Kalo sebelumnya ada si Dodi sama Natasha yang udah cukup kita pergunjingkan, jadi sekarang kita pake contoh baru, Sinta sama Didit.
 
 [![Kurva elastistitas](assets/images/kurva-percintaan/elastisitas.png "Kurva elastisitas dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
@@ -108,7 +104,7 @@ Katakanlah karena suatu hal, Sinta dan Didit mengalami kenaikan nilai. Mungkin m
 
 Terus gimana mereka menyikapi perubahan nilai tersebut?
 
-Sinta merasa kenaikan nilai ini adalah sebuah prestasi luar biasa bagi dia. Harga diri dan martabatnya dalam sirkel tongkrongan seketika melonjak tinggi. Namun, jumlah orang yang menurut dia pantas buat jadi pacarnya langsung menurut drastis, dari <b>Qs1</b> menjadi <b>Qs2</b>. Dia langsung jual mahal gitu istilahnya.
+Sinta merasa kenaikan nilai ini adalah sebuah prestasi luar biasa bagi dia. Harga diri dan martabatnya dalam sirkel pergaulan seketika melonjak tinggi. Namun, jumlah orang yang menurut dia pantas buat jadi pacarnya langsung menurut drastis, dari <b>Qs1</b> menjadi <b>Qs2</b>. Dia langsung jual mahal gitu istilahnya.
 
 Sementara Didit, dia anaknya santai-santai aja. Biarpun nilainya naik, dia tetap bersahaja seperti ajaran ~~Mama Dedeh~~ keluarga Cemara. Dia ngerasa kalo kenaikan nilai ini bukan apa-apa, dan bukan alasan untuk sombong karena kesempurnaan semata-mata hanya milih Tuhan YME. Makanya jumlah penurunan <b>Qd</b> pun cuma sedikit dibandingkan sama <b>Qs</b> punya si Sinta.
 
@@ -129,7 +125,7 @@ Misalnya si orang ini nilainya <b>P*</b>, tapi dengan nilai segitu, dia mau sama
 
 #### Jomblo Inelastisitas Sempurna
 
-Sebaliknya, Jomblo Inelastisitas Sempurna ini berapapun nilainya dia, dia cuma mau sama segelintir orang atau  mungkin hanya sama 1 orang. Bisa juga disebut tipe setia, atau mungkin jual mahal, atau udah mêntok.
+Sebaliknya, Jomblo Inelastisitas Sempurna ini berapapun nilainya, dia cuma mau sama segelintir orang atau mungkin hanya sama 1 orang saja. Bisa juga disebut tipe setia, atau mungkin jual mahal, atau bisa juga karena udah mêntok. ¯\_(ツ)_/¯
 
 Begini kurvanya:
 
