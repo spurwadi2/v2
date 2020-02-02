@@ -129,7 +129,7 @@ Misalnya si orang ini nilainya <b>P*</b>, tapi dengan nilai segitu, dia mau sama
 
 Sebaliknya, jomblo inelastisitas sempurna ini berapapun nilainya, dia cuma merasa cocok sama segelintir orang atau mungkin sama 1 orang aja.
 
-Kalian boleh menyebut dia sebagai tipe jomblo karena alasan setia, atau mungkin jual mahal, atau bisa juga karena udah mêntok. ¯\\_(ツ)_/¯
+Kalian boleh menyebut dia sebagai tipe jomblo karena alasan setia, atau mungkin jual mahal, atau bisa juga karena udah mêntok. ¯\\_\(ツ)\_/¯
 
 Begini kurvanya:
 
