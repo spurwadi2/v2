@@ -127,20 +127,22 @@ Misalnya si orang ini nilainya <b>P*</b>, tapi dengan nilai segitu, dia mau sama
 
 #### Jomblo Inelastisitas Sempurna
 
-Sebaliknya, jomblo inelastisitas sempurna ini berapapun nilainya, dia cuma merasa cocok sama segelintir orang atau mungkin hanya sama 1 orang saja. Bisa juga disebut tipe jomblo karena setia, atau mungkin jual mahal, atau bisa juga karena udah mêntok. ¯\\_(ツ)_/¯
+Sebaliknya, jomblo inelastisitas sempurna ini berapapun nilainya, dia cuma merasa cocok sama segelintir orang atau mungkin sama 1 orang aja.
+
+Kalian boleh menyebut dia sebagai tipe jomblo karena alasan setia, atau mungkin jual mahal, atau bisa juga karena udah mêntok. ¯\\_(ツ)_/¯
 
 Begini kurvanya:
 
 [![Kurva inelastisitas sempurna](assets/images/kurva-percintaan/inelastis-sempurna.png "Kurva inelastisitas sempurna dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
 
-Maksudnya, mau nilai dia rendah di <b>P1</b> atau udah naek tinggi ke <b>P2</b>, dia maunya cuma sama <b>Q</b>.
+Maksudnya, mau nilai dia rendah di <b>P1</b> atau udah naek tinggi ke <b>P2</b>, pokoknya dia itu maunya cuma sama <b>Q*</b>.
 
-Mungkin dia udah lama naksir sama <b>Q</b> tapi sampe sekarang belom dapet-dapet jadinya mêntok di situ. Ato mungkin <b>Q*</b> itu mantannya dan belom bisa move on. Ya kurang lebih begitu lah.. seterah klean deh mau gimana~
+Mungkin dia udah lama naksir sama <b>Q*</b> tapi sampe sekarang belom dapet-dapet jadinya mêntok di situ. Ato mungkin <b>Q*</b> itu dulu mantannya dan belom bisa move on. Ya kurang lebih begitu lah.. seterah klean deh mau gimana~
 
-Terakhir, sebagai saran aja sih kalo misalnya kamu ngerasa oke tapi masih jomblo juga, ya jangan terlalu *picky* jadi orang. Dan kalo kamu gak laku-laku, coba introspeksi diri. Kalo kurang oke coba usahakan gimana caranya biar jadi oke, jadilah pribadi yang lebih baik.
+Terakhir, sebagai saran aja sih kalo misalnya kamu udah ngerasa oke tapi masih jomblo juga, ya jangan terlalu *picky* jadi orang. Dan kalo kamu masih gak laku-laku padahal udah pasang standar yang B-aja *(red: biasa aja)*, cobalah introspeksi diri. Kalo kurang oke, usahakan gimana caranya biar jadi lebih oke.
 
-Semoga bisa menambah wawasan kamu dalam ilmu ekonomi dan dunia ~~perninjaan~~ perbucinan..
+Semoga bisa menambah wawasan kalian dalam teori/ilmu ekonomi, keterampilan mengarang cerita, dan keahlian dalam dunia perbucinan~
 
 ---
 **Referensi & Glosarium:**
