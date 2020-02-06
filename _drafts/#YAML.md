@@ -16,6 +16,18 @@ comments: true
 mathjax:
 ---
 
+![ALT text](assets/images/markdown.jpeg#full "Title text example")
+<small>Full image caption with [link](https://link)</small>
+
+![ALT Text](assets/images/markdown.jpeg#small "Title text example")
+<small>Small image caption with [link](https://link)</small>
+
+[![ALT Text](assets/images/markdown.jpeg "Title text example")](#linkmedia)
+<small>Normal image caption with [link](https://link)</small>
+
+![ALT Text](assets/images/markdown.jpeg "Title text example")
+<small>Normal image caption with [link](https://link)</small>
+
 <center>•   •   •</center>
 
 ---
