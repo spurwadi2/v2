@@ -14,11 +14,11 @@ comments: true
 mathjax:
 ---
 
-Sebagian dari kalian yang ~~ngakunya~~ anak sekolah pasti pernah belajar ekonomi kan? Apalagi yang anak sosial (IPS).
+Sebagian dari kalian yang ~~ngakunya~~ anak sekolah pasti pernah belajar ekonomi kan? Apalagi yang anak sosial (red: IPS)..
 
-Belajar ilmu ekonomi tentu tidak terlepas dari hukum permintaan (*demand*) dan penawaran (*supply*). Terus ada lagi teori elastisitas sama inelastisitas. Itu hanya contoh kecil dari teori-teori yang *bejibun* banyaknya.
+Belajar ilmu ekonomi tidak lengkap rasanya kalo belum menyinggung perkara hukum permintaan (*demand*) dan penawaran (*supply*). Terus ada lagi teori elastisitas dan inelastisitas. Ya itu cuma contoh kecilnya saja dari sekian banyak teori-teori yang diajarkan di sekolah atau di kampus.
 
-Mungkin kalian juga sempat berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu kalian kabur dari sekolah buat ke warnet atau maen PS.
+Mungkin kalian sempat berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu kalian kabur dari sekolah buat ke warnet atau maen PS.
 
 Kalian ga gitu? Oh oke berarti cuma gue.. -_-
 

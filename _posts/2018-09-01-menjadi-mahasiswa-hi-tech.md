@@ -134,9 +134,9 @@ Banyak sekali materi pelajaran di internet. Mau belajar *NodeJS* dan *SailsJS* a
 
 <h4> Persiapkan Modalnya </h4>
 
-> *Wah, dengan segala macam teknologi di atas, pasti modalnya mahal ya? Saya mahasiswa cekak, bokek, pas-pasan..*
-
 <div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/ly8G39g1ujpNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/editingandlayout-ly8G39g1ujpNm">via GIPHY</a></p>
+
+> *Wah, dengan segala macam teknologi di atas, pasti modalnya mahal ya? Saya mahasiswa cekak, bokek, pas-pasan..*
 
 Tidak juga. Ini cuma masalah prioritas dan kesungguhan aja. Coba kita hitung-hitungan.
 
