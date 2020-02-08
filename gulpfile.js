@@ -1,54 +1,54 @@
-var gulp = require('gulp');
+const { series, parallel, src, dest, watch, gulp } = require('gulp');
 
 // gulp plugins and utils
-var gutil = require('gulp-util');
-var livereload = require('gulp-livereload');
-var postcss = require('gulp-postcss');
-var sourcemaps = require('gulp-sourcemaps');
+const sourcemaps = require('gulp-sourcemaps');
+const postcss = require('gulp-postcss');
+const gutil = require('gulp-util');
+const concat = require('gulp-concat');
+const uglify = require('gulp-uglify');
+const livereload = require('gulp-livereload');
 
 // postcss plugins
-var autoprefixer = require('autoprefixer');
-var colorFunction = require('postcss-color-function');
-var cssnano = require('cssnano');
-var customProperties = require('postcss-custom-properties');
-var easyimport = require('postcss-easy-import');
+const autoprefixer = require('autoprefixer');
+const cssnano = require('cssnano');
+const easyimport = require('postcss-easy-import');
+const customProperties = require('postcss-custom-properties');
+const colorFunction = require('postcss-color-function');
 
-var swallowError = function swallowError(error) {
-    gutil.log(error.toString());
-    gutil.beep();
-    this.emit('end');
+
+function watchTask() {
+    livereload.listen();
+    watch('assets/css/*.css', (cssTask));
+    watch('assets/js/*.js', (jsTask));
 };
 
-var nodemonServerInit = function () {
-    livereload.listen(1234);
+function jsTask() {
+    return src('assets/js/*.js')
+        .on('error', swallowError)
+        .pipe(concat('all.js'))
+        .pipe(uglify())
+        .pipe(dest('assets/built/'))
 };
 
-gulp.task('css', function () {
-    var processors = [
-        easyimport,
-        customProperties,
-        colorFunction(),
-        autoprefixer({browsers: ['last 2 versions']}),
-        cssnano()
-    ];
-
-    return gulp.src('assets/css/*.css')
+function cssTask() {
+    return src('assets/css/*.css')
         .on('error', swallowError)
         .pipe(sourcemaps.init())
-        .pipe(postcss(processors))
+        .pipe(postcss([
+            easyimport(),
+            customProperties(),
+            colorFunction(),
+            autoprefixer({overrideBrowserslist: ['last 2 version']}),
+            cssnano(),
+        ]))
         .pipe(sourcemaps.write('.'))
-        .pipe(gulp.dest('assets/built/'))
-        .pipe(livereload());
-});
+        .pipe(dest('assets/built/'))
+        .pipe(livereload())
+};
 
-gulp.task('build', gulp.series('css'), function (/* cb */) {
-    return nodemonServerInit();
-});
-
-gulp.task('watch', function () {
-    gulp.watch('assets/css/**', ['css']);
-});
-
-gulp.task('default'), gulp.series('build'), function() {
-    gulp.start('watch');
-}
+function swallowError(error) {
+    gutil.log(error.toString())
+    gutil.beep()
+    this.emit('end')
+};
+exports.default = series(parallel(cssTask, jsTask), watchTask);
