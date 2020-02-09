@@ -564,7 +564,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
         margin-bottom: 1.5em;
         font-size: 1.7rem;
         line-height: 1.5em;
-}
+    }
 }
 
 .home-template .site-header:after {
@@ -626,8 +626,17 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-title {
-    margin: 0;
+    margin: 0 0 0.25em;
     color: color(var(--darkgrey) l(-5%));
+}
+
+.post-full-custom-excerpt {
+    margin: 20px 0 0;
+    color: var(--midgrey);
+    font-family: Georgia, serif;
+    font-size: 2.3rem;
+    line-height: 1.4em;
+    font-weight: 300;
 }
 
 .date-divider {
