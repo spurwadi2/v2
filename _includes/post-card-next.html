@@ -8,22 +8,23 @@
         <div class="post-card-content">
             <a class="post-card-content-link" href="{{ site.baseurl }}{{ page.next.url | remove_first: '/' }}">
                 <header class="post-card-header">
-                <span class="post-card-reading-time">
-                {% for content in page.next.content %}
-                    {% assign readtime = content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
-                        {% if readtime > 1 and readtime < 1.5 %}1 min read{% endif %}
-                        {% if readtime > 1.5 %}{{ readtime | round }} min read {% if readtime > 5.9 %}★{% endif %}{% endif %}
-                        {% if readtime < 1 %}Less than 1 min read{% endif %}
-                    {% endfor %}
-                    </span>
-
+                    {% if page.next.tags.size > 0 %}
+                        {% for tag in page.next.tags %}
+                            {% if forloop.index == page.next.tags.size %}
+                                <span class="post-card-tags">{{ tag | capitalize }}</span>
+                            {% else %}
+                                <span class="post-card-tags">{{ tag | capitalize }}</span>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
                     <h2 class="post-card-title">{{ page.next.title }}</h2>
                 </header>
+
                 <section class="post-card-excerpt">
                     {% if page.next.summary %}
-                        <p>{{ page.next.summary | truncatewords: 33, "" }}</p>
+                        <p>{{ page.next.summary | truncatewords: 31, "" }}</p>
                     {% else %}
-                        <p>{{ page.next.content | markdownify | strip_html | truncatewords: 33, "" }}</p>
+                        <p>{{ page.next.content | markdownify | strip_html | truncatewords: 31, "" }}</p>
                     {% endif %}
                 </section>
             </a>
@@ -34,19 +35,18 @@
                         <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ author[1].name }}" />
                         {% endif %}
                         <span class="post-card-author">
-                            <a href="{{ site.baseurl }}author/{{ page.next.author }}/">{{ author[1].name }}</a> on
-                            {% if page.next.tags.size > 0 %}
-                            {% for tag in page.next.tags %}
-                            {% if forloop.index == page.next.tags.size %}
-                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}" data-toggle="tooltip" title="Other posts from the {{ tag }} category">{{ tag | capitalize }}</a>
-                            {% else %}
-                            <a href="{{ site.url }}{{ site.baseurl }}{{ tag }}" data-toggle="tooltip" title="Other posts from the {{ tag }} category">{{ tag | capitalize }}</a>
-                            {% endif %}
-                            {% endfor %}
-                            {% endif %}
+                            <a href="{{ site.baseurl }}author/{{ page.next.author }}/">{{ author[1].name }}</a>
                         </span>
                     {% endif %}
                 {% endfor %}
+                <span class="post-card-reading-time">
+                    {% for content in page.next.content %}
+                    {% assign readtime = content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
+                        {% if readtime > 1 and readtime < 1.5 %}1 min read{% endif %}
+                        {% if readtime > 5.9 %}★{% endif %} {% if readtime > 1.5 %}{{ readtime | round }} min read{% endif %}
+                        {% if readtime < 1 %}< 1 min read{% endif %}
+                    {% endfor %}
+                </span>
             </footer>
         </div>
     </article>
