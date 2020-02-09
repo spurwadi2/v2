@@ -452,11 +452,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin-bottom: 4px;
     color: var(--blue);
-    font-size: 1.15rem;
+    font-size: 1.16rem;
     line-height: 1.15em;
     font-weight: 500;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .post-card-reading-time {

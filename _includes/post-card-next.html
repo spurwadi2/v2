@@ -8,15 +8,12 @@
         <div class="post-card-content">
             <a class="post-card-content-link" href="{{ site.baseurl }}{{ page.next.url | remove_first: '/' }}">
                 <header class="post-card-header">
-                    {% if page.next.tags.size > 0 %}
-                        {% for tag in page.next.tags %}
-                            {% if forloop.index == page.next.tags.size %}
-                                <span class="post-card-tags">{{ tag | capitalize }}</span>
-                            {% else %}
-                                <span class="post-card-tags">{{ tag | capitalize }}</span>
-                            {% endif %}
-                        {% endfor %}
+                    {% for tag in site.data.tags %}
+                    {% if page.next.tags contains tag[1].name %}
+    	            {% assign page_next_tag_title = tag[1].title %}
+                        <span class="post-card-tags">{{ page_next_tag_title }}</span>
                     {% endif %}
+                    {% endfor %}
                     <h2 class="post-card-title">{{ page.next.title }}</h2>
                 </header>
 
