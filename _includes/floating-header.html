@@ -8,7 +8,7 @@
         </a>
     </div>
     <span class="floating-header-divider">&ndash;</span>
-    <div class="floating-header-title">{{ tag_title }}</div>
+        {% for tag in site.data.tags %}{% if page.tags contains tag[1].name %}{% assign page_tag_title = tag[1].title %}<div class="floating-header-title">{{ page_tag_title }}</div>{% endif %}{% endfor %}
     <div class="floating-header-share">
         <div class="floating-header-share-label"><small>{% include reading-time.html %}</small></div>
         <a class="floating-header-share-tw" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}&amp;via={% if page.author %}{% for author in site.data.authors %}{% if author[1].username == page.author %}{% if author[1].twitter %}{{ author[1].twitter }}{% else %}{{ site.twitter }}{% endif %}{% endif %}{% endfor %}{% else %}{{ site.twitter }}{% endif %}&amp;related=S_Purwadi,Artcytech"

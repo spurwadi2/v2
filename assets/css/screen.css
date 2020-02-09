@@ -616,12 +616,16 @@ The first (most recent) post in the list is styled to be bigger than the others 
     justify-content: center;
     align-items: center;
     color: var(--midgrey);
-    font-size: 1.4rem;
-    font-weight: 600;
-    text-transform: uppercase;
+    font-size: 1.55rem;
+    font-weight: 700;
+    text-decoration: none;
 }
 
 .post-full-meta-date {
+    color: var(--blue);
+}
+
+.post-full-meta-tags {
     color: var(--blue);
 }
 

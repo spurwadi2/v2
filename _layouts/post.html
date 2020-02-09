@@ -27,21 +27,14 @@ into the {body} of the default.hbs template -->
                 <h1 class="post-full-title" itemprop="name">{{ page.title }}</h1>
                 <section class="post-full-meta">
                     <time class="post-full-meta-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date:'%a, %e %b %Y' }}</time>
-                    {% if page.tags.size > 0 %}
-                        <span class="date-divider">∙</span>
-                        {% for tag in page.tags %}
-                            {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}' itemprop='keywords' data-toggle='tooltip' title='Other posts from the {{ tag }} category'>{{ tag | upcase }}</a>
-                            {% else %}
-                               <a href='{{ site.baseurl }}{{ tag | downcase | replace: ' ', '-' }}' itemprop='keywords' data-toggle='tooltip' title='Other posts from the {{ tag }} category'>{{ tag | upcase }}</a>,
-                            {% endif %}
-                        {% endfor %}
+                    <span class="date-divider">∙</span>
+                    {% for tag in site.data.tags %}
+                    {% if page.tags contains tag[1].name %}
+                    {% assign page_tag_title = tag[1].title %}
+                    {% assign page_tag_name = tag[1].name %}
+                    <a class='post-full-meta-tags' href='{{ site.baseurl }}{{ page_tag_name }}' itemprop='keywords' data-toggle='tooltip' title='Other posts from this topic'>{{ page_tag_title }}</a>
                     {% endif %}
-                    <!-- Reading time section -->
-                    {% assign readtime = content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
-                        <span class="date-divider">∙</span>{% if readtime > 1 and readtime < 1.5 %}1 min read{% endif %}
-                        {% if readtime > 1.5 %}{{ readtime | round }} min read {% if readtime > 5.9 %}★{% endif %}{% endif %}
-                        {% if readtime < 1 %}Less than 1 min read{% endif %}
+                    {% endfor %}
                 </section>
             </header>
 
