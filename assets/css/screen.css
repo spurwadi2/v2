@@ -482,6 +482,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
+    color: var(--midgrey);
     font-family: Georgia, serif;
     text-align: justify;
 }
@@ -519,12 +520,14 @@ The first (most recent) post in the list is styled to be bigger than the others 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) {
         flex: 1 1 100%;
         flex-direction: row;
+        min-height: 280px;
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image-link {
         position: relative;
         flex: 1 1 auto;
         border-radius: 5px 0 0 5px;
+        min-height: 380px;
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image {
@@ -535,6 +538,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-content {
         flex: 0 1 357px;
+        justify-content: center;
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) h2 {
@@ -553,6 +557,12 @@ The first (most recent) post in the list is styled to be bigger than the others 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-meta {
         padding: 0 40px 30px;
     }
+
+    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-excerpt p {
+        margin-bottom: 1.5em;
+        font-size: 1.7rem;
+        line-height: 1.5em;
+}
 }
 
 .home-template .site-header:after {
@@ -1236,8 +1246,8 @@ Usage (In Ghost editor):
 
 .author-card .author-profile-image {
     margin-right: 15px;
-    width: 60px;
-    height: 60px;
+    width: 68px;
+    height: 68px;
 }
 
 .author-card-name {
@@ -1432,7 +1442,17 @@ Usage (In Ghost editor):
 }
 
 .read-next-card-footer a {
-    color: #fff;
+    padding: 7px 12px 8px 14px;
+    color: var(--whitegrey);
+    border: color(var(--whitegrey)) 1px solid;
+    border-radius: 999px;
+    font-size: 1.3rem;
+}
+
+.read-next-card-footer a:hover {
+    border-color: var(--blue);
+    color: var(--blue);
+    text-decoration: none;
 }
 
 
