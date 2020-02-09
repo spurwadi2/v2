@@ -1,11 +1,14 @@
 academic:
-  title: Permanent Head Damage (PhD)
+  title: The Academic Rollercoaster
   description: False
   cover: False
+advice:
+  title: Advice for 20-Somethings
+  description: What you wish you’d known when you were in your 20s
 android:
   name: android
-  title: Android Invasion
-  description: Are you smarter than your phone?
+  title: Yeet! Android!
+  description: Everything to do with our favorite little green robot
   cover: assets/images/android-invasion.jpg
 coding:
   name: coding
@@ -15,7 +18,7 @@ coding:
 cogito:
   name: cogito
   title: Cogito Ergo Cool
-  description: (⌐■_■) <br/>Yes I'm cool<br> 
+  description: I think, therefore I am cool (⌐■_■)
   cover: assets/images/cogito.jpg
 data:
   title: Data Is Beautiful
@@ -27,73 +30,81 @@ design:
   cover: False
 edtech:
   name: edtech
-  title: Educational Technology
+  title: The Future of Learning
   description: Always feel like you're smart enough to do things, but never smart enough to stop learning
-  cover: assets/images/edtech.jpg
+  cover: assets/images/future-edtech.jpg
 financial:
   name: financial
   title: Making of a Millionaire 💰
   description: Publishing stories on all things related to personal finance and financial freedom
   cover: assets/images/financial-millennials.jpg
 futurist:
-  description: False
+  title: The Future Present
+  description: Stories of the Future Present
   cover: False
 gaming:
-  title:
-  description: False
+  title: Postmodern Gaming
+  description: PMG is amalgamation of interesting new Steam/PC releases, personal blog posts, Twitch and YouTube interests, general gaming news, and whatever else can be crammed in here.
   cover: False
 grooming:
-  title: Man's Grooming!
-  description:
+  title: The Y Chromosome
+  description: We believe nothing makes you more of a man than you already are. Nothing will make you more of a man than accepting who you.
   cover: False
 health:
-  description: False
+  title: Healthy Mind / Body / World
+  description: We Help You Build an Amazing Life
   cover: False
 history:
   name: history
   title: 🔥 Blast From The Past 🔥
-  description: History do repeat itself..
+  description: History do repeat itself.. Those who cannot remember the past are condemned to repeat it.
   cover: assets/images/bftp.jpg
 hobbies:
   name: hobbies
-  title: Everybody Needs a Hobby! 🎸
-  description: Topics that related to hobbies, interests, sports, recreation, etc.
-  cover: assets/images/hobbies.jpg
+  title: The Enthusiast 🎸
+  description: Topics that related to hobbies, interests, sports, traveling, food, cat etc.
+  cover: assets/images/sgt-cover.jpg
 how-tos:
-  description: Do something, do something to that, and then do something to that
+  title: Better Ways To
+  description: Teaches you better ways to do things, so then you learn too!
   cover: False
+invest:
+  title: Investment Insecurities
+  description: Investment Advice For The Insecure
 islam:
   name: islam
   title: Deen Al-Islam
-  description: Islam isn't a hard religion, people make it hard. <br/>Islam is a light religion, but should not be taken lightly.
+  description: Islam isn't a hard religion, people make it hard. Islam is a light religion, but should not be taken lightly.
   cover: assets/images/islam.jpg
 komodos:
   name: komodos
-  title: Wkwk Land.. 🇮🇩
-  description: Show your “Wkwk Land” pride!
+  title: Indonesia Mooië 🇮🇩
+  description: Ah, the 'Spice Island' that Columbus was looking for..
   cover: assets/images/comodo-dragon.jpg
 linux:
-  description: False
+  title: Linux++
+  description: An article that dives into the topics, events, and headlines throughout the GNU/Linux and open-source world as well as highlighting the passionate community that surrounds it.
   cover: False
 millennials:
   name: millennials
   title: Millennials Rising
-  description: The Next Great Generation
+  description: Instead to judge, why not start to listen to us and read what we got to tell, what bothers us and what success in our eyes looks like? Here’s your chance!
   cover: assets/images/millennials.png
 pcmasterrace:
   description: False
   cover: False
 personal:
   name: personal
-  title: Personal Stories
+  title: Personal Scribblings
   description: Everyone is necessarily the hero of his own life story
   cover: assets/images/personal-story.jpg
 politics:
+  title: Election Reflections
   description: False
   cover: False
 random:
-  title: Random Thoughts
-  description: False
+  title: Happily Sleep-Deprived
+  description: A personal diary to journal memories, random thought, and aspirations.
   cover: False
 relationshit:
   name: relationshit
@@ -119,9 +130,14 @@ speeches:
 technologeek:
   description: Technology is a useful servant but a dangerous master.
   cover: assets/images/artcytech.jpg
+to-myself:
+  name: to-myself
+  title: Letters to Myself
+  description: Letters to a younger you, letters to an older self, explore the possibilities of writing to yourself. 
+  cover: assets/images/letters-to-myself.jpg
 webmaster:
   name: webmaster
-  title: Web Mastery
+  title: The Webmaster Diaries
   description: We are all apprentices in a craft where no one ever becomes a master
   cover: assets/images/gandalf-webmaster.jpg
 windows:
