@@ -5,9 +5,10 @@ cover:  assets/images/podcast-phone.jpg
 navigation: True
 title: Mencari Hiburan Baru Melalui Podcast
 description: Bila kalian merasa bosan dengan bentuk hiburan yang itu-itu saja, mungkin sudah saatnya kalian mencoba untuk mendengarkan podcast!
-tags: [millennials]
-class: post-template
-subclass: 'post tag-millennials'
+summary: Dengan variasi kanal yang beragam, tipe pembawa acara yang berbeda-beda serta topik yang bisa disesuaikan dengan kebutuhan kalian, podcast sebenarnya bisa dijadikan sebagai alternatif lain dalam memilih jenis hiburan.
+tags: [hobbies]
+class: tag-hobbies
+subclass: 'post tag-hobbies'
 author: sigit
 comments: true
 ---
@@ -22,7 +23,7 @@ Sedangkan di luar negeri seperti Amerika, Inggris, atau Australia, istilah ini s
 
 Terkadang waktu kita tidak banyak untuk membaca buku, *podcast* inilah yang dapat menjadi salah satu solusi agar tetap *up to date* dengan informasi dan ilmu-ilmu baru.
 
-Dengan variasi kanal yang beragam, tipe pembawa acara yang berbeda-beda, serta topik yang yang bisa disesuaikan dengan kebutuhan kalian, *podcast* sebenarnya bisa dijadikan sebagai alternatif lain dalam memilih jenis hiburan.
+Dengan variasi kanal yang beragam, tipe pembawa acara yang berbeda-beda serta topik yang bisa disesuaikan dengan kebutuhan kalian, *podcast* sebenarnya bisa dijadikan sebagai alternatif lain dalam memilih jenis hiburan.
 
 ##### Apa Itu Podcast?
 

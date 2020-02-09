@@ -4,11 +4,11 @@ current: post
 cover:  assets/images/mens-skincare.jpg
 navigation: True
 title: Cowok Juga Butuh!
-description: Deskripsi singkat untuk opengraph
-summary: Cowok itu bukan hanya harus peduli pada penampilan, tetapi juga pada kesehatan dan kebersihan diri termasuk pada bagian kulit dan wajah. Lalu apa jadinya kalo semua kebiasaan yang dilakukan para cewek itu dilakukan sama cowok?
-tags: [personal]
-class: post-template
-subclass: 'post tag-personal'
+description: Duh, skincare tuh bukannya kayak make up gitu yah buat cewek? Ogah ah ntar gw jadi kayak cewek kalau pake gituan..
+summary: Duh, skincare tuh bukannya kayak make up gitu yah buat cewek? Ogah ah ntar gw jadi kayak cewek kalau pake gituan..
+tags: [grooming]
+class: tag-grooming
+subclass: 'post tag-grooming'
 author: sigit
 comments: true
 mathjax:

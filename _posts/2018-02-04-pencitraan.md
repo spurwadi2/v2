@@ -6,9 +6,9 @@ navigation: True
 title: Halah.. Pencitraan!
 description: Do we need more time or do we need more disciplined with the time we have?
 summary: Apakah waktu yang berjalan begitu cepat atau memang kondisi kita yang belum bisa menyadari untuk bisa memanfaatkan waktu yang ada dengan lebih baik?
-tags: [self-discovery]
-class: post-template
-subclass: 'post tag-self-discovery'
+tags: [personal]
+class: tag-personal
+subclass: 'post tag-personal'
 author: sigit
 comments: true
 mathjax:

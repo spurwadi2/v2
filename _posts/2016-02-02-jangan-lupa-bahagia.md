@@ -3,10 +3,12 @@ layout: post
 current: post
 cover:  assets/images/asalkan-kau-bahagia.jpg
 navigation: True
-title: Jangan lupa bahagia ya..
-tags: [personal]
-class: post-template
-subclass: 'post tag-personal'
+title: Jangan lupa bahagia yaa..
+description: Mungkin ini pesan kuat yang selama ini saya pribadi coba gaungkan dalam tulisan-tulisan sederhana di blog ini. Pesan yang lebih banyak memang untuk mengingatkan diri sendiri. 
+summary: Mungkin ini pesan kuat yang selama ini saya pribadi coba gaungkan dalam tulisan-tulisan sederhana di blog ini. Pesan yang lebih banyak memang untuk mengingatkan diri sendiri.
+tags: [to-myself]
+class: tag-to-myself
+subclass: 'post tag-to-myself'
 author: sigit
 comments: true
 mathjax:
