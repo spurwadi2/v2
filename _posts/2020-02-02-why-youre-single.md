@@ -7,7 +7,7 @@ title: The Economics of Why You're Single
 description: So you’re single at the moment. You think you’re a good person, with good qualities, but here you are, without anyone to hold tight at night. 😔
 summary: So you’re single at the moment. You think you’re a good person, with good qualities, but here you are, without anyone to hold tight at night. 😔
 tags: [relationshit]
-class: post-template
+class: 'tag-relationshit'
 subclass: 'post tag-relationshit'
 author: sigit
 comments: true
