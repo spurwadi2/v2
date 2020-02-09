@@ -451,23 +451,25 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .post-card-tags {
     display: block;
     margin-bottom: 4px;
-    color: var(--midgrey);
-    font-size: 1.2rem;
-    line-height: 1.15em;
-    font-weight: 500;
-    letter-spacing: 0.5px;
-    /* text-transform: uppercase; */
-}
-
-.post-card-reading-time {
-    display: block;
-    margin-bottom: 4px;
-    color: var(--midgrey);
+    color: var(--blue);
     font-size: 1.15rem;
     line-height: 1.15em;
     font-weight: 500;
     letter-spacing: 0.5px;
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
+}
+
+.post-card-reading-time {
+    font-size: 1.15rem;
+    font-weight: 500;
+    line-height: 33px;
+    flex-shrink: 0;
+    margin-left: 20px;
+    letter-spacing: .5px;
+    /*text-transform: uppercase;*/
+    float: right;
+    margin-top: -4px;
+    color: var(--midgrey);
 }
 
 .post-card-title {
