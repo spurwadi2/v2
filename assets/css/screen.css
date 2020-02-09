@@ -1466,7 +1466,7 @@ Usage (In Ghost editor):
     margin: 0 0 0 20px;
     font-size: 1.6rem;
     line-height: 1em;
-    letter-spacing: -1px;
+    /*letter-spacing: -1px;*/
     text-overflow: ellipsis;
     white-space: nowrap;
 }
