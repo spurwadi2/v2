@@ -1,6 +1,8 @@
+{% assign site_tags = site.tags | sort %}
 {% assign count = 0 %}
+{% for site_tag in site_tags %}
 {% for tag in site.data.tags %}
-{% if tag[1].name %}
+{% if tag[1].name == site_tag[0] %}
 
 <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
 
@@ -15,10 +17,12 @@
 		</header>
 	</div>
 	<section class="post-card-excerpt">
-		<p align="center">{% if tag[1].description %}{{ tag[1].description }}{% else %}Collection of 1 post{% endif %}</p>
+		<p align="center">{% if tag[1].description %}{{ tag[1].description }}{% else %}Collection of {{ site_tag | last | size }} post{% endif %}</p>
 	</section>
+	<!-- For collection post count <span class="post-card-reading-time">Collection of {{ site_tag | last | size }} post</span> -->
 </a>
 </article>
 
 {% endif %}
+{% endfor %}
 {% endfor %}
