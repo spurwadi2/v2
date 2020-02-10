@@ -66,8 +66,9 @@ language        : 'en-uk'
 
 # Permalinks
 permalink       : :title
+# permalink     : :topic # Topics' info in `_data/topics.yml`
 # permalink     : /author/:author # Authors' info in `_data/authors.yml`
-# permalink     : /topic/:tag # Tags' info in `_data/tags_info.yml`
+# permalink     : /topic/:tag # Tags' info in `_data/tags.yml`
 
 # Gemfiles and other config
 plugins         : [jekyll-paginate, jekyll-feed, jekyll-mentions, jekyll-linkpreview]
