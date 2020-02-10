@@ -6,9 +6,9 @@ navigation: True
 title: Cowok Juga Butuh!
 description: Duh, skincare tuh bukannya kayak make up gitu yah buat cewek? Ogah ah ntar gw jadi kayak cewek kalau pake gituan..
 summary: Duh, skincare tuh bukannya kayak make up gitu yah buat cewek? Ogah ah ntar gw jadi kayak cewek kalau pake gituan..
-tags: [grooming]
-class: tag-grooming
-subclass: 'post tag-grooming'
+tags: [mensplainr]
+class: tag-mensplainr
+subclass: 'post tag-mensplainr'
 author: sigit
 comments: true
 mathjax:
