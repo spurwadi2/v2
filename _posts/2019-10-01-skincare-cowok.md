@@ -7,7 +7,7 @@ title: Cowok Juga Butuh!
 description: Konsep skincare hampir tidak ada dalam kamus kehidupan bagi pria. Pembawaaan yang malesan, bodo amat dan gengsi menjadi alasan utama mereka untuk tidak menggunakannya.
 summary: Konsep skincare hampir tidak ada dalam kamus kehidupan bagi pria. Pembawaaan yang malesan, bodo amat dan gengsi menjadi alasan utama mereka untuk tidak menggunakannya.
 tags: [mensplainr]
-class: tag-mensplainr
+class: post-template
 subclass: 'post tag-mensplainr'
 author: sigit
 comments: true
@@ -117,10 +117,10 @@ Facial wash               :   Rp 30.000,00
 Toner                     :   Rp 13.000,00
 Sunscreen                 :   Rp 60.000,00
                               -------------- +
-Total                     :  Rp 212.000,00
+Total                     :  Rp 103.000,00
 ```
  
-Kalau ditotal, kamu hanya perlu merogoh kocek sebesar Rp 210 ribu saja kok untuk membeli produk perawatan wajah.
+Kalau ditotal, kamu hanya perlu merogoh kocek kurang lebih sebesar 100 ribu-an saja kok untuk membeli produk perawatan wajah.
 
 Satu lagi, jangan pernah terpatok brand tertentu ya. Sekarang sudah banyak sekali pilihan produk perawatan wajah yang ramah di kantong dan banyak dijual di pasaran.
 

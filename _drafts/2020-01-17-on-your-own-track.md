@@ -9,7 +9,7 @@ summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik
 date: 2009-01-01 00:00:00
 modified: 2009-01-02 00:00:00
 tags: [persona]
-class: 'tag-persona'
+class: post-template
 subclass: 'post tag-persona'
 author: sigit
 comments: true

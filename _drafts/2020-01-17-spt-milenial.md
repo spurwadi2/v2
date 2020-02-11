@@ -9,7 +9,7 @@ summary: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab,
 date: 2009-01-01 00:00:00
 modified: 2009-01-02 00:00:00
 tags: [millennials]
-class: tag-millennials
+class: post-template
 subclass: 'post tag-millennials'
 author: sigit
 comments: true
