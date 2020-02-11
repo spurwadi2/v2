@@ -3,20 +3,20 @@ layout: post
 current: post
 cover:  assets/images/hello-world.png
 navigation: True
-title: Running on your own track
-description: 
-summary: 
-tags: [draft]
-class: post-template
-subclass: 'post tag-draft'
+title: Running On Your Own Track
+description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
+summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+date: 2009-01-01 00:00:00
+modified: 2009-01-02 00:00:00
+tags: [persona]
+class: 'tag-persona'
+subclass: 'post tag-persona'
 author: sigit
 comments: true
 mathjax:
 ---
 
-Belakangan ini, saya merasakan banyak sekali perubahan drastis dalam kehidupan orang – orang di sekitar saya.
-
-Hal tersebut secara tidak langsung juga mempengaruhi kehidupan dan menjadi bahan renungan saya.
+Belakangan ini, saya merasakan banyak sekali perubahan drastis dalam kehidupan orang-orang di sekitar saya. Hal tersebut secara tidak langsung juga mempengaruhi kehidupan dan menjadi bahan renungan saya akhir-akhir ini.
 
 Misalnya, mulai banyak yang menikah dan bahkan sudah banyak yang punya anak. Mungkin kalo dihitung- hitung lagi, sahabat SD, SMP, dan SMA hampir 75% sudah berkeluarga. Bahkan kalo dihitung lagi, teman kuliah sudah banyak yang menikah either itu perempuan atau laki-laki.
 

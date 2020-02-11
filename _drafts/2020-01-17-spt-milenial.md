@@ -4,12 +4,12 @@ current: post
 cover:  assets/images/hello-world.png
 navigation: True
 title: Membuat Laporan SPT untuk Milenial
-description: Deskripsi singkat untuk meta tag dan OpenGraph
-summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+description: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!
+summary: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!
 date: 2009-01-01 00:00:00
 modified: 2009-01-02 00:00:00
 tags: [millennials]
-class: post-template
+class: tag-millennials
 subclass: 'post tag-millennials'
 author: sigit
 comments: true
@@ -22,9 +22,7 @@ Ada sebagian dari kita yang beranggapan bahwa udah bayar pajak aja syukur, mbok 
 
 Meskipun melaporkan SPT adalah suatu PR bagi para pekerja, tetapi dengan sedikit kontribusi ini kita membantu mencegah korupsi. Kita bisa meminimalisasi celah korupsi yang mungkin akan timbul dengan perbedaan jumlah yang dibayarkan dan yang dilaporkan.
 
-Coba aja bayangkan berapa jumlah pajak yang kamu bayarkan dan ada ribuan anak muda yang tidak melaporkannya.
-
-Artinya, ada triliunan yang bisa digelapkan oleh pihak-pihak tertentu. Jadi, bersabarlah dalam mengisi SPT!
+Coba aja bayangkan berapa jumlah pajak yang kamu bayarkan dan ada ribuan anak muda yang tidak melaporkannya. Artinya, ada triliunan yang bisa digelapkan oleh pihak-pihak tertentu. Jadi, bersabarlah dalam mengisi SPT.
 
 Millennial yang sangat terkenal dengan kutu loncat antar satu perusahaan ke perusahaan lainnya, bahkan kurang dalam kurun 1 tahun.
 

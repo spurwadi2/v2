@@ -14,9 +14,7 @@ comments: true
 mathjax:
 ---
 
-Terkadang sekadar memberi nama pada sesuatu bisa menjadi sulit.
-
-Penamaan yang baik tentu memudahkan kita dan orang lain dalam memanfaatkannya.
+Terkadang untuk sekadar memberi nama pada sesuatu bisa menjadi sedikit sulit. Penamaan yang baik tentu memudahkan kita dan orang lain dalam memanfaatkannya.
 
 Misalnya ketika orang tua memberikan nama kepada anaknya, harapannya adalah si anak kelak menjadi orang yang diharapkan oleh orang tuanya.
 
