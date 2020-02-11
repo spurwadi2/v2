@@ -5,7 +5,7 @@ CNAME           : blog.purwadi.web.id
 
 title           : Sigit Purwadi's Blog
 description     : You're Nobody Until You're Talked About
-version         : v2.1
+version         : 2.4.0
 cover           : assets/images/blog-cover.webp
 #logo           : assets/images/logo/blog-logos.png
 logo_white      : assets/images/icons/icon-white.svg
@@ -125,7 +125,7 @@ exclude         :
                 - "*.Rmd"
                 - .git*
                 - Gruntfile.js
-                - .jekyll-cache # For jekyll v.4.0 update
+                #- .jekyll-cache # For jekyll v.4.0 update
                 - assets/uncompress
                 - .bak
                 - assets/.temp

@@ -98,7 +98,7 @@ function guetzliTask() {
 function watchTask() {
     livereload.listen();
     watch('assets/css/*.css', (cssTask));
-    watch('assets/js/*.js', (jsTask));
+    //watch('assets/js/*.js', (jsTask));
     //watch('assets/uncompress/*.jpg', series(guetzliTask, mozjpegTask, cleanTemp, watchTask));
 };
 
@@ -134,6 +134,7 @@ function swallowError(error) {
 
 
 // gulp main task list
+exports.css = series(cssTask)
 exports.webp = series(webp); // convert all image to webp
 exports.imagemin = series(parallel(giflossyTask, guetzliTask), mozjpegTask); // compress images
-exports.default = series(parallel(cssTask, jsTask), watchTask);
+exports.default = series(cssTask, watchTask);

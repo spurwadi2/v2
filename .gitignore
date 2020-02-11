@@ -7,7 +7,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 # For jekyll v.4.0 update
-.jekyll-cache 
+#.jekyll-cache 
 
 # Site build
 *.gem

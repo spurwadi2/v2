@@ -28,9 +28,6 @@
   },
   "scripts": {
     "build": "gulp"
-    "imagemin": "gulp imagemin"
-    "clean": "gulp clean"
-    "webp": "gulp webp"
   },
   "repository": {
     "type": "git",
