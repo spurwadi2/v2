@@ -14,7 +14,7 @@ comments: true
 mathjax:
 ---
 
-Kalian semua pasti setuju kalo merawat tubuh setiap hari adalah bagian kecil dari menjaga kesehatan raga.
+Kalian semua pasti setuju kalo merawat tubuh setiap hari adalah bagian kecil dari menjaga kesehatan diri.
 
 Selain menjaga kesehatan dari dalam tubuh melalui makanan, nutrisi, atau vitamin yang kita konsumsi, perlindungan dari luar seperti menjaga kebersihan tubuh setiap hari juga mutlak diperlukan.
 
@@ -30,13 +30,17 @@ Kalo pembicaraan perskinkeran ini dilakukan oleh cowok dengan pacarnya atau deng
 
 > Really? Bro?! Lu pake gituan. Macho dikit plis!
 
-Padahal beberapa hal (pekerjaan) saat ini mulai menuntut kita untuk tampil dengan penampilan yang bagus. Sebagian lain berpendapat, penampilan itu hanyalah bonus, tujuan utamanya tetaplah demi menjaga kesehatan kulit, terutama dari penyakit seperti ~~panu, kadas, kurab~~ kangker kulit.  Dan pada akhirnya, mau tidak mau kalian tetap harus merawat diri, termasuk di area kulit wajah.
+Padahal beberapa hal (pekerjaan) saat ini mulai menuntut kita untuk tampil dengan penampilan yang bagus.
+
+Sebagian orang berpendapat, penampilan itu hanyalah bonus, tujuan utamanya tetaplah demi menjaga kesehatan kulit, terutama dari penyakit seperti ~~panu, kadas, kurap, kutil~~ kangker kulit.  Dan pada akhirnya, mau tidak mau kalian tetap harus merawat diri, termasuk di area kulit wajah.
 
 <center>•   •   •</center>
 
 Kali ini saya akan coba membahas tips perawatan muka yang simpel buat cowok. Bukan hanya untuk kalian yang membaca ini, tetapi sebenarnya juga untuk diri saya pribadi.
 
-Tulisan ini terinspirasi dari postingan sosial media, beberapa website, juga hasil observasi saya terhadap teman-teman dan kepo di berbagai forum internet. Sedikit bocoran tenang hasil observasi ini, di luar yang saya kira, ternyata makin ke sini makin banyak orang (cowok) yang akhirnya peduli dengan perawatan tubuh mereka, termasuk saya!
+Tulisan ini terinspirasi dari postingan sosial media, beberapa website, juga hasil observasi saya terhadap teman-teman dan kepo di berbagai forum internet.
+
+Sedikit bocoran tentang hasil observasi ini, di luar perkiraan saya, ternyata makin ke sini makin banyak orang (cowok) yang akhirnya peduli dengan perawatan tubuh mereka, termasuk saya!
 
 Sejujurnya saya pun baru pertama kali terjun ke dunia perskinkeran ini dan memang tidak pernah memakai produk apapun sebelumnya, kecuali sabun wajah biasa yang rutin saya pakai setelah beraktifitas, tentu tidak termasuk parfum dan deodorant.
 
@@ -50,11 +54,11 @@ Apa yang kalian pikirkan setelah mendengar istilah *skincare*?
 
 Kalau kalian punya pemikiran seperti itu, berarti kalian butuh banget baca tulisan ini..
 
-*Skincare* merupakan perlengkapan personal care yang fungsinya untuk merawat dan menjaga kesehatan kulit. Berbeda dengan *make up* yang fungsi utamanya untuk memperindah penampilan wajah dan tubuh secara keseluruhan.
+*Skincare* merupakan perlengkapan *personal care* yang bertujuan untuk merawat dan menjaga kesehatan kulit. Berbeda dengan *make up* yang fungsi utamanya untuk memperindah penampilan wajah dan tubuh secara keseluruhan.
 
 *Skincare* itu *genderless*, ga ada istilah hanya untuk cewek atau hanya untuk cowok saja. Dari namanya saja skin-care, bukan skin-white. Jadi jangan terlalu berharap dulu kalo skinkeran itu bisa bikin kulit kalian putih. Kita fokus saya pada perawatan untuk menjaga kesehatannya.
 
-*Men's grooming* dan *skincare* sebenarnya punya hubungan relasi yang kuat. Skincare adalah salah satu bagian dari men's grooming.
+*Men's grooming* dan *skincare* sebenarnya punya hubungan relasi yang kuat. Skincare adalah salah satu bagian dari *men's grooming*.
 
 #### Kulit Pria vs Kulit Wanita
 
@@ -71,34 +75,34 @@ Makanya skincare untuk pria selalu lebih "keras" daripada skincare wanita. Sedan
 
 Kerapatan kolagen (komponen jaringan ikat yang menjaga elastisitas kulit) pria lebih rapat dibanding kulit wanita. Itulah sebabnya dikatakan bahwa kulit wanita lebih cepat menua daripada pria, bahkan bisa saja seorang wanita punya kulit 15 kali lebih tua daripada pria dengan umur yang sama. Namun paparan sinar UV juga bisa menyebabkan penuaan dini pada kulit pria. [^1]
 
-Kulit pria lebih lembab daripada wanita karena keringat pria lebih asam (memiliki pH yang lebih rendah) akibat lebih banyaknya kandungan asam laktat. Asam laktat ini bersifat *humectant* yang menghidrasi kulit.
+Kulit pria juga lebih lembab daripada wanita karena keringat pria lebih asam (memiliki pH yang lebih rendah) akibat lebih banyaknya kandungan asam laktat. Asam laktat ini bersifat *humectant* yang menghidrasi kulit.
 
 Pria juga punya 5 jenis kulit:
 * Normal jika tidak terlalu kering/berminyak, pori-pori tidak terlalu kelihatan, tidak sensitif. 
 * Berminyak, jika pori-pori besar & kulit selalu mengkilap. Mudah timbul komedo & jerawat. Hampir semua cowok punya kulit berminyak selama pubertas.
 * Kering jika kulit terasa kasar, ada bagian yang flaky (seperti retak), dan mengelupas. Kulit kering harus hati-hati dalam memilih facial wash, harus yang formulanya lembut. Kulit kering sifatnya kurang elastis & rawan penuaan dini.
-* Kombinasi, biasanya kulit terasa kering di pipi tapi berminyak di bagian T-zone (jidat, hidung, dagu)
+* Kombinasi, biasanya kulit terasa kering di pipi tapi berminyak di bagian *T-zone* (jidat, hidung, dagu)
 * Sensitif, ini kulit yang paling rentan terkena gangguan. Salah pilih produk bisa membuat kulit alergi dan iritasi. Kemerahan, gatal, bengkak, ruam, kering yang ekstrim, dan beruntusan adalah masalah yang sering dialami pemilik kulit sensitif saat salah pakai produk.
 
-Penting sekali untuk mengetahui karakteristik kulit kalian untuk memilih produk yang tepat. Salah sedikit saja bisa membuat kulit kalian kering, makin berminyak, atau berjerawat.
+Jadi penting sekali untuk mengetahui karakteristik kulit kalian dalam memilih produk yang tepat. Salah sedikit saja bisa membuat kulit kalian kering, makin berminyak, atau berjerawat.
 
 #### Memilih Produk
 
-Berbeda dengan cewek yang memang tahu betul tentang seluk beluk per-skincare-an, cowok umumnya asal membeli tanpa memerhatikan apakah produk itu cocok untuk jenis kulit wajahnya?
+Berbeda dengan cewek yang memang tahu betul tentang seluk beluk per-skincare-an, cowok umumnya asal membeli tanpa memerhatikan apakah produk itu cocok untuk jenis kulit wajahnya.
 
 Padahal kalian gak bisa sembarang menggunakan skincare. Kalau salah memilih, yang ada justru semakin memperparah masalah kulit wajah kalian. Karena itu, kalian harus membeli produk perawatan wajah yang sesuai dengan kondisi kulit wajah, dan jenis wajah kalian.
 
 Skincare pria dan wanita sebenarnya memiliki bahan yang hampir sama, sehingga tidak ada yang salah jika kalian menggunakan skincare yang ditujukan untuk wanita.
 
-Perbedaan paling umum antara skincare pria dan wanita hanya satu, yaitu pada aroma atau pewangi yang digunakan. Sama seperti aroma parfum, skincare untuk pria cenderung ditambahkan wangi yang bersifat maskulin (misalnya musk atau wood).
+Perbedaan paling umum antara skincare pria dan wanita hanya satu, yaitu pada aroma atau pewangi yang digunakan. Sama seperti aroma parfum, skincare untuk pria cenderung ditambahkan wangi yang bersifat maskulin (misalnya *musk* atau *wood*).
 
-Untuk pemilihan produk skincare lebih baik difokuskan pada fungsi dan jenis peruntukan kulitnya.
+Kembali lagi saya tegaskan, untuk pemilihan produk skincare lebih baik difokuskan pada fungsi dan jenis peruntukan kulitnya.
 
 Misalnya, jika kondisi kulitmu sensitif dan berminyak, pilihlah produk skincare yang memang khusus untuk kulit sensitif dan berminyak. Kalau salah membeli dan diaplikasikan di wajah, jangan heran kalau kamu mengalami masalah wajah, salah satunya jerawat.
 
 Berbeda dengan wanita, pria juga hanya membeli produk perawatan wajah yang mereka butuhkan. Jadi, jangan harap kami para pria bakal menggunakan serangkaian skincare di pagi atau malam hari seperti wanita.
 
-**Berapa budget yang harus dipersiapkan?**
+###### Berapa budget yang harus dipersiapkan?
 
 Bicara soal bujet, sebenarnya gak sedikit pria yang akan memikirkan puluhan kali jika harus merogoh kocek banyak untuk membeli produk skincare.
 
@@ -126,7 +130,7 @@ Ingat! Murah bukan berarti murahan. Lagipula kalau ada produk perawatan wajah ya
 
 ##### 1. Cleansing
 
-Ada beberapa macam pembersih muka, ada yang berbentuk batangan (bar soap), cair, dan cream. Yang cream bisa berjenis facial wash, facial foam, atau facial scrub.
+Ada beberapa macam pembersih muka, ada yang berbentuk batangan (*bar soap*), cair, dan cream. Yang cream bisa berjenis facial wash, facial foam, atau facial scrub.
 
 Perlu diingat, jangan pernah melakukan ritual ini dengan sabun mandi (untuk tubuh). Pilihlah produk facial wash yang sesuai dengan tipe kulit.
 
@@ -170,7 +174,7 @@ Sinar UV B menyebabkan sunburn, awalnya terasa panas saja di kulit, kulit jadi k
 
 Yang lebih bahaya lagi adalah sinar UV A karena menyerap lebih dalam ke kulit, merusak sel-sel sehingga rentan terhadap penuaan dini & kanker kulit. Kulit yang kusam adalah tanda awal proses aging.
 
-Sinar UV juga bikin jerawat lebih sulit sembuh atau mudah meradang. Memang benar itu, makanya temen-temen saya yang berobat ke dokter untuk kasus jerawat selalu diberi resep sunscreen juga.
+Sinar UV juga bikin jerawat lebih sulit sembuh atau mudah meradang. Memang benar itu, makanya temen-temen saya (cewek) yang berobat ke dokter untuk kasus jerawat selalu diberi resep sunscreen juga.
 
 Untuk perlindungan maksimal, gunakan produk yang menawarkan perlindungan lama terhadap sinar UVA dan UVB juga minimal memiliki kandungan SPF 30.
 
@@ -200,7 +204,7 @@ Sejalan dengan minum air, banyaklah makanan yang mengandung vitamin A, B, C, dan
 
 Khusus buat kalian yang tinggal di daerah terik atau sinar mataharinya menyengat, ada satu skincare yang wajib kalian pakai.
 
-Pakailah skincare yang mengandung sunscreen pada wajah dan kulit tubuh yang lain untuk menahan pancaran sinar ultraviolet dari matahari.
+Lagi-lagi, pakailah skincare yang mengandung sunscreen pada wajah dan kulit tubuh yang lain untuk menahan pancaran sinar ultraviolet dari matahari.
 
 Kalau kalian malas pakai, kulit kalian bakal mudah kering dan mengelupas. Dalam jangka panjang bisa berbahaya juga untuk kesehatan kulit.
 
@@ -208,7 +212,7 @@ Jika pergi ke daerah pantai atau negara yang sedang mengalami musim panas, sunsc
 
 <center>•   •   •</center>
 
-Nah itulah pembahasan seputar dunia skincare pria secara umum serta tips merawat kulit yang benar buat lo..
+Nah itulah pembahasan seputar dunia skincare pria secara umum serta tips merawat kulit yang benar buat klean..
 
 Sekali lagi bro, hapuslah mindset bahwa perawatan tubuh dan kulit itu sesuatu yang gak manly, ribet, atau cuman untuk wanita.
 
