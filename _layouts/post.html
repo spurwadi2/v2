@@ -32,7 +32,7 @@ into the {body} of the default.hbs template -->
                     {% if page.tags contains tag[1].name %}
                     {% assign page_tag_title = tag[1].title %}
                     {% assign page_tag_name = tag[1].name %}
-                    <a class='post-full-meta-tags' href='{{ site.baseurl }}{{ page_tag_name }}' itemprop='keywords' data-toggle='tooltip' title='Other posts from this topic'>{{ page_tag_title }}</a>
+                    <a class='post-full-meta-tags' href='{{ site.baseurl }}topic/{{ page_tag_name }}/' itemprop='keywords' data-toggle='tooltip' title='Other posts from this topic'>{{ page_tag_title }}</a>
                     {% endif %}
                     {% endfor %}
                 </section>
@@ -134,9 +134,9 @@ into the {body} of the default.hbs template -->
                             {% if primary contains tag[1].name %}
                             {% assign tag_title = tag[1].title %}
                                 {% if tag[1].title %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}topic/{{ primary | downcase | replace: ' ', '-' }}/">{{ tag_title }}</a></h4>
                                 {% else %}
-                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalizeall }}</a></h4>
+                                    <h4 class="read-next-card-header-title"><a href="{{ site.baseurl }}topic/{{ primary | downcase | replace: ' ', '-' }}/">{{ primary | capitalizeall }}</a></h4>
                                 {% endif %}
                             {% endif %}
                             {% endfor %}
@@ -161,7 +161,7 @@ into the {body} of the default.hbs template -->
                             </ul>
                         </div>
                         <footer class="read-next-card-footer">
-                            <a href="{{ site.baseurl }}{{ primary | downcase | replace: ' ', '-' }}/">
+                            <a href="{{ site.baseurl }}topic/{{ primary | downcase | replace: ' ', '-' }}/">
                                 {% if related_posts > 1 %}
                                     See all {{ related_posts | minus: 1 }} posts  →
                                 {% elsif related_posts == 1 %}
