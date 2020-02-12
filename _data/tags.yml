@@ -7,6 +7,7 @@ advice:
   name: advice
   title: Advice for 20-Somethings
   description: What you wish you’d known when you were in your 20s
+  cover: False
 android:
   name: android
   title: Yeet! Android!
@@ -119,8 +120,8 @@ politics:
 random:
   name: random
   title: Happily Sleep-Deprived
-  description: A personal diary to journal memories, random thought, and aspirations.
-  cover: False
+  description: A safe haven for late night thoughts, journal memories, aspirations and stories among many other random things.
+  cover: assets/images/night-thoughts.webp
 relationshit:
   name: relationshit
   title: Relation<strike>ship</strike>shit!
@@ -131,8 +132,8 @@ review:
   title: Review
   description: False
   cover: False
-school-lyfe:
-  name: school-lyfe
+school:
+  name: school
   title: Memoirs of School
   description: Hating school when you are in it is normal but once you leave you will surely miss it then
   cover: assets/images/memoir-of-school.jpg
