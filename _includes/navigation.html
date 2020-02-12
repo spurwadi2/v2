@@ -1,8 +1,15 @@
 <ul class="nav" role="menu">
-    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}cogito/" title="Cogito Ergo Cool">Cogito</a></li>
-    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}edtech/" title="Educational Technology">Edtech</a></li>
-    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}komodos/" title="Wkwk Land..">Komodos</a></li>
-    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}millennials/" title="Millennials Rising">Millennials</a></li>
-	<li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}relationshit/" title="Relationshit!">Relationshit</a></li>
+    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}" title="Latest post">Home</a></li>
+    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}topics/" title="Explore Topics 💡">Topics💡</a></li>
+    <!-- sample:number for randomizing tags every build-->
+    {% assign site_tags = site.tags | sort | sample:100  %}
+    {% assign count = 0 %}
+    {% for site_tag in site_tags %}
+    {% for tag in site.data.tags %}
+    {% if tag[1].name == site_tag[0] %}
+    <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}{{ tag[1].name }}/" title="{{ tag[1].title }}">{{ tag[1].name }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
     <li class="nav-tags" role="menuitem"><a href="{{site.baseurl}}topics/" title="Explore more topics 💡">More..</a></li>
 </ul>
