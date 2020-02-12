@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/smansa-kebumen.jpg
 navigation: True
 title: Hal-hal yang (Sebenarnya) Tidak Penting Ketika Sekolah
-tags: [school-lyfe]
+tags: [school]
 class: post-template
-subclass: 'post tag-school-lyfe'
+subclass: 'post tag-school'
 author: sigit
 comments: true
 ---

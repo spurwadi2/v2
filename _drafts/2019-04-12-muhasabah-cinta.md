@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Muhasabah Cinta, Muhasabah Diri
 description: Cinta adalah tentang melupakan, mengabaikan, dan melepaskan hal-hal penting dan besar dari diri kita untuk mulai mementingkan, memperdulikan, dan memperjuangkan hal-hal kecil dari sesuatu atau seseorang yang dicintai.

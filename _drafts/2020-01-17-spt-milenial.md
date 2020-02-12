@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Membuat Laporan SPT untuk Milenial
 description: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!

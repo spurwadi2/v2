@@ -70,8 +70,8 @@ Menurut beberapa artikel mengenai kulit pria, kulit kita umumnya lebih tebal 25%
 
 Makanya skincare untuk pria selalu lebih "keras" daripada skincare wanita. Sedangkan bagi pria dengan kulit sensitif tidak harus memakai skincare pria, mereka bisa memakai skincare wanita karena formulanya lebih lembut.
 
-![Kulit badak](https://awsimages.detik.net.id/community/media/visual/2018/05/04/d91f60cd-d6c1-4304-8c4a-b28475b972c8_169.jpeg "Kulit badak")
-<small>Kulit badak ([detik.com](https://news.detik.com/internasional/d-4005256/3-badak-hitam-langka-dibunuh-di-kenya-culanya-hilang))</small>
+![Kulit badak](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ceratotherium_simum_kwh_2.jpg/1200px-Ceratotherium_simum_kwh_2.jpg#small "Kulit badak")
+<small>Kulit badak ([wiki: Badak](https://id.wikipedia.org/wiki/Badak))</small>
 
 Kerapatan kolagen (komponen jaringan ikat yang menjaga elastisitas kulit) pria lebih rapat dibanding kulit wanita. Itulah sebabnya dikatakan bahwa kulit wanita lebih cepat menua daripada pria, bahkan bisa saja seorang wanita punya kulit 15 kali lebih tua daripada pria dengan umur yang sama. Namun paparan sinar UV juga bisa menyebabkan penuaan dini pada kulit pria. [^1]
 

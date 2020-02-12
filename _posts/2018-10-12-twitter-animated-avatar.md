@@ -7,9 +7,9 @@ title: How To Animate (GIF) Your Twitter Avatar
 description: There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens, not changing your avatar for more than 5 years.
 summary: There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens; not changing your avatar for more than 5 years.
 modified: 2020-02-02 00:00:00
-tags: [webmaster]
+tags: [personal]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-personal'
 author: sigit
 comments: true
 mathjax:

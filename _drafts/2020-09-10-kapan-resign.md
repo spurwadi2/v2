@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Kapan Waktu Terbaik Untuk Resign?
 description: Berdasarkan pengalaman, berikut beberapa hal yang harus diperhatikan sebelum mengundurkan diri dari suatu pekerjaan.

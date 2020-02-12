@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/graduation.jpg
 navigation: True
 title: Apa yang Akan Kita Lakukan Setelah Lulus?
-tags: [school-lyfe]
+tags: [school]
 class: post-template
-subclass: 'post tag-school-lyfe'
+subclass: 'post tag-school'
 author: sigit
 comments: true
 mathjax:

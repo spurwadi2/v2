@@ -1,80 +1,33 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Untuk Kamu, Masa Depanku
-description: 
-summary: 
-tags: [self-discovery]
+description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
+summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+date: 2009-01-01 00:00:00
+modified: 2009-01-02 00:00:00
+tags: [draft]
 class: post-template
-subclass: 'post tag-self-discovery'
+subclass: 'post tag-draft'
 author: sigit
 comments: true
 mathjax:
 ---
 
-*Aku disini juga belajar kok..*
+Halo! Kita mungkin belum mengenal satu sama lain saat ini. Atau mungkin sudah, tapi waktu masih enggan menunjukkan tanda. Pada saat kamu membaca tulisan ini, aku yakin kamu sudah mengetahui bahwa aku tidak terbentuk dari sutra atau pun kapas. Aku bukan seorang perempuan yang selalu bisa menjaga sikap lembut seperti puteri raja. Tapi ketahuilah, kepada calon anak kita nanti, aku adalah seorang ratu. Dan kamu adalah rajanya.
 
-Tulisan ini buat kamu yang namanya belum aku tahu sekarang, rumahmu di mana pun aku belum tahu, tetapi aku punya keyakinan yang kuat, tulisan ini yang saya buat sekarang ini kamu di sana dapat membacanya.
+Sebelum semuanya dimulai, aku harap kamu paham bahwa dalam keterikatan kita, bukan hanya aku yang akan kamu nikahi, tapi juga seluruh keluargaku. Orang tua dan kakak-kakakku. Bagaimana pun mereka, aku ingin kamu bisa memahami dan menerima karakter mereka yang berbeda-beda. Semoga ketika kamu datang nanti, aku sudah bisa menata permasalahan utama kami. Hingga aku bisa menyambutmu dan kamu merasakan kepulangan yang seharusnya.
 
-*Buat kamu yang kelak menjadi ibu nya anakku nanti.*
+Semoga kita selalu sadar, bahwa membangun sebuah keluarga adalah usaha bersama. Teamwork. Tolong jangan biarkan aku sendiri dalam menjaga dan mengawasi anak-anak kita. Ajarkan mereka tentang bermimpi. Dan yang paling penting, ajarkan mereka untuk mengasihi, menyayangi, dan mencintai. Berjanjilah bahwa kita tidak akan membuat mereka kecewa dan sedih atas perlakuan kita.
 
-Manfaatkan masa muda mu untuk belajar.
+Jika pada suatu waktu kita berdebat hebat, tolong jangan biarkan mereka mendengarnya. Tolong jangan ajarkan mereka untuk memiliki amarah yang tertanam dalam hati mereka. Aku tidak mau mereka mempelajarinya, terlebih jika usia mereka masih dini. Bantu aku untuk mengajarkan mereka kesabaran dan ketenangan dalam hati mereka. Dan tolong simpan permasalahan kita selama mereka masih dalam masa perkembangan. Permasalahan di dunia luar sudah cukup rumit, bukan? Kita tahu itu. Maka janganlah kita menambahkan beban mereka.
 
-Belajarlah yang giat mulai sekarang.
+Dan jika mereka terlahir dengan sayap, biarkan mereka terbang jika mereka mau. Toh, ketika kita bisa menciptakan senyaman-nyamannya rumah untuk pulang, mereka pasti akan kembali. Karena mereka manusia dan aku ingin mereka menjadi pribadi yang bermanfaat bagi sesama. Ajarkan mereka untuk saling menolong dan berbuat baik. Ajarkan mereka untuk menjadi seseorang yang berkontribusi positif bagi dunia.  Sungguh, akan kujadikan mereka puteri dan pangeran yang bijaksana dan berhati mulia.
 
-Aku juga disini belajar kok. Sekarang ini aku lagi persiapan kuliah malah, rencananya melanjutkan belajar di Singapore untuk belajar komputer dan bisnis lebih banyak.
+Sayang, dalam membangun sebuah istana, tentu cinta saja tidak cukup. Dan aku tidak mau membebanimu seorang diri. Pun aku tidak mau menjaga anak-anak kita seorang diri. Maka, marilah kita lakukan semuanya secara bersama-sama. Kamu bekerja, dan aku juga. Aku menjaga mereka, dan kamu juga.
 
-Kalo kamu gimana sekarang?
+Dan terakhir, tolong bimbing aku. Imami aku di waktu Subuh dan Isya. Serta Maghrib, jika kamu sudah pulang ke rumah setelah bekerja. Imami juga anak-anak kita, hingga tertanam kebiasaan sholat di keseharian mereka. Hingga mereka merasakan ada yang kurang ketika mereka belum melakukannya. Sesungguhnya aku ingin kita berkumpul kembali di alam kedua nanti.
 
-Belajarlah karena nantinya kamulah guru pertama anak kita
-Mungkin nantinya aku banyak menggunakan waktuku untuk mengurusi bisnisku dan beberapa kegiatan yang lain.
-
-Kamu lah nantinya yang akan menjadi guru pertama dan utama anak kita.
-
-Aku suka anak-anak loh, lucu ajaa mengamati mereka, apalagi kalau dia cerdas.
-
-Karena perempuan yang cerdas melahirkan anak yang cerdas pula.Aku mau kamu sedikit lebih banyak belajarnya, terutama agama yaah.
-
-Jadi idola bagiku dan anak kita nanti.
-
-Disaat nanti ketemu, aku ingin ajak kamu belajar keliling berbagai dunia.
-Ini Beneran …
-
-Karena ini adalah salah satu impianku. Selama ini aku berpetualang sendirian. Menjadi self explorer.
-
-Entah itu lebih baik karena aku merasa bebas memilih apa yang ingin aku lakukan dan suatu saat aku ingin berpetualang bareng kamu. Biar bedaa aja. Tentunya dalam ikatan yang halal terlebih dahulu.
-
-Belajar agama di Turki, belajar kebudayaannya Spanyol, melihat keindahan alam negeri Skandinavia, melihat museum harry potter di london, menonton bola di Italy, dan balik ke Indonesia untuk menceritakan pengalaman yang kita dapatkan selama di luar negeri.
-
-Wanita yang baik untuk lelaki yang baik, begitupun sebaliknya.
-Walaupun saya belum paham sepenuh tentang salah satu ayat di Al Qur’an ini. Tapi setidaknya membaca ini membuat saya lebih bersemangat untuk belajar dan menjadi orang baik.
-
-Aku bukanlah laki-laki yang sempurna akhlaknya,
-Bukanlah pula laki-laki dari keturuan yang kaya akan hartanya,
-
-.. tapi aku banyak belajar kok tentang mengatur keuangan.
-
-karena aku juga punya banyak mimpi yang membutuhkan banyak uang.
-Masih ingat impianku buat ngajak kamu keliling dunia kan?
-
-Aku ingin nantinya kita sama-sama belajar.
-
-Puasa akan terasa manis ketika berbuka.
-Tahanlah sebentar, aku akan menemuimu setelah Allah menganggap aku telah pantas untuk memimpinmu.
-
-Aku lagi banyak belajar terutama agama dan memimpin manusia.
-
-Selama ini aku memimpin beberapa organisisi, dan memang rumit, tapi aku yakin memimpin rumah tangga nantinya jauh lebih rumit,
-
-Sebagai hadiah, aku punya kalimat ajaib yang kalo kamu baca ini dan memaknainya, maka kamu akan tenang, tentu atas ijin-Nya.
-
-Wamaa indallahi khoir
-La tahzan, innallaha ma’ana.
-
-Tambahkan dua kalimat diatas dalam dzikir mu karena punya arti yang mendalam.
-
-Aku mendoakanmu di setiap qiyamullailku.
-
-Sekarang aku tidak tahu kamu, Siapa kamu? Dimana kamu sekarang? dan sedang memperjuangkan apa kamu sekarang?
+Entah pada waktu kapan kita dipertemukan. Tapi untuk saat ini, aku masih belum siap dalam bekerja sama denganmu. Biarkan aku membenah apa yang harus aku benah. Biarkan aku memperbaiki apa yang harus diperbaiki. Dan semoga kamu diberi kebahagiaan, ketabahan, serta lindungan-Nya, dimana pun kamu berada sekarang. Semoga semua urusanmu dilancarkan. Jaga dirimu baik-baik, sebagaimana saat ini aku juga berusaha untuk menjaga diriku sendiri.

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Generasi Anxiety
 description: 

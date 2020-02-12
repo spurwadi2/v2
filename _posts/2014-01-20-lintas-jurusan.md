@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/nulis.jpg
 navigation: True
 title: Lintas Jurusan?
-tags: [school-lyfe]
+tags: [school]
 class: post-template
-subclass: 'post tag-school-lyfe'
+subclass: 'post tag-school'
 author: sigit
 comments: true
 mathjax:

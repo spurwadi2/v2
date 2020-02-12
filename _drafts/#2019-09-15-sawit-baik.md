@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: '#SawitBaik?'
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph

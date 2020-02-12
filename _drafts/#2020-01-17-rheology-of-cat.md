@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: On The Rheology of Cats
 description: Seorang fisikawan Perancis telah memenangkan Hadiah Nobel Ig karena menggunakan rumus matematika untuk menentukan apakah kucing itu cair atau padat.

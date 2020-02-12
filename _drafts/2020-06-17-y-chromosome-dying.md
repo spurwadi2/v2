@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: The Y Chromosome is Dying
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/blog-cover.jpg
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Berbagi Nama Depan
 description: 

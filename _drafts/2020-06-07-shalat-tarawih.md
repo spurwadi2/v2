@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hello-world.png
+cover:  assets/images/no-cover.gif
 navigation: True
 title: Q&A Tentang Sholat Tarawih
 description: Kenapa sholat Tarawih hanya dilaksanakan di bulan Ramadhan? Dalam tulisan ini saya akan merangkum pertanyaan yang sering (saya sendiri) pertanyakan tentang sholat tarawih.
