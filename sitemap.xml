@@ -4,16 +4,63 @@
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    {% for link in site.links %}{% if link.external %}{% else %} 
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    {% for link in site.links %}{% if link.external %}
     <url>
-        <loc>{{ site.url }}{{ link.url }}</loc>
-    </url>{% endif %}{% endfor %}
+        <loc>{{ site.url }}{{site.baseurl}}{{ link.url }}</loc>
+    </url>
+    {% endif %}{% endfor %}
+
+    {% assign site_tags = site.tags | sort  %}
+    {% assign count = 0 %}
+    {% for site_tag in site_tags %}
+    {% for tag in site.data.tags %}
+    {% if tag[1].name == site_tag[0] %}
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}topic/{{ tag[1].name }}/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
     
     {% for post in site.posts %}
+    {% unless post.published == false %} 
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{% if post.modified %}{{ post.modified | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
     </url>
+    {% endunless %}
     {% endfor %}
+
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}topics/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}about/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}privacy/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}tos/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}{{site.baseurl}}disclaimer/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
 </urlset>
