@@ -2,30 +2,32 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:base="{{ site.url }}" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" >
+
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
-    
+    <language>id</language>
+    <atom:link href="{{ site.url }}{{ site.baseurl }}atom.xml" rel="self" type="application/rss+xml" />
 
     {% for post in site.posts %}
       {% unless post.draft %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description type="html" xml:base="{{ site.url }}{{ post.url }}">{{ post.content | xml_escape }}</description>
+        <content type="html">{{ post.content | xml_escape }}</content>
         {% if post.summary %}
-        <summary type="html">{{ post.summary | truncatewords: 31 | xml_escape }}</summary>
+        <description type="html">{{ post.summary | truncatewords: 31 | xml_escape }}</description>
         {% elsif post.excerpt %}
-        <summary type="html">{{ post.excerpt | truncatewords: 31 | xml_escape }}</summary>
+        <description type="html">{{ post.excerpt | truncatewords: 31 | xml_escape }}</description>
         {% else %}
-        <summary type="html">{{ post.content | truncatewords: 31 | xml_escape }}</summary>
+        <description type="html">{{ post.content | truncatewords: 31 | xml_escape }}</description>
         {% endif %}
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         {% if post.modified %}<updated>{{ post.modified | date_to_xmlschema }}</updated>{% endif %}
         {% for author in site.data.authors %}
     	  {% if author[1].username == post.author %}
-        <contributor><name>{{ author[1].name }}</name></contributor>   
+        <author><name>{{ author[1].name }}</name></author>   
         {% endif %}
         {% endfor %}
         <category term="{{ post.tags }}"/>
