@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/remote-working.jpg
 navigation: True
 title: Towards Remote Working and Virtual Team
-description: Tumbuhnya industri kreatif dan pemanfaatan teknologi serta ekosistem digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
-summary: Tumbuhnya industri kreatif dan pemanfaatan teknologi serta ekosistem digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
+description: Tumbuhnya industri kreatif, pemanfaatan teknologi serta transformasi digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
+summary: Tumbuhnya industri kreatif, pemanfaatan teknologi serta transformasi digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
 tags: [millennials]
 class: post-template
 subclass: 'post tag-millennials'
@@ -24,7 +24,7 @@ Saya yakin tren ini akan semakin meningkat seiring semakin banyaknya perusahaan 
 
 > "Someday, there will be many people work in remote areas, but they connected internationally cause of advancement on information and telecommunication technology." <cite><small>Alvin Toffler (Future Shock)</small></cite>
 
-Tumbuhnya industri kreatif dan pemanfaatan teknologi serta ekosistem digital mendorong konsep bekerja yang tidak terikat pada *place* dan *space* secara fisik.
+Tumbuhnya industri kreatif, pemanfaatan teknologi serta transfromasi digital mendorong konsep bekerja yang tidak terikat pada *place* dan *space* secara fisik.
 
 Konsep *working life balance* pun kian tidak relevan karena definisi "seimbang" yang dimaksud di era digital kadang terlalu utopis.
 
@@ -34,7 +34,7 @@ Para teknisi jaringan atau *server engineer* misalnya, biasanya harus bekerja 24
 
 Maka kini kita mulai mengenal konsep *flexibility work*. Bekerja dengan prinsip otonom, "<b>together but alone</b>" dalam cell-cell group yang kecil, didorong oleh *value* dan *purpose*, serta diikat dengan semangat kolaborasi dan solusi.
 
-Tak heran jika nanti akan muncul banyak individu-individu profesional yang tinggal di desa-desa, bekerja secara remote, mengelola virtual team, dan membesarkan komunitas desanya menjadi kekuatan ekonomi baru.
+Tak heran jika nanti akan muncul individu-individu profesional yang tinggal di desa-desa, bekerja secara remote, mengelola virtual team, dan membesarkan komunitas daerahnya menjadi kekuatan ekonomi baru.
 
 > Once remote works really becomes the norm, it'll just be called work
 
