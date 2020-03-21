@@ -60,7 +60,7 @@ John Herrman ini bahkan membuatkan Dick Costolo sebuah avatar yang akhirnya dita
 
 Tidak ada yang tahu pasti alasannya, tetapi tak lama setelah itu "celah" GIF avatar ini pun akhirnya ditutup. <b>Tidak akan ada lagi</b> GIF avatar baru di akun Twitter kalian.
 
-Keistimewaannya, mereka yang sudah "terlanjur basah" dengan avatar ini akan tetap bisa mempertahankannya sampai sekarang, seperti yang kalian lihat pada akun @_Purwadi.
+Keistimewaannya, mereka yang sudah "terlanjur basah" dengan avatar ini akan tetap bisa mempertahankannya sampai sekarang, seperti yang kalian lihat pada akun @S_Purwadi.
 
 Keistimewaan lain adalah karena tidak banyak yang tersisa dari orang-orang dengan GIF avatar seperti ini. Mereka lebih dari sekedar persaingan *Anak Twitter Lama vs Anak Twitter Baru*.
 
