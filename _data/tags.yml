@@ -36,7 +36,7 @@ design:
 edtech:
   name: edtech
   title: 'EdTech: The Future of Learning'
-  description: Always feel like you're smart enough to do things, but never smart enough to stop learning
+  description: Technology has impacted almost every aspect of life today, and education is no exception.
   cover: assets/images/edtech.jpeg
 financial:
   name: financial
