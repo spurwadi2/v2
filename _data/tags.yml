@@ -166,3 +166,8 @@ writing:
   title: The Writing Cooperative
   description: A million monkeys randomly typing Shakespeare
   cover: assets/images/typing-monkey.jpg
+zoomers:
+  name: zoomers
+  title: The Gen Z Narrative
+  description: Forget Millennials, Gen Z are way cooler
+  cover: False
