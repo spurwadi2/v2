@@ -42,7 +42,12 @@ financial:
   name: financial
   title: Making of a Millionaire 💰
   description: Publishing stories on all things related to personal finance and financial freedom
-  cover: assets/images/financial.gif
+  cover: assets/images/financial.webp
+food:
+  name: food
+  title: Heated
+  description: Food from every angle for most delicious blog ever
+  cover: assets/images/food-heated.webp
 futurist:
   name: futurist
   title: The Future Present
