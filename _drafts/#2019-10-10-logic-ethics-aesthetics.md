@@ -14,10 +14,15 @@ comments: true
 mathjax:
 ---
 
-<center>•   •   •</center>
+Logika, etika, dan estetika sebenarnya adalah bagian dari ilmu filsafat.
 
-Logika, etika, dan estetika sebenarnya adalah bagian dari ilmu filsafat. Secara sederhana,
+Logika domainnya adalah pada ranah benar dan salah
+.. jadi kalau kita menggunakan logika dalam melihat sesuatu, maka output nya adalah benar atau salah...
+Etika domainnya adalah pada ranah baik dan buruk.. jika kita melihat sesuatu dengan persepektif etika, maka hasilnya nanti adalah pertimbangan baik buruknya sesuatu itu.. bukan lagi benar salahnya.... nah etika ini satu tingkat di atas logika.. sedangkan
+Estetika merupakan puncak tertinggi dari suatu corak berpikir... Pada ranah etika, benar salah, baik buruk tidak lagi jadi landasan.. tetapi estetika sudah berada pada level indah atau tidak indah... Pada ranah ini, benar salah dan baik buruk sudah melebur dalam keindahan... Persepektif yg digunakan dalam Estetika adalah persepektif subjektif individu, dalam etika yg digunakan adalah persepektif moral... Sedangkan dalam logika, yg digunakan adalah akal...
 
-Logika melahirkan kebenaran.
+Secara sederhana,
+
+Logika melahirkan kebenaran, etika melahirkan kebaikan, sedangkan estetika melahirkan keindahan.
 
 Pada akhirnya, manusia yang paripurna adalah mereka yang mampu menguasai ketiga hal ini, logika, etika, dan estetika. Meskipun 
