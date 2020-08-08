@@ -677,7 +677,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: Georgia, serif;
-    font-size: 2.2rem;
+    font-size: 1.9rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -687,9 +687,16 @@ The first (most recent) post in the list is styled to be bigger than the others 
         padding: 5vw 7vw 0;
     }
 }
+
 @media (max-width: 800px) {
     .post-full-content {
-        font-size: 1.9rem;
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .post-full-content {
+        font-size: 1.7rem;
     }
 }
 
@@ -1064,8 +1071,8 @@ Usage (In Ghost editor):
         font-size: 2.9rem;
     }
     .post-full-image {
-        margin-bottom: 4vw;
-        height: 350px;
+        margin-bottom: 10vw;
+        height: 195px;
     }
     .post-full-content {
         padding: 0;
