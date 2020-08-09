@@ -198,8 +198,16 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     overflow-y: hidden;
-    height: 40px;
-    font-size: 1.2rem;
+    height: 36px;
+    /* font-size: 1.2rem; */
+}
+
+@media (max-width: 500px) {
+    .site-nav {
+        height: 33px;
+        font-size: 75%;
+        /* margin-top: 0px; */
+    }
 }
 
 .site-nav-left {
@@ -227,8 +235,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo {
     flex-shrink: 0;
     display: block;
-    margin-right: 24px;
-    padding: 11px 0;
+    margin-right: 5px;
+    /* padding: 11px 0; */
     color: #fff;
     font-size: 1.7rem;
     line-height: 1em;
@@ -255,10 +263,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .nav li {
     display: block;
-    margin: 0;
+    margin: 0 -2px 0 0; /*set space between nav menu*/
     padding: 0;
     text-transform: uppercase;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .nav li a {
@@ -278,7 +286,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     flex-shrink: 0;
     display: flex;
     align-items: center;
-    height: 40px;
+    height: 36px;
 }
 
 .social-links {
@@ -288,7 +296,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .social-links a:last-of-type {
-    padding-right: 20px;
+    padding-right: 17px;
 }
 
 .social-link {
@@ -296,7 +304,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     justify-content: center;
     align-items: center;
     margin: 0;
-    padding: 10px;
+    padding: 6px;
     color: #fff;
     opacity: 0.8;
 }
@@ -306,7 +314,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .social-link svg {
-    height: 1.8rem;
+    height: 1.9rem;
     fill: #fff;
 }
 
@@ -386,7 +394,24 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
         margin-right: 0;
         padding-left: 4vw;
     }
-    .site-nav-right {
+    /* add social link menu on home page only */
+    .home-template .subscribe-button {
+        display: none;
+    }
+    .home-template .site-nav-left {
+        margin-right: 1.7vw;
+    }
+    /* remove social link menu on another page */
+    .post-template .site-nav-right {
+        display: none;
+    }
+    .page-template .site-nav-right {
+        display: none;
+    }
+    .tag-template .site-nav-right {
+        display: none;
+    }
+    .author-template .site-nav-right {
         display: none;
     }
 }
