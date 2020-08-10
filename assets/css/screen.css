@@ -306,7 +306,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0;
     padding: 6px;
     color: #fff;
-    opacity: 0.8;
+    /* opacity: 0.8; */
 }
 
 .social-link:hover {
@@ -318,8 +318,16 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     fill: #fff;
 }
 
+.social-link-tw svg {
+    height: 2rem;
+}
+
 .social-link-fb svg {
-    height: 1.5rem;
+    height: 1.6rem;
+}
+
+.social-link-ig svg {
+    height: 1.6rem;
 }
 
 .social-link-wb svg {
@@ -332,10 +340,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .social-link-rss svg {
     height: 1.9rem;
-}
-
-.social-link-ig svg {
-    height: 1.5rem;
 }
 
 /* Site Tag Styles */
