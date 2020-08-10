@@ -199,7 +199,7 @@ body {
     align-items: flex-start;
     overflow-y: hidden;
     height: 36px;
-    /* font-size: 1.2rem; */
+    font-size: 1.5rem;
 }
 
 @media (max-width: 500px) {
@@ -286,7 +286,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     flex-shrink: 0;
     display: flex;
     align-items: center;
-    height: 36px;
+    height: 42px;
 }
 
 .social-links {
@@ -304,7 +304,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     justify-content: center;
     align-items: center;
     margin: 0;
-    padding: 6px;
+    padding: 0 6px 0 6px;
     color: #fff;
     /* opacity: 0.8; */
 }
@@ -417,6 +417,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     }
     .author-template .site-nav-right {
         display: none;
+    }
+}
+
+@media (max-width: 500px) {
+    .home-template .site-nav-right {
+        height: 35px;
     }
 }
 
