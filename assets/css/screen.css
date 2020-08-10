@@ -917,7 +917,7 @@ Usage (In Ghost editor):
     max-width: 100%;
     border: color(var(--darkgrey) l(-10%)) 1px solid;
     color: var(--whitegrey);
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     line-height: 1.5em;
     background: color(var(--darkgrey) l(-3%));
     border-radius: 5px;
@@ -1301,7 +1301,7 @@ Usage (In Ghost editor):
 .author-card-name {
     margin: 0 0 2px 0;
     padding: 0;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 .author-card-name a {
@@ -1317,6 +1317,7 @@ Usage (In Ghost editor):
     margin: 0;
     color: var(--midgrey);
     line-height: 1.3em;
+    font-size: 1.3rem;
 }
 
 .post-full-footer-right {
