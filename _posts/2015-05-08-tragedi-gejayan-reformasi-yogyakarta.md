@@ -4,6 +4,8 @@ current: post
 cover:  assets/images/jalan-gejayan.jpg
 navigation: True
 title: Tragedi Gejayan, Suka Duka Reformasi di Yogyakarta
+description: Kita mungkin tidak banyak yang menyadari bahwa nama jalan yang berada di Yogyakarta diangkat dari nama-nama tokoh yang telah mewarnai perjalanan sejarah Indonesia.
+summary: Kita mungkin tidak banyak yang menyadari bahwa nama jalan yang berada di Yogyakarta diangkat dari nama-nama tokoh yang telah mewarnai perjalanan sejarah Indonesia.
 tags: [history]
 class: post-template
 subclass: 'post tag-history'
