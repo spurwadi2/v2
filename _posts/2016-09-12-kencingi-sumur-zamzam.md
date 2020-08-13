@@ -5,6 +5,7 @@ cover:  assets/images/hajj.jpeg
 navigation: True
 title: Kencingi Sumur Zamzam
 description: Semakin aneh, semakin spesial, semakin berpotensi menjadi orang terkenal. Benarkah?
+summary: Semakin aneh, semakin spesial, semakin berpotensi menjadi orang terkenal. Benarkah?
 tags: [cogito]
 class: post-template
 subclass: 'post tag-cogito'

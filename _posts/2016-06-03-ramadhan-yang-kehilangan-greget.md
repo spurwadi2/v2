@@ -4,6 +4,8 @@ current: post
 cover:  assets/images/rmdn.jpg
 navigation: True
 title: Ramadhan yang Kehilangan Greget
+description: Tulisan sederhana ini hendak diniatkan untuk menguliti beberapa keganjilan dan penyempalan yang terjadi selama Ramadhan, khususnya yang berlangsung di Indonesia.
+summary: Tulisan sederhana ini hendak diniatkan untuk menguliti beberapa keganjilan dan penyempalan yang terjadi selama Ramadhan, khususnya yang berlangsung di Indonesia.
 tags: [islam]
 class: post-template
 subclass: 'post tag-islam'

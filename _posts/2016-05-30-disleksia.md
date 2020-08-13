@@ -1,37 +1,51 @@
 ---
 layout: post
 current: post
-cover:  assets/images/dyslexia.jpg
+cover:  assets/images/dyslexia.webp
 navigation: True
 title: Disleksia
+description: Banyak orang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi penderitanya. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia.
+summary: Banyak orang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi penderitanya. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia.
 tags: [edtech]
 class: post-template
 subclass: 'post tag-edtech'
 author: sigit
 comments: true
+mathjax:
 ---
 
-Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia [^1].
+Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci?
 
-<figure>
-	<a href="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"><img src="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"></a>
-</figure>
+Ternyata selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia.[^1]
 
-Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia [^2]. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun [^3]. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.
+![Legends with dyslexia disorder](https://shruti.co.in/wp-content/uploads/2014/08/Legends-with-Dyslexia-disorder-Shruti-Kolkata.jpg "Legends with dyslexia disorder")
+<small>Legends with dyslexia disorder ([sruti.com](https://shruti.co.in/understand-dyslexia-help-child/))</small>
 
-Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.
+Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia.[^2]
+
+Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.
+
+Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosio-ekonomi tidak berpengaruh terhadap kondisi ini.
 
 Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih banyak orang yang tidak memahami kondisi tersebut dengan baik. Berlawanan dengan kepercayaan populer, disleksia bukanlah sebuah tahapan belajar yang dialami oleh anak pada usia tertentu. Disleksia adalah sebuah kondisi seumur hidup, dan bisa menjadi sangat parah. Namun kini telah ada beberapa metode perawatan yang sangat efektif untuk mengatasi masalah tersebut.
 
 ## Penyebab Umum Disleksia
 
-Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama. Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut. Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.
+Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama.[^3]
+
+Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut.
+
+Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.
 
 Banyak orang percaya bahwa para penderita disleksia memiliki masalah dalam mengolah fonem, divisi terkecil dari suara ketika sebuah kata diucapkan. Membaca dan menulis menjadi kegiatan yang sulit untuk dilakukan karena otak harus merangkai huruf untuk membentuk kata, kemudian kalimat, atau paragraf untuk menjelaskan maksud mereka secara tepat.
 
 ## Gejala Disleksia
 
-Gejala-gejala dalam disleksia sangat bervariasi dan umumnya tidak sama untuk tiap penderita sehingga sulit dikenali, terutama sebelum sang anak memasuki usia sekolah. Ada beberapa gen keturunan yang dianggap dapat memengaruhi perkembangan otak yang mengendalikan fonologi, yaitu kemampuan dan ketelitian dalam memahami suara atau bahasa lisan. Misalnya membedakan kata “*paku*” dengan kata “*palu*”.
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/rhJdZzGEZDwAM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><small><a href="https://giphy.com/gifs/bella-thorne-dyslexia-wifflegif-rhJdZzGEZDwAM">via GIPHY</a></small>
+
+Gejala-gejala dalam disleksia sangat bervariasi dan umumnya tidak sama untuk tiap penderita sehingga sulit dikenali, terutama sebelum sang anak memasuki usia sekolah. 
+
+Ada beberapa gen keturunan yang dianggap dapat memengaruhi perkembangan otak yang mengendalikan fonologi, yaitu kemampuan dan ketelitian dalam memahami suara atau bahasa lisan [^5]. Misalnya membedakan kata “*paku*” dengan kata “*palu*” .
 
 Selain masalah pada kepekaan fonologi, gejala disleksia juga bisa berupa hal-hal berikut:
 
@@ -40,7 +54,7 @@ Selain masalah pada kepekaan fonologi, gejala disleksia juga bisa berupa hal-hal
 - Kesulitan memroses informasi lisan, misalnya saat mencatat nomor telepon atau didikte.
 - Pada balita, disleksia dapat dikenali melalui perkembangan bicara yang lebih lamban dibandingkan anak-anak seusianya dan membutuhkan waktu lama untuk belajar kata baru. Misalnya keliru menyebut kata “ibu” menjadi kata “ubi”. Kesulitan menggunakan kata-kata untuk mengekspresikan diri dan kurang memahami kata-kata yang memiliki rima.
 
-Indikasi disleksia biasa akan lebih jelas ketika anak mulai belajar membaca dan menulis di sekolah. Anak Anda akan mengalami beberapa kesulitan seperti:
+Indikasi disleksia biasa akan lebih jelas ketika anak mulai belajar membaca dan menulis di sekolah. Anak Anda akan mengalami beberapa kesulitan seperti:[^6]
 
 - Sulit memroses dan memahami apa yang didengarnya.
 - Lamban dalam mempelajari nama dan bunyi abjad.
@@ -62,17 +76,13 @@ Karena sulit dikenali, gejala-gejala disleksia juga ada yang baru disadari setel
 - Cenderung menghindari kegiatan membaca dan menulis.
 - Kesulitan berhitung.
 
-Jika Anda mencemaskan perkembangan kemampuan membaca dan menulis anak Anda yang terasa lambat, hubungilah dokter. Terutama jika Anda mengenali gejala-gejala disleksia lain yang dialami anak Anda.
-
 ## Diagnosis dan Penanganan Anak Disleksia
 
-<figure>
-	<a href="http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg"><img src="http://www.truechristianity.info/img/films/zvezdochki_na_zemle_02.jpg"></a>
-</figure>
+<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/l2YWBygfkgPSuLEVG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><small><a href="https://giphy.com/gifs/bypriyashah-bollywood-india-l2YWBygfkgPSuLEVG">via GIPHY</a></small>
 
 Sebelum ke dokter atau spesialis, Anda sebaiknya mencari tahu tentang kelebihan serta kekurangan dalam kemampuan anak lebih dulu. Proses ini dapat dilakukan melalui permainan, misalnya puzzle gambar. Jika memungkinkan, Anda juga dapat meminta bantuan dari guru sekolah seperti meminta guru untuk memberikan program remedial.
 
-Disleksia cenderung sulit untuk dideteksi karena gejalanya yang beragam. Diagnosis gangguan ini membutuhkan penilaian dari banyak faktor. Di antaranya:
+Disleksia cenderung sulit untuk dideteksi karena gejalanya yang beragam. Diagnosis gangguan ini membutuhkan penilaian dari banyak faktor, diantaranya:[^4]
 
 - Riwayat, perkembangan, pendidikan, dan kesehatan anak.
 - Keadaan di rumah.
@@ -96,19 +106,16 @@ Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi 
 
 Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.
 
-[^1]: [https://www.docdoc.com/id/id/info/condition/disleksia](https://www.docdoc.com/id/id/info/condition/disleksia)
-[^2]: [http://www.alodokter.com/disleksia](http://www.alodokter.com/disleksia)
-[^3]: [https://id.wikipedia.org/wiki/Disleksia](https://id.wikipedia.org/wiki/Disleksia)
+---
 
-----------
+**Referensi & Rujukan:**
 
-Referensi
-
-- [http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx](http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx)
-- [http://www.dyslexia.org/what_causes.shtml](http://www.dyslexia.org/what_causes.shtml)
-- [http://www.dyslexia.com/library/symptoms.htm](http://www.dyslexia.com/library/symptoms.htm)
-
-
+[^1]: [Famous Dyslexics Means That: You are not alone and you can succeed](http://www.dyslexiaonline.com/basics/famous_dyslexics.html)
+[^2]: Pratamawati, Tiyas, et al. 2015. Perspektif Negatif Terhadap Anak Disleksia Tanpa Mempedulikan Potensi yang Dimiliki. *Prosiding Seminar Nasional PGSD UPY*. Diakses dari [http://repository.upy.ac.id/419/1/artikel%20tiyas.pdf](http://repository.upy.ac.id/419/1/artikel%20tiyas.pdf).
+[^3]: [Unusa Datangkan Praktisi Disleksia](https://unusa.ac.id/unusa-datangkan-praktisi-disleksia/)
+[^4]: [NHS: Dyslexia](http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx)
+[^5]: [Wikipedia: Disleksia](https://id.wikipedia.org/wiki/Disleksia)
+[^6]: Davis, Ronald, D. 1992. Test for Dyslexia: 37 Common Traits. *Davis Dyslexia Association International*. Diakses dari [http://www.dyslexia.com/library/symptoms.htm](http://www.dyslexia.com/library/symptoms.htm).
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/disleksia.js"></script>

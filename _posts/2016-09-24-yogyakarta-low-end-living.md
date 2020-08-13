@@ -4,6 +4,8 @@ current: post
 cover:  assets/images/tugu-jogja.jpg
 navigation: True
 title: Yogyakarta Low End Living
+description: Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, saatnya untuk menjalani gaya hidup low end!
+summary: Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, saatnya untuk menjalani gaya hidup low end!
 tags: [millennials]
 class: post-template
 subclass: 'post tag-millennials'

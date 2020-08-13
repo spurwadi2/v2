@@ -4,7 +4,8 @@ current: post
 cover:  assets/images/rmdn2.jpg
 navigation: True
 title: Mumpung Ramadhan
-date: 2016-06-17
+description: Sujiwo Tejo seolah menggugat, apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama.
+summary: Sujiwo Tejo seolah menggugat, apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama.
 tags: [islam]
 class: post-template
 subclass: 'post tag-islam'

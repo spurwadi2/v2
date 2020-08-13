@@ -4,6 +4,8 @@ current: post
 cover:  assets/images/durian.jpg
 navigation: True
 title: Mengetahui Jadwal Musim Buah di Indonesia
+description: Indonesia merupakan negara tropis yang memiliki ragam jenis buah-buahan yang berbuah menurut jadwalnya masing-masing.
+summary: Indonesia merupakan negara tropis yang memiliki ragam jenis buah-buahan yang berbuah menurut jadwalnya masing-masing.
 tags: [komodos]
 class: post-template
 subclass: 'post tag-komodos'
