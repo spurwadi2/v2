@@ -1,58 +1,82 @@
-.jekyll-linkpreview-wrapper {
-  max-width: 770px;
-  margin: -90px 0 10px 0;
-}
-
-.jekyll-linkpreview-wrapper p {
-    visibility: hidden;
-  }
-
-.jekyll-linkpreview-wrapper-inner {
-  border: 1px solid rgba(0,0,0,.1);
-  padding: 12px;
-}
-
-.jekyll-linkpreview-content {
-  position: relative;
-  max-height: 6em;
+.linkpreview-wrapper {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "a b";
+  max-width: 600px;
   min-height: 120px;
+  border: 1px solid rgba(0,0,0,.1);
+  box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
+  margin-bottom: 12px;
+}
+
+.linkpreview-wrapper:hover {
+  box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
+  transition: all 0.3s ease;
+  transform: translate3D(0, -1px, 0);
+}
+
+.linkpreview-wrapper p {
+  display: none;
+}
+
+.linkpreview-wrapper a {
+  color: none;
+  -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.linkpreview-body {
+  grid-area: a;
+  padding: 16px 20px;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  justify-content: center;
   overflow: hidden;
- /* margin-bottom: 10px; */
+  box-sizing: inherit;
 }
 
-.jekyll-linkpreview-image {
-  position: absolute;
-  top: 0;
-  right: 0;
+.linkpreview-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3em;
+  height: 2.6em;
+  width: 100%;
+  white-space: pre-wrap;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.jekyll-linkpreview-image img {
-  width: 120px;
-  height: 120px;
-  margin: auto;
+.linkpreview-description {
+  font-size: 1.4rem;
+  line-height: 1.3em;
+  height: 2.6em;
+  white-space: pre-wrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
 }
 
-.jekyll-linkpreview-body {
-  margin-right: 34.5%;
+.linkpreview-footer {
+  margin-top: 7px;
+  max-height: 40px;
+  font-size: 15px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
-.jekyll-linkpreview-body H2 {
-    font-size: 1.6rem;
-    margin-bottom: 5px;
+.linkpreview-image {
+  grid-area: b;
 }
 
-.jekyll-linkpreview-title {
-  font-size: 17px;
-  margin: 0 0 2px;
-  line-height: 1.3;
-}
-
-.jekyll-linkpreview-description {
-  line-height: 1.5;
-  font-size: 14px;
-}
-
-.jekyll-linkpreview-footer {
-  font-size: 11px;
-  margin: -7px 34.5% -12px 0;
+.linkpreview-image img {
+  height: 155px;
+  width: 155px;
+  object-fit: cover;
+  overflow: hidden;
 }

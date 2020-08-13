@@ -64,6 +64,8 @@ Selama ukuran kontribusi dan proses bekerjanya terukur dan dapat dinilai, khusus
 
 > Your company need your **PRESENCE**, more than your **PRESENT**.
 
+{% linkpreview "https://medium.purwadi.web.id/towards-remote-working-and-virtual-team-cd953d5d1345" %}
+
 -----
 **Referensi:**
 

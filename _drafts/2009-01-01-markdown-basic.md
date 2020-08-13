@@ -348,6 +348,12 @@ You can pass url directly to the tag,
 {\% linkpreview https://github.com %}
 ```
 
+{% linkpreview "https://github.com" %}
+
+{% linkpreview "https://repo.purwadi.web.id" %}
+
+{% linkpreview "https://medium.purwadi.web.id/towards-remote-working-and-virtual-team-cd953d5d1345" %}
+
 or, can pass a url variable.
 
 ```markdown
