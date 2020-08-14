@@ -18,9 +18,6 @@ Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinc
 
 Ternyata selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia.[^1]
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/disleksia.js"></script>
-
 ![Legends with dyslexia disorder](https://shruti.co.in/wp-content/uploads/2014/08/Legends-with-Dyslexia-disorder-Shruti-Kolkata.jpg "Legends with dyslexia disorder")
 <small>Legends with dyslexia disorder ([sruti.com](https://shruti.co.in/understand-dyslexia-help-child/))</small>
 
@@ -88,3 +85,6 @@ Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu
 [^4]: [NHS: Dyslexia](http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx)
 [^5]: [Wikipedia: Disleksia](https://id.wikipedia.org/wiki/Disleksia)
 [^6]: Davis, Ronald, D. 1992. Test for Dyslexia: 37 Common Traits. *Davis Dyslexia Association International*. Diakses dari [http://www.dyslexia.com/library/symptoms.htm](http://www.dyslexia.com/library/symptoms.htm).
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/disleksia.js"></script>
