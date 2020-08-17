@@ -46,10 +46,11 @@ const paths = {
 
 // .webp converter
 function webp() {
-    return src('assets/uncompress/*')
+    return src('assets/uncompress/*.{jpg,jpeg,png,gif}')
         .pipe(imagemin( [
             imageminWebp( {
-                quality: 50
+                quality: 50,
+                number: 6
             })
         ]))
         .pipe(extReplace('.webp'))
@@ -68,23 +69,23 @@ function giflossyTask() {
 };
 
 function cleanTemp() {
-    return del(['assets/.temp/*.jpg', 'assets/uncompress/*.jpg']);
+    return del(['assets/.temp/*.{jpg,jpeg}', 'assets/uncompress/*.{jpg,jpeg}']);
 };
 
 function mozjpegTask() {
-    return src('assets/.temp/*.jpg')
+    return src('assets/.temp/*.{jpg,jpeg}')
         .pipe(imagemin( [
             imageminMozjpeg( {
                 quality: 85,
                 progressive: true
             })
         ]))
-        .pipe(dest('assets/images/'))
+        .pipe(dest('assets/.temp2/'))
         .pipe(livereload())
 };
 
 function guetzliTask() {
-    return src('assets/uncompress/*.jpg')
+    return src('assets/uncompress/*.{jpg,jpeg}')
         .pipe(imagemin( [
             imageminGuetzli( {
                 quality: 85

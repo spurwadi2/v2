@@ -1,21 +1,21 @@
 artcytech:
   username: artcytech
   name: 'Art Cyber Tech'
-  picture: assets/images/avatar/artcytech.gif
+  picture: assets/images/avatar/artcytech.webp
   cover: assets/images/artcytech.jpg
   bio: Logic, Ethics, Aesthetics<br/> Pseudo-intelligence
   url: 
   location: World Wide Web
   twitter: Artcytech
-  facebook: 4rtcytech
+  facebook: Artcytech
   instagram: Artcytech
   linkedin: 
   github: 
   youtube: 
 sigit:
   username: sigit
-  name: 'Sigit Purwadi H.W.'
-  picture: assets/images/avatar/sigit.gif
+  name: 'Sigit Purwadi'
+  picture: assets/images/avatar/sigit.webp
   cover: assets/images/sgt-cover.jpg
   bio: I'm the admin, dude!<br/> I’m still writing the bio which feels like the hardest thing I’ve ever written.
   location: Yogyakarta, ID

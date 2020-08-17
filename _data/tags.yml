@@ -17,7 +17,7 @@ coding:
   name: coding
   title: '❯_ Artcytech Dev.'
   description: Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.
-  cover: assets/images/dev.gif
+  cover: assets/images/dev.webp
 cogito:
   name: cogito
   title: Cogito Ergo Cool
@@ -90,7 +90,7 @@ islam:
 komodos:
   name: komodos
   title: Indonesia Mooië 🇮🇩
-  description: Ah, the 'Spice Island' that Columbus was looking for..
+  description: The 'Spice Island' that Columbus was looking for..
   cover: assets/images/comodo-dragon.jpg
 linux:
   name: linux
