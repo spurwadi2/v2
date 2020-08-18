@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/no-cover.webp
 navigation: True
 title: Best Indonesian Podcast (Update)
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph

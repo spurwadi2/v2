@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/no-cover.webp
 navigation: True
 title: YAML 'Post' Template
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph

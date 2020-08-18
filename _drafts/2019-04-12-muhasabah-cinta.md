@@ -5,6 +5,7 @@ cover:  assets/images/muhasabah.jpg
 navigation: True
 title: Muhasabah Cinta, Muhasabah Diri
 description: Cinta adalah tentang melupakan, mengabaikan, dan melepaskan hal-hal penting dan besar dari diri kita untuk mulai mementingkan, memperdulikan, dan memperjuangkan hal-hal kecil dari sesuatu atau seseorang yang dicintai.
+summary: Cinta adalah tentang melupakan, mengabaikan, dan melepaskan hal-hal penting dan besar dari diri kita untuk mulai mementingkan, memperdulikan, dan memperjuangkan hal-hal kecil dari sesuatu atau seseorang yang dicintai.
 tags: [islam]
 class: post-template
 subclass: 'post tag-islam'

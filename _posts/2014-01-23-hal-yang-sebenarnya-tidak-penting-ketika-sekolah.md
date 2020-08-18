@@ -12,15 +12,17 @@ comments: true
 ---
 
 
-Halloo, wahai jiwa-jiwa yang masih diikat oleh bel istirahat...
+Haloo, wahai jiwa-jiwa yang masih diikat oleh bel istirahat..
 
 Apa kabar buku dan pensil kalian?
+
 Apa kabar keadaan kelas kalian?
-Bagaimana kabar tentang para pencinta teman sekelas, tapi sampe sekarang masih takut buat nyatain perasaan??
 
-Itu 3 nomor yang tadi ntar dicatat yah, minggu depan dikumpul. Khusus untuk pertanyaan terakhir bisa dikumpul ntar kalo udah lulus sekolah. :D
+Bagaimana kabar tentang para pencinta teman sekelas, tapi sampe sekarang masih takut buat nyatain perasaan?? T.T
 
-Menurut gue, selama kita sekolah kurang lebih 12 tahun, banyak sekali hal-hal yang sebenarnya tidak penting yang diajarkan ketika kita sekolah. **Kita dididik selama 12 tahun untuk mengerjakan hal yang sama**, tapi hasilnya?
+Itu 3 nomor yang tadi dicatat yah, minggu depan dikumpulin di meja..
+
+Jadi menurut gue, selama kita sekolah kurang lebih 12 tahun, banyak sekali hal-hal yang sebenarnya tidak penting yang diajarkan ketika kita sekolah. Selama 12 tahun sekolah, kita dididik untuk mengerjakan hal yang sama, tapi hasilnya?
 
 Hanya sedikit orang yang bisa mengambil hikmah dari masa sekolah dulu, sisanya? Tau entah ilmunya kabur kemana... Langsung saja kita ke beberapa hal-hal yang sebenarnya tidak penting yang diajarkan ketika sekolah.
  
@@ -30,7 +32,7 @@ Hanya sedikit orang yang bisa mengambil hikmah dari masa sekolah dulu, sisanya? 
 
 Kegiatan kayak gini biasanya sih dilakuin di pagi hari ketika hari Jum'at. ~~Hukuman~~ cabut rumput ini biasa juga berlaku bagi mereka yang suka terlambat. Kita biasanya ~~dipaksa~~ disuruh untuk mencabut rumput-rumput yang sudah tumbuh kayak ~~bulu ketek bulu idung rambut kaki~~ sapu ijuk.
 
-Entah apa makna dari semua ini, tapi dari kabar yang gue dengar, katanya kegiatan ini diadakan agar kita belajar mencintai lingkungan dan menghargai alam. PRET!
+Entah apa makna dari semua ini, tapi dari kabar yang gue dengar, katanya kegiatan ini diadakan agar kita belajar mencintai lingkungan dan menghargai alam. *PRET!*
 
 Kalo kita didik selama 12 tahun untuk mencintai lingkungan dan menghargai alam, kenapa masih banyak dari kita yang hobi membuang sampah di laut? Kenapa masih banyak dari kita yang suka menebang pohon sembarangan? Atau jangan-jangan, faktor terbesar '*penggundulan*' hutan secara ilegal mungkin karena kita sering mengikuti kegiatan **cabut rumput** yang diadakan tiap hari jumat pagi, makanya banyak dari kita yang sudah memvonis bahwa semua tumbuhan yang berwarna hijau itu adalah rumput, maka dari itu semua pohon "*dicabut*" secara ilegal demi mencintai lingkungan dan menghargai alam.
  
@@ -95,7 +97,7 @@ Kegiatan ini yang sebenarnya paling gue benci ketika sekolah. Kita diwajibkan un
 
 Katanya, mereka membangun sistem "*bangun dan berangkat ke sekolah pagi-pagi*" dengan tujuan  untuk melatih sikap kedisiplinan kita. Untuk kesekian kalinya saya bertanya, **MANA BUKTINYA??**
 
-Bukankah mereka yang sekarang kerjaannya duduk dibawah AC "*diatas*" sana dulu juga pernah bangun dan berangkat ke sekolah pagi-pagi? Tapi mana kedisiplinan mereka? Ketika rapat malah tidur, datang sering terlambat, kadang juga bolos, dan lebih parahnya lagi, suka nonton maap ~~b**ep~~  ketika sedang kerja. Inikah yang mereka sebut kedisiplinan ? Wah-wah, ternyata parah sekali tingkat kedisiplinan negara kita ini yah.
+Bukankah mereka yang sekarang kerjaannya duduk dibawah AC "*diatas*" sana dulu juga pernah bangun dan berangkat ke sekolah pagi-pagi? Tapi mana kedisiplinan mereka? Ketika rapat malah tidur, datang sering terlambat, kadang juga bolos, dan lebih parahnya lagi, suka nonton ~~b**ep~~ Doraemon ketika sedang kerja. Inikah yang mereka sebut kedisiplinan ? Wah-wah, ternyata parah sekali tingkat kedisiplinan negara kita ini yah.
 
 Ya sudah, segitu dulu kayaknya postingan gue kali ini... Mudah-mudahan 3 dari sekian banyak hal seperti ini dihilangan atau setidaknya sistemnya dirubah. Bosan lama-lama dengan sistem yang nggak bisa menghasilkan manfaat.
  

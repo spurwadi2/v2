@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/no-cover.webp
 navigation: True
 title: EdTech in an Age of Pandemics
 description: Technology needs to play a role to ensure continuity in learning.

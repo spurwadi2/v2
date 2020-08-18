@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/no-cover.webp
 navigation: True
 title: A Full and Comprehensive Style Test
 summary: Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.

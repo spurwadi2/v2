@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/no-cover.webp
 navigation: True
 title: Anu dan Gituan
-description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
-summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+description: Kamu pernah "gituan" nggak? Gue bingung, kenapa kalo kita ngomong kata "gituan" yang terbayang pasti "gituan"? Padahal "gituan" itu apa sih?
+summary: Kamu pernah gituan nggak? Gue bingung, kenapa kalo kita ngomong kata "gituan" yang terbayang pasti "gituan"? Padahal "gituan" itu apa sih?
 tags: [random]
 class: post-template
 subclass: 'post tag-random'
@@ -14,60 +14,62 @@ comments: true
 mathjax:
 ---
 
-Kamu pernah "Gituan" nggak?
+**Kamu pernah "*gituan*" nggak?**
   
-Gue bingung, kenapa kalo kita ngomong kata "Gituan" yang terbayang pasti "Gituan"? 😊😀
+Gue bingung, kenapa kalo kita ngomong kata "*gituan*" yang terbayang pasti "*gituan*"? Padahal "*gituan*" itu apa sih?
 
-Padahal "Gituan" itu apa sih?
+"*Gituan*" kan bukan kata yang bersalah, kenapa gak boleh diucapin?
 
-"Gituan" kan bukan kata yang bersalah, kenapa gak boleh diucapin?
+Oke, untuk menjaga nama baik kata "*gituan*", mari kita sepakati bahwa kata "*gituan*" itu artinya "**MAKAN**".
 
-Untuk menjaga nama baik kata "Gituan", coba kalo kita sepakati bahwa kata "Gituan" itu artinya "Makan".
+Jadi gini...
 
-Jadi kan gini...
+> "Aduh perut gue sakit nih! Hari ini gue belum gituan..."
 
-"Aduh perut gue sakit nih! Hari ini gue belum gituan..."
+> "Biar enggak lemes, sebaiknya kita gituan 3 kali sehari!"
 
-"Biar enggak lemes, sebaiknya kita gituan 3 kali sehari!"
+Ingat ya, "*gituan*" itu artinya "MAKAN"! 😊😀
 
-Ingat ya, "Gituan" itu artinya "Makan"!
+Atau misalnya mau ngajak pasangan/pacarnya makan.
 
-Atau misalnya mau ngajak pasangan / pacarnya "Makan".
+> "Sayang, entar malem kita gituan yuk!
+> 
+> Aku tahu tempat paling enak buat gituan.
+> 
+> Di kafe itu banyak orang pada gituan di sana. Lagian harganya murah. Paling kalo kita gituan 2 kali, bayarnya gak sampe 100 ribu"
 
-"Sayang, entar malem kita 'gituan' yuk! Aku tahu tempat paling enak buat 'gituan'. Di kafe itu banyak orang pada 'gituan' di sana. Lagian harganya murah. Paling kalo kita 'gituan' 2 kali, bayarnya gak sampe 100 ribu"
-
-Jadi mulai sekarang kata "Gituan" itu artinya "Makan".
+Jadi mulai sekarang kata "*gituan*" itu artinya "MAKAN".
 
 Betapa indahnya selalu berpikir positif. Ya nggak? 😁
 
-*****
+<center>•   •   •</center>
 
-Satu lagi kata yang nggak bersalah yaitu kata "Anu".
+Satu lagi kata yang nggak bersalah yaitu kata "*anu*".
 
-Sebenarnya "Anu" itu apa sih? Kenapa kalo saya ngomong "Anu", yang kebayang pasti "Anu"? 😜
+Sebenarnya "*anu*" itu apa sih? Kenapa kalo saya ngomong "*anu*", yang kebayang pasti "*anu*"? 😜
 
-Apa itu "Anu"?
+Apa itu "*anu*"?
 
-Untuk menjaga nama baik kata "Anu", mari kita sepakati bahwa kata "Anu" itu artinya "Kepala".
+Untuk menjaga nama baik kata "*anu*", mari kita sepakati bahwa kata "*anu*" itu artinya "**KEPALA**".
 
 Jadi kan orang bisa ngomong gini...
 
-"Wah 'Anu' kamu gede banget sih!" 😊😀😄
+> "Wah anu kamu gede banget sih!"
 
-"Kemarin katanya 'Anu' kamu kejedot pintu ya? Coba sini aku periksa 'Anu'-nya!"
+> "Kemarin katanya anu kamu kejedot pintu ya? Coba sini aku periksa anu-nya!"
 
 😊😊😀
 
-Ingat ya, "Anu" itu artinya "Kepala".
+Ingat ya, "Anu" itu artinya "KEPALA".
 
-"Nanti kalau kamu naik motor, 'Anu' kamu pake helm ya!"
+> "Nanti kalau kamu naik motor, anu kamu pake helm ya!"
 
-"Hei bro! Kok ada ketombe sih di 'Anu' kamu?"
+> "Rambut di anu kamu kok ketombean sih?"
 
-"Sayang... Boleh gak aku elus 'Anu' kamu?"
+> "Sayang.. Boleh gak aku elus anu kamu?"
 
-Tanamkan dalam pikiran kamu bahwa kata "Anu" dan "Gituan" bukanlah kata yang jorok! ☺
+Baiklah, mari kita tanamkan dalam pikiran bahwa kata "*Anu*" dan "*Gituan*" bukanlah kata yang jorok..
 
 Indahnya selalu berpikir positif.... 😎😀👍
 
-Selamat Gituan ya teman, biar Anu-nya gak nyut-nyutan... 😚😚😚
+Selamat gituan ya teman, biar anu-nya gak nyut-nyutan... 😚😚😚
