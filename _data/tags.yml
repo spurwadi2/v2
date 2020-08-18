@@ -114,7 +114,7 @@ pcmasterrace:
 personal:
   name: personal
   title: Personal Scribblings
-  description: Writing which speaks to the experience of the Self and which resonates with the cynical, the bitter, and the alienated.
+  description: Writing which speaks to the experience of the self and which resonates with the cynical, the bitter, and the alienated.
   cover: assets/images/personal-story.jpg
 politics:
   name: politics
@@ -154,7 +154,7 @@ speeches:
 to-myself:
   name: to-myself
   title: Letters to Myself 💌
-  description: Letters to a younger you, letters to an older self, explore the possibilities of writing to yourself. 
+  description: Letters to a younger you, letters to an older-self, explore the possibilities of writing to yourself. 
   cover: assets/images/letters-to-myself.jpg
 webmaster:
   name: webmaster

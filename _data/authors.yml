@@ -4,14 +4,14 @@ artcytech:
   picture: assets/images/avatar/artcytech.webp
   cover: assets/images/artcytech.jpg
   bio: Logic, Ethics, Aesthetics<br/> Pseudo-intelligence
-  url: 
+  url: https://medium.com/artcytech
   location: World Wide Web
   twitter: Artcytech
   facebook: Artcytech
   instagram: Artcytech
-  linkedin: 
-  github: 
-  youtube: 
+  linkedin: False
+  github: False
+  youtube: False
 sigit:
   username: sigit
   name: 'Sigit Purwadi'

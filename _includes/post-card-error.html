@@ -22,9 +22,9 @@
 
                     <section class="post-card-excerpt">
                         {% if post.summary %}
-                        <p>{{ post.summary | truncatewords: 33, "" }}</p>
+                        <p>{{ post.summary | truncatewords: 31, "" }}</p>
                     {% else %}
-                        <p>{{ post.content | markdownify | strip_html | truncatewords: 33, "" }}</p>
+                        <p>{{ post.content | markdownify | strip_html | truncatewords: 31, "" }}</p>
                     {% endif %}
                     </section>
                 </a>

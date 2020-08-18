@@ -135,7 +135,8 @@ function swallowError(error) {
 
 
 // gulp main task list
-exports.css = series(cssTask)
+exports.css = series(cssTask);
 exports.webp = series(webp); // convert all image to webp
+exports.gif = series(giflossyTask);
 exports.imagemin = series(parallel(giflossyTask, guetzliTask), mozjpegTask); // compress images
 exports.default = series(cssTask, watchTask);

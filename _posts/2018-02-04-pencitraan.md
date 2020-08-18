@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/selfie.gif
+cover:  assets/images/selfie.webp
 navigation: True
 title: Halah.. Pencitraan!
 description: Do we need more time or do we need more disciplined with the time we have?
