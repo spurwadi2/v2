@@ -6,7 +6,7 @@ CNAME           : blog.purwadi.web.id
 title           : Sigit Purwadi's Blog
 description     : You're Nobody Until You're Talked About
 version         : v.2.7.0
-cover           : assets/images/sigit-purwadi-cover.webp
+cover           : assets/images/blog-cover-astro.webp
 #logo           : assets/images/logo/blog-logos.png
 logo_white      : assets/images/icons/icon-white.svg
 logo_dark       : assets/images/icons/icon-dark.svg
