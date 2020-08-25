@@ -43,7 +43,9 @@ Meskipun ternyata GIF yang kalian gunakan melebihi ukuran tersebut, gambar akan 
 
 Sedangkan untuk rasio, triknya adalah gunakan rasio kecil (*mis: 32px, 48px, 96px*), atau rasio sedang untuk mendapat kualitas gambar yang lebih halus.
 
-Karena pemilihan rasio gambar ini akan berbanding lurus dengan *size*-nya, maka usahakan tetap mempertimbangkan rasio terkecil untuk mendapat angka yang kecil pada ukuran gambarnya. Atau bisa juga dengan melakukan kompresi untuk mendapatkan ukuran gambar yang ditentukan (kurang dari 40kb).
+Karena pemilihan rasio gambar ini akan berbanding lurus dengan *size*-nya, maka usahakan tetap mempertimbangkan rasio terkecil untuk mendapat angka yang kecil pada ukuran gambar.
+
+Atau bisa juga dengan melakukan kompresi untuk mendapatkan ukuran gambar yang ditentukan (kurang dari 40kb).
 
 <abbr title="Trik kedua untuk avatar gerak di Twitter">Trik kedua</abbr> adalah jangan mengunggahnya melalui *official twitter client*, baik melalui aplikasi Twitter (Android/iOS) maupun web/mobile client-nya (melalui browser).
 
