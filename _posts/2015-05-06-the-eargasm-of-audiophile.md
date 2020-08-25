@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/audiophile.jpg
 navigation: True
-title: The Eargasm of Audiophile, Saatnya Manjakan Telinga
+title: The Eargasm of Audiophile
 description:
 tags: [hobbies]
 class: post-template
@@ -21,7 +21,7 @@ Sebelum kita mulai, ada yang tau apa itu audiophile? Atau mungkin ada dari kalia
 
 #### Audiophile
 
-Kalo menurut Wikipedia[^1], Audiophile (Latin:audio “mendengar” dan Yunani:philos “kasih”), adalah orang yang ,memiliki hobi mencari kualitas reproduksi audio yang tinggi melalui penggunaan komponen khusus high-end audio elektronik.
+Kalo menurut Wikipedia, **Audiophile** (Latin:audio “mendengar” dan Yunani:philos “kasih”) adalah orang yang memiliki hobi mencari kualitas reproduksi audio yang tinggi melalui penggunaan komponen khusus high-end audio elektronik.[^1]
 
 Audiophiles lebih memilih untuk mendengarkan musik pada tingkat kualitas yang sedekat mungkin dengan kinerja asli dengan mungkin menggunakan komponen high end. Komponen-komponen khusus meliputi turntable, digital-ke-analog konverter, pemerataan perangkat, preamplifier dan amplifier.
 

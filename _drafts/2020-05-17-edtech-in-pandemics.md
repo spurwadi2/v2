@@ -24,6 +24,12 @@ Fase ketiga,
 
 #### The Impact of COVID-19
 
+Pandemi Covid-19 masih berlangsung dan belum menemukan titik hentinya. Berbagai macam proyeksi dan versi analisis dari para ahli tidak kunjung memberi tanda kapan pandemi ini akan berakhir. Kenyataan bahwa penemuan vaksin baru membutuhkan waktu antara 12 – 18 bulan memaksa kita bersiap dengan kondisi yang paling buruk (Chen et al., 2020).
+
+Di tengah ketidakpastian ini, segala aspek kehidupan cenderung mengarah pada situasi kebiasaan baru. Himbauan pemerintah kepada masyarakat untuk bekerja dari rumah (*working for home*), menjaga jarak secara fisik (*social/physical distancing*), serta kebijakan beberapa daerah untuk melakukan karantina wilayah secara parsial telah membuat perubahan situasi yang baru di hampir semua aspek kehidupan. Kejadian wabah luar biasa ini sekaligus mendorong kajian dan praktik bekerja dari rumah dan belajar dari rumah (*study from home*) lebih cepat dari yang diimajinasikan sebelumnya (Wardhana, 2020).
+
+
+
 #### Freedom of Learning
 
 Pertama kali saya mendengar istilah ini, saya merasa skeptis. Cita-cita itu terasa terlalu ambisius untuk dilakukan mengingat latar belakang dan kondisi pendidikan nasional kita sangatlah beragam.
