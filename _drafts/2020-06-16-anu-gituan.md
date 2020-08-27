@@ -6,9 +6,9 @@ navigation: True
 title: Anu dan Gituan
 description: Kamu pernah "gituan" nggak? Gue bingung, kenapa kalo kita ngomong kata "gituan" yang terbayang pasti "gituan"? Padahal "gituan" itu apa sih?
 summary: Kamu pernah gituan nggak? Gue bingung, kenapa kalo kita ngomong kata "gituan" yang terbayang pasti "gituan"? Padahal "gituan" itu apa sih?
-tags: [random]
+tags: [personal]
 class: post-template
-subclass: 'post tag-random'
+subclass: 'post tag-personal'
 author: sigit
 comments: true
 mathjax:

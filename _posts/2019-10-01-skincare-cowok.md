@@ -68,10 +68,10 @@ Kalau kalian menjawab kulit wanita cenderung lebih halus daripada pria sebenarny
 
 Menurut beberapa artikel mengenai kulit pria, kulit kita umumnya lebih tebal 25% dibandingkan kulit wanita karena dipengaruhi oleh hormon androgen (testosteron). Hal ini membuat kulit pria cenderung tidak sesensitif kulit wanita dan cenderung tahan terhadap bahan-bahan aktif yang kuat.
 
-Makanya skincare untuk pria selalu lebih "keras" daripada skincare wanita. Sedangkan bagi pria dengan kulit sensitif tidak harus memakai skincare pria, mereka bisa memakai skincare wanita karena formulanya lebih lembut.
-
-![Kulit badak](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ceratotherium_simum_kwh_2.jpg/1200px-Ceratotherium_simum_kwh_2.jpg#small "Kulit badak")
+![Kulit badak](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ceratotherium_simum_kwh_2.jpg/1200px-Ceratotherium_simum_kwh_2.jpg "Kulit badak")
 <small>Kulit badak ([wiki: Badak](https://id.wikipedia.org/wiki/Badak))</small>
+
+Makanya skincare untuk pria selalu lebih "keras" daripada skincare wanita. Sedangkan bagi pria dengan kulit sensitif tidak harus memakai skincare pria, mereka bisa memakai skincare wanita karena formulanya lebih lembut.
 
 Kerapatan kolagen (komponen jaringan ikat yang menjaga elastisitas kulit) pria lebih rapat dibanding kulit wanita. Itulah sebabnya dikatakan bahwa kulit wanita lebih cepat menua daripada pria, bahkan bisa saja seorang wanita punya kulit 15 kali lebih tua daripada pria dengan umur yang sama. Namun paparan sinar UV juga bisa menyebabkan penuaan dini pada kulit pria. [^1]
 
@@ -102,7 +102,7 @@ Misalnya, jika kondisi kulitmu sensitif dan berminyak, pilihlah produk skincare 
 
 Berbeda dengan wanita, pria juga hanya membeli produk perawatan wajah yang mereka butuhkan. Jadi, jangan harap kami para pria bakal menggunakan serangkaian skincare di pagi atau malam hari seperti wanita.
 
-###### Berapa budget yang harus dipersiapkan?
+#### Budget yang harus dipersiapkan?
 
 Bicara soal bujet, sebenarnya gak sedikit pria yang akan memikirkan puluhan kali jika harus merogoh kocek banyak untuk membeli produk skincare.
 
@@ -110,7 +110,7 @@ Umumnya pria hanya akan membeli produk skincare yang benar-benar mereka butuhkan
 
 Sayang kan kalau udah beli produk perawatan wajah mahal-mahal, tapi ternyata gak cocok buat jenis kulitnya. Jadi, gak perlu sungkan bertanya ke pihak penjual jenis produk apa yang cocok untuk kalian.
 
-Setelah dihitung-hitung, berikut kisaran bujet yang biasa dikeluarkan pria untuk membeli produk perawatan wajah:
+Setelah dihitung-hitung, berikut kisaran budget yang biasa dikeluarkan pria untuk membeli produk perawatan wajah:
 
 ```golang
 Facial wash               :   Rp 30.000,00
@@ -128,7 +128,7 @@ Ingat! Murah bukan berarti murahan. Lagipula kalau ada produk perawatan wajah ya
 
 #### Men's Daily <u>BASIC</u> Skincare Routine
 
-##### 1. Cleansing
+###### 1. Cleansing
 
 Ada beberapa macam pembersih muka, ada yang berbentuk batangan (*bar soap*), cair, dan cream. Yang cream bisa berjenis facial wash, facial foam, atau facial scrub.
 
@@ -152,11 +152,13 @@ Untuk jenis *cream*, mungkin jenis ini yang paling banyak dipakai. Ada yang jeni
 
 Ritual ini cukup dilakukan sebanyak 2 kali dalam satu minggu. Fungsinya untuk mengangkat sel-sel kulit mati agar tak menumpuk dan membuat wajah terlihat gelap.
 
-##### 2. Toner
+###### 2. Toner
 
-Toner juga termasuk skincare dasar yang wajib digunakan pria setiap hari. Sebab, tak hanya bagus dalam membersihkan wajah secara tuntas, kandungan di dalamnya juga menyimpan sederet manfaat bagi kulit. Misalnya saja mampu menyeimbangkan pH kulit, menutrisi, hingga merawat wajah yang berminyak.
+Toner juga termasuk skincare dasar yang wajib digunakan pria setiap hari. Sebab, tak hanya bagus dalam membersihkan wajah secara tuntas, kandungan di dalamnya juga menyimpan sederet manfaat bagi kulit.
 
-##### 3. Moisturizing
+Misalnya saja mampu menyeimbangkan pH kulit, menutrisi, hingga merawat wajah yang berminyak.
+
+###### 3. Moisturizing
 
 Di pasaran sekarang banyak banget dijual pelembab untuk pria. Memang pembersih muka banyak yang sudah dilengkapi dengan emollient & cowok-cowok merasa sudah cukup dengan pakai pembersih muka saja.
 
@@ -166,7 +168,7 @@ Tapi apakah benar kulit berminyak nggak perlu pelembab? Tujuan memakai pelembab 
 
 Mengapa pelembab pria lebih menekankan pada oil control? Ya tentu saja karena kerja kelenjar minyak pada pria lebih tinggi daripada wanita. Pelembab wanita yang khusus kulit berminyak bisa jadi kurang efektif untuk pria.
 
-##### 4. Sunscreen
+###### 4. Sunscreen
 
 Guys, sinar ultraviolet itu memang berbahaya untuk kulit. Meskipun cowok kulitnya lebih "kebal" dari cewek terhadap penuaan dini, terlalu banyak kena sinar UV tetap bisa merusak kulit kalian.
 
@@ -186,7 +188,7 @@ Kalau melihat daftar skincare untuk pria di bagian sebelumnya, mungkin sebagian 
 
 Tapi tenang saja, berikut ini ada beberapa tips umum yang bisa tetap kalian aplikasikan kalau gak mau ribet menggunakan banyak skincare:[^2]
 
-##### 1. Perawatan wajah
+###### 1. Perawatan wajah
 
 Ada dua hal yang perlu kalian lakukan, yaitu rajin mencuci muka dan menggunakan pembersih muka untuk mencegah timbulnya jerawat.
 
@@ -194,13 +196,13 @@ Cuci muka yang baik untuk kulit adalah setidaknya dua kali dalam sehari, yaitu p
 
 Saat pulang beraktivitas, biasakan menggunakan toner untuk mengangkat kotoran di wajah. Apalagi bagi kalian yang pulang pergi dengan motor. Kalaupun wajah sudah terlanjur berjerawat, tetaplah rajin melakukan perawatan ini.
 
-##### 2. Minum air putih
+###### 2. Minum air putih
 
 Terdengar sepele ya? Tapi tips ini gak kalah pentingnya dengan rajin merawat muka. Supaya kulit terjaga kelembabannya, rajinlah minum air putih yang banyak. Minimal 2 liter air atau setara dengan 8 gelas air putih per hari.
 
 Sejalan dengan minum air, banyaklah makanan yang mengandung vitamin A, B, C, dan E yang banyak ditemukan pada buah dan sayur. Kandungan berbagai vitamin tersebut berguna banget untuk membuat kulit kalian tetap sehat.
 
-##### 3. Sunscreen is a must!
+###### 3. *Sunscreen is a must!*
 
 Khusus buat kalian yang tinggal di daerah terik atau sinar mataharinya menyengat, ada satu skincare yang wajib kalian pakai.
 
