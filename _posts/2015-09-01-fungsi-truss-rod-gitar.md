@@ -4,9 +4,8 @@ current: post
 cover:  assets/images/truss-rod-gitar.jpg
 navigation: True
 title: Fungsi Truss Rod pada Gitar
-description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
-summary: Leher gitar bengkok jangan keburu bilang kalo gitarnya rusak atau salah bantal, mungkin cuma setelan truss rod-nya yang kurang pas di hati.
-description:
+description: Truss rod adalah besi yang tertanam pada neck gitar untuk mengatur kelengkungan leher gitar.
+summary: Leher gitar bengkok jangan keburu bilang kalo gitarnya rusak atau salah bantal, mungkin cuma setelan truss rod-nya yang kurang pas.
 tags: [hobbies]
 class: post-template
 subclass: 'post tag-hobbies'
@@ -31,7 +30,8 @@ Bisa terjadi karena mutu kayu yang kurang bagus sehingga mudah tertarik ketegang
 
 Di bawah ini adalah contoh *truss rod* yang tertanam di dalam setang gitar:
 
-![Truss Rod](https://cdn-images-1.medium.com/max/1000/0*S6IUE573ONfAl27W.gif)
+![Besi tanam truss rod](https://cdn-images-1.medium.com/max/1000/0*S6IUE573ONfAl27W.gif "Besi tanam truss rod pada gitar")
+<small>Letak truss rod yang tertanam pada fingerboard</small>
 
 Seperti yang sudah saya tulis di atas, banyak faktor yang mempengaruhi setang gitar menjadi melengkung dan anda tidak perlu khawatir karena setang gitar yang melengkung sebetulnya dapat disetel lagi dengan melakukan beberapa penyeteman di *truss rod*-nya.
 
@@ -49,7 +49,7 @@ Ada berbagai macam truss rod yang beredar dipasaran, untuk itu saya akan memberi
 
 * *Single truss rod*
 * *Non-adjustable truss rod*
-* *Dual Action truss rod*
+* *Dual action truss rod*
 * *Double truss rod, dan lainnya.*
 
 #### Mengapa gitar perlu dipasangi *truss rod*?
@@ -64,22 +64,29 @@ Pada prinsipnya posisi setang gitar tak ubahnya seperti sebuah kurva atau lengku
 
 Berikut adalah contoh penyetelan *truss* yang longgar sehingga senar menarik kuat dan jarak senar jadi tinggi, karena posisi senar terlalu tinggi maka dapat menghambat sewaktu bermain gitar.
 
-![Truss rod longgar](https://cdn-images-1.medium.com/max/1000/0*Atyn6oni4jC7TaBT.jpg)
+![Truss rod longgar](https://cdn-images-1.medium.com/max/1000/0*Atyn6oni4jC7TaBT.jpg "Truss rod longgar")
+<small>Truss rod longgar</small>
 
 Bedakan dengan contoh penyetelan *truss rod* yang terlalu kencang, sehingga senar tertarik kebawah, hal ini dapat mengakibatkan senar tidak dapat berbunyi karena beradu dengan fret saat kita petik.
 
-![Truss rod kencang](https://cdn-images-1.medium.com/max/1000/0*CNzgpq9tqKEQG80y.jpg)
+![Truss rod kencang](https://cdn-images-1.medium.com/max/1000/0*CNzgpq9tqKEQG80y.jpg "Truss rod kencang")
+<small>Truss rod kencang</small>
 
 Contoh setelan yang ideal, di ujung agak rendah dan ditengah tidak terlalu tinggi sehingga senar dapat bervibrasi. Akan tetapi hal ini tidak mutlak seperti yang saya katakan, tergantung keenakan masing-masing.
 
-![Truss rod ideal](https://cdn-images-1.medium.com/max/1000/0*Bq5rHJ8IRqR0-yNc.jpg)
+![Truss rod ideal](https://cdn-images-1.medium.com/max/1000/0*Bq5rHJ8IRqR0-yNc.jpg "Truss rod ideal")
+<small>Truss rod ideal</small>
 
 Alat yang diperlukan untuk menyetel cuma **kunci L** guna memutar besi dan sebuah obeng guna membuka mika penutup jika diperlukan. Penyetelannya akan saya utarakan secara singkat, detailnya pada artikel yang lain di web ini.
 
-![Kunci L](https://static.keymusic.com/products/106674/XL/martin-13wr0001-two-way-truss-rod-wrench.jpg)
-
-![](https://www.taylorguitars.com/sites/default/files/styles/featured_media/public/Truss%20rod%20app%201.jpg)
+![Kunci L](https://static.keymusic.com/products/106674/XL/martin-13wr0001-two-way-truss-rod-wrench.jpg#small "Kunci L")
+<small>Kunci L</small>
 
 Gunakan kunci L untuk memutar *truss rod* sehingga kelengkungan dapat diubah menurut kemauan kita. Lakukan dengan hati-hati, biasanya agak keras sewaktu memutarnya. Tekan fret pertama dan fret di ujung di mana setang dan bodi gitar bertemu.
 
+![Cara menyetel truss rod](https://www.taylorguitars.com/sites/default/files/styles/featured_media/public/Truss%20rod%20app%201.jpg "Cara menyetel truss rod")
+<small>Cara menyetel truss rod</small>
+
 Lihat dari samping gitar maka anda bisa memperkirakan posisi kelengkungan yang diperlukan.
+
+Apabila terdapat jarak antara senar dengan fret berarti neck-nya bengkok cekung, tapi jika tidak ada jarak antara senar dengan fret atau senar menempel semua dari fret 1 sampai fret 14 berarti kemungkinan neck tersebut lurus atau malah cembung.
