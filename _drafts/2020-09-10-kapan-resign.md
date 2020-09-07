@@ -20,11 +20,11 @@ Berdasarkan pengalaman, ada beberapa hal yang harus diperhatikan sebelum mengund
 
 * Resignlah ketika kamu muak dengan perpolitikan kantor yang tidak sehat.
 
-* Resignlah ketika kamu menemukan pijakan baru yang jelas yang lebih menjanjikan, semisal pindah perusahaan dan sudah mengantongi kontrak di perusahaan baru. Jangan resign dengan tujuan memulai bisnis yang bahkan belum menghasilkan uang. Kecuali tabunganmu sudah berlimpah
+* Resignlah ketika kamu menemukan pijakan baru yang jelas yang lebih menjanjikan, semisal pindah perusahaan dan sudah mengantongi kontrak di perusahaan baru. Jangan resign dengan tujuan memulai bisnis yang bahkan belum menghasilkan uang. Kecuali tabunganmu sudah berlimpah.
 
-* Resignlah setelah THR- an atau bonusan di perusahaan yang kamu tinggalkan. Pastikan mencari tahu waktu Bonusan atau THR-an dengan tepat.
+* Resignlah setelah THR-an atau bonusan di perusahaan yang kamu tinggalkan. Pastikan mencari tahu waktu bonusan atau THR-an dengan tepat.
 
-* Resign di akhir tahun, dan memulai pekerjaan di tempat baru di awal tahun lebih baik mengingat ada SPT yang harus kamu laporkan nantinya. Melaporkan SPT dengan 2 lembaran Bukti Potong pasti membingungkan.
+* Resign di akhir tahun, dan memulai pekerjaan di tempat baru di awal tahun lebih baik mengingat ada SPT yang harus kamu laporkan nantinya. Melaporkan SPT dengan 2 lembaran bukti potong pasti membingungkan.
 
 Pastikan kamu lakukan tips di atas dengan korelasi AND bukan OR, jadi pastikan semuanya bener-bener ada dan terbukti, barulah putuskan untuk menyerahkan surat cinta ke Bos.
 

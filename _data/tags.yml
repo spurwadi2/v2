@@ -1,7 +1,7 @@
 academic:
   name: academic
-  title: The Academic Rollercoaster
-  description: False
+  title: The Academic University
+  description: The pleasures (and occasional pains) of academic writing and publishing.
   cover: False
 advice:
   name: advice
@@ -23,6 +23,11 @@ cogito:
   title: Cogito Ergo Cool
   description: I think, therefore I am cool (⌐■_■)
   cover: assets/images/cogito.jpg
+creativity:
+  name: creativity
+  title: Getting Art Done
+  description: The public exploration of how creativity gets done.
+  cover: False
 data:
   name: data
   title: Data Is Beautiful
@@ -30,8 +35,8 @@ data:
   cover: False
 design:
   name: design
-  title: Design Porn
-  description: False
+  title: Inspiration Supply
+  description: A daily dose of design inspiration to boost your creativity.
   cover: False
 edtech:
   name: edtech
@@ -119,6 +124,11 @@ personal:
 politics:
   name: politics
   title: Election Reflections
+  description: Political reflections from an independent perspective.
+  cover: False
+psychology:
+  name: psychology
+  title: Psychology
   description: False
   cover: False
 random:
@@ -131,6 +141,11 @@ relationshit:
   title: Relation<strike>ship</strike>shit!
   description: When a relationship gone terribly wrong~
   cover: assets/images/relationshit.webp
+research:
+  name: research
+  title: Research Summaries
+  description: Understand the research in a digestible format
+  cover: False
 review:
   name: review
   title: Review
@@ -146,6 +161,11 @@ self-discovery:
   title: The Journey of Self-Discovery
   description: A story about how I was changed into the person I am today.
   cover: assets/images/self-discovery.jpeg
+skills:
+  name: skills
+  title: Life skills
+  description: Real-world skills for adults
+  cover: False
 speeches:
   name: speeches
   title: Speeches
@@ -156,6 +176,11 @@ to-myself:
   title: Letters to Myself 💌
   description: Letters to a younger you, letters to an older-self, explore the possibilities of writing to yourself. 
   cover: assets/images/letters-to-myself.jpg
+university:
+  name: university
+  title: Universities and scholars
+  description: "Reflections on the postgraduate experience: academic writing, PhD progress (or lack thereof…), supervision, learning to teach, career progression."
+  cover: False
 webmaster:
   name: webmaster
   title: The Webmaster Diaries

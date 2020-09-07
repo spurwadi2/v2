@@ -3,9 +3,11 @@ layout: post
 current: post
 cover:  assets/images/no-cover.webp
 navigation: True
-title: Tentang Jurusan Kurikulum dan Teknologi Pendidikan
+title: YAML 'Post' Template
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+date: 2009-01-01 00:00:00
+modified: 2009-01-02 00:00:00
 tags: [draft]
 class: post-template
 subclass: 'post tag-draft'
@@ -14,17 +16,7 @@ comments: true
 mathjax:
 ---
 
-#### Siapa TP?
-
-#### Belajar apa?
-
-Teknologi pendidikan adalah ilmu terapan, jadi ga heran kalo ada banyak teori/ilmu dari berbagai bidang yang akan dipelajari saat kuliah.
-
-#### Kawasan Teknologi Pendidikan
-
-#### Bagaimana Peluang dan Prospek Karir
-
-
+Seringkali kita berburu referensi di google scholar dan menemukan referensi-referensi menarik tapi kemudian akses-nya terbatas hanya di abstrak. Hal ini biasanya terjadi karena institusi/universitas tidak berlangganan jurnal tersebut. Dua tips berikut dapat anda coba:
 
 
 
