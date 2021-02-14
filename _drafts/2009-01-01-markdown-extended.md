@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/markdown.jpeg
+cover:  assets/images/cover/markdown.jpeg
 navigation: True
 title: Markdown Extended Syntax
 description: Advanced features that build on the basic Markdown syntax
 summary: Advanced features that build on the basic Markdown syntax
-tags: [webmaster]
+tags: [coding]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-coding'
 author: artcytech
 comments: true
 mathjax:

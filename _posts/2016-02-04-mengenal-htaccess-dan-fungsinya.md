@@ -1,12 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/htaccess.png
+cover:  assets/images/cover/htaccess.png
 navigation: True
 title: Mengenal .htaccess dan Fungsinya
-tags: [webmaster]
+description: File .htaccess adalah file konfigurasi yang disediakan oleh web server Apache yang biasanya digunakan untuk mengubah pengaturan default dari Apache.
+summary: File .htaccess adalah file konfigurasi yang disediakan oleh web server Apache yang biasanya digunakan untuk mengubah pengaturan default dari Apache.
+tags: [coding]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-coding'
 author: artcytech
 comments: true
 ---

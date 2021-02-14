@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/equation.jpg
+cover:  assets/images/cover/latex.png
 navigation: True
 title: Mengenal LaTeX
 description: Dalam dunia karya tulis ilmiah, Latex merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, artikel wajib ditulis dalam format LaTex.
 summary: Dalam dunia karya tulis ilmiah, Latex merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, artikel wajib ditulis dalam format LaTex.
-tags: [edtech]
+tags: [academic]
 class: post-template
-subclass: 'post tag-technologeek'
+subclass: 'post tag-academic'
 author: sigit
 mathjax: true
 comments: true

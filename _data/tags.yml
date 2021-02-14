@@ -2,7 +2,7 @@ academic:
   name: academic
   title: The Academic University
   description: The pleasures (and occasional pains) of academic writing and publishing.
-  cover: assets/images/academic-writing.webp
+  cover: assets/images/topic/academic-writing.webp
 advice:
   name: advice
   title: Advice for 20-Somethings
@@ -12,17 +12,17 @@ android:
   name: android
   title: Yeet! Android!
   description: Everything to do with our favorite little green robot
-  cover: assets/images/android.jpg
+  cover: assets/images/topic/android.jpg
 coding:
   name: coding
   title: '❯_ Artcytech Dev.'
   description: Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.
-  cover: assets/images/dev.webp
+  cover: assets/images/topic/dev.webp
 cogito:
   name: cogito
   title: Cogito Ergo Cool
   description: I think, therefore I am cool (⌐■_■)
-  cover: assets/images/cogito.jpg
+  cover: assets/images/topic/cogito.jpg
 creativity:
   name: creativity
   title: Getting Art Done
@@ -42,21 +42,21 @@ edtech:
   name: edtech
   title: 'EdTech: The Future of Learning'
   description: Technology has impacted almost every aspect of life today, and education is no exception.
-  cover: assets/images/edtech.jpeg
+  cover: assets/images/topic/edtech.jpeg
 financial:
   name: financial
   title: Making of a Millionaire 💰
   description: Publishing stories on all things related to personal finance and financial freedom
-  cover: assets/images/financial.webp
+  cover: assets/images/topic/financial.webp
 food:
   name: food
   title: Heated
   description: Food from every angle for most delicious blog ever
-  cover: assets/images/food-heated.webp
+  cover: assets/images/topic/food-heated.webp
 futurist:
   name: futurist
   title: The Future Present
-  description: Stories of the Future Present
+  description: Future(s) studies and speculation about the development of humanity, technology, and civilization.
   cover: False
 gaming:
   name: gaming
@@ -72,7 +72,7 @@ history:
   name: history
   title: 🔥 Blast From The Past 🔥
   description: History do repeat itself.. Those who cannot remember the past are condemned to repeat it.
-  cover: assets/images/bftp.jpg
+  cover: assets/images/topic/bftp.jpg
 hobbies:
   name: hobbies
   title: No Passion Project 🎸
@@ -91,12 +91,12 @@ islam:
   name: islam
   title: Deen Al-Islam
   description: Islam isn't a hard religion, people make it hard. Islam is a light religion, but should not be taken lightly.
-  cover: assets/images/islam.jpg
+  cover: assets/images/topic/islam.jpg
 komodos:
   name: komodos
   title: Indonesia Mooië 🇮🇩
   description: The 'Spice Island' that Columbus was looking for..
-  cover: assets/images/comodo-dragon.jpg
+  cover: assets/images/topic/komodo.jpg
 linux:
   name: linux
   title: I ❤️ Linux++
@@ -106,12 +106,12 @@ mensplainr:
   name: mensplainr
   title: The Y Chromosome
   description: Mansplaining, but to men. Creating spaces to engage men and boys in conversations around gender.
-  cover: assets/images/mensplain.jpg
+  cover: assets/images/topic/mensplain.jpg
 millennials:
   name: millennials
   title: Millennials Rising
   description: Instead to judge, why not start to listen to us and read what we got to tell, what bothers us and what success in our eyes looks like?
-  cover: assets/images/millennials.png
+  cover: assets/images/topic/millennials.png
 pcmasterrace:
   name: pcmasterrace
   description: False
@@ -120,7 +120,7 @@ personal:
   name: personal
   title: Personal Scribblings
   description: Writing which speaks to the experience of the self and which resonates with the cynical, the bitter, and the alienated.
-  cover: assets/images/personal-story.jpg
+  cover: assets/images/topic/personal-story.jpg
 politics:
   name: politics
   title: Election Reflections
@@ -135,12 +135,12 @@ random:
   name: random
   title: Happily Sleep-Deprived
   description: A safe haven for late night thoughts, journal memories, aspirations and stories among many other random things.
-  cover: assets/images/night-thoughts.webp
+  cover: assets/images/topic/night-thoughts.webp
 relationshit:
   name: relationshit
   title: Relation<strike>ship</strike>shit!
   description: When a relationship gone terribly wrong~
-  cover: assets/images/relationshit.webp
+  cover: assets/images/topic/relationshit.webp
 research:
   name: research
   title: Research Summaries
@@ -155,27 +155,22 @@ school:
   name: school
   title: Memoirs of School
   description: Hating school when you are in it is normal but once you leave you will surely miss it then
-  cover: assets/images/memoir-of-school.jpg
+  cover: assets/images/topic/memoir-of-school.jpg
 self-discovery:
   name: self-discovery
   title: The Journey of Self-Discovery
   description: A story about how I was changed into the person I am today.
-  cover: assets/images/self-discovery.jpeg
+  cover: assets/images/topic/self-discovery.jpeg
 skills:
   name: skills
   title: Life skills
   description: Real-world skills for adults
   cover: False
-speeches:
-  name: speeches
-  title: Speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
 to-myself:
   name: to-myself
   title: Letters to Myself 💌
   description: Letters to a younger you, letters to an older-self, explore the possibilities of writing to yourself. 
-  cover: assets/images/letters-to-myself.jpg
+  cover: assets/images/topic/letters-to-myself.jpg
 university:
   name: university
   title: Universities and scholars
@@ -185,7 +180,7 @@ webmaster:
   name: webmaster
   title: The Webmaster Diaries
   description: We are all apprentices in a craft where no one ever becomes a master
-  cover: assets/images/gandalf-webmaster.jpg
+  cover: assets/images/topic/gandalf-webmaster.jpg
 windows:
   name: windows
   title: Windows
@@ -195,7 +190,7 @@ writing:
   name: writing
   title: The Writing Cooperative
   description: A million monkeys randomly typing Shakespeare
-  cover: assets/images/typing-monkey.jpg
+  cover: assets/images/topic/typing-monkey.jpg
 zoomers:
   name: zoomers
   title: The Gen Z Narrative

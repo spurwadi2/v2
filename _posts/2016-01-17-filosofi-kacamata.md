@@ -1,9 +1,11 @@
 ---
 layout: post
 current: post
-cover:  assets/images/glasses.jpg
+cover:  assets/images/cover/glasses.jpg
 navigation: True
 title: Filosofi Kacamata
+description: Semua benda di dunia ini diciptakan mempunyai manfaat masing-masing. Tidak ada sebuah benda pun yang diciptakan tanpa adanya fungsi tertentu..
+summary: Semua benda di dunia ini diciptakan mempunyai manfaat masing-masing. Tidak ada sebuah benda pun yang diciptakan tanpa adanya fungsi tertentu.
 tags: [cogito]
 class: post-template
 subclass: 'post tag-cogito'

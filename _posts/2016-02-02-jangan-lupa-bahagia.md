@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/asalkan-kau-bahagia.jpg
+cover:  assets/images/cover/bahagia.jpg
 navigation: True
 title: Jangan lupa bahagia yaa..
 description: Mungkin ini pesan kuat yang selama ini saya pribadi coba gaungkan dalam tulisan-tulisan sederhana di blog ini. Pesan yang lebih banyak memang untuk mengingatkan diri sendiri. 

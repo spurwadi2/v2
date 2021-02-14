@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/markdown.jpeg
+cover:  assets/images/cover/markdown.jpeg
 navigation: True
 title: Markdown Basic Syntax
 description: Using Markdown doesn't mean that you can't also use HTML.
 summary: Using Markdown doesn't mean that you can't also use HTML.
-tags: [webmaster]
+tags: [coding]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-coding'
 author: artcytech
 comments: true
 mathjax:

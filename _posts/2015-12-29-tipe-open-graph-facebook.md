@@ -1,12 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/facebook-og.png
+cover:  assets/images/cover/facebook-og.png
 navigation: True
 title: Facebook Open Graph
-tags: [webmaster]
+description: Open Graph Protocol adalah format meta tags pada header yang berfungsi untuk menampilkan objek konten halaman website ke media social facebook.
+summary: Open Graph Protocol adalah format meta tags pada header yang berfungsi untuk menampilkan objek konten halaman website ke media social facebook.
+tags: [coding]
 class: post-template
-subclass: 'post tag-webmaster'
+subclass: 'post tag-coding'
 author: artcytech
 comments: true
 ---
