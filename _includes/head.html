@@ -2,10 +2,12 @@
     <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }} &ndash; {{ site.title }}{% else %}{{ site.title }} &ndash; {{ site.description }}{% endif %}</title>
     <meta name="description" content="{% include dynamic_site_description.html %}" />
     <meta name="keywords" content="{% if page.tags %}{{ page.tags | first | capitalizeall }}, {% endif %}Sigit Purwadi, Sigit Blog, Sigit Purwadi Blog, edutech, edtech indonesia, edtech startup, teknologi pendidikan, blogger indonesia, yogyakarta, jogja, jogjakarta">
-    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
+    <link rel="shortcut icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" />
     <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ site.baseurl }}feed.xml" />
     <link rel="alternate" type="application/atom+xml" title="RSS Feed for {{ site.title }}" href="{{ site.baseurl }}atom.xml" />
+    <link rel="me" href="https://twitter.com/S_Purwadi" />
+    <link rel="me" href="https://mastodon.social/@S_Purwadi" />
     {% if site.google_plus %}<link rel="author" href="{{ site.google_plus }}?rel=author">{% endif %}
 
     <!-- Open graph data for social media sharing -->
