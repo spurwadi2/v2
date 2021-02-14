@@ -2,7 +2,7 @@ academic:
   name: academic
   title: The Academic University
   description: The pleasures (and occasional pains) of academic writing and publishing.
-  cover: False
+  cover: assets/images/academic-writing.webp
 advice:
   name: advice
   title: Advice for 20-Somethings
