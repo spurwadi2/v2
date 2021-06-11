@@ -3,7 +3,6 @@
   "version": "2.4.0",
   "description": "Sigit Purwadi's Blog",
   "main": "gulpfile.js",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "6.3.6",
     "cssnano": "^4.1.10",
