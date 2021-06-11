@@ -6,9 +6,9 @@ navigation: True
 title: Kapan Waktu Terbaik Untuk Resign?
 description: Berdasarkan pengalaman, berikut beberapa hal yang harus diperhatikan sebelum mengundurkan diri dari suatu pekerjaan.
 summary: Berdasarkan pengalaman, berikut beberapa hal yang harus diperhatikan sebelum mengundurkan diri dari suatu pekerjaan.
-tags: [zoomers]
+tags: [gen-yz]
 class: post-template
-subclass: 'post tag-zoomers'
+subclass: 'post tag-gen-yz'
 author: sigit
 comments: true
 mathjax:

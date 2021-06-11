@@ -6,9 +6,9 @@ navigation: True
 title: Membuat Laporan SPT
 description: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!
 summary: Sebagai warga negara yang baik dan generasi muda yang bertanggungjawab, selain membayar pajak ada satu lagi kewajiban yang harus dilakukan, yaitu melaporkan!
-tags: [millennials]
+tags: [gen-yz]
 class: post-template
-subclass: 'post tag-millennials'
+subclass: 'post tag-gen-yz'
 author: sigit
 comments: true
 mathjax:

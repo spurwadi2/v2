@@ -4,9 +4,9 @@ current: post
 cover:  assets/images/warren-buffet-quote.jpg
 navigation: True
 title: Mengapa Kita Membeli Barang yang Sebenarnya Tidak Diperlukan?
-tags: [millennials]
+tags: [financial]
 class: post-template
-subclass: 'post tag-millennials'
+subclass: 'post tag-financial'
 author: sigit
 comments: true
 mathjax:

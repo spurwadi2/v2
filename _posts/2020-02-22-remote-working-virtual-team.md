@@ -6,9 +6,9 @@ navigation: True
 title: Towards Remote Working and Virtual Team
 description: Tumbuhnya industri kreatif, pemanfaatan teknologi serta transformasi digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
 summary: Tumbuhnya industri kreatif, pemanfaatan teknologi serta transformasi digital mendorong konsep bekerja yang tidak terikat pada 'place' dan 'space' secara fisik.
-tags: [millennials]
+tags: [gen-yz]
 class: post-template
-subclass: 'post tag-millennials'
+subclass: 'post tag-gen-yz'
 author: sigit
 comments: true
 mathjax:

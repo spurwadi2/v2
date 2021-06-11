@@ -20,11 +20,11 @@ coding:
   cover: assets/images/topic/dev.webp
 cogito:
   name: cogito
-  title: Cogito Ergo Cool
-  description: I think, therefore I am cool (⌐■_■)
+  title: Life of Thought
+  description: Celebrating knowledge! A place for a discussion of the ideas all around us in society, culture, philosophy, and more.
   cover: assets/images/topic/cogito.jpg
-creativity:
-  name: creativity
+creative:
+  name: creative
   title: Getting Art Done
   description: The public exploration of how creativity gets done.
   cover: False
@@ -63,6 +63,11 @@ gaming:
   title: Postmodern Gaming
   description: PMG is amalgamation of interesting new Steam/PC releases, personal blog posts, Twitch and YouTube interests, general gaming news, and whatever else can be crammed in here.
   cover: False
+gen-yz:
+  name: gen-yz
+  title: The New Gap
+  description: As explained by Gen Z and younger Millennials.
+  cover: assets/images/topic/millennials.png
 health:
   name: health
   title: Healthy Mind / Body / World
@@ -71,7 +76,7 @@ health:
 history:
   name: history
   title: 🔥 Blast From The Past 🔥
-  description: History do repeat itself.. Those who cannot remember the past are condemned to repeat it.
+  description: To power a better tomorrow, it’s never been more important to harness lessons from the past.
   cover: assets/images/topic/bftp.jpg
 hobbies:
   name: hobbies

@@ -6,9 +6,9 @@ navigation: True
 title: Yogyakarta Low End Living
 description: Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, saatnya untuk menjalani gaya hidup low end!
 summary: Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, saatnya untuk menjalani gaya hidup low end!
-tags: [millennials]
+tags: [gen-yz]
 class: post-template
-subclass: 'post tag-millennials'
+subclass: 'post tag-gen-yz'
 author: sigit
 comments: true
 ---

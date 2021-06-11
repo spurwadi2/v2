@@ -6,9 +6,9 @@ navigation: True
 title: Kopitalisme dan Budaya dalam Secangkir Kopi
 description: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
 summary: Kita ngopi di coffee shop untuk menunjukkan bahwa kebudayaan kita berbeda dengan orang yang hanya ngopi di warkop, atau kita lebih berbudaya daripada mereka yang cuma nyruput kopi sachet di rumah.
-tags: [millennials]
+tags: [gen-yz]
 class: post-template
-subclass: 'post tag-millennials'
+subclass: 'post tag-gen-yz'
 author: sigit
 comments: true
 mathjax:
