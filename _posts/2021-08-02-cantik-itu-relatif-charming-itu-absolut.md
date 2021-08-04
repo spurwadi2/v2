@@ -99,7 +99,7 @@ Selanjutnya, bagaimana cara menjadi <i>charming</i>? Untuk yang ini saya juga ma
 
 [^4]: Pfann, G., Biddle, J., Hamermesh, D., & Bosman, C. M. (2000). Business success and businesses’ beauty capital. <i>Economics Letters</i>, 67(2), 201–207. [https://doi.org/10.1016/S0165-1765(99)00255-4](https://doi.org/10.1016/S0165-1765(99)00255-4)
 
-[^5]: Borland, J., & Leigh, A. (2013). Unpacking the Beauty Premium: What Channels Does It Operate Through, and Has It Changed Over Time? Economic Record, 90(288), 17–32. [https://doi.org/10.1111/1475-4932.12091](https://doi.org/10.1111/1475-4932.12091)
+[^5]: Borland, J., & Leigh, A. (2013). Unpacking the Beauty Premium: What Channels Does It Operate Through, and Has It Changed Over Time?. <i>Economic Record</i>, 90(288), 17–32. [https://doi.org/10.1111/1475-4932.12091](https://doi.org/10.1111/1475-4932.12091)
 
 [^6]: Harper, B. (2000). Beauty, Stature and the Labour Market: A British Cohort Study. <i>Oxford Bulletin of Economics and Statistics</i>, 62(s1), 771–800. [https://doi.org/10.1111/1468-0084.0620s1771](https://doi.org/10.1111/1468-0084.0620s1771)
 
