@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/cover/Kim-So-Hyun.webp
 navigation: True
 title: Cantik Itu Relatif, Tapi Charming Itu Absolut
-description: Ada yang menurut saya cantik, tapi tidak menarik. Namun ada juga yang sebenarnya kurang cantik, tapi kok ya sangat menarik.
-summary:  Ada yang menurut saya cantik, tapi tidak menarik. Namun ada juga yang sebenarnya kurang cantik, tapi kok ya sangat menarik.
+description: Ada yang menurut saya cantik, tapi tidak menarik. Namun ada juga yang sebenarnya kurang cantik, tapi kok ya sangat menarik..
+summary:  Ada yang menurut saya cantik, tapi tidak menarik. Namun ada juga yang sebenarnya kurang cantik, tapi kok ya sangat menarik..
 tags: [mensplainr]
 class: post-template
 subclass: 'post tag-mensplainr'
@@ -56,7 +56,7 @@ Hanya saja untuk mengambil kesimpulan definitif bahwa memang benar dunia hanya b
 
 Sebenarnya, apa itu <i>beautiful</i>? Apa itu ganteng atau cantik? Lupakan perdebatan tentang apakah persepsi kita tentang kegantengan/kecantikan itu konstruksi sosial atau diberikan secara alamiah.
 
-Skripsinya mbak Dian Sastro pada 2007, menunjukkan bahwa kecantikan adalah suatu bentuk konstruksi sosial yang melibatkan permainan politik tertentu [^9]. Saya tidak tahu, yang saya tahu ialah mbak Dian Sastro menurut saya cukup cantik, entah itu karena konstruksi sosial atau memang pendapat alamiah saja. Yang jelas, riset tentang <i>cross-cultural beauty ratings</i> menunjukkan, dalam bahasa King & Leigh, *beauty is not in the eye of the beholder*.
+Skripsinya Dian Sastro pada 2007, menunjukkan bahwa kecantikan adalah suatu bentuk konstruksi sosial yang melibatkan permainan politik tertentu [^9]. Saya tidak tahu, yang saya tahu ialah mbak Dian menurut saya cukup cantik, entah itu karena konstruksi sosial atau memang pendapat alamiah saja. Yang jelas, riset tentang <i>cross-cultural beauty ratings</i> menunjukkan, dalam bahasa King & Leigh, *beauty is not in the eye of the beholder*.
 
 Tapi bukankah cantik itu relatif, seperti dalih orang-orang?
 
@@ -64,7 +64,7 @@ Ya, bisa jadi.. Di level mikro-individual saya menilai [Anya Taylor-Joy](https:/
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m pretty sure that I look at her the same way.</p>&mdash; Nobody Nearby (@sgitsp) <a href="https://twitter.com/sgitsp/status/1367879799427854336?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Namun jika disurvei pada level makro, secara aggregat bisa kita dapatkan, misalnya nilai @anyataylorjoy adalah <b>X</b> sementara Fulanita itu <b>Y</b>, di mana <b>X > Y</b>, yang berarti @anyataylorjoy lebih cantik daripada Fulanita. Kesimpulan ini berlaku lintas budaya (Langlois et al., 2000)[^10].
+Namun jika disurvei pada level makro, secara aggregat bisa kita dapatkan, misalnya nilai Anya adalah <b>X</b> sementara Fulanita itu <b>Y</b>, di mana <b>X > Y</b>, yang berarti @anyataylorjoy lebih cantik daripada Fulanita. Kesimpulan ini berlaku lintas budaya (Langlois et al., 2000)[^10].
 
 Jadi, sebenarnya cukup aman menyimpulkan pada level makro bahwa <i>beauty is universal</i>, tidak peduli asal-usul penilaian itu, apakah konstruksi sosial atau alamiah.
 

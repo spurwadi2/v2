@@ -21,7 +21,7 @@ coding:
 cogito:
   name: cogito
   title: Life of Thought
-  description: Celebrating knowledge! A place for a discussion of the ideas all around us in society, culture, philosophy, and more.
+  description: A place for a discussion of the ideas all around us in society, culture, philosophy, and more..
   cover: assets/images/topic/cogito.jpg
 creative:
   name: creative
@@ -46,7 +46,7 @@ edtech:
 financial:
   name: financial
   title: Making of a Millionaire 💰
-  description: Publishing stories on all things related to personal finance and financial freedom
+  description: Publishing stories on all things related to personal finance and financial freedom.
   cover: assets/images/topic/financial.webp
 food:
   name: food
@@ -100,7 +100,7 @@ islam:
 komodos:
   name: komodos
   title: Indonesia Mooië 🇮🇩
-  description: The 'Spice Island' that Columbus was looking for..
+  description: The Spice Island that Columbus was looking for..
   cover: assets/images/topic/komodo.jpg
 linux:
   name: linux

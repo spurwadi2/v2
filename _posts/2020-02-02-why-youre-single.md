@@ -16,9 +16,9 @@ mathjax:
 
 Sebagian dari kalian yang ~~ngakunya~~ anak sekolah pasti pernah belajar ekonomi kan? Apalagi yang anak sosial (red: IPS)..
 
-Belajar ilmu ekonomi tidak lengkap rasanya kalo belum menyinggung perkara hukum permintaan (*demand*) dan penawaran (*supply*). Terus ada lagi teori elastisitas dan inelastisitas. Ya itu cuma contoh kecilnya saja dari sekian banyak teori-teori yang diajarkan di sekolah atau di kampus.
+Belajar ilmu ekonomi tidak lengkap rasanya kalo belum menyinggung perkara hukum permintaan (<i>demand</i>) dan penawaran (<i>supply</i>). Terus ada lagi teori elastisitas dan inelastisitas. Ya itu cuma contoh kecilnya saja dari sekian banyak teori-teori yang diajarkan di sekolah atau di kampus.
 
-Mungkin kalian sempat berpikir, "*Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~*" dan setelah itu kalian kabur dari sekolah buat ke warnet atau maen PS.
+Mungkin kalian sempat berpikir, "<i>Ngapain juga gw harus belajar ini, ga bakal berguna di kehidupan nyata~</i>" dan setelah itu kalian kabur dari sekolah buat ke rental PS atau ke warnet.
 
 Kalian ga gitu? Oh oke berarti cuma gue.. -_-
 
@@ -41,7 +41,7 @@ Berikut kurva dan contoh kasusnya:
 [![Kurva permintaan](assets/images/kurva-percintaan/demand.png "Kurva permintaan dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
 
-Natasha adalah cewe jomblo umur 23 tahun. Cantik, penyayang binatang, tinggi semampai dan okelah. Dia lagi ngambil program Master (S2) bidang Mikrobiologi di Amrik. Hobinya masak sama ngelukis. Kalo lagi senggang, ~~dibanding cuma rebahan aja kek klean~~ dia lebih suka baca buku dan nonton film item putih. Manis, baik hati, dan humoris. *uWu sekali~*
+Natasha adalah cewe jomblo umur 23 tahun. Cantik, penyayang binatang, tinggi semampai dan okelah. Dia lagi ngambil program Master (S2) bidang Mikrobiologi di Amrik. Hobinya masak sama ngelukis. Kalo lagi senggang, ~~dibanding cuma rebahan aja kek klean~~ dia lebih suka baca buku dan nonton film item putih. Manis, baik hati, dan humoris. <i>uWu sekali~</i>
 
 Sedangkan Dodi adalah cowo jomblo yang suka rebahan di umur 24 tahunnya. Muka pas-pasan, mandinya kalo mau pergi doang. Boro-boro kerja, S1 aja belom kelar. Hobinya tidur, gitaran, sama main gaple. Urakan, sembarangan, kalo ngutang suka gak bayar.
 
@@ -62,7 +62,7 @@ Kurvanya seperti ini:
 [![Kurva penawaran](assets/images/kurva-percintaan/supply.png "Kurva penawaran dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
 
-Lanjut dari contoh yang tadi, Natasha dengan segala ke-oke-annya pasti dianggep sebagai *high-quality jomblo*. Karena dia super oke, banyak yang naksir sama dia dan pengen jadi pacarnya. Ya taro lah ada 20 gitu..
+Lanjut dari contoh yang tadi, Natasha dengan segala ke-oke-annya pasti dianggep sebagai <i>high-quality jomblo</i>. Karena dia super oke, banyak yang naksir sama dia dan pengen jadi pacarnya. Ya taro lah ada 20 gitu..
 
 Sedangkan si Dodi, karena kualitasnya dia yaa.. kalian tau sendiri, siapa sih yang mau sama dia. Dikit doang kan. Kita kasih angka 5.
 
@@ -70,16 +70,16 @@ Cukup Jelas kan? Oke lanjut!
 
 #### Equilibrium
 
-Titik *equilibrium* adalah posisi di mana *demand* dan *supply* akan bertemu.
+Titik *equilibrium* adalah posisi di mana <i>demand</i> dan <i>supply</i> akan bertemu.
 
-Ini ibarat gayung bersambut kalo dalam dunia perbucinan. Apa yang kamu cari pas dengan yang mencari kamu. *Ciee.. akhirnya..*
+Ini ibarat gayung bersambut kalo dalam dunia perbucinan. Apa yang kamu cari pas dengan yang mencari kamu. <i>Ciee.. akhirnya..</i>
 
 Kalo dibikin kurva, kira-kira begini:
 
 [![Kurva equilibrium](assets/images/kurva-percintaan/equilibrium.png "Kurva equilibrium dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
 
-Natasha sama Dodi, titik *demand* sama *supply*-nya kan ga ketemu tuh. Artinya apa? Ya artinya mereka masih jomblo lah..
+Natasha sama Dodi, titik <i>demand</i> sama <i>supply</i>-nya kan ga ketemu tuh. Artinya apa? Ya artinya mereka masih jomblo lah..
 
 Natasha sih yang naksir banyak, tapi dia jual mahal gitu, gimana mau jadi. Sedangkan si Dodi, dia sih anaknya obralan, tapi gak ada yang mau sama dia. Akhirnya ya gak ada yang jadi juga. Hehe..
 
@@ -89,7 +89,7 @@ Natasha sih yang naksir banyak, tapi dia jual mahal gitu, gimana mau jadi. Sedan
 
 Baiklah sekarang kita akan bahas teori selanjutnya yang sedikit lebih rumit, yaitu tentang elastisitas kaum jomblo.
 
-Kalo dalam ilmu ekonomi, **elastisitas demand/supply** itu adalah seberapa besar <mark>perubahan kuantitas</mark> yang di *demand/supply* apabila terjadi <mark>perubahan harga</mark>.
+Kalo dalam ilmu ekonomi, *elastisitas demand/supply* itu adalah seberapa besar <mark>perubahan kuantitas</mark> yang di *demand/supply* apabila terjadi <mark>perubahan harga</mark>.
 
 Terus bagaimana jika diterapkan dalam dunia perbucinan?
 
@@ -102,7 +102,7 @@ Kalo sebelumnya ada si Dodi sama Natasha yang udah cukup kita pergunjingkan, jad
 [![Kurva elastistitas](assets/images/kurva-percintaan/elastisitas.png "Kurva elastisitas dalam percintaan")](#media)
 <small>Images credit goes to their respective owners</small>
 
-Katakanlah karena suatu hal, Sinta dan Didit mengalami kenaikan nilai. Mungkin mereka baru menang undian 1 Miliar dari produk sabun colek, atau muka mereka jadi tambah *glowing* karena abis kena air wudhu, menjaga pola makan, dan rutin skinker-an. Yang jelas nilai mereka naik dari <b>P1</b> ke <b>P2</b>.
+Katakanlah karena suatu hal, Sinta dan Didit mengalami kenaikan nilai. Mungkin mereka baru menang undian 1 Miliar dari produk sabun colek, atau muka mereka jadi tambah <i>glowing</i> karena abis kena air wudhu, menjaga pola makan, dan rutin skinker-an. Yang jelas nilai mereka naik dari <b>P1</b> ke <b>P2</b>.
 
 Terus gimana mereka menyikapi perubahan nilai tersebut?
 
@@ -110,9 +110,9 @@ Sinta merasa kenaikan nilai ini adalah sebuah prestasi luar biasa bagi dia. Harg
 
 Sementara Didit, dia anaknya santai-santai aja. Biarpun nilainya naik, dia tetap bersahaja seperti ajaran ~~Mama Dedeh~~ keluarga Cemara. Dia ngerasa kalo kenaikan nilai ini bukan apa-apa, dan bukan alasan untuk sombong karena kesempurnaan semata-mata hanya milih Tuhan YME. Makanya jumlah penurunan <b>Qd</b> pun cuma sedikit dibandingkan sama <b>Qs</b> punya si Sinta.
 
-Karena perubahan si Sinta lebih gede daripada Didit, bisa dibilang kalo Sinta lebih "*elastis*" daripada Didit.
+Karena perubahan si Sinta lebih gede daripada Didit, bisa dibilang kalo Sinta lebih "<i>elastis</i>" daripada Didit.
 
-Dari elastisitas ini, kita bisa mengidentifikasikan 2 macam jomblo yang ekstrim nih, yaitu **Jomblo Elastis Sempurna**, dan **Jomblo Inelastis Sempurna**.
+Dari elastisitas ini, kita bisa mengidentifikasikan 2 macam jomblo yang ekstrim nih, yaitu *Jomblo Elastis Sempurna*, dan *Jomblo Inelastis Sempurna*.
 
 #### Jomblo Elastisitas Sempurna
 
@@ -140,7 +140,7 @@ Maksudnya, mau nilai dia rendah di <b>P1</b> atau udah naek tinggi ke <b>P2</b>,
 
 Mungkin dia udah lama naksir sama <b>Q*</b> tapi sampe sekarang belom dapet-dapet jadinya mêntok di situ. Ato mungkin <b>Q*</b> itu dulu mantannya dan belom bisa move on. Ya kurang lebih begitu lah.. seterah klean deh mau gimana~
 
-Terakhir, sebagai saran aja sih kalo misalnya kamu udah ngerasa oke tapi masih jomblo juga, ya jangan terlalu *picky* jadi orang. Dan kalo kamu masih gak laku-laku padahal udah pasang standar yang B-aja *(red: biasa aja)*, cobalah introspeksi diri. Kalo kurang oke, usahakan gimana caranya biar jadi lebih oke.
+Terakhir, sebagai saran aja sih kalo misalnya kamu udah ngerasa oke tapi masih jomblo juga, ya jangan terlalu <i>picky</i> jadi orang. Dan kalo kamu masih gak laku-laku padahal udah pasang standar yang B-aja <i>(red: biasa aja)</i>, cobalah introspeksi diri. Kalo kurang oke, usahakan gimana caranya biar jadi lebih oke.
 
 Semoga bisa menambah wawasan kalian dalam teori/ilmu ekonomi, keterampilan mengarang cerita, dan keahlian dalam dunia perbucinan~
 
