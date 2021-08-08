@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/cover/Kim-So-Hyun.webp
+cover:  assets/images/cover/moody.webp
 navigation: True
 title: Cantik Itu Relatif, Tapi Charming Itu Absolut
 description: Ada yang menurut saya cantik, tapi tidak menarik. Namun ada juga yang sebenarnya kurang cantik, tapi kok ya sangat menarik..
