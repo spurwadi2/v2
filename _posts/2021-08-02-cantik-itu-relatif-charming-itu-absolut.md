@@ -56,7 +56,11 @@ Hanya saja untuk mengambil kesimpulan definitif bahwa memang benar dunia hanya b
 
 Sebenarnya, apa itu <i>beautiful</i>? Apa itu ganteng atau cantik? Lupakan perdebatan tentang apakah persepsi kita tentang kegantengan/kecantikan itu konstruksi sosial atau diberikan secara alamiah.
 
-Skripsinya Dian Sastro pada 2007, menunjukkan bahwa kecantikan adalah suatu bentuk konstruksi sosial yang melibatkan permainan politik tertentu [^9]. Saya tidak tahu, yang saya tahu ialah mbak Dian menurut saya cukup cantik, entah itu karena konstruksi sosial atau memang pendapat alamiah saja. Yang jelas, riset tentang <i>cross-cultural beauty ratings</i> menunjukkan, dalam bahasa King & Leigh, *beauty is not in the eye of the beholder*.
+Skripsinya Dian Sastro pada 2007, menunjukkan bahwa kecantikan adalah suatu bentuk konstruksi sosial yang melibatkan permainan politik tertentu [^9].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8571M_QFaU?start=1198" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Saya tidak tahu, yang saya tahu ialah mbak Dian menurut saya cukup cantik, entah itu karena konstruksi sosial atau memang pendapat alamiah saja. Yang jelas, riset tentang <i>cross-cultural beauty ratings</i> menunjukkan, dalam bahasa King & Leigh, *beauty is not in the eye of the beholder*.
 
 Tapi bukankah cantik itu relatif, seperti dalih orang-orang?
 
@@ -66,7 +70,7 @@ Ya, bisa jadi.. Di level mikro-individual saya menilai [Anya Taylor-Joy](https:/
 
 Namun jika disurvei pada level makro, secara aggregat bisa kita dapatkan, misalnya nilai Anya adalah <b>X</b> sementara Fulanita itu <b>Y</b>, di mana <b>X > Y</b>, yang berarti @anyataylorjoy lebih cantik daripada Fulanita. Kesimpulan ini berlaku lintas budaya (Langlois et al., 2000)[^10].
 
-Jadi, sebenarnya cukup aman menyimpulkan pada level makro bahwa <i>beauty is universal</i>, tidak peduli asal-usul penilaian itu, apakah konstruksi sosial atau alamiah.
+Jadi sebenarnya cukup aman menyimpulkan pada level makro bahwa <i>beauty is universal</i>, tidak peduli asal-usul penilaian itu, apakah konstruksi sosial atau alamiah.
 
 Pertanyaan berikutnya, bagaimana yang <i>beauty</i> itu? Apakah yang simetris-proporsional? Proporsional seperti apa? Atau mengikuti pendapat Oprah sewaktu mewawancara Charlize Theron, bahwa orang cantik adalah orang yang memiliki bentuk segitiga harmonis antara kedua mata, hidung dan bibir? (sudah, sudah, tak perlu mengecek diri dan melihat cermin 😄). Atau mengikuti Pramudya, bahwa kecantikan adalah susunan tulang yang baik dengan daging yang menempel secara proporsional?
 
