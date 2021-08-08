@@ -16,10 +16,10 @@
 			data-toggle="tooltip" title="Share on Twitter" itemprop="Twitter">
             {% include twitter-svg.html %}
         </a>
-        <a class="floating-header-share-fb" href="https://web.facebook.com/v3.3/dialog/share?app_id={{ site.facebook_app_id }}&display=page&href={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}?source=social.fb&redirect_uri={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
+        <a class="floating-header-share-fb" href="https://web.facebook.com/v3.3/dialog/share?app_id={{ site.facebook_app_id }}&display=page&href={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}?source=social.fb&quote={% if page.description %}{{ page.description | markdownify | strip_html | url_encode }}{% elsif excerpt %}{{ excerpt | url_encode }}{% else %}{{ site.description | url_encode }}{% endif %}&redirect_uri={{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" data-toggle="tooltip" title="Share on Facebook" itemprop="Facebook">
             {% include facebook-svg.html %}
         </a>
-        <a class="floating-header-share-wa" href="https://wa.me/?text=&#42;{{ page.title }}&#42;%0A%0A{% if page.description %}{{ page.description | markdownify | strip_html }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-wa" href="https://wa.me/?text=&#42;{{ page.title }}&#42;%0A%0A{% if page.description %}{{ page.description | markdownify | strip_html }}{% elsif excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}+{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: '/' }}"
             onclick="window.open(this.href, 'share-whatsapp','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Whatsapp" itemprop="Whatsapp">
             {% include whatsapp-svg.html %}
         </a>
