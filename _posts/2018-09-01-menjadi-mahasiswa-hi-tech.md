@@ -4,7 +4,8 @@ current: post
 cover:  assets/images/hi-tech-student.jpeg
 navigation: True
 title: Menjadi Mahasiswa 'Hi-Tech' Kekinian
-description: 
+description: Dari sekian banyak merk, jenis, tipe, dan kecanggihan teknologi yang ada, orang-orang termasuk pelajar dan mahasiswa saat ini justru tidak dapat memanfaatkan teknologi ini dengan maksimal. 
+summary: Dari sekian banyak merk, jenis, tipe, dan kecanggihan teknologi yang ada, orang-orang termasuk pelajar dan mahasiswa saat ini justru tidak dapat memanfaatkan teknologi ini dengan maksimal. 
 tags: [edtech]
 class: post-template
 subclass: 'post tag-edtech'
