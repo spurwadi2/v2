@@ -14,7 +14,7 @@
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="me noopener" title="@{{ site.twitter }} on Twitter">{% include twitter-svg.html %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/intent/follow?screen_name={{ site.twitter }}" target="_blank" rel="me noopener" title="@{{ site.twitter }} on Twitter">{% include twitter-svg.html %}</a>
             {% endif %}
             {% if site.facebook %}
                 <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="me noopener" title="Sigit Purwadi on Facebook">{% include facebook-svg.html %}</a>
