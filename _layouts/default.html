@@ -58,7 +58,8 @@ layout: compress
 
 </head>
 
-<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
+<!--<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">-->
+<body class="{% if paginator.page > 1 and page.current == 'author' %}archive-template{% elsif paginator.page > 1 %}home-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
     <div class="site-wrapper">
     <a id="top"></a>

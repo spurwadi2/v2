@@ -418,6 +418,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     .author-template .site-nav-right {
         display: none;
     }
+    .archive-template .subscribe-button {
+        display: none;
+    }
+    .archive-template .site-nav-right {
+        display: none;
+    }
 }
 
 @media (max-width: 500px) {
@@ -425,6 +431,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
         /*height: 35px;*/
     }
     .subscribe-button {
+        display: none;
+    }
+    .archive-template .subscribe-button {
+        display: none;
+    }
+    .archive-template .site-nav-right {
         display: none;
     }
 }
