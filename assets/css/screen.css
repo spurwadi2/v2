@@ -71,7 +71,7 @@ body {
 /* Centered content container blocks */
 .inner {
     margin: 0 auto;
-    max-width: 1040px;
+    max-width: 1200px; /*1040px;*/
     width: 100%;
 }
 
@@ -199,7 +199,7 @@ body {
     align-items: flex-start;
     overflow-y: hidden;
     height: 36px;
-    font-size: 1.5rem;
+    font-size: 1.4rem; /*1.5rem;*/
 }
 
 @media (max-width: 500px) {
@@ -218,7 +218,7 @@ body {
     -webkit-overflow-scrolling: touch;
     margin-right: 10px;
     padding-bottom: 80px;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.1px; /*0.4px;*/
     white-space: nowrap;
 
     -ms-overflow-scrolling: touch;
@@ -399,7 +399,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
         padding-left: 4vw;
     }
     /* add social link menu on home page only */
-    .home-template .subscribe-button {
+    .subscribe-button {
         display: none;
     }
     .home-template .site-nav-left {
@@ -422,7 +422,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 @media (max-width: 500px) {
     .home-template .site-nav-right {
-        height: 35px;
+        /*height: 35px;*/
+    }
+    .subscribe-button {
+        display: none;
     }
 }
 
@@ -539,12 +542,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .post-card-author {
     font-size: 1.3rem;
     color: var(--darkgrey);
-    font-weight: 500;
-    letter-spacing: 0.5px;
 }
 
 .post-card-author a {
     color: var(--darkgrey);
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
 /* Special Styling for home page grid (below):
@@ -624,6 +627,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-template .site-main,
 .page-template .site-main {
+    margin-top: 10px;
     padding-bottom: 4vw;
     background: #fff;
 }
@@ -652,7 +656,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     align-items: center;
     color: var(--midgrey);
     font-size: 1.55rem;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
 }
 
@@ -684,24 +688,25 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-image {
-    margin: 0 -20vw -165px;
+    margin: 0 -4vw -80px; /*0 -20vw -165px;*/
     height: 700px;
     background: var(--lightgrey) center center;
     background-size: cover;
-    border-radius: 5px;
+    border-radius: 20px; /*5px;*/
 }
 
 @media (max-width: 1170px) {
     .post-full-image {
-        margin: 0 -4vw -100px;
-        height: 600px;
+        margin: 0 -4vw -80px; /*0 -4vw -100px;*/
+        height: 60vw; /*600px;*/
         border-radius: 0;
     }
 }
 
 @media (max-width: 800px) {
     .post-full-image {
-        height: 400px;
+        margin: 0 -4vw -60px;
+        height: 60vw;
     }
 }
 
@@ -776,7 +781,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 920px;
+    /*max-width: 920px;*/
 }
 
 .post-full-content h1,
@@ -807,7 +812,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-template .kg-card-markdown > p:first-child {
     /* font-size: 1.25em; */
-    line-height: 1.5em;
+    line-height: 1.6em;
 }
 
 .post-full-content a {
@@ -1099,15 +1104,16 @@ Usage (In Ghost editor):
 /* Some grouped styles for smaller viewports */
 @media (max-width: 500px) {
     .post-full-meta {
-        font-size: 1.2rem;
+        font-size: 1.5rem; /*1.2rem;*/
         line-height: 1.3em;
     }
     .post-full-title {
-        font-size: 2.9rem;
+        font-size: 4.2rem;
+        line-height: 1.0em;
     }
     .post-full-image {
-        margin-bottom: 10vw;
-        height: 220px;
+        margin-bottom: 17px; /*10vw;*/
+        height: 280px; /*220px;*/
     }
     .post-full-content {
         padding: 0;
