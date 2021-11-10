@@ -23,6 +23,8 @@ Jika kalian sengaja atau tidak sengaja datang ke blog ini dengan pertanyaan yang
 
 <img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm2.jpeg" align="right" alt="@sgitsp twitter" title="@sgitsp twitter" border="0" width="65%" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">They always ask &quot;how is your avi moving?&quot; but never &quot;how is your avi doing?&quot;</p>&mdash; Nobody Nearby (@sgitsp) <a href="https://twitter.com/sgitsp/status/1455905946622824459?ref_src=twsrc%5Etfw">November 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <center>•   •   •</center>
 
 Baiklah, sebelum sampai pada inti permasalahannya, saya akan membawa kalian mundur 5-6 tahun yang lalu ketika gambar bergerak (GIF) sedang keren-kerennya.
