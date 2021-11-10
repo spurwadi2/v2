@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/cover/s_purwadi-twitter.webp
+cover:  assets/images/cover/sgitsp.webp
 navigation: True
 title: How To Animate (GIF) Your Twitter Avatar
 description: There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens, not changing your avatar for more than 5 years.
@@ -15,13 +15,13 @@ comments: true
 mathjax:
 ---
 
-Menanggapi pertanyaan-pertanyaan yang muncul dalam beberapa tahun terakhir di akun twitter @S_Purwadi, saya mau bikin klarifikasi tentang sebab musabab, bagaimana, apa dan mengapa hal itu bisa terjadi.
+Menanggapi pertanyaan-pertanyaan yang muncul di akun twitter @sgitsp, saya mau bikin klarifikasi tentang sebab musabab, bagaimana, apa, dan mengapa hal ini bisa terjadi.
 
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" align="left" alt="@S_Purwadi on twitter" title="@S_Purwadi on twitter" border="0" width="70%" />
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm1.jpg" align="left" alt="@sgitsp on twitter" title="@sgitsp on twitter" border="0" width="70%" />
 
 Jika kalian sengaja atau tidak sengaja datang ke blog ini dengan pertanyaan yang sama seperti contoh di atas, maka kalian berada di tempat yang tepat untuk mendapatkan jawabannya.
 
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm2.jpeg" align="right" alt="@S_Purwadi twitter" title="@S_Purwadi twitter" border="0" width="65%" />
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/twitter-ava/dm2.jpeg" align="right" alt="@sgitsp twitter" title="@sgitsp twitter" border="0" width="65%" />
 
 <center>•   •   •</center>
 
@@ -72,9 +72,9 @@ Tidak ada yang tahu pasti alasannya, tetapi tak lama setelah itu celah GIF avata
 
 > And as much as it deeply pains me to admit, it makes me feel cool and special to have a blinky thing no one else can have.
 
-Namun bagi mereka yang sudah "terlanjur basah" dengan format avatar ini masih tetap bisa mempertahankannya sampai sekarang, seperti yang kalian lihat pada akun @S_Purwadi.
+Namun bagi mereka yang sudah "terlanjur basah" dengan format avatar ini masih tetap bisa mempertahankannya sampai sekarang, seperti yang kalian lihat pada akun @sgitsp.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens: not changing your avatar for five years.</p>&mdash; Sigit Purwadi H W (@S_Purwadi) <a href="https://twitter.com/S_Purwadi/status/1050777105380720644?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There’s no trick to having a GIF animated avatar other than doing something that’s anathema to most teens: not changing your avatar for five years.</p>&mdash; Sigit Purwadi H W (@sgitsp) <a href="https://twitter.com/sgitsp/status/1050777105380720644?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Juga karena tidak banyak yang tersisa dari orang-orang dengan GIF avatar seperti ini, mereka lebih istimewa dari sekedar persaingan *Anak Twitter Lama vs Anak Twitter Baru* 😅
