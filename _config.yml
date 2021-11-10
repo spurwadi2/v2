@@ -4,8 +4,8 @@ baseurl         : / # edit baseurl to simply '/' if using as your personal page 
 CNAME           : blog.purwadi.web.id
 
 title           : Sigit Purwadi's Blog
-description     : You're Nobody Until You're Talked About
-version         : v.2.7.0
+description     : You're nobody until you're talked about
+version         : v.2.7.3
 cover           : assets/images/blog-cover-astro.webp
 #logo           : assets/images/logo/blog-logos.png
 logo_white      : assets/images/icons/icon-white.svg
@@ -72,7 +72,11 @@ permalink       : :title
 # permalink     : /topic/:tag # Tags' info in `_data/tags.yml`
 
 # Gemfiles and other config
-plugins         : [jekyll-paginate, jekyll-feed, jekyll-mentions, jekyll-linkpreview]
+plugins         :
+                - jekyll-feed
+                - jekyll-paginate
+                - jekyll-mentions
+                - jekyll-linkpreview
 
 feed            :
   path          : feed.xml
@@ -101,10 +105,12 @@ username        : spurwadi2
 repo            : v2
 branch          : master
 relative_source : ../v2/
-destination     : ../.blog-build-cache/
+destination     : ../blog/_build/
 production_url  :  https://blog.purwadi.web.id/
 source_url      :  https://github.com/spurwadi2/v2/
 
+keep_files      : [assets]
+incremental     : true
 include         : [".htaccess"]
 exclude         :
                 - assets/css
@@ -130,3 +136,7 @@ exclude         :
                 - assets/uncompress
                 - assets/*.bak
                 - assets/.temp
+                - _build
+                - "*.bak"
+                - ".code-workspace"
+                - .vscode

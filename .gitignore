@@ -6,6 +6,7 @@ _site/
 .jekyll-metadata
 .sass-cache/
 .jekyll-metadata
+_build
 # For jekyll v.4.0 update
 #.jekyll-cache 
 
@@ -32,6 +33,7 @@ package-lock.json
 assets/uncompress
 .temp
 .temp2
+.webp
 
 # Webstorm
 .idea/
@@ -43,3 +45,4 @@ about/version.md
 *.new
 *.code-workspace
 topic.html
+.vscode
