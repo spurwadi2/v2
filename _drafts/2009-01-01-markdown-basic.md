@@ -13,10 +13,9 @@ author: artcytech
 comments: true
 mathjax:
 ---
+# Overview
 
-Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
-
-There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
+Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
 
 Using Markdown doesn't mean that you can't also use HTML. You can add HTML tags to any Markdown file. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find that it's easier to use HTML tags for images [^1].
 
@@ -25,27 +24,32 @@ Check the source code to see the many embedded elements within paragraphs.
 * Auto generated table of contents
 {:toc}
 
----
-
 # Headings
 
-To create a heading, add number signs (*#*) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (*<h3>*), use three number signs (e.g., *### Heading 3*).
+To create a heading, add number signs (**#**) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### Heading 3`).
 
-<h1># Heading 1</h1>
-<h2>## Heading 2</h2> 
-<h3>### Heading 3</h3>
-<h4>#### Heading 4</h4>
-<h5>##### Heading 5</h5>
-<h6>###### Heading 6</h6>
+| Markdown           |  HTML  |
+| :---               | :----: |
+| `# Heading 1`      | `<h1>` |
+| `## Heading 2`     | `<h2>` |
+| `### Heading 3`    | `<h3>` |
+| `#### Heading 4`   | `<h4>` |
+| `##### Heading 5`  | `<h5>` |
+| `###### Heading 6` | `<h6>` |
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 <h7>Heading 7</h7>
 
 # Paragraphs
 
 To create paragraphs, use a blank line to separate one or more lines of text. You should not indent paragraphs with spaces or tabs.
 
-Here's some [Markdown Extended Syntax](/markdown-extended) for Advanced features that build on the basic Markdown syntax.
-
-<center>•   •   •</center>
+Here's some [Markdown Extended Syntax](/markdown-extended) for advanced features that build on the basic Markdown syntax.
 
 Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. Nunc iaculis suscipit dui. 5<sup>sup</sup> = 125. Water is H<sub>sub</sub>O.
 
@@ -53,22 +57,21 @@ Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehi
 
 <abbr title="Hyper Text Markup Language">HTML abbr</abbr> and <abbr title="Cascading Style Sheets">CSS abbr</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. <del>This is **del** correction</del> Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code>.  <ins>Let’s make that 7.</ins> This <strike><b>strike</b> text</strike> has been struck.
 
-<center>•   •   •</center>
+## Line Breaks
 
-# Emphasis
+Line break 1
+Line break 2
+Line break 3
 
-You can add emphasis by making text **bold**, *italic* or ***bold and italic***
+## Emphasis
 
-``` markdown
-*italic*
-_italic_
+You can add emphasis by making text `**bold**`, `*italic*` or `***bold and italic***`.
 
-**bold**
-__bold__
+To **bold** text, add two asterisks or underscores before and after a word or phrase. To **bold** the mi**dd**le of a word for emphasis, add two asterisks without spaces around the letters.
 
-***bold and italic***
-___bold and italic___
-```
+To *italicize* text, add one asterisk or underscore before and after a word or phrase. To *italicize* the mi*dd*le of a word for emphasis, add one asterisk without spaces around the letters.
+
+To emphasize ***text with bold and italics*** at the same time, add three asterisks or underscores before and after a word or phrase. To ***bold and italicize*** the mi***dd***le of a word for emphasis, add three asterisks without spaces around the letters.
 
 ## Special formating
 
@@ -100,6 +103,64 @@ The <sup>sup element</sup> example <br />
 The <var>var element</var> example <br />
 The <u>u element</u> example
 
+# Blockquotes
+
+To create a blockquote, add a `>` in front of a paragraph.
+
+`> Dorothy followed her through many of the beautiful rooms in her castle.`
+
+The rendered output looks like this:
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+Blockquotes can contain multiple paragraphs. Add a `>` on the blank lines between the paragraphs.
+
+``` markdown
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+```
+
+The rendered output looks like this:
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+Blockquotes can be nested. Add a `>>` in front of the paragraph you want to nest.
+
+``` markdown
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+```
+
+The rendered output looks like this:
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+Blockquotes can contain other Markdown formatted elements. Not all elements can be used — you’ll need to experiment to see which ones work.
+
+``` markdown
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+```
+
+The rendered output looks like this:
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
 # Link
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
@@ -112,7 +173,6 @@ The rendered output looks like this:
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-
 # Media
 
 To add an image, add an exclamation mark (*!*), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.
@@ -122,7 +182,7 @@ To add an image, add an exclamation mark (*!*), followed by alt text in brackets
 One neat trick which you can use in Markdown to distinguish between different types of images is to add a <code>#hash</code> value to the end of the source URL, and then target images containing the hash with special styling. For example:
 
 ``` markdown
-![alt text](assets/images/markdown.jpeg#full "Title text example")
+![alt text](./../assets/images/cover/markdown.jpeg#full "Title text example")
 <small>This is full image caption example with [link](https://link)</small>
 ```
 
@@ -140,17 +200,17 @@ This creates full-bleed images in the Casper theme, which stretch beyond their u
 
 The rendered output looks like this:
 
-![ALT text](assets/images/markdown.jpeg#full "Title text example")
+![ALT text](./../assets/images/cover/markdown.jpeg#full "Title text example")
 <small>This is full image caption example with [link](https://link)</small>
 
 ## Small image
 
 ``` markdown
-![alt Text](assets/images/markdown.jpeg#small "Title text example")
+![alt Text](./../assets/images/cover/markdown.jpeg#small "Title text example")
 <small>This is small image caption example with [link](https://link)</small>
 ```
 
-![ALT Text](assets/images/markdown.jpeg#small "Title text example")
+![ALT Text](./../assets/images/cover/markdown.jpeg#small "Title text example")
 <small>This is small image caption example with [link](https://link)</small>
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
@@ -158,19 +218,19 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 ## Normal image
 
 ``` markdown
-[![alt Text](assets/images/markdown.jpeg "IMG title example")](#media)
+[![alt Text](./../assets/images/cover/markdown.jpeg "IMG title example")](#media)
 <small>This is normal image caption example with [link](https://link)</small>
 ```
 
-[![ALT Text](assets/images/markdown.jpeg "IMG default size")](#media)
+[![ALT Text](./../assets/images/cover/markdown.jpeg "IMG default size")](#media)
 <small>This is normal image caption example with [link](https://link)</small>
 
 ``` markdown
-![Yogyakarta Low End Living](assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
+![Yogyakarta Low End Living](./../assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
 <small>Yogyakarta Low End Living</small>
 ```
 
-![Yogyakarta Low End Living](assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
+![Yogyakarta Low End Living](./../assets/images/yogyakarta-low-end-living-banner.jpg "Yogyakarta Low End Living")
 <small>Yogyakarta Low End Living</small>
 
 # Line Breaks & horizontal rule
@@ -206,6 +266,8 @@ The rendered output looks like this:
 
 # List
 
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
 ### Definition List
 
 <dl>
@@ -229,9 +291,14 @@ The rendered output looks like this:
 * Item 1
 * Item 2
   * Sub item 1
-    Desciption sub item 1
+
+      Desciption sub item 1
+
   * Sub item 2
     * Sub item 1
+
+      > A blockquote would look great below the second list item.
+
 * Item 3
 
 # Reference and footnotes
