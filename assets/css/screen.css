@@ -502,10 +502,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin-bottom: 4px;
     color: var(--blue);
-    font-size: 1.18rem;
+    font-size: 1.2rem;
     line-height: 1.15em;
     font-weight: 500;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
     /*text-transform: uppercase;*/
 }
 
@@ -523,7 +523,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-title {
-    margin-top: 0;
+    margin: 0 0 0;
 }
 
 .post-card-content {
@@ -537,7 +537,16 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     color: var(--midgrey);
     font-family: Georgia, serif;
     text-align: justify;
+    margin: 0 0 0.5em;
+    display: -webkit-box;
+    overflow-y: hidden;
+    -webkit-line-clamp: 3;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
 }
+
+/*.post-card-excerpt p {
+}*/
 
 .post-card-meta {
     padding: 0 25px 25px;
@@ -611,7 +620,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-excerpt p {
-        margin-bottom: 1.5em;
+        /*margin-bottom: 1.5em;*/
         font-size: 1.7rem;
         line-height: 1.5em;
     }
@@ -730,7 +739,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     min-height: 230px;
     font-family: Georgia, serif;
     font-size: 2rem;
-    line-height: 1.6em;
+    line-height: 1.8em;
     background: #fff;
 }
 
@@ -824,11 +833,11 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-template .kg-card-markdown > p:first-child {
     /* font-size: 1.25em; */
-    line-height: 1.6em;
+    line-height: 1.8em;
 }
 
 .post-full-content a {
-    color: #000;
+    color: color(var(--midgrey) l(-25%));
     box-shadow: var(--blue) 0 -1px 0 inset;
 }
 
@@ -837,8 +846,8 @@ The first (most recent) post in the list is styled to be bigger than the others 
     text-decoration: none;
 }
 
-.post-full-content strong,
-.post-full-content em {
+/*.post-full-content em,*/
+.post-full-content strong {
     color: color(var(--darkgrey) l(-5%));
 }
 
@@ -902,35 +911,36 @@ Usage (In Ghost editor):
     font-size: small;
     display: block;
     margin-top: 0.5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 .post-full-content iframe {
-    margin: 0 auto;
+    margin: 0.5em 0 0.5em;
 }
 
 .post-full-content blockquote {
-    margin: 0 0 1.5em;
-    padding: 0 1.5em;
+    margin: 0.7em 0 0.6em;
+    padding: 0 0 0 1.6em;
     border-left: #3eb0ef 3px solid;
 }
 
 .post-full-content blockquote p {
-    margin: 0 0 1em 0;
+    margin: 0.5em 0 0.5em;
     color: inherit;
-    font-size: inherit;
-    line-height: inherit;
-    font-style: italic;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    /*font-style: italic;*/
     opacity: 0.8;
+    text-align: left;
 }
 
 .post-full-content blockquote p:last-child {
-    margin-bottom: 0;
+    /*margin-bottom: 0;*/
 }
 
 .post-full-content code {
-    padding: 0 5px 2px;
-    font-size: 0.8em;
+    padding: 2px 5px 2px;
+    font-size: 0.9em;
     line-height: 1em;
     font-weight: 400!important;
     background: var(--whitegrey);
@@ -939,7 +949,7 @@ Usage (In Ghost editor):
 
 .post-full-content pre {
     overflow-x: auto;
-    margin: 1.5em 0 3em;
+    margin: 1em 0 1em;
     padding: 20px;
     max-width: 100%;
     border: color(var(--darkgrey) l(-10%)) 1px solid;
@@ -998,7 +1008,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h1 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 4.0rem;
     font-weight: 700;
     text-align: left;
@@ -1010,7 +1020,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h2 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 3.6rem;
     font-weight: 700;
     text-align: left;
@@ -1022,7 +1032,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h3 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 3.2rem;
     font-weight: 700;
     text-align: left;
@@ -1034,7 +1044,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h4 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 2.9rem;
     font-weight: 700;
     text-align: left;
@@ -1046,7 +1056,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h5 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 2.7rem;
     font-weight: 700;
     text-align: left;
@@ -1058,7 +1068,7 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h6 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.7em 0 0.1em 0;
     font-size: 2.5rem;
     font-weight: 700;
     text-align: left;
@@ -1071,13 +1081,14 @@ Usage (In Ghost editor):
 
 .post-full-content h7 {
     display: block;
-    margin: 0.5em 0;
-    padding: 1em 0 1.5em;
+    margin: 0.7em 0 0.1em 0;
+    /*padding: 1em 0 1.5em;*/
     border: 0;
-    color: var(--blue);
+    /*color: var(--blue);*/
     font-family: Georgia,serif;
     font-size: 2.4rem;
-    line-height: 1.35em;
+    font-weight: 700;
+    /*line-height: 1.35em;*/
     text-align: center;
 }
 @media (min-width: 1180px) {
@@ -1099,6 +1110,7 @@ Usage (In Ghost editor):
 
 .footnotes {
     font-size: 1.5rem;
+    margin: 1em 0 1em;
 }
 
 .footnotes p {

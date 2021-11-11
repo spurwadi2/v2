@@ -334,16 +334,17 @@ textarea {
 }
 
 p,
-ul,
+/*ul,*/
 ol,
 dl,
 blockquote {
-    margin: 0 0 1.5em 0;
+    margin: 0.7em 0 0.4em 0;
 }
 
 ol,
 ul {
     padding-left: 1.3em;
+    margin: 0 0 0.4em 0;
     /*padding-right: 1.5em;*/
 }
 
@@ -351,7 +352,7 @@ ol ol,
 ul ul,
 ul ol,
 ol ul {
-    margin: 0.5em 0 1em;
+    margin: 0.1em 0 0.1em;
 }
 
 ul {
@@ -363,9 +364,9 @@ ol {
 }
 
 li {
-    margin: 0.5em 0;
+    /*margin: 0.5em 0;*/
     padding-left: 0.3em;
-    line-height: 1.6em;
+    line-height: 1.8em;
 }
 
 dt {

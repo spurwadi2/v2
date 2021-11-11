@@ -235,6 +235,8 @@
         "user-zoom",
         "orientation",
         "-webkit-overflow-scrolling",
-        "-ms-overflow-scrolling"
+        "-ms-overflow-scrolling",
+        "-webkit-line-clamp",
+        "-webkit-box-orient"
     ] ]
 }

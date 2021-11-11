@@ -232,6 +232,8 @@
         "max-zoom",
         "min-zoom",
         "user-zoom",
-        "orientation"
+        "orientation",
+        "-webkit-line-clamp",
+        "-webkit-box-orient"
     ] ]
 }
