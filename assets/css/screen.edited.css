@@ -24,7 +24,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .pagination a {
-    color: #3eb0ef;
+    color: #000000;
     transition: all 0.2s ease;
 }
 
