@@ -12,7 +12,7 @@ comments: true
 mathjax:
 ---
 
-Kali ini saya mau membahas mengenai Lintas Jurusan yang keberadaannya nyata dan dekat sekali dengan kita (khususnya para pelajar).
+Kali ini saya mau membahas mengenai 'Lintas Jurusan' yang keberadaannya nyata dan dekat sekali dengan kita (khususnya para pelajar).
 
 Kenapa saya pengen banget ngebahas tentang hal tersebut? Karena hal tersebut sering banget jadi pertentangan dan sudah jelas masih terus menimbulkan pro dan kontra. Saya di sini nggak mengada-ada karena hal tersebut sudah jelas fakta dan bukan fiktif belaka.
 

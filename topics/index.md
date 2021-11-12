@@ -4,7 +4,7 @@ current: topics
 title: Explore Topics 💡
 description: Topics pages provide rich coverage about certain information, opinion, and discussion.
 navigation: True
-cover: assets/images/topics.png
+cover: assets/images/cover/topics.webp
 class: 'page-template'
 subclass: 'post page'
 logo: 'assets/images/ghost.png'

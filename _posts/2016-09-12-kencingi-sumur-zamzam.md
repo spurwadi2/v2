@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/hajj.jpeg
+cover:  assets/images/cover/hajj.webp
 navigation: True
 title: Kencingi Sumur Zamzam
 description: Semakin aneh, semakin spesial, semakin berpotensi menjadi orang terkenal. Benarkah?

@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.webp
+cover:  assets/images/cover/hilang.webp
 navigation: True
 title: Hilang Berpulang
 description: Membiarkan diri dalam arus dan terseret ombak hanya akan membuatmu sulit untuk berpijak.
-summary: Berjalan dengan membiarkan diri disibukkan oleh pelbagai distraksi mampu membuatku hidup seperti selayaknya hidup untuk menjadi aku yang paling aku, namun ada lubang rumpang yang tetap tak terisi utuh.
-tags: [draft]
+summary: Membiarkan diri dalam arus dan terseret ombak hanya akan membuatmu sulit untuk berpijak. Bukankah kita berkelana untuk dapat memaknai seberapa berharganya kembali pulang?
+tags: [random]
 class: post-template
-subclass: 'post tag-draft'
+subclass: 'post tag-random'
 author: sigit
 comments: true
 mathjax:
