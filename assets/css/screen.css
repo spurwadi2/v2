@@ -534,22 +534,38 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
+    /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
     color: var(--midgrey);
     font-family: Georgia, serif;
     text-align: justify;
-    margin: 0 0 0.5em;
     display: -webkit-box;
-    overflow-y: hidden;
+    overflow: hidden;
     -webkit-line-clamp: 3;
     word-break: break-word;
-    -webkit-box-orient: vertical;
 }
 
-/*.post-card-excerpt p {
-}*/
+.post-card-excerpt p {
+    margin: 0.4em 0 0.5em;
+}
+
+.topic-card-excerpt {
+    /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
+    color: var(--midgrey);
+    font-family: Georgia, serif;
+    margin: 0 0 1.5em;
+    text-align: center;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    word-break: break-word;
+}
 
 .post-card-meta {
-    padding: 0 25px 25px;
+    padding: 10px 25px 25px;
 }
 
 .author-profile-image {
@@ -616,7 +632,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-meta {
-        padding: 0 40px 30px;
+        padding: 20px 40px 3px; /*0 40px 30px;*/
     }
 
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-excerpt p {
