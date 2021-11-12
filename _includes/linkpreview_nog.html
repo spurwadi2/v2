@@ -1,18 +1,14 @@
-<div class="linkpreview-wrapper">
-    <p><a href="{{ link_url }}" target="_blank">{{ link_url }}</a></p>
-      
-        <div class="linkpreview-body">
-        
-            <div class="linkpreview-title"><a href="{{ link_url }}" target="_blank">{{ link_url }}</a></div>
-        
-            <div class="linkpreview-description">There's no preview available for this link..</div>
-        
-            <div class="linkpreview-footer"><a href="{{ link_url }}" target="_blank">{{ link_domain }}</a></div>
-        
+<figure class="bookmark-card">
+    <a class="bookmark-container" href="{{ link_url }}" target="_blank">
+        <div class="bookmark-content">
+            <div class="bookmark-title">{{ link_url }}</div>
+            <div class="bookmark-description">There's no preview available for this link..</div>
+            <div class="bookmark-metadata">
+                <!--<img class="bookmark-icon" src="https://ghost.org/icons/icon-512x512.png?v=188b8b6d743c6338ba2eab2e35bab4f5">
+                <span class="bookmark-author">Link</span>-->
+                <span class="bookmark-publisher">{{ link_domain }}</span>
+            </div>
         </div>
-        
-        <div class="linkpreview-image">
-            <a href="{{ link_url }}" target="_blank"><img src="https://vishwaentertainers.com/wp-content/uploads/2020/04/No-Preview-Available.jpg" /></a>
-        </div>
-    
-    </div>
+            <div class="bookmark-thumbnail"><img src="https://vishwaentertainers.com/wp-content/uploads/2020/04/No-Preview-Available.jpg"></div>
+    </a>
+</figure>

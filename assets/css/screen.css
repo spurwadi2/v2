@@ -254,6 +254,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     height: 21px;
 }
 
+.site-nav-logo svg {
+    height: 2rem;
+    fill: white;
+}
+
 .nav {
     display: flex;
     margin: 0 0 0 -12px;
@@ -274,7 +279,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0;
     padding: 10px 12px;
     color: #fff;
-    /* opacity: 0.8; */
+    opacity: 0.8;
 }
 
 .nav li a:hover {
@@ -691,18 +696,14 @@ The first (most recent) post in the list is styled to be bigger than the others 
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--midgrey);
-    font-size: 1.55rem;
-    font-weight: 600;
-    text-decoration: none;
+    color: color(var(--darkgrey) l(-5%));
+    font-size: 1.8rem;
+    font-weight: 700;
 }
 
-.post-full-meta-date {
-    color: var(--blue);
-}
-
+.post-full-meta-date,
 .post-full-meta-tags {
-    color: var(--blue);
+    /*color: color(var(--darkgrey) l(-5%));*/
 }
 
 .post-full-title {
@@ -1590,11 +1591,13 @@ Usage (In Ghost editor):
 .floating-header-logo {
     overflow: hidden;
     margin: 0 0 0 20px;
-    font-size: 1.6rem;
-    line-height: 1em;
+    font-size: 1.7rem;
+    /*line-height: 1em;*/
     /*letter-spacing: -1px;*/
     text-overflow: ellipsis;
     white-space: nowrap;
+    color: #090a0b;
+    font-weight: 600;
 }
 
 .floating-header-logo a {
@@ -1602,11 +1605,10 @@ Usage (In Ghost editor):
     align-items: center;
     color: var(--darkgrey);
     line-height: 1.1em;
-    font-weight: 700;
 }
 
 .floating-header-logo a:hover {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .floating-header-logo img {
@@ -1614,8 +1616,14 @@ Usage (In Ghost editor):
     max-height: 20px;
 }
 
+.floating-header-logo svg {
+    height: 2rem;
+    fill: black;
+    margin-right: 6px;
+}
+
 .floating-header-divider {
-    margin: 0 5px;
+    margin: 0 12px;
     line-height: 1em;
 }
 
@@ -1623,10 +1631,10 @@ Usage (In Ghost editor):
     flex: 1;
     overflow: hidden;
     margin: 0;
-    color: #2e2e2e;
-    font-size: 1.6rem;
-    line-height: 1.3em;
-    font-weight: bold;
+    color: #090a0b;
+    font-weight: 600;
+    font-size: 1.7rem;
+    /*line-height: 1.3em;*/
     text-overflow: ellipsis;
     white-space: nowrap;
 }

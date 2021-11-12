@@ -1,87 +1,146 @@
-.linkpreview-wrapper {
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-template-rows: 1fr;
-  gap: 1px 1px;
-  grid-template-areas: "a b";
-  max-width: 600px;
-  border: 1px solid rgba(0,0,0,.1);
-  box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
-  margin: 1em;
+.bookmark-card,
+.bookmark-publisher {
+  position: relative;
+  width: 100%;
 }
 
-.linkpreview-wrapper:hover {
+.bookmark-card {
+  margin: 0.5em 0;
+}
+
+.bookmark-container {
+  display: flex;
+  color: currentColor;
+  font-family: var(--font-sans-serif);
+  text-decoration: none !important;
+  background: rgba(255,255,255,0.6);
+  border-radius: 5px;
+  border: 1px solid rgba(0,0,0,.1);
+  box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px !important;
+  overflow: hidden;
+  max-width: 600px;
+  margin: auto;
+}
+
+.bookmark-container:hover {
   box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
   transition: all 0.3s ease;
   transform: translate3D(0, -1px, 0);
 }
 
-.linkpreview-wrapper p {
-  display: none;
-}
-
-.linkpreview-wrapper a {
-  color: #15171A;
-  -webkit-box-shadow: none;
-	-moz-box-shadow: none;
-	box-shadow: none;
-}
-
-.linkpreview-body {
-  grid-area: a;
-  padding: 16px 20px;
+.bookmark-content {
   display: flex;
-  flex: 1 1 auto;
   flex-direction: column;
-  justify-content: center;
-  overflow: hidden;
-  box-sizing: inherit;
+  flex-grow: 1;
+  flex-basis: 100%;
+  align-item: flex-start;
+  justify-content: flex-start;
+  padding: 20px;
 }
 
-.linkpreview-title {
-  font-size: 1.55rem;
-  font-weight: 700;
-  line-height: 1.3em;
-  height: 2.6em;
+.bookmark-title {
+  font-size: 1.6rem;
+  line-height: 1.4em;
+  font-weight: 600;
+  color: #15171a;
+}
+
+.bookmark-description {
+  display: -webkit-box;
+  font-size: 1.4rem;
+  line-height: 1.5em;
+  margin-top: 3px;
+  color: #626d79;
+  font-weight: 400;
+  max-height: 44px;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  /* autoprefixer: off */
+  -webkit-box-orient: vertical;
+  /* autoprefixer: on */
+}
+
+.bookmark-metadata {
+  display: flex;
+  align-items: center;
+  margin-top: 22px;
   width: 100%;
-  white-space: pre-wrap;
-  text-align: left;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  color: #394047;
+  font-size: 1.4rem;
+  font-weight: 500;
 }
 
-.linkpreview-description {
-  font-size: 1.35rem;
-  line-height: 1.3em;
-  height: 2.6em;
-  color: #55666d;
-  white-space: pre-wrap;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  width: 100%;
+.bookmark-metadata > span:nth-of-type(2) {
+  color: #626d79;
+  font-weight: 400;
 }
 
-.linkpreview-footer {
-  margin-top: 7px;
-  max-height: 40px;
-  font-size: 1.3rem;
-  color: #738a94;
+.bookmark-metadata > span:nth-of-type(2):before {
+  content: "•";
+  color: #394047;
+  margin: 0 6px;
+}
+
+.bookmark-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+}
+
+.bookmark-author,
+.bookmark-publisher {
+  display: inline;
+}
+
+.bookmark-publisher {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 240px;
   white-space: nowrap;
-  text-overflow: ellipsis;
-  overflow: hidden;
+  display: block;
+  line-height: 1.65em;
 }
 
-.linkpreview-footer a {
-  color: #738a94;
+.bookmark-thumbnail {
+  position: relative;
+  flex-grow: 1;
+  min-width: 33%;
 }
 
-.linkpreview-image {
-  grid-area: b;
-}
-
-.linkpreview-image img {
-  height: 155px;
-  width: 155px;
+.bookmark-thumbnail img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
   object-fit: cover;
-  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 4px 4px 0;
 }
+
+@media (max-width: 500px) {
+  .bookmark-thumbnail,
+  .bookmark-thumbnail img {
+    display: none;
+  }
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+  .bookmark-container {
+    background: #191b1f;
+    box-shadow: rgba(61, 65, 70, 0.06) 8px 14px 38px, rgba(69, 74, 80, 0.03) 1px 3px 8px !important;
+    border: 1px solid rgba(92, 92, 92, 0.1);
+  }
+  .bookmark-container:hover {
+    box-shadow: 0 0 1px rgba(58, 63, 68, 0.1), 0 3px 16px rgba(58, 64, 70, 0.07);
+  }
+  .bookmark-title {
+    color: #e5eff5;
+    opacity: 0.95;
+  }
+  .bookmark-thumbnail img {
+    opacity: 0.9;
+  }
+}
+*/

@@ -1,12 +1,5 @@
 <div class="floating-header">
-    <div class="floating-header-logo">
-        <a href="{{ site.url }}{{ site.baseurl }}">
-            {% if site.logo_dark %}
-                <img src="{{ site.baseurl }}{{ site.logo_dark }}" alt="{{ site.title }} icon" />
-            {% endif %}
-            {{ page.title }}
-        </a>
-    </div>
+    <a class="floating-header-logo" href="{{ site.url }}{{ site.baseurl }}">{% include icon-svg.html %}{{ page.title }}</a>
     <span class="floating-header-divider">&ndash;</span>
         {% for tag in site.data.tags %}{% if page.tags contains tag[1].name %}{% assign page_tag_title = tag[1].title %}<div class="floating-header-title">{{ page_tag_title }}</div>{% endif %}{% endfor %}
     <div class="floating-header-share">

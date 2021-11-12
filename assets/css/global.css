@@ -35,6 +35,7 @@ h4,
 h5,
 h6,
 p,
+br,
 blockquote,
 pre,
 a,
@@ -95,7 +96,7 @@ ruby,
 section,
 summary,
 time,
-mark,
+/*mark,*/
 audio,
 video {
     margin: 0;
@@ -185,7 +186,10 @@ svg:not(:root) {
     overflow: hidden;
 }
 mark {
+    display: inline-block;
     background-color: #fdffb6;
+    padding: 0 3px 2px;
+    opacity: 0.9;
 }
 code,
 kbd,
