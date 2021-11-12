@@ -2135,60 +2135,107 @@ Usage (In Ghost editor):
 /* 12. Dark Mode
 /* ---------------------------------------------------------- */
 
-/*
+/**
 @media (prefers-color-scheme: dark) {
     body {
-        color: rgba(255, 255, 255, 0.75);
-        background: var(--darkmode);
+        background: color(var(--darkmode) l(-2%));
     }
 
     img {
         opacity: 0.9;
     }
 
+    mark {
+        background-color: var(--whitegrey);
+    }
+
+    blockquote cite,
+    blockquote small:before {
+        color: var(--whitegrey);
+    }
+
+    .site-title {
+        opacity: 0.9;
+    }
+
+    .post-card-image,
+    .post-full-image {
+        opacity: 0.9;
+        transition: opacity .5s ease-in-out;
+    }
+
     .site-main,
+    .site-wrapper,
     .post-template .site-main,
-    .page-template .site-main {
-        background: var(--darkmode);
+    .page-template .site-main,
+    .post-full-content {
+        background: color(var(--darkmode) l(-2%));
+    }
+
+    .post-card:hover,
+    .post-card-content-link:hover {
+        box-shadow: var(--darkmode);
     }
 
     .post-card,
-    .post-card:hover {
-        border-bottom-color: color(var(--darkmode) l(+8%));
-    }
-
-    .post-card-content {
+    .post-card-content,
+    .post-card-content-link {
         background: var(--darkmode);
     }
 
-    .post-card-title h2 {
-        color: rgba(255, 255, 255, 0.9);
-    }
-
-    .post-card-content-link p,
-    .post-card-meta a{
-        color: rgba(255, 255, 255, 0.85);
-    }
-
+    .post-card-title,
+    .post-card-author a,
     .post-full-title {
-        color: rgba(255, 255, 255, 0.9);
+        color: var(--whitegrey);
+        opacity: 0.95;
     }
 
-    .post-full-content {
-        background: var(--darkmode);
+    .post-card-excerpt p,
+    .topic-card-excerpt,
+    .author-card-content p,
+    .author-card-button {
+        color: var(--whitegrey);
+        opacity: 0.7;
+    }
+
+    .post-card-reading-time {
+        color: var(--whitegrey);
+        opacity: 0.6;
+    }
+
+    .post-full-content:before,
+    .post-full-content:after {
+        background: rgba(137, 155, 173, 0.15);
     }
 
     .post-full-content h1,
     .post-full-content h2,
     .post-full-content h3,
     .post-full-content h4,
-    .post-full-content h6 {
-        color: rgba(255, 255, 255, 0.9);
+    .post-full-content h5,
+    .post-full-content h6,
+    .post-full-content h7,
+    .post-full-content p,
+    .post-full-content ul,
+    .post-full-content ol,
+    .post-full-content dl,
+    .post-full-content dt,
+    .post-full-content dd,
+    .post-full-content pre,
+    .post-full-content blockquote,
+    .post-full-content small,
+    .post-full-meta,
+    .post-full-comments,
+    .author-card-name a,
+    .footnotes {
+        color: var(--whitegrey);
+        opacity: 0.95;
     }
 
     .post-full-content a {
-        color: #fff;
-        box-shadow: inset 0 -1px 0 #fff;
+        color: var(--whitegrey);
+        opacity: 0.95;
+        box-shadow: inset 0 -1px 0 var(--whitegrey);;
     }
 
     .post-full-content strong {
@@ -2229,4 +2276,25 @@ Usage (In Ghost editor):
     .post-full-content table td {
         border: color(var(--darkmode) l(+8%)) 1px solid;
     }
-};*/
+
+    .floating-header {
+        background: var(--darkmode);
+    }
+
+    .floating-header-logo svg {
+        fill: var(--whitegrey);
+    }
+
+    .floating-header-logo,
+    .floating-header-logo a,
+    .floating-header-divider,
+    .floating-header-title,
+    .floating-header-share-label {
+        color: var(--whitegrey);
+    }
+
+    .read-next-card::before {
+        background: linear-gradient(135deg, rgba(0,40,60,0.8) 0%,rgba(0,20,40,0.7) 100%);
+    }
+}
+*/
