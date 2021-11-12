@@ -59,9 +59,15 @@ Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehi
 
 ## Line Breaks
 
-Line break 1
-Line break 2
-Line break 3
+```
+Line 1 test\
+Line 2 test\
+Line 3 test
+```
+
+Line 1 test\
+Line 2 test\
+Line 3 test
 
 ## Emphasis
 
