@@ -286,7 +286,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     flex-shrink: 0;
     display: flex;
     align-items: center;
-    height: 42px;
+    height: 46px;
 }
 
 .social-links {
@@ -726,7 +726,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full-image {
     margin: 0 -4vw -80px; /*0 -20vw -165px;*/
-    height: 700px;
+    height: 800px; /*700px;*/
     background: var(--lightgrey) center center;
     background-size: cover;
     border-radius: 20px; /*5px;*/
@@ -735,7 +735,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 1170px) {
     .post-full-image {
         margin: 0 -4vw -80px; /*0 -4vw -100px;*/
-        height: 60vw; /*600px;*/
+        height: 63vw; /*600px;*/
         border-radius: 0;
     }
 }
@@ -743,7 +743,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 800px) {
     .post-full-image {
         margin: 0 -4vw -60px;
-        height: 60vw;
+        height: 65vw;
     }
 }
 
@@ -751,7 +751,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     position: relative;
     margin: 0 auto;
     text-align: justify;
-    padding: 70px 100px 0;
+    padding: 5vw 7vw 1vw; /*70px 100px 0;*/
     min-height: 230px;
     font-family: Georgia, serif;
     font-size: 2rem;
@@ -761,7 +761,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 @media (max-width: 1170px) {
     .post-full-content {
-        padding: 5vw 7vw 0;
+        padding: 5vw 7vw 3vw;
     }
 }
 
@@ -774,6 +774,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 500px) {
     .post-full-content {
         font-size: 1.7rem;
+        padding: 1vw 5vw 3vw;
     }
 }
 
@@ -1144,19 +1145,19 @@ Usage (In Ghost editor):
 /* Some grouped styles for smaller viewports */
 @media (max-width: 500px) {
     .post-full-meta {
-        font-size: 1.5rem; /*1.2rem;*/
+        font-size: 1.2rem; /*1.2rem;*/
         line-height: 1.3em;
     }
     .post-full-title {
-        font-size: 4.2rem;
+        font-size: 3.8rem; /*4.2rem;*/
         line-height: 1.0em;
     }
     .post-full-image {
-        margin-bottom: 17px; /*10vw;*/
-        height: 280px; /*220px;*/
+        margin-bottom: -12vw; /*0;*/
+        height: 65vw; /*220px;*/
     }
     .post-full-content {
-        padding: 0;
+        /*padding: 0.1vw 0 0.2vw;*/
     }
     .post-full-content:before,
     .post-full-content:after {
