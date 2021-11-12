@@ -16,7 +16,7 @@
 			<h3 align="center" class="post-card-title">{% if tag[1].title %}{{ tag[1].title }}{% else %}{{ tag[1].name | capitalize }}{% endif %}</h3>
 		</header>
 	</div>
-	<section class="post-card-excerpt">
+	<section class="topic-card-excerpt">
 		<p align="center">{% if tag[1].description %}{{ tag[1].description }}{% else %}Collection of {{ site_tag | last | size }} post{% endif %}</p>
 	</section>
 	<!-- For collection post count <span class="post-card-reading-time">Collection of {{ site_tag | last | size }} post</span> -->
