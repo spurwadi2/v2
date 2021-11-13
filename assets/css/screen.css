@@ -1598,6 +1598,7 @@ Usage (In Ghost editor):
     white-space: nowrap;
     color: #090a0b;
     font-weight: 600;
+    text-decoration: none !important;
 }
 
 .floating-header-logo a {
@@ -1607,9 +1608,8 @@ Usage (In Ghost editor):
     line-height: 1.1em;
 }
 
-.floating-header-logo a:hover {
-    text-decoration: none !important;
-}
+/*.floating-header-logo a:hover {
+}*/
 
 .floating-header-logo img {
     margin: 0 10px 0 0;
