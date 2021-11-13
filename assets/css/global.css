@@ -410,11 +410,13 @@ blockquote small:before {
     content: "\2014 \00A0";
 }
 
-blockquote cite {
+/*blockquote cite {
     font-weight: bold;
-}
+}*/
+
+blockquote cite,
 blockquote cite a {
-    font-weight: normal;
+    font-weight: 400;
 }
 
 a {
