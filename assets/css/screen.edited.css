@@ -151,11 +151,9 @@ td.code {
     background: none;
 }
 
-/*
 @media (prefers-color-scheme: dark) {
     .pagination a {
         color: var(--whitegrey);
         opacity: 0.9;
     };
 }
-*/

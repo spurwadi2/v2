@@ -1619,7 +1619,7 @@ Usage (In Ghost editor):
 .floating-header-logo svg {
     height: 2rem;
     fill: black;
-    margin-right: 6px;
+    margin-right: 2px;
 }
 
 .floating-header-divider {
@@ -2135,7 +2135,6 @@ Usage (In Ghost editor):
 /* 12. Dark Mode
 /* ---------------------------------------------------------- */
 
-/**
 @media (prefers-color-scheme: dark) {
     body {
         background: color(var(--darkmode) l(-2%));
@@ -2278,7 +2277,7 @@ Usage (In Ghost editor):
     }
 
     .floating-header {
-        background: var(--darkmode);
+        background: rgba(25,27,31,0.96);
     }
 
     .floating-header-logo svg {
@@ -2297,4 +2296,3 @@ Usage (In Ghost editor):
         background: linear-gradient(135deg, rgba(0,40,60,0.8) 0%,rgba(0,20,40,0.7) 100%);
     }
 }
-*/
