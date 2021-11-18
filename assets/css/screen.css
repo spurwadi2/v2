@@ -2250,6 +2250,10 @@ Usage (In Ghost editor):
         background: #000;
     }
 
+    .post-full-content hr:after {
+        display: none;
+    }
+
     hr {
         border-top-color: color(var(--darkmode) l(+8%));
     }
