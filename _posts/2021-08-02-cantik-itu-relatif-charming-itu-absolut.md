@@ -97,7 +97,7 @@ Selanjutnya, bagaimana cara menjadi <i>charming</i>? Untuk yang ini saya juga ma
 
 [^1]: King, A., & Leigh, A. (2009). Beautiful Politicians. <i>Kyklos</i>, 62(4), 579–593. [https://doi.org/10.1111/j.1467-6435.2009.00452.x](https://doi.org/10.1111/j.1467-6435.2009.00452.x)
 
-[^2]: Hamermesh, D., & Biddle, J. (1994). Beauty and the Labor Market. <i>The American Economic Review</i>, 84(5), 1174-1194. Diambil 1 Agustus 2021, dari [http://www.jstor.org/stable/2117767](http://www.jstor.org/stable/2117767)
+[^2]: Hamermesh, D., & Biddle, J. (1994). Beauty and the Labor Market. <i>The American Economic Review</i>, 84(5), 1174-1194. [http://www.jstor.org/stable/2117767](http://www.jstor.org/stable/2117767)
 
 [^3]: Biddle, J., & Hamermesh, D. (1998). Beauty, Productivity, and Discrimination: Lawyers' Looks and Lucre.  <i>Journal of Labor Economics</i>, 16(1), 172-201. [https://dx.doi.org/10.1086/209886](https://dx.doi.org/10.1086/209886)
 

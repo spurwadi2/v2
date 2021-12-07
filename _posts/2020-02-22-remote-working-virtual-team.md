@@ -32,7 +32,7 @@ Dunia kerja mengukur prestasi dan <i>achievement</i> karyawan dari angka-angka p
 
 Para teknisi jaringan atau <i>server engineer</i> misalnya, biasanya harus bekerja 24 jam selama 7 hari. Selain bekerja <i>office hours</i> di ruang kantor, mereka juga harus bersiap me-remote pekerjaan dari rumah, dari tempat mana saja dan kapan saja. <i>Stand on call</i> untuk menjadi laki-laki “panggilan”.
 
-Maka kini kita mulai mengenal konsep <>flexibility work</i>. Bekerja dengan prinsip otonom, "<b>together but alone</b>" dalam cell-cell group yang kecil, didorong oleh <i>value</i> dan <i>purpose*</i>, serta diikat dengan semangat kolaborasi dan solusi.
+Maka kini kita mulai mengenal konsep <i>flexibility work</i>. Bekerja dengan prinsip otonom, "<b>together but alone</b>" dalam cell-cell group yang kecil, didorong oleh <i>value</i> dan <i>purpose*</i>, serta diikat dengan semangat kolaborasi dan solusi.
 
 Tak heran jika nanti akan muncul individu-individu profesional yang tinggal di desa-desa, bekerja secara remote, mengelola virtual team, dan membesarkan komunitas daerahnya menjadi kekuatan ekonomi baru.
 
