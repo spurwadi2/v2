@@ -27,7 +27,7 @@ Tau gaksih, kenyataannya teori-teori ini sebenarnya berguna banget *<small>(bias
 Kek gimana tuh? Begini ceritanya...
 
 -----
-<center><sup>⚠<br/><i><b>DISCLAIMER</b>: Nama-nama yang digunakan dalam kasus ini semata-mata adalah tokoh fiksi untuk kepentingan ilustrasi. Jika ada kesamaan nama dan kondisi, maka itu hanyalah kebetulan, atau keajaiban. Kalo kamu merasa kamu adalah Natasha, harap segera hubungi saya. Mungkin ini pertanda~</i></sup></center>
+<center><sup>⚠ <i><b>DISCLAIMER</b>: Nama-nama yang digunakan dalam kasus ini semata-mata adalah tokoh fiksi untuk kepentingan ilustrasi. Jika ada kesamaan nama dan kondisi, maka itu hanyalah kebetulan, atau keajaiban. Kalo kamu merasa kamu adalah Natasha, harap segera hubungi saya. Mungkin ini pertanda~</i></sup></center>
 -----
 
 #### Demand
