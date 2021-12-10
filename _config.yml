@@ -77,6 +77,47 @@ plugins         :
                 - jekyll-paginate
                 - jekyll-mentions
                 - jekyll-linkpreview
+                - jekyll-cloudinary
+
+cloudinary      :
+  cloud_name    : sgtsp
+  only_prod     : true
+  verbose       : false
+  #origin_url    : https://another-domain.com
+  presets       :
+    default     :
+      min_width : 500
+      max_width : 1040
+      fallback_max_width: 1040
+      steps     : 5
+      sizes     : "(min-width: 500px) 500px, 100vw"
+    onethird    :
+      min_width : 110
+      max_width : 535
+      fallback_max_width: 300
+      steps     : 3
+      sizes     : "(min-width: 50rem) 17rem, 30vw"
+      attributes:
+        class   : "cloudinary-one3rd"
+        loading : "lazy"
+    small       :
+      min_width : 500
+      max_width : 1040
+      fallback_max_width: 1040
+      steps     : 5
+      sizes     : "(min-width: 500px) 500px, 50vw"
+      attributes:
+        class   : "cloudinary-small"
+        loading : "lazy"
+    full       :
+      min_width : 500
+      max_width : 1040
+      fallback_max_width: 1040
+      steps     : 5
+      sizes     : "(min-width: 500px) 500px, 100vw"
+      attributes:
+        class   : "cloudinary-full"
+        loading : "lazy"
 
 feed            :
   path          : feed.xml

@@ -24,6 +24,16 @@ As with the last post about the editor, you'll want to be actually editing this 
 
 Sometimes all you want to do is embed a little love from another location and set your post alive.
 
+### Images
+
+{% cloudinary assets/images/cover/markdown.jpeg alt="Cloudinary image" caption="Cloudinary image with [link](), default size, and lazy load" loading="lazy" %}
+
+{% cloudinary small assets/images/cover/markdown.jpeg alt="Cloudinary image" caption="Cloudinary image with [link](), small size, and lazy load" loading="lazy" %}
+
+{% cloudinary full assets/images/cover/markdown.jpeg alt="Cloudinary image" caption="Cloudinary image with [link](), full size, and lazy load" loading="lazy" %}
+
+{% cloudinary onethird assets/images/cover/markdown.jpeg alt="Cloudinary image" caption="Cloudinary image with [link](), onethird size, and lazy load" loading="lazy" %}
+
 ### Video
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

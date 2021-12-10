@@ -6,3 +6,4 @@ gem "jekyll"
 gem "github-pages"
 gem "jekyll-mentions"
 gem 'jekyll-linkpreview', '~> 0.3.2'
+gem "jekyll-cloudinary"

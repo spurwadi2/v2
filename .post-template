@@ -16,6 +16,14 @@ comments: true
 mathjax:
 ---
 
+{% cloudinary assets/images/cover/no-cover.webp alt="Cloudinary image" caption="Cloudinary image with [link](/index.html), default size, and lazy load" loading="lazy" %}
+
+{% cloudinary small assets/images/cover/no-cover.webp alt="Cloudinary image" caption="Cloudinary image with [link](/index.html), small size, and lazy load" loading="lazy" %}
+
+{% cloudinary full assets/images/cover/no-cover.webp alt="Cloudinary image" caption="Cloudinary image with [link](/index.html), full size, and lazy load" loading="lazy" %}
+
+{% cloudinary onethird assets/images/cover/no-cover.webp alt="Cloudinary image" caption="Cloudinary image with [link](/index.html), onethird size, and lazy load" loading="lazy" %}
+
 ![ALT text](assets/images/markdown.jpeg#full "Title text example")
 <small>Full image caption with [link](https://link)</small>
 
