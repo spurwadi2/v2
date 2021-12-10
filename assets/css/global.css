@@ -322,6 +322,7 @@ audio,
 canvas,
 iframe,
 img,
+figure,
 svg,
 video {
     vertical-align: middle;

@@ -88,7 +88,7 @@ body {
 /* 3. Special Template Styles
 /* ---------------------------------------------------------- */
 
-@media (min-width: 900px) {
+@media (min-width: 992px) {
     .home-template .post-feed,
     .tag-template .post-feed,
     .author-template .post-feed {
@@ -178,7 +178,34 @@ body {
     opacity: 0.8;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 992) {
+    .site-title {
+        font-size: 3.7rem;
+    }
+    .site-description {
+        font-size: 2.1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .site-title {
+        font-size: 3.4rem;
+    }
+    .site-description {
+        font-size: 1.95rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .site-title {
+        font-size: 3.0rem;
+    }
+    .site-description {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 480px) {
     .site-title {
         font-size: 2.7rem;
     }
@@ -202,10 +229,10 @@ body {
     font-size: 1.4rem; /*1.5rem;*/
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     .site-nav {
         height: 33px;
-        font-size: 80%;
+        font-size: 1.28rem;
         /* margin-top: 0px; */
     }
 }
@@ -318,6 +345,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     opacity: 1;
 }
 
+/* SVG nav link */
+
 .social-link svg {
     height: 1.9rem;
     fill: #fff;
@@ -359,10 +388,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .site-tags:hover {
-  background: #f1f1f1;
+    background: #f1f1f1;
 }
 
-/* End Site Tag Styles */
+/* End of Site Tag Styles */
 
 .subscribe-button {
     display: block;
@@ -394,7 +423,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     fill: #fff;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
     .site-header {
         padding-right: 0;
         padding-left: 0;
@@ -431,9 +460,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 580px) {
     .home-template .site-nav-right {
-        /*height: 35px;*/
+        height: 41px;
     }
     .subscribe-button {
         display: none;
@@ -645,6 +674,11 @@ The first (most recent) post in the list is styled to be bigger than the others 
         font-size: 1.7rem;
         line-height: 1.5em;
     }
+
+    .home-template .post-feed .post-card-excerpt p,
+    .page-template .post-feed .topic-card-excerpt p {
+        font-size: 1.7rem;
+    }
 }
 
 .home-template .site-header:after {
@@ -653,12 +687,22 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 
 /* Adjust some margins for smaller screens */
-@media (max-width: 650px) {
+@media (max-width: 600px) {
     .post-feed {
         padding-top: 5vw;
     }
     .post-card {
         margin: 0 20px 5vw;
+    }
+    .post-card-excerpt,
+    .topic-card-excerpt {
+        font-size: 1.4rem;
+    }
+    .post-card-reading-time {
+        font-size: 1rem;
+    }
+    .post-card-author {
+        font-size: 1.2rem;
     }
 }
 
@@ -685,11 +729,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     padding: 3vw 3vw 3vw;
     max-width: 1040px;
     text-align: center;
-}
-@media (max-width: 500px) {
-    .post-full-header {
-        padding: 4vw 3vw 4vw;
-    }
 }
 
 .post-full-meta {
@@ -733,21 +772,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     border-radius: 20px; /*5px;*/
 }
 
-@media (max-width: 1170px) {
-    .post-full-image {
-        margin: 0 -4vw -80px; /*0 -4vw -100px;*/
-        height: 63vw; /*600px;*/
-        border-radius: 0;
-    }
-}
-
-@media (max-width: 800px) {
-    .post-full-image {
-        margin: 0 -4vw -60px;
-        height: 65vw;
-    }
-}
-
 .post-full-content {
     position: relative;
     margin: 0 auto;
@@ -761,20 +785,47 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 @media (max-width: 1170px) {
+    .post-full-image {
+        margin: 0 -4vw -80px; /*0 -4vw -100px;*/
+        height: 63vw; /*600px;*/
+        border-radius: 0;
+    }
     .post-full-content {
         padding: 5vw 7vw 3vw;
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 992px) {
     .post-full-content {
-        font-size: 1.8rem;
+        font-size: 1.85rem;
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
+    .post-full-image {
+        margin: 0 -4vw -60px;
+        height: 65vw;
+    }
     .post-full-content {
-        font-size: 1.7rem;
+        font-size: 1.75rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .post-full-header {
+        padding: 4vw 3vw 4vw;
+    }
+    .post-full-content {
+        font-size: 1.65rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .post-full-header {
+        padding: 4vw 3vw 4vw;
+    }
+    .post-full-content {
+        font-size: 1.6rem;
         padding: 1vw 5vw 3vw;
     }
 }
@@ -880,12 +931,18 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin-top: 0;
 }
 
+.post-full-content figure {
+    display: block;
+    margin: 1em auto 0.4em;
+}
+
 .post-full-content img,
 .post-full-content video {
     display: block;
     margin: 0 auto 0 auto;
     max-width: 1040px;
 }
+
 @media (max-width: 1040px) {
     .post-full-content img,
     .post-full-content video {
@@ -902,17 +959,36 @@ Usage (In Ghost edtior):
 ![img](/some/image.jpg#full)
 
 */
+.post-full-content figure[src$="#full"],
 .post-full-content img[src$="#full"] {
     max-width: none;
     width: 100vw;
 }
 
+.post-full-content figure[src$="#small"],
 .post-full-content img[src$="#small"] {
-    max-width: 1040;
+    max-width: none;
     width: 50%;
     border-radius: 7px;
 }
 
+/*Style for jekyll-cloudinary plugin*/
+.cloudinary-full {
+    max-width: none;
+    width: 100vw;
+}
+
+.cloudinary-small {
+    max-width: none;
+    width: 50%;
+    border-radius: 7px;
+}
+
+.cloudinary-one3rd {
+    max-width: 33%;
+    float: right;
+    margin: 0 0 1em 1em;
+}  
 
 /* Image captions
 
@@ -924,7 +1000,8 @@ Usage (In Ghost editor):
 */
 .post-full-content img + small,
 .post-full-content img[src$="#full"] + small,
-.post-full-content img[src$="#small"] + small {
+.post-full-content img[src$="#small"] + small,
+.post-full-content figcaption {
     text-align: center;
     font-size: small;
     display: block;
@@ -1031,7 +1108,22 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
+@media (max-width: 992px) {
+    .post-full-content h1 {
+        font-size: 3.7rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h1 {
+        font-size: 3.4rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h1 {
+        font-size: 3.1rem;
+    }
+}
+@media (max-width: 480px) {
     .post-full-content h1 {
         font-size: 2.8rem;
     }
@@ -1043,9 +1135,24 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
+@media (max-width: 992px) {
     .post-full-content h2 {
-        font-size: 2.6rem;
+        font-size: 3.55rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h2 {
+        font-size: 3.25rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h2 {
+        font-size: 2.9rem;
+    }
+}
+@media (max-width: 480px) {
+    .post-full-content h2 {
+        font-size: 2.65rem;
     }
 }
 
@@ -1055,9 +1162,24 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
+@media (max-width: 992px) {
     .post-full-content h3 {
-        font-size: 2.2rem;
+        font-size: 3rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h3 {
+        font-size: 2.8rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h3 {
+        font-size: 2.6rem;
+    }
+}
+@media (max-width: 480px) {
+    .post-full-content h3 {
+        font-size: 2.5rem;
     }
 }
 
@@ -1067,9 +1189,24 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
+@media (max-width: 992px) {
     .post-full-content h4 {
-        font-size: 2.2rem;
+        font-size: 2.8rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h4 {
+        font-size: 2.65rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h4 {
+        font-size: 2.5rem;
+    }
+}
+@media (max-width: 480px) {
+    .post-full-content h4 {
+        font-size: 2.35rem;
     }
 }
 
@@ -1079,8 +1216,23 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
-    .post-full-content h4 {
+@media (max-width: 992px) {
+    .post-full-content h5 {
+        font-size: 2.6rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h5 {
+        font-size: 2.5rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h5 {
+        font-size: 2.3rem;
+    }
+}
+@media (max-width: 480px) {
+    .post-full-content h5 {
         font-size: 2.2rem;
     }
 }
@@ -1091,7 +1243,22 @@ Usage (In Ghost editor):
     font-weight: 700;
     text-align: left;
 }
-@media (max-width: 500px) {
+@media (max-width: 992px) {
+    .post-full-content h6 {
+        font-size: 2.45rem;
+    }
+}
+@media (max-width: 768px) {
+    .post-full-content h6 {
+        font-size: 2.30rem;
+    }
+}
+@media (max-width: 600px) {
+    .post-full-content h6 {
+        font-size: 2.15rem;
+    }
+}
+@media (max-width: 480px) {
     .post-full-content h6 {
         font-size: 2rem;
     }
@@ -1144,7 +1311,34 @@ Usage (In Ghost editor):
 }
 
 /* Some grouped styles for smaller viewports */
-@media (max-width: 500px) {
+@media (max-width: 992px) {
+    .post-full-meta {
+        font-size: 1.8rem;
+    }
+    .post-full-title {
+        font-size: 4.8rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .post-full-meta {
+        font-size: 1.6rem;
+    }
+    .post-full-title {
+        font-size: 4.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .post-full-meta {
+        font-size: 1.4rem;
+    }
+    .post-full-title {
+        font-size: 4.1rem;
+    }
+}
+
+@media (max-width: 480px) {
     .post-full-meta {
         font-size: 1.2rem; /*1.2rem;*/
         line-height: 1.3em;
@@ -1157,13 +1351,13 @@ Usage (In Ghost editor):
         margin-bottom: -12vw; /*0;*/
         height: 65vw; /*220px;*/
     }
-    .post-full-content {
-        /*padding: 0.1vw 0 0.2vw;*/
+    /*.post-full-content {
+        padding: 0.1vw 0 0.2vw;
     }
     .post-full-content:before,
     .post-full-content:after {
         display: none;
-    }
+    }*/
 }
 
 /* Tables */
@@ -2140,7 +2334,8 @@ Usage (In Ghost editor):
         background: color(var(--darkmode) l(-2%));
     }
 
-    img {
+    img,
+    figure {
         opacity: 0.9;
     }
 

@@ -39,10 +39,16 @@
 }
 
 .bookmark-title {
+  display: -webkit-box;
   font-size: 1.6rem;
   line-height: 1.4em;
   font-weight: 600;
   color: #15171a;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  /* autoprefixer: off */
+  -webkit-box-orient: vertical;
+  /* autoprefixer: on */
 }
 
 .bookmark-description {
