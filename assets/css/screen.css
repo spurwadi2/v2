@@ -1817,7 +1817,7 @@ Usage (In Ghost editor):
 .floating-header-logo svg {
     height: 2rem;
     fill: black;
-    margin-right: 2px;
+    margin: -2px 2px 0 0;
 }
 
 .floating-header-divider {
@@ -1960,20 +1960,21 @@ Usage (In Ghost editor):
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     .floating-header-logo {
         margin-left: 10px;
     }
-    .floating-header-logo a {
+    /*.floating-header-logo a {
         color: #2e2e2e;
-    }
+    }*/
     .floating-header-title,
     .floating-header-divider {
         visibility: hidden;
+        margin: 0;
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     .floating-header-share-label {
         display: none;
     }
