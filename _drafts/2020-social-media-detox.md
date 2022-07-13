@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover:  assets/images/no-cover.gif
+cover:  assets/images/cover/no-cover.webp
 navigation: True
-title: YAML 'Post' Template
+title: Social Media Detox
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
 tags: [draft]
