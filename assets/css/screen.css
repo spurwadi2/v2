@@ -2423,6 +2423,8 @@ Usage (In Ghost editor):
     .post-full-content pre,
     .post-full-content blockquote,
     .post-full-content small,
+    .post-full-content strong,
+    .post-full-content em,
     .post-full-meta,
     .post-full-comments,
     .author-card-name a,
@@ -2435,14 +2437,6 @@ Usage (In Ghost editor):
         color: var(--whitegrey);
         opacity: 0.95;
         box-shadow: inset 0 -1px 0 var(--whitegrey);;
-    }
-
-    .post-full-content strong {
-        color: #fff;
-    }
-
-    .post-full-content em {
-        color: #fff;
     }
 
     .post-full-content code {
