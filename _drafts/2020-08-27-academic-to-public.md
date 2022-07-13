@@ -18,7 +18,7 @@ Academic papers are publications that only written for academic audience.
 
 The language and the way the subject is told are pretty heavy even for professionals to understand and use the presented information.
 
-Because of this, [the average read number of an academic paper is 10 and, half of the academic publications are not read at all](https://www.chronicle.com/article/can-it-really-be-true-that-half-of-academic-papers-are-never-read/){:target="_blank"}.[^1]
+Because of this, [the average read number of an academic paper is 10 and half of the academic publications are not read at all](https://www.chronicle.com/article/can-it-really-be-true-that-half-of-academic-papers-are-never-read/){:target="_blank"}.[^1]
 
 What do I believe is that the information should flow from person to person without any clog of heavy language and expression.
 
