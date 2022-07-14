@@ -14,18 +14,18 @@ comments: true
 mathjax:
 ---
 
-Aku masih ingat betul apa yang dikatakan orang-orang dewasa dahulu, "*Nanti, kalau kamu sudah besar nggak perlu jadi orang kaya. Jadi orang cukup saja. Nrimo apa adanya. Orang kaya itu banyak musuhnya. Belum lagi nanti kalau di akhirat, hisabnya lama.*"
+Aku masih ingat betul apa yang dikatakan orang-orang dewasa dahulu, "*Nanti, kalau kamu sudah besar nggak perlu jadi orang kaya. Jadi orang cukup saja, nrimo apa adanya. Orang kaya itu banyak musuhnya. Belum lagi nanti kalau di akhirat, hisabnya lama..*"
 
-Tidak berhenti sampai disitu, “*Kekayaan itu sumber kejahatan. Dekat dengan kesombongan. Ngga segan melakukan kecurangan demi kekayaan yang lebih banyak lagi.*”
+Tidak berhenti sampai disitu, “*Kekayaan itu sumber kejahatan. Dekat dengan kesombongan. Nggak segan melakukan kecurangan demi kekayaan yang lebih banyak lagi.*”
 
-Pernyataan itu ditutup dengan pertanyaan retoris yang bikin skakmat, “*Emangnya, kamu mau jadi penjahat?*” tentu saja demi alasan keamanan aku spontan menjawab, *“Ngga mau.*”
+Pernyataan itu ditutup dengan pertanyaan retoris yang bikin skakmat, “*Emangnya kamu mau jadi penjahat?*” tentu saja demi alasan keamanan aku spontan menjawab, *“Ngga mau.*”
 
-Penyebab beredarnya stigma bahwa menjadi kaya berarti 99% akan terjerumus pada kejahatan-kejahatan aku tidak begitu tau. Entah karena pengalaman masa lalu yang cukup kelam atau infiltrasi dari sinetron yang setiap hari menampilkan orang kaya dengan peran antagonis.
+Penyebab beredarnya stigma bahwa menjadi kaya berarti 90% akan terjerumus pada kejahatan-kejahatan aku tidak begitu tahu. Entah karena pengalaman masa lalu atau infiltrasi dari sinetron yang setiap hari menampilkan orang kaya dengan peran antagonis. ¯\\_\(ツ)\_/¯
 
 ![Inilah 11 Pemeran Antagonis yang Ekspresinya Sama Kalau Kamu Mergokin Pacarmu Lagi Kepoin Mantannya](https://cdn-image.hipwee.com/wp-content/uploads/2016/11/hipwee-lena-tan-liputan6-750x415.jpg "Inilah 11 Pemeran Antagonis yang Ekspresinya Sama Kalau Kamu Mergokin Pacarmu Lagi Kepoin Mantannya")
 <small>Sumber: [Hipwee](https://www.hipwee.com/hiburan/inilah-11-pemeran-antagonis-yang-ekspresinya-sama-kalau-kamu-mergokin-pacarmu-lagi-kepoin-mantannya/)</small>
 
-Lalu, bagaimana sisanya yang 1% itu? Katanya hanya orang-orang terpilih saja yang mampu bertahan. Dengan kata lain, kita dianggap tidak akan mampu, bukan begitu?
+Lalu, bagaimana sisanya yang 10% itu? Katanya hanya orang-orang terpilih saja yang mampu bertahan. Dengan kata lain, kita dianggap tidak akan mampu, bukan begitu?
 
 Tidak bisa kupungkiri bahwa ada orang kaya yang jahat itu memang benar adanya. Tapi kita harus ingat, dunia itu berada dalam keseimbangan yang rawan. Dalam arti, orang kaya yang baik juga senantiasa berdiri di sisi berlawanan.
 
@@ -36,25 +36,27 @@ Nah, cukup basa-basinya. Biarkan pak Wallace D. Wattles yang menjelaskan lebih l
 
 <center>•   •   •</center>
 
-Halo anak-anak!
+Halo!
 
-Ini pak Wallace. Kamu bisa memanggilku demikian. Terimakasih telah memberiku kesempatan membahas hal yang banyak orang salah kaprah tentangnya. Dan sekarang, tugas ini aku ambil alih.
+Ini pak Wallace. Kamu bisa memanggilku demikian. Terima kasih telah memberiku kesempatan membahas hal yang banyak orang salah kaprah tentangnya. Dan sekarang, tugas ini aku ambil alih.
 
-Konsep kekayaan yang akan aku jabarkan ini adalah ilmu pasti, matematis, dan rasional, sehingga siapapun yang meyakini dan mengikuti langkah ini dengan benar dapat dipastikan akan kaya.
+Konsep kekayaan yang akan aku jabarkan ini adalah ilmu pasti, matematis, dan rasional, sehingga siapa pun yang meyakini dan mengikuti langkah ini dengan benar dapat dipastikan akan kaya.
 
-Omong-omong, siapa diantara kalian yang masih menganggap kalau toh hidup tidak akan bermasalah sekalipun kita tidak kaya? Atau anggapan apakah jika kita terlahir miskin, kita tidak akan punya kesempatan untuk menjadi kaya?
+Omong-omong, siapa diantara kalian yang masih menganggap kalau toh hidup tidak akan bermasalah sekali pun kita tidak kaya? Atau anggapan apakah jika kita terlahir miskin, kita tidak akan punya kesempatan untuk menjadi kaya?
 
 Simpan pertanyaanmu anak-anak. Biar aku beri sedikit pencerahan.
 
 ##### Hak Menjadi Kaya
 
-Betapapun kemiskinan dibungkus rapi dengan kata-kata yang mengharukan atau pujian, faktanya hidup ini tidak mungkin memuaskan dan dikatakan sukses jika seseorang tidak memiliki kekayaan.
+Betapa pun kemiskinan dibungkus rapi dengan kata-kata yang mengharukan atau pujian, faktanya hidup ini tidak mungkin memuaskan dan dikatakan sukses jika seseorang tidak memiliki kekayaan.
 
-Tak seorangpun mampu menggapai potensi terbaik atau mencapai pemenuhan kebutuhan jiwa tertingginya jika dia tidak memiliki cukup banyak uang. Sebab, untuk mengembangkan jiwa dan potensinya seseorang butuh banyak sekali barang-barang, alat-alat atau jasa yang mempermudah kehidupannya. Dan dia tidak mungkin bisa menggunakan berbagai alat yang dibutuhkannya itu jika tidak punya uang untuk membelinya lalu menggunakanya.
+Tak seorang pun mampu menggapai potensi terbaik atau mencapai pemenuhan kebutuhan jiwa tertingginya jika dia tidak memiliki cukup banyak uang. Sebab, untuk mengembangkan jiwa dan potensinya seseorang butuh banyak sekali barang-barang, alat-alat atau jasa yang mempermudah kehidupannya.
 
-Dan masyarakat kita telah teroganisir sedemikian rupa dalam sistem sosial dan ekonomi tertentu, sehingga siapapun harus membayarkan sejumlah uang untuk bisa memenuhi kebutuhannya tersebut.
+Dia tidak mungkin bisa menggunakan berbagai alat yang dibutuhkannya itu jika tidak punya uang untuk membelinya lalu menggunakanya. Dan masyarakat kita telah teroganisir sedemikian rupa dalam sistem sosial dan ekonomi tertentu, sehingga siapa pun harus membayarkan sejumlah uang untuk bisa memenuhi kebutuhannya tersebut.
 
-Menjadi kaya yang sejati tidak bisa diartikan berpuas diri tatkala hanya memiliki sedikit uang. Sesungguhnya, tak seorang pun benar-benar mau menerima kemiskinan jikalau bisa menikmati sesuatu yang lebih baik dan lebih banyak lagi. Karena kodrat hidup manusia sejatinya adalah untuk meraih kemajuan, keberhasilan dan mengembangkan hidup sepenuh-penuhnya. Dan setiap orang sejatinya memiliki kekuasaan, kemakmuran, kehidupan yang menyenangkan dan juga kekayaan di dalam dirinya. Jadi, memilih atau membiarkan diri hidup dalam kemiskinan sesungguhnya merupakan sebuah dosa dan menyalahi kodrat manusia.
+Menjadi kaya yang sejati tidak bisa diartikan berpuas diri tatkala hanya memiliki sedikit uang. Sesungguhnya, tak seorang pun benar-benar mau menerima kemiskinan jikalau bisa menikmati sesuatu yang lebih baik dan lebih banyak lagi. Karena kodrat hidup manusia sejatinya adalah untuk meraih kemajuan, keberhasilan dan mengembangkan hidup sepenuh-penuhnya.
+
+Setiap orang sejatinya memiliki kekuasaan, kemakmuran, kehidupan yang menyenangkan dan juga kekayaan di dalam dirinya. Jadi, memilih atau membiarkan diri hidup dalam kemiskinan sesungguhnya merupakan sebuah dosa dan menyalahi kodrat manusia.
 
 Orang kaya adalah yang mampu memenuhi semua yang dia inginkan (butuhkan) dan bisa menikmati hidupnya dalam arti sepenuh-penuhnya. Dan tak seorang pun bisa mendapatkannya jika tidak memiliki banyak uang.
 
@@ -62,7 +64,7 @@ Secara alamiah, setiap orang pasti ingin berhasil dan kaya sebagaimana dia pikir
 
 Tidak ada yang salah dengan keinginan menjadi kaya. Dorongan memiliki kekayaan berarti hasrat untuk menjadi lebih makmur, lebih terpenuhi segala kebutuhan hidup dan lebih berkelimpahan. Hasrat menjadi kaya itu patut mendapat penghargaan. Justru hasrat kebalikannya adalah abnormal.
 
-Setidaknya, hidup kita ini didasari oleh tiga motif; tubuh, pikiran, dan jiwa. Tak satupun dari ketiganya lebih baik atau lebih tinggi tingkatannya. Ketiganya sama-sama penting dan bernilai. Apapun kamuflasenya, seseorang tak akan bisa merasa benar-benar puas dan bahagia kecuali tubuhnya dalam keadaan sehat wal afiat demikian pula fungsi pikiran maupun keadaan jiwanya.
+Setidaknya, hidup kita ini didasari oleh tiga motif; tubuh, pikiran, dan jiwa. Tak satu pun dari ketiganya lebih baik atau lebih tinggi tingkatannya. Ketiganya sama-sama penting dan bernilai. Apapun kamuflasenya, seseorang tak akan bisa merasa benar-benar puas dan bahagia kecuali tubuhnya dalam keadaan sehat wal afiat demikian pula fungsi pikiran maupun keadaan jiwanya.
 
 Maksudku begini,
 
@@ -124,4 +126,4 @@ Catat ini baik-baik,
 
 > Kamu harus mulai melangkah secara harmonis dengan hukum-hukum keberhasilan yang berlaku universal.
 
-Baik anak-anak, aku pikir dua hal dulu yang dapat kusampaikan. Masih ada hal lain yang harus kuberi tau agar kamu menjadi kaya. Tetapi waktu kita terbatas. Jadi, kita cukupkan dulu sampai sini. Kabari aku secepatnya kalau kamu ingin tau lebih banyak perihal memperoleh kekayaan.
+Baiklah, ku pikir dua hal dulu yang dapat kusampaikan. Masih ada hal lain yang harus kuberi tau agar kamu menjadi kaya. Tetapi waktu kita terbatas. Jadi, kita cukupkan dulu sampai sini. Kabari aku secepatnya kalau kamu ingin tau lebih banyak perihal memperoleh kekayaan.
