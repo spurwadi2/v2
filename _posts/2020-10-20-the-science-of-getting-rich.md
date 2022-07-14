@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/cover/the-science-getting-rich-book.webp
+cover:  assets/images/cover/cream-sloth.webp
 navigation: True
 title: The Science of Getting Rich
 description: Tidak ada yang salah dengan keinginan menjadi kaya
@@ -30,6 +30,9 @@ Lalu, bagaimana sisanya yang 1% itu? Katanya hanya orang-orang terpilih saja yan
 Tidak bisa kupungkiri bahwa ada orang kaya yang jahat itu memang benar adanya. Tapi kita harus ingat, dunia itu berada dalam keseimbangan yang rawan. Dalam arti, orang kaya yang baik juga senantiasa berdiri di sisi berlawanan.
 
 Nah, cukup basa-basinya. Biarkan pak Wallace D. Wattles yang menjelaskan lebih lanjut berdasarkan buku fenomenalnya, [**The Science of Getting Rich**](https://www.goodreads.com/book/show/342504.The_Science_of_Getting_Rich).
+
+![The Science of Getting Rich](assets/images/cover/the-science-getting-rich-book.webp "The Science of Getting Rich by Wallace D. Wattles")
+<small>The Science of Getting Rich by Wallace D. Wattles</small>
 
 <center>•   •   •</center>
 
