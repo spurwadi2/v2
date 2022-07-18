@@ -60,20 +60,6 @@ Apabila kedua orangtua bekerja, maka akan lebih sedikit waktu bagi orangtua untu
 
 Kalkulator ini dapat dikunjungi di laman https://louislugas.github.io/umk-sbh-jawa-map/index.html . Performanya sedikit berat dan lambat, sehingga harus menunggu hingga semua fiturnya muncul. Tidak disarankan membuka laman ini menggunakan ponsel, karena performanya yang terlalu berat.
 
-![ALT text](assets/images/markdown.jpeg#full "Title text example")
-<small>Full image caption with [link](https://link)</small>
-
-![ALT Text](assets/images/markdown.jpeg#small "Title text example")
-<small>Small image caption with [link](https://link)</small>
-
-[![ALT Text](assets/images/markdown.jpeg "Title text example")](#linkmedia)
-<small>Normal image caption with [link](https://link)</small>
-
-![ALT Text](assets/images/markdown.jpeg "Title text example")
-<small>Normal image caption with [link](https://link)</small>
-
-<center>•   •   •</center>
-
 ---
 
 [^1]: [Nama](www.com)
