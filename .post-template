@@ -24,16 +24,16 @@ mathjax:
 
 {% cloudinary onethird assets/images/cover/no-cover.webp alt="Cloudinary image" caption="Cloudinary image with [link](/index.html), onethird size, and lazy load" loading="lazy" %}
 
-![ALT text](assets/images/markdown.jpeg#full "Title text example")
+![ALT text](assets/images/cover/markdown.jpeg#full "Title text example")
 <small>Full image caption with [link](https://link)</small>
 
-![ALT Text](assets/images/markdown.jpeg#small "Title text example")
+![ALT Text](assets/images/cover/markdown.jpeg#small "Title text example")
 <small>Small image caption with [link](https://link)</small>
 
-[![ALT Text](assets/images/markdown.jpeg "Title text example")](#linkmedia)
+[![ALT Text](assets/images/cover/markdown.jpeg "Title text example")](#linkmedia)
 <small>Normal image caption with [link](https://link)</small>
 
-![ALT Text](assets/images/markdown.jpeg "Title text example")
+![ALT Text](assets/images/cover/markdown.jpeg "Title text example")
 <small>Normal image caption with [link](https://link)</small>
 
 <center>•   •   •</center>
