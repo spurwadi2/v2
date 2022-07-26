@@ -83,7 +83,7 @@ cloudinary      :
   cloud_name    : sgtsp
   only_prod     : true
   verbose       : false
-  #origin_url    : https://another-domain.com
+  #origin_url   : https://another-domain.com
   presets       :
     default     :
       min_width : 500
@@ -109,7 +109,7 @@ cloudinary      :
       attributes:
         class   : "cloudinary-small"
         loading : "lazy"
-    full       :
+    full        :
       min_width : 500
       max_width : 1040
       fallback_max_width: 1040
@@ -150,20 +150,20 @@ destination     : ../blog/_build/
 production_url  :  https://blog.purwadi.web.id/
 source_url      :  https://github.com/spurwadi2/v2/
 
-#keep_files      : [assets]
-#incremental     : true
+#keep_files     : [assets]
+#incremental    : true
 include         : [".htaccess"]
 exclude         :
-                - assets/css
-                - node_modules
-                - vendor
-                - .travis.yml
-                - Gemfile
-                - Gemfile.lock
-                - GHOST.txt
-                - gulpfile.js
-                - paths.js
-                - LICENSE
+                  - assets/css
+                  - node_modules
+                  - vendor
+                  - .travis.yml
+                  - Gemfile
+                  - Gemfile.lock
+                  - GHOST.txt
+                  - gulpfile.js
+                  - paths.js
+                  - LICENSE
                 - package.json
                 - package-lock.json
                 - Rakefile
