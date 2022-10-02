@@ -60,7 +60,7 @@ kramdown        :
   toc_levels    : 1..6
   enable_coderay: false
   footnote_backlink: '&#x21A9;&#xFE0E;'
-  highlighter     : rouge
+  highlighter   : rouge
 paginate        : 15 # it will paginate after this number
 paginate_path   : "page:num"
 language        : 'en-uk'
@@ -154,16 +154,16 @@ source_url      :  https://github.com/spurwadi2/v2/
 #incremental    : true
 include         : [".htaccess"]
 exclude         :
-                  - assets/css
-                  - node_modules
-                  - vendor
-                  - .travis.yml
-                  - Gemfile
-                  - Gemfile.lock
-                  - GHOST.txt
-                  - gulpfile.js
-                  - paths.js
-                  - LICENSE
+                - assets/css
+                - node_modules
+                - vendor
+                - .travis.yml
+                - Gemfile
+                - Gemfile.lock
+                - GHOST.txt
+                - gulpfile.js
+                - paths.js
+                - LICENSE
                 - package.json
                 - package-lock.json
                 - Rakefile
