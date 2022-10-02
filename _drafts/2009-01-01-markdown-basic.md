@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/cover/markdown.jpeg
 navigation: True
 title: Markdown Basic Syntax
-description: Using Markdown doesn't mean that you can't also use HTML.
-summary: Using Markdown doesn't mean that you can't also use HTML.
+description: Using Markdown doesn't mean that you can't also use HTML
+summary: Using Markdown doesn't mean that you can't also use HTML
 tags: [coding]
 class: post-template
 subclass: 'post tag-coding'

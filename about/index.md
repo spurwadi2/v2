@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: Hello World v2.1
+title: Hello World v2.7.3
 description: A fast and flexible modern static blogsite built with ❤
 date: 2018-04-01 10:00:00
 modified: 2019-02-14 00:00:00
