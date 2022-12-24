@@ -63,41 +63,41 @@ function cssTask() {
 // Images.jpg .gif .png .webp
 // GIF
 function giflossyTask() {
-    return src('assets/uncompress/*.gif')
+    return src('../blog/img/*.gif')
     .pipe(imagemin( [
         imageminGiflossy( {
             lossy: 80
         })
     ]))
-    .pipe(dest('assets/.temp2/'))
+    .pipe(dest('../blog/imgFinal/'))
     .on('error', swallowError);
 };
 // JPG 1
 function guetzliTask() {
-    return src('assets/uncompress/*.{jpg,jpeg}')
+    return src('../blog/img/*.{jpg,jpeg}')
     .pipe(imagemin( [
         imageminGuetzli( {
             quality: 85
         })
     ]))
-    .pipe(dest('assets/.temp/'))
+    .pipe(dest('../blog/img-pre/'))
     .on('error', swallowError);
 };
 // JPG 2
 function mozjpegTask() {
-    return src('assets/.temp/*.{jpg,jpeg}')
+    return src('../blog/img-pre/*.{jpg,jpeg}')
     .pipe(imagemin( [
         imageminMozjpeg( {
         quality: 85,
         progressive: true
         })
     ]))
-    .pipe(dest('assets/.temp2/'))
+    .pipe(dest('../blog/imgFinal/'))
     .on('error', swallowError);
 };
 // .webp converter
 function webpTask() {
-    return src('assets/.temp2/*.{jpg,jpeg,png,gif}')
+    return src('../blog/imgFinal/*.{jpg,jpeg,png,gif}')
     .pipe(imagemin( [
         imageminWebp( {
             quality: 50,
@@ -105,7 +105,7 @@ function webpTask() {
         })
     ]))
     .pipe(extReplace('.webp'))
-    .pipe(dest('assets/.webp/'))
+    .pipe(dest('../blog/webp/'))
     .on('error', swallowError);
 };
 
@@ -137,6 +137,7 @@ function build(done) {
 function serve() {
     child.spawn('jekyll', [
         'serve',
+        '--livereload',
         '--incremental',
         '--watch',
         '--drafts'
