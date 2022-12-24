@@ -1,0 +1,11 @@
+Minahasa highland tour is a trip to the mountainous region that includes several attractions as follows: after leaving minahasa tangkoko towards the first object is : waruga Located in Airmadidi is an ancient historic cemetery where Minahasan ancestors are buried and is a remnant of the megalithic age. Waruga (head stones) are unique square stones with holes in the middle and prism shaped lids.
+
+Japanese caves Located on the hill along the roadside are Japanese tunnels dug during the Japanese occupation in World War Two. Largely used for storage purposes, they are an eerie reminder of a turbulent time in Indonesia’s history.
+
+Traditional market located in tomohon, Mahawu fulcano Opposite Mt Lokon is its smaller sister, Mt Mahawu. The gentler slopes of Mahawu offer a less challenging hike but the view is no less impressive. Inside the crater is a steaming emerald-green lake ringed with yellow sulphur deposits.
+
+Tondano lake The largest lake in the region, the scenic area in the plateau is well worth a visit. Fertile rice paddies lead towards the lake’s edge and numerous fish restaurants are dotted upon the lakeside where you can sample baked ikan mas (koi fish) served with fresh water spinach. Don’t forget to try the fiery dabu dabu, a local accompaniment to the fish consisting of chopped chillies, tomatoes and spring onions, lunch time. Next to Linow lake The colours in this highly sulphurous lake constantly change depending on the light and viewing perspective. Many species of large and small birds make their home around the lake and the grassed area to one side is a very pleasant spot to take a picnic lunch.
+
+Watch out for bubbling mudholes at the edge of the lake, or you will end up with serious burns.
+
+Traditional housebuilding in woloan A short drive from the resort you can visit the site where traditional wooden houses are built in the small village of Woloan. These “knock down” houses can be transported to a site of the purchasers choice and the style is particular to this region.

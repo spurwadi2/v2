@@ -6,8 +6,6 @@ navigation: True
 title: Membeli Laptop Baru Sesuai Kebutuhan
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph (55 characters or under)
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
-date: 2009-01-01 00:00:00
-modified: 2009-01-02 00:00:00
 tags: [draft]
 class: post-template
 subclass: 'post tag-draft'
@@ -30,33 +28,32 @@ Should you trust me? Sebagai seseorang yang juga lagi cari laptop dan mungkin te
 
 Jujur aja sebenernya laptop itu bisa secara general bisa cuma dibagi 2, light usage sama heavy usage, berikut kriteria klasifikasi light dan heavy
 
-Light
+##### Light
 
-    Cocok buat orang yang cuma mau laptop yang ‘it works’, buat kakek nenek kamu sampai CEO, dan kerjaan paling berat adalah buka 30 tab chrome sambil dengenrin spotify sambil chatting pake line dan gak butuh dipake terlalu berat
+Cocok buat orang yang cuma mau laptop yang ‘it works’, buat kakek nenek kamu sampai CEO, dan kerjaan paling berat adalah buka 30 tab chrome sambil dengenrin spotify sambil chatting pake line dan gak butuh dipake terlalu berat
 
-    Processor kelas U (low power)
+Processor kelas U (low power)
 
-    Graphic card didalam CPU, mostly, or graphic card terpisah yang low power
+Graphic card didalam CPU, mostly, or graphic card terpisah yang low power
 
-    Biasanya disebut ‘ultrabook’, aka semakin mahal kemungkinan semakin tipis n ringan
+Biasanya disebut ‘ultrabook’, aka semakin mahal kemungkinan semakin tipis n ringan
+Cocok untuk hampir semua orang, kecuali yang butuh laptop buat kebutuhan khusus seperti main game berat
 
-    Cocok untuk hampir semua orang, kecuali yang butuh laptop buat kebutuhan khusus seperti main game berat
+Harga dari murah ampe mahal ada
 
-    Harga dari murah ampe mahal ada
+##### Heavy
 
-Heavy
+Jujur aja yang perlu beli ini Cuma mayoritas mahluk seperti gamers, atau orang yang butuh peforma tinggi buat kerja/kuliah misalnya design grafis, video editing, animasi or rendering 3D
 
-    Jujur aja yang perlu beli ini Cuma mayoritas mahluk seperti gamers, atau orang yang butuh peforma tinggi buat kerja/kuliah misalnya design grafis, video editing, animasi or rendering 3D
+Processor kelas H (high power)
 
-    Processor kelas H (high power)
+Punya graphic card terpisah
 
-    Punya graphic card terpisah
+Kemungkinan besar gaming laptop (laptop ‘content creator’ dan workstation gk tralu laku di indo krn pada pake gaming laptop semua dan yang jual dikit itupun mahal drpd gaming laptop)
 
-    Kemungkinan besar gaming laptop (laptop ‘content creator’ dan workstation gk tralu laku di indo krn pada pake gaming laptop semua dan yang jual dikit itupun mahal drpd gaming laptop)
+Mayoritas orang gak butuh laptop kayak gini, gak semua orang harus punya mobil sports toh?
 
-    Mayoritas orang gak butuh laptop kayak gini, gak semua orang harus punya mobil sports toh?
-
-    Harga biasa dimulai dari 12 jutaan
+Harga biasa dimulai dari 12 jutaan
 
 ### Budget & Classification
 

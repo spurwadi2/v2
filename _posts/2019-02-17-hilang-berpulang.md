@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/cover/hilang.webp
+cover:  assets/images/cover/soetta.webp
 navigation: True
 title: Hilang Berpulang
 description: Membiarkan diri dalam arus dan terseret ombak hanya akan membuatmu sulit untuk berpijak.
@@ -16,7 +16,7 @@ mathjax:
 
 Maaf karena sudah lupa mengingat..
 
-Berjalan dengan membiarkan diri disibukkan oleh pelbagai distraksi mampu membuatku hidup seperti sebagaimana layaknya hidup demi pengakuan dan validasi, namun ada lubang rumpang yang tetap tak terisi utuh.
+Berjalan dengan membiarkan diri disibukkan oleh berbagai distraksi mampu membuatku hidup seperti sebagaimana layaknya hidup demi pengakuan dan validasi, namun ada lubang rumpang yang tetap tak terisi utuh.
 
 Pada setiap patah dan bimbang, ternyata aku hanya sedang mengalami proses untuk menjadi aku yang paling aku. Bertahan dalam setiap benturan hingga akhirnya pada hantaman yang paling besar, mampu membuatku sekarat tapi tetap ku bisa berdiri lagi.
 

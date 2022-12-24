@@ -16,6 +16,8 @@ mathjax:
 
 I was in Singapore last month for work. Since i love to try new things, I used my free time to catch up with few friends and try a few cafes that we never been to
 
+<iframe src="https://pixelfed.social/p/sgitsp/511206368341021432/embed?caption=false&likes=false&layout=compact" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+
 Tidak dapat di pungkiri, travelling menjadi salah satu kebutuhan sekunder masyarakat yang harus dipenuhi. Rutinitas sehari-hari membuat pikiran kita penat, dan travelling bisa membantu kita untuk mengistirahatkan pikiran kita sejenak. Pernah dengar dong istilah ‘Work-life balance’? Suatu kondisi dimana kita bisa menyeimbangkan antara pekerjaan, kehidupan keluarga, kehidupan pribadi dan rekreasi.
 
 Banyak riset yang mengatakan bahwa jika ‘Work-Life Balance’ itu benar-benar di jalankan, kehidupan seseorang itu akan lebih produktif, lebih kreatif, dan lebih bahagia. Karena itu rekreasi seperti travelling di butuhkan untuk kesehatan pikiran dan mental kita, apalagi setelah satu dunia di terpa oleh badai pandemi seperti waktu kemarin.
