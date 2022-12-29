@@ -10,7 +10,7 @@ tags: [edtech]
 class: post-template
 subclass: 'post tag-edtech'
 author: sigit
-comments: true
+comments: false
 mathjax:
 ---
 
@@ -74,6 +74,12 @@ Orang tua juga dianjurkan untuk tidak mencela saat anak melakukan kesalahan dala
 Intervensi edukasi tidak hanya berguna bagi penderita disleksia anak-anak, tapi juga untuk penderita remaja dan dewasa dalam meningkatkan kemampuan baca dan tulis mereka. Di samping itu, melibatkan bantuan teknologi seperti program komputer dengan perangkat lunak pengenalan suara juga umumnya dapat bermanfaat.
 
 Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu, keluarga serta penderita dianjurkan untuk bersabar menjalaninya. Dukungan serta bantuan dari anggota keluarga serta teman dekat akan sangat membantu.
+
+
+<br/>
+
+💡 Artikel ini terpilih untuk dimasukkan dalam "**Artikel Disleksia Terbaik Pilihan Twinkl 2023**" dari penerbit bahan ajar pendidikan [Twinkl](https://www.twinkl.co.id/resources/indonesia-teaching-resources){:target="_blank"}
+
 
 ---
 
