@@ -7,6 +7,7 @@ title: Disleksia
 description: Disleksia adalah sejenis permasalahan dalam belajar. Namun sebenarnya kesulitan belajar yang terjadi pada penderita dyslexia adalah kesulitan belajar yang lebih spesifik, misalnya kesulitan pada aspek membaca dan mengeja.
 summary: Disleksia adalah sejenis permasalahan dalam belajar. Namun sebenarnya kesulitan belajar yang terjadi pada penderita dyslexia adalah kesulitan belajar yang lebih spesifik, misalnya kesulitan pada aspek membaca dan mengeja.
 tags: [edtech]
+modified: 2022-12-29 00:00:00
 class: post-template
 subclass: 'post tag-edtech'
 author: sigit
