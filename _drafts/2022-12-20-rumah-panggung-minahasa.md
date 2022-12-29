@@ -6,9 +6,10 @@ navigation: True
 title: House on stilts in Woloan, Tomohon
 description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
 summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
-tags: [draft]
+tags: [hobbies]
+modified: 2009-01-02 00:00:00
 class: post-template
-subclass: 'post tag-draft'
+subclass: 'post tag-hobbies'
 author: sigit
 comments: true
 mathjax:

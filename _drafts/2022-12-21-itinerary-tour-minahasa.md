@@ -1,3 +1,20 @@
+---
+layout: post
+current: post
+cover:  assets/images/cover/no-cover.webp
+navigation: True
+title: 'Itinerary Tour: Minahasa'
+description: Deskripsi singkat untuk keperluan meta tag dan OpenGraph
+summary: Ringkasan artikel untuk ditampilkan pada postcard di laman utama, topik, dan artikel terkait.
+tags: [hobbies]
+modified: 2009-01-02 00:00:00
+class: post-template
+subclass: 'post tag-hobbies'
+author: sigit
+comments: true
+mathjax:
+---
+
 Traveling merupakan hoby yang saya sukai. Mengapa? Karena meninggalkan kesan dan pengalaman yang sangat berharga bukan hanya di hati tapi dalam hidup. Pengeluaran bugdet yang mahal seakan tidak berat ketika hati bisa menikmati traveling yang direncanakan itu. Semakin nikmat kalau kemudian sesampainya di rumah, foto-foto dibuka, video rekaman diputar. Sangat impresif rasanya.
 
 Tidak hanya itu. Saya juga sering diminta untuk mengantar tamu keliling Manado dan sekitarnya. Prinsip saya, semakin banyak tamu kita semakin senang. Karena itu, pelayanan dan keramahan kepada para tamu sangat penting.
